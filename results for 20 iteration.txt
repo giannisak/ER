@@ -1,0 +1,106 @@
+candidate pair 0
+record 1: new york
+record 2: 
+worker's response: City, New York
+
+False
+ 
+candidate pair 1
+record 1: la grotta 404/231-1368
+record 2: la grotta 404-231-1368
+worker's response: True
+ 
+candidate pair 2
+record 1: fenix 213/848-6677
+record 2: fenix at the argyle 213-848-6677
+worker's response: True
+ 
+candidate pair 3
+record 1: 570 4th st.
+record 2: 4th st.
+worker's response: False
+ 
+candidate pair 4
+record 1: 43 w. 65th st.
+record 2: 48 w. 65th st.
+worker's response: False
+ 
+candidate pair 5
+record 1: new york
+record 2: 
+worker's response: City, New York
+
+False
+ 
+candidate pair 6
+record 1: rainbow room 212/632-5000
+record 2: rainbow room 212-632-5000
+worker's response: True
+ 
+candidate pair 7
+record 1: 2 harrison st.  near hudson st.
+record 2: 2 harrison st.
+worker's response: True
+ 
+candidate pair 8
+record 1: aureole 212/ 319-1660
+record 2: aureole 212-319-1660
+worker's response: True
+ 
+candidate pair 9
+record 1: atlanta
+record 2: 
+worker's response: City in Georgia, United States
+False
+ 
+candidate pair 10
+record 1: cafe claude 415/392-3505
+record 2: cafe claude 415-392-3505
+worker's response: True
+ 
+candidate pair 11
+record 1: los angeles
+record 2: 3rd st.
+worker's response: False
+ 
+candidate pair 12
+record 1: los angeles
+record 2: 6th st.
+worker's response: False
+ 
+candidate pair 13
+record 1: los angeles
+record 2: 4th st.
+worker's response: False
+ 
+candidate pair 14
+record 1: los angeles
+record 2: 3rd st.
+worker's response: False
+ 
+candidate pair 15
+record 1: 2880 las vegas blvd. s
+record 2: 2880 las vegas blvd. s.
+worker's response: True
+ 
+candidate pair 16
+record 1: new york
+record 2: 
+worker's response: City, New York
+
+False
+ 
+candidate pair 17
+record 1: chin's 702/733-8899
+record 2: chin's 702-733-8899
+worker's response: True
+ 
+candidate pair 18
+record 1: 160 central park s
+record 2: 160 central park s
+worker's response: True
+ 
+candidate pair 19
+record 1: los angeles
+record 2: 3rd st.
+worker's response: False
