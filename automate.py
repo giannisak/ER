@@ -23,6 +23,13 @@ dt2 = dt2.to_numpy()
 cp = cp.to_numpy()
 gt = gt.to_numpy()
 
+# cut pairs with empty record 811
+# cut_empty = []
+# for pair in cp:
+#     if pair[1] != 811:
+#         cut_empty.append(pair)
+# cp = np.array(cut_empty)
+
 # cut the indexes
 dt1 = dt1[:, 1:]
 dt2 = dt2[:, 1:]
@@ -31,9 +38,7 @@ dt2 = dt2[:, 1:]
 dt1 = np.array([' '.join([x for x in row if isinstance(x, str)]) for row in dt1])
 dt2 = np.array([' '.join([x for x in row if isinstance(x, str)]) for row in dt2])
 
-
-
-for i in range(20):
+for i in range(40):
     dt1_index = cp[i][0]
     dt2_index = cp[i][1]
 
@@ -44,7 +49,7 @@ for i in range(20):
     print(f"record 1: {r1}")
     print(f"record 2: {r2}")
 
-    query = f"record 1: {r1}, record 2: {r2}"
+    query = f"record 1: {r1}, record 2: {r2}. Answer with True. or False."
 
     resp = llm.complete(query)
 
