@@ -2,9 +2,9 @@
 FROM mistral
 
 # set parameters
-PARAMETER temperature 0.3
-PARAMETER top_k 2
-PARAMETER top_p 0.3
+#PARAMETER temperature
+#PARAMETER top_k
+#PARAMETER top_p 
 PARAMETER stop .
 
 # set template
