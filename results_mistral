@@ -49,7 +49,7 @@ True. if the records are referring to the same entity,
 False. if the records are referring to a different entity.
 """
 
-RESULTS:
+RESULTS DT2:
 Response Time: 02:01:16.46
 Good Behavior Response Rate: 0.8745684695051784
 
@@ -62,3 +62,17 @@ Accuracy: 0.7084004602991945
 Precision: 0.4274322169059011
 Recall: 0.8088531187122736
 F1 Score: 0.559304347826087
+
+RESULTS DT6:
+Response Time: 02:54:22.25
+Good Behavior Response Rate: 0.8970423062523399
+
+True Positives: 332
+False Positives: 1318
+True Negatives: 5719
+False Negatives: 644
+
+Accuracy: 0.755147884687383
+Precision: 0.2012121212121212
+Recall: 0.3401639344262295
+F1 Score: 0.25285605483625284
