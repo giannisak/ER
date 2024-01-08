@@ -5,13 +5,13 @@ import time
 
 # use custom ollama model "worker" on llama_index
 from llama_index.llms import Ollama
-llm = Ollama(model='worker', request_timeout=180)
+llm = Ollama(model='worker') # for cpu run add request_timeout=180 parameter
 
 # paths for datasets, candidate pairs and groundtruth files
-dataset_1 = 'dt_cp_gt/dt1_rest1.csv'
-dataset_2 = 'dt_cp_gt/dt1_rest2.csv'
-candidate_pairs = 'dt_cp_gt/cp1.csv'
-groundtruth = 'dt_cp_gt/gt1.csv'
+dataset_1 = 'data/dt2/abt.csv'
+dataset_2 = 'data/dt2/buy.csv'
+candidate_pairs = 'data/dt2/cp.csv'
+groundtruth = 'data/dt2/gt.csv'
 
 # read the files 
 dt1 = pd.read_csv(dataset_1, sep='|')
@@ -25,13 +25,6 @@ dt2 = dt2.to_numpy()
 cp = cp.to_numpy()
 gt = gt.to_numpy()
 
-# cut pairs with empty record 811
-# cut_empty = []
-# for pair in cp:
-#     if pair[1] != 811:
-#         cut_empty.append(pair)
-# cp = np.array(cut_empty)
-
 # cut the indexes
 dt1 = dt1[:, 1:]
 dt2 = dt2[:, 1:]
@@ -43,8 +36,10 @@ dt2 = np.array([' '.join([x for x in row if isinstance(x, str)]) for row in dt2]
 #main loop: model iterates through each pair and returns its responses
 start = time.time()
 responses = []
+# num_iterations = 8
+num_iterations = len(cp)
 
-for i in range(len(cp)):
+for i in range(num_iterations):
     dt1_index = cp[i][0]
     dt2_index = cp[i][1]
 
@@ -61,6 +56,11 @@ for i in range(len(cp)):
     responses.append(resp.text)
 
     print(f"worker's response: {resp}")
+
+    gt_value = 'True' if any((gt == [dt1_index, dt2_index]).all(axis=1)) else 'False'
+
+    print(f"groundtruth value: {gt_value}")
+    print(f"pair: {[dt1_index, dt2_index]}")
     print(" ")
 
 end = time.time()
@@ -80,7 +80,7 @@ good_behavior_rate = good_responses / len(responses)
 print("Good Behavior Response Rate:", good_behavior_rate)
 
 #evaluation metrics
-true_labels = [1 if pair in gt else 0 for pair in cp]
+true_labels = [1 if any((gt == pair).all(axis=1)) else 0 for pair in cp[:num_iterations]]
 predicted_labels = [1 if resp == 'True' else 0 for resp in responses]
 
 conf_matrix = confusion_matrix(true_labels, predicted_labels)
