@@ -63,6 +63,20 @@ Precision: 0.4274322169059011
 Recall: 0.8088531187122736
 F1 Score: 0.559304347826087
 
+RESULTS DT4:
+Response Time: 00:53:23.64
+Good Behavior Response Rate: 0.9823504089539389
+
+True Positives: 2151
+False Positives: 86
+True Negatives: 22
+False Negatives: 64
+
+Accuracy: 0.9354283254412398
+Precision: 0.9615556548949485
+Recall: 0.9711060948081264
+F1 Score: 0.9663072776280323
+
 RESULTS DT5:
 Response Time: 02:20:7.16
 Good Behavior Response Rate: 0.893139628732849
