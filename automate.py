@@ -87,7 +87,7 @@ conflict_records = 0
 
 for i in range(num_iterations):
     if record == cp[i][1]:
-        if responses[i] == ' True':
+        if responses[i] == 'True':
             count_true += 1
     else:
         if count_true > 1:
@@ -95,7 +95,7 @@ for i in range(num_iterations):
             conflicts += count_true - 1
         record = cp[i][1]
         count_true = 0
-        if responses[i] == ' True':
+        if responses[i] == 'True':
             count_true += 1
 
 if count_true > 1:
