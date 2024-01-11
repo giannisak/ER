@@ -5,7 +5,7 @@ import time
 
 # use custom ollama model "worker" on llama_index
 from llama_index.llms import Ollama
-llm = Ollama(model='worker') # for cpu run add request_timeout=180 parameter
+llm = Ollama(model='worker', request_timeout=180)
 
 # paths for datasets, candidate pairs and groundtruth files
 dataset_1 = 'data/dt2/abt.csv'
@@ -80,27 +80,32 @@ good_behavior_rate = good_responses / len(responses)
 print("Good Behavior Response Rate:", good_behavior_rate)
 
 #model's conflict rate
-record = cp[0][0]
+record = cp[0][1]
 count_true = 0
 conflicts = 0
+conflict_records = 0
 
 for i in range(num_iterations):
-    if record == cp[i][0]:
-        if responses[i] == 'True':
+    if record == cp[i][1]:
+        if responses[i] == ' True':
             count_true += 1
     else:
         if count_true > 1:
-            conflicts += 1
-        record = cp[i][0]
+            conflict_records += 1
+            conflicts += count_true - 1
+        record = cp[i][1]
         count_true = 0
-        if responses[i] == 'True':
+        if responses[i] == ' True':
             count_true += 1
 
 if count_true > 1:
-    conflicts += 1
+    conflict_records += 1
+    conflicts += count_true - 1
 
-conflict_rate = conflicts / (cp[i][0]+1)
-print("Conflict Rate:", conflict_rate)
+print("Conflicts:", conflicts)
+print("Conflicted Records:", conflict_records)
+conflict_rate = conflict_records / (cp[i][1]+1)
+print("Conflict Rate per Record:", conflict_rate)
 
 #evaluation metrics
 true_labels = [1 if any((gt == pair).all(axis=1)) else 0 for pair in cp[:num_iterations]]
