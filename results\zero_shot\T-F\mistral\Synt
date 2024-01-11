@@ -32,3 +32,20 @@ Accuracy: 0.829228998849252
 Precision: 0.5773006134969325
 Recall: 0.9466800804828974
 F1 Score: 0.7172256097560975
+
+DT8:
+Response Time: 00:55:15.29
+Good Behavior Response Rate: 0.6354832461747046
+Conflicts: 724
+Conflicted Records: 706
+Conflict Rate per Record: 0.2764291307752545
+
+True Positives: 692
+False Positives: 1624
+True Negatives: 2763
+False Negatives: 84
+
+Accuracy: 0.6691845826070114
+Precision: 0.2987910189982729
+Recall: 0.8917525773195877
+F1 Score: 0.44760672703751614
