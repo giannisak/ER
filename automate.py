@@ -79,6 +79,29 @@ good_responses = sum(response == 'True' or response == 'False' for response in r
 good_behavior_rate = good_responses / len(responses)
 print("Good Behavior Response Rate:", good_behavior_rate)
 
+#model's conflict rate
+record = cp[0][0]
+count_true = 0
+conflicts = 0
+
+for i in range(num_iterations):
+    if record == cp[i][0]:
+        if responses[i] == 'True':
+            count_true += 1
+    else:
+        if count_true > 1:
+            conflicts += 1
+        record = cp[i][0]
+        count_true = 0
+        if responses[i] == 'True':
+            count_true += 1
+
+if count_true > 1:
+    conflicts += 1
+
+conflict_rate = conflicts / (cp[i][0]+1)
+print("Conflict Rate:", conflict_rate)
+
 #evaluation metrics
 true_labels = [1 if any((gt == pair).all(axis=1)) else 0 for pair in cp[:num_iterations]]
 predicted_labels = [1 if resp == 'True' else 0 for resp in responses]
