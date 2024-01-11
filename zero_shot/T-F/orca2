@@ -1,0 +1,33 @@
+DT2:
+Response Time: 00:45:9.71
+Good Behavior Response Rate: 1.0
+Conflicts: 467
+Conflicted Records: 301
+Conflict Rate per Record: 0.27973977695167285
+
+True Positives: 945
+False Positives: 489
+True Negatives: 2862
+False Negatives: 49
+
+Accuracy: 0.8761795166858458
+Precision: 0.6589958158995816
+Recall: 0.9507042253521126
+F1 Score: 0.7784184514003294
+
+DT8:
+Response Time: 00:42:4.50
+Good Behavior Response Rate: 1.0
+Conflicts: 304
+Conflicted Records: 301
+Conflict Rate per Record: 0.11785434612372749
+
+True Positives: 579
+False Positives: 845
+True Negatives: 3542
+False Negatives: 197
+
+Accuracy: 0.7981793530892892
+Precision: 0.4066011235955056
+Recall: 0.7461340206185567
+F1 Score: 0.5263636363636364
