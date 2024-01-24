@@ -36,8 +36,9 @@ dt2 = np.array([' '.join([x for x in row if isinstance(x, str)]) for row in dt2]
 #main loop: model iterates through each pair and returns its responses
 start = time.time()
 responses = []
-# num_iterations = 8
+# num_iterations = 400
 num_iterations = len(cp)
+
 
 for i in range(num_iterations):
     dt1_index = cp[i][0]
@@ -46,22 +47,22 @@ for i in range(num_iterations):
     r1 = dt1[dt1_index]
     r2 = dt2[dt2_index]
 
-    print(f"candidate pair {i}")
-    print(f"record 1: {r1}")
-    print(f"record 2: {r2}")
+    # print(f"candidate pair {i}")
+    # print(f"record 1: {r1}")
+    # print(f"record 2: {r2}")
 
     query = f"record 1: {r1}, record 2: {r2}. Answer with True. or False."
 
     resp = llm.complete(query)
     responses.append(resp.text)
 
-    print(f"worker's response: {resp}")
+    # print(f"worker's response: {resp}")
 
     gt_value = 'True' if any((gt == [dt1_index, dt2_index]).all(axis=1)) else 'False'
 
-    print(f"groundtruth value: {gt_value}")
-    print(f"pair: {[dt1_index, dt2_index]}")
-    print(" ")
+    # print(f"groundtruth value: {gt_value}")
+    # print(f"pair: {[dt1_index, dt2_index]}")
+    # print(" ")
 
 end = time.time()
 
@@ -70,9 +71,6 @@ time_seconds = end - start
 hours, remainder = divmod(time_seconds, 3600)
 minutes, seconds = divmod(remainder, 60)
 print("Response Time: {:02}:{:02}:{:.2f}".format(int(hours), int(minutes), seconds))
-
-#model's responses
-print("Model's Responses:",responses)
 
 #model's 'good behavior' response rate
 good_responses = sum(response == 'True' or response == 'False' for response in responses)
@@ -132,3 +130,14 @@ print("\nAccuracy:", accuracy)
 print("Precision:", precision)
 print("Recall:", recall)
 print("F1 Score:", f1)
+print(" ")
+
+#model's responses
+# for i in range(len(responses)):
+#     if responses[i] != 'True' and responses[i] != 'False':
+#         responses[i] = 'False' 
+
+# file_path = 'responses_FT_d2.txt'
+# with open(file_path, 'w') as file:
+#     for response in responses:
+#         file.write(response + '\n')
