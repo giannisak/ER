@@ -1,113 +1,82 @@
 import pandas as pd
 import numpy as np
 from sklearn.metrics import confusion_matrix, accuracy_score, precision_score, recall_score, f1_score
-import time
 
-# use custom ollama model "worker" on llama_index
-from llama_index.llms import Ollama
-llm = Ollama(model='worker', request_timeout=180)
-
-# paths for datasets, candidate pairs and groundtruth files
-dataset_1 = 'data/dt2/abt.csv'
-dataset_2 = 'data/dt2/buy.csv'
-candidate_pairs = 'data/dt2/cp.csv'
-groundtruth = 'data/dt2/gt.csv'
-
-# read the files 
-dt1 = pd.read_csv(dataset_1, sep='|')
-dt2 = pd.read_csv(dataset_2, sep='|')
+candidate_pairs = '~/ollama/data/dt2/cp.csv'
+groundtruth = '~/ollama/data/dt2/gt.csv'
 cp = pd.read_csv(candidate_pairs)
 gt = pd.read_csv(groundtruth)
-
-# convert to numpy arrays
-dt1 = dt1.to_numpy()
-dt2 = dt2.to_numpy()
 cp = cp.to_numpy()
 gt = gt.to_numpy()
 
-# cut the indexes
-dt1 = dt1[:, 1:]
-dt2 = dt2[:, 1:]
+file_path1 = 'mes_zephyr_e2/responses_TF_d2.txt'
 
-# concatenate the strings in each column to a single string, omitting empty elements
-dt1 = np.array([' '.join([x for x in row if isinstance(x, str)]) for row in dt1])
-dt2 = np.array([' '.join([x for x in row if isinstance(x, str)]) for row in dt2])
+with open(file_path1, 'r') as file1:
+    responses1 = [line.strip() for line in file1.readlines()]
 
-#main loop: model iterates through each pair and returns its responses
-start = time.time()
-responses = []
-# num_iterations = 400
-num_iterations = len(cp)
+file_path2 = 'mes_zephyr_e2/responses_FT_d2.txt'
+
+with open(file_path2, 'r') as file2:
+    responses2 = [line.strip() for line in file2.readlines()]
+
+# for i in range(len(responses1)):
+#     if responses1[i]!='True' and responses1[i]!='False':
+#         print(i)
+#         print(responses1[i])
+# print('')
+# for i in range(len(responses2)):
+#     if responses2[i]!='True' and responses2[i]!='False':
+#         print(i)
+#         print(responses2[i])
+# print(len(responses1),len(responses2))
+
+count_tt = sum(1 for r1, r2 in zip(responses1, responses2) if r1 == 'True' and r2 == 'True')
+count_tf = sum(1 for r1, r2 in zip(responses1, responses2) if r1 == 'True' and r2 == 'False')
+count_ft = sum(1 for r1, r2 in zip(responses1, responses2) if r1 == 'False' and r2 == 'True')
 
 
-for i in range(num_iterations):
-    dt1_index = cp[i][0]
-    dt2_index = cp[i][1]
+print('T-T:', count_tt)
+print('T-F:', count_tf)
+print('F-T:', count_ft)
 
-    r1 = dt1[dt1_index]
-    r2 = dt2[dt2_index]
+union = []
 
-    # print(f"candidate pair {i}")
-    # print(f"record 1: {r1}")
-    # print(f"record 2: {r2}")
-
-    query = f"record 1: {r1}, record 2: {r2}. Answer with True. or False."
-
-    resp = llm.complete(query)
-    responses.append(resp.text)
-
-    # print(f"worker's response: {resp}")
-
-    gt_value = 'True' if any((gt == [dt1_index, dt2_index]).all(axis=1)) else 'False'
-
-    # print(f"groundtruth value: {gt_value}")
-    # print(f"pair: {[dt1_index, dt2_index]}")
-    # print(" ")
-
-end = time.time()
-
-#model's response time
-time_seconds = end - start  
-hours, remainder = divmod(time_seconds, 3600)
-minutes, seconds = divmod(remainder, 60)
-print("Response Time: {:02}:{:02}:{:.2f}".format(int(hours), int(minutes), seconds))
-
-#model's 'good behavior' response rate
-good_responses = sum(response == 'True' or response == 'False' for response in responses)
-good_behavior_rate = good_responses / len(responses)
-print("Good Behavior Response Rate:", good_behavior_rate)
-
-#model's conflict rate
-record = cp[0][1]
-count_true = 0
-conflicts = 0
-conflict_records = 0
-
-for i in range(num_iterations):
-    if record == cp[i][1]:
-        if responses[i] == 'True':
-            count_true += 1
+for r1, r2 in zip(responses1, responses2):
+    if r1 == 'True' and r2 == 'True':
+        union.append('True')  
+    elif r1 == 'True' and r2 == 'False':
+        union.append('True')  
+    elif r1 == 'False' and r2 == 'True':
+        union.append('True')  
     else:
-        if count_true > 1:
-            conflict_records += 1
-            conflicts += count_true - 1
-        record = cp[i][1]
-        count_true = 0
-        if responses[i] == 'True':
-            count_true += 1
+        union.append('False')  
 
-if count_true > 1:
-    conflict_records += 1
-    conflicts += count_true - 1
+count_true = union.count('True')
+count_false = union.count('False')
 
-print("Conflicts:", conflicts)
-print("Conflicted Records:", conflict_records)
-conflict_rate = conflict_records / (cp[i][1]+1)
-print("Conflict Rate per Record:", conflict_rate)
+print('Count of True:', count_true)
+print('Count of False:', count_false)
 
-#evaluation metrics
-true_labels = [1 if any((gt == pair).all(axis=1)) else 0 for pair in cp[:num_iterations]]
-predicted_labels = [1 if resp == 'True' else 0 for resp in responses]
+join = []
+
+for r1, r2 in zip(responses1, responses2):
+    if r1 == 'True' and r2 == 'True':
+        join.append('True')  
+    elif r1 == 'True' and r2 == 'False':
+        join.append('False')  
+    elif r1 == 'False' and r2 == 'True':
+        join.append('False')  
+    else:
+        join.append('False') 
+
+count_true = join.count('True')
+count_false = join.count('False')
+
+print('Count of True:', count_true)
+print('Count of False:', count_false)
+
+true_labels = [1 if any((gt == pair).all(axis=1)) else 0 for pair in cp]
+predicted_labels = [1 if resp == 'True' else 0 for resp in union] #or join
 
 conf_matrix = confusion_matrix(true_labels, predicted_labels)
 
@@ -131,13 +100,3 @@ print("Precision:", precision)
 print("Recall:", recall)
 print("F1 Score:", f1)
 print(" ")
-
-#model's responses
-# for i in range(len(responses)):
-#     if responses[i] != 'True' and responses[i] != 'False':
-#         responses[i] = 'False' 
-
-# file_path = 'responses_FT_d2.txt'
-# with open(file_path, 'w') as file:
-#     for response in responses:
-#         file.write(response + '\n')
