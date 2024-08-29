@@ -14,5 +14,5 @@ This repository contains the research materials for a master's thesis exploring 
 ## Further Information
 For more details on the methodology, results, and conclusions, please refer to the full thesis document.
 
-Giannis Arvanitis Kasinikos,
+Giannis Arvanitis Kasinikos,<br />
 NKUA 2024
