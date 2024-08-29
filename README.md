@@ -1,4 +1,4 @@
-# LLM-Based Entity Resolution Employing Diverse Prompting Strategies, Implementation Techniques, and Performance Evaluation Methods
+# LLM-Based Entity Resolution - Employing Diverse Prompting Strategies, Implementation Techniques, and Performance Evaluation Methods
 
 ## Description
 
