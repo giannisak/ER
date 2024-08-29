@@ -6,10 +6,10 @@ This repository contains the research materials for a master's thesis exploring 
 
 ## Key Aspects
 
-Exploration of different prompting techniques
-Implementation using the Ollama framework
-Performance evaluation on Abt-Buy and Amazon-Walmart datasets
-Analysis of LLM behavior in entity matching tasks
+- Exploration of different prompting techniques
+- Implementation using the Ollama framework
+- Performance evaluation on Abt-Buy and Amazon-Walmart datasets
+- Analysis of LLM behavior in entity matching tasks
 
 ## Further Information
 For more details on the methodology, results, and conclusions, please refer to the full thesis document.
