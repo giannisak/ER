@@ -1,18 +1,40 @@
 # Entity Resolution with Small-Scale LLMs: A Study on Prompting Strategies and Hardware Limitations
 
 ## Description
+A study on using 7B parameter LLMs with 4-bit quantization for entity matching tasks. This research evaluates different prompting strategies while considering hardware limitations.
 
-This repository contains the study materials for a master's thesis exploring the application of Large Language Models (LLMs) to entity resolution tasks. The study investigates various prompting strategies, including zero-shot and few-shot approaches, and evaluates their performance on entity matching scenarios.
+## Overview
+We explore:
+* Zero-shot vs few-shot prompting
+* Message vs system format  
+* General matching definitions
+* Impact of example ordering
+* Model performance under resource constraints
 
-## Key Aspects
+## Models Evaluated
+* Orca2
+* OpenHermes 2 
+* Zephyr
+* Mistral-OpenOrca
+* Stable-Beluga
+* Llama-Pro
 
-- Exploration of different prompting techniques
-- Implementation using the Ollama framework
-- Performance evaluation on Abt-Buy and Walmart-Amazon datasets
-- Analysis of LLM behavior in entity matching tasks
+## Key Results
+| Model | Abt-Buy | Walmart-Amazon |
+|-------|----------|----------------|
+| Orca2 | 0.804 | 0.534 |
+| OpenHermes | 0.771 | 0.515 |
+| Zephyr | 0.726 | 0.496 |
 
-## Further Information
-For more details, please refer to the full thesis document.
+## Implementation Details
+* Uses [Ollama](https://github.com/ollama/ollama) for local deployment
+* 7B parameter models
+* 4-bit quantization
+* NVIDIA GeForce GTX 1080 Ti (11GB)
 
-Giannis Arvanitis Kasinikos,  
-NKUA 2024
+## Key Findings
+* Few-shot prompting outperforms zero-shot approaches
+* Intersection method yields best results in few-shot prompting
+* Example order significantly impacts model performance 
+* Message format shows advantages over system format
+* Orca2 consistently leads across different scenarios
