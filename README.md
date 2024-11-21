@@ -1,6 +1,6 @@
 # Entity Resolution with Small-Scale LLMs: A Study on Prompting Strategies and Hardware Limitations
 
-A study on using 7B parameter LLMs with 4-bit quantization for entity matching tasks. This research evaluates different prompting strategies while considering hardware limitations.
+A study on using 7B parameter LLMs with 4-bit quantization for entity matching tasks. This work evaluates different prompting strategies while considering hardware limitations.
 
 ## Overview
 
