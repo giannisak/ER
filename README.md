@@ -7,7 +7,7 @@ A study on using 7B parameter LLMs with 4-bit quantization for entity matching t
 We explore:
 * Zero-shot vs few-shot prompting
 * Message vs system format
-* General matching definitions  
+* General matching definition
 * Position bias
 * Model performance under resource constraints
 
