@@ -8,7 +8,7 @@ We explore:
 * Zero-shot vs few-shot prompting
 * Message vs system format
 * General matching definitions  
-* Impact of example ordering
+* Position bias
 * Model performance under resource constraints
 
 ## Models Evaluated
