@@ -43,36 +43,35 @@ llms = [
     "openhermes",  
     "zephyr"
 ]
-for dataset in ['D2', 'D3', 'D5', 'D6', 'D7', 'D8' ]:
-    for ll in llms:
 
-        # CONFIGURATION: Edit the two model names and dataset files
-        model1 = f'{ll}-ft'
-        model2 = f'{ll}-tf'
-        candidate_pairs = f'candidate_pairs/{dataset}.csv'
-        groundtruth = f'data_clean/{dataset}/gtclean.csv'
-        
+for ll in llms:
 
-        # Load data
-        cp = pd.read_csv(candidate_pairs).to_numpy()
-        # cp = cp[:100]  # Testing mode – only first 100 pairs
-        gt = pd.read_csv(groundtruth, sep='|').to_numpy()
-        gt_set = set(tuple(row) for row in gt)
+    # CONFIGURATION: Edit the two model names and dataset files
+    model1 = f'{ll}-ft'
+    model2 = f'{ll}-tf'
+    candidate_pairs = './data/dt2/cp.csv'
+    groundtruth = './data/dt2/gt.csv'
 
-        # Get dataset directory
-        dataset_dir = f'data_clean/{dataset}'
+    # Load data
+    cp = pd.read_csv(candidate_pairs).to_numpy()
+    # cp = cp[:100]  # Testing mode – only first 100 pairs
+    gt = pd.read_csv(groundtruth, sep='|').to_numpy()
+    gt_set = set(tuple(row) for row in gt)
 
-        # Load model responses
-        with open(f"{dataset_dir}/{model1}_responses.txt", 'r') as f1:
-            responses1 = [line.strip() for line in f1.readlines()]
+    # Get dataset directory
+    dataset_dir = 'data_clean/D2'
 
-        with open(f"{dataset_dir}/{model2}_responses.txt", 'r') as f2:
-            responses2 = [line.strip() for line in f2.readlines()]
+    # Load model responses
+    with open(f"{dataset_dir}/{model1}_responses.txt", 'r') as f1:
+        responses1 = [line.strip() for line in f1.readlines()]
 
-        # Compute union and intersection of responses
-        union = ['True' if r1 == 'True' or r2 == 'True' else 'False' for r1, r2 in zip(responses1, responses2)]
-        intersection = ['True' if r1 == 'True' and r2 == 'True' else 'False' for r1, r2 in zip(responses1, responses2)]
+    with open(f"{dataset_dir}/{model2}_responses.txt", 'r') as f2:
+        responses2 = [line.strip() for line in f2.readlines()]
 
-        # Run evaluation
-        evaluate(union, 'union')
-        evaluate(intersection, 'intersection')
+    # Compute union and intersection of responses
+    union = ['True' if r1 == 'True' or r2 == 'True' else 'False' for r1, r2 in zip(responses1, responses2)]
+    intersection = ['True' if r1 == 'True' and r2 == 'True' else 'False' for r1, r2 in zip(responses1, responses2)]
+
+    # Run evaluation
+    evaluate(union, 'union')
+    evaluate(intersection, 'intersection')

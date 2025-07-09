@@ -14,6 +14,7 @@
 # print(stream)
 
 
+
 from tqdm import tqdm
 import os
 
@@ -32,8 +33,9 @@ llms = [
     "zephyr"
 ]
 
-for dataset in ['D2', 'D5', 'D6', 'D7', 'D8', 'D3' ]:
-# for dataset in ['D3']: 
+for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
+
+
     for ll in llms:
         for suffix in ['z', 'ft', 'tf']:
         # CONFIGURATION: Edit llm and paths for datasets, candidate pairs, groundtruth files
@@ -122,7 +124,7 @@ for dataset in ['D2', 'D5', 'D6', 'D7', 'D8', 'D3' ]:
 
                 # print(f"worker's response: {resp['message']['content']}")
 
-                gt_value = 'True' if (dt1_ids[dt1_index], dt2_ids[dt2_index]) in gt_set else 'False'
+                gt_value = 'True' if (dt1_index, dt2_index) in gt_set else 'False'
 
                 # print(f"groundtruth value: {gt_value}")
                 # print(f"pair: {[dt1_index, dt2_index]}")
