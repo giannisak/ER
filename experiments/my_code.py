@@ -221,7 +221,7 @@ for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
                     'recall': recall,
                     'f1': f1,
                     'good_behavior_response_rate': good_behavior_rate
-                }
+                }, index=[0]
             )
             
             if os.path.exists('results.csv'):
