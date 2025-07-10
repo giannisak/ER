@@ -33,7 +33,8 @@ llms = [
     "zephyr"
 ]
 
-for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
+# for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
+for dataset in ['D3' ]:
 
 
     for ll in llms:
