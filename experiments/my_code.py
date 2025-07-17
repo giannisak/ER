@@ -33,8 +33,8 @@ llms = [
     "zephyr"
 ]
 
-# for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
-for dataset in ['D3' ]:
+for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
+# for dataset in ['D3' ]:
 
 
     for ll in llms:
@@ -62,7 +62,7 @@ for dataset in ['D3' ]:
             dt1_df = pd.read_csv(dataset_1, sep=sep)
             dt2_df = pd.read_csv(dataset_2, sep=sep)
             
-            gt_df = pd.read_csv(groundtruth, sep='|')
+            gt_df = pd.read_csv(groundtruth, sep=sep)
 
             # convert to numpy arrays
             dt1 = dt1_df.to_numpy()
