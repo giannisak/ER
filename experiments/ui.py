@@ -125,7 +125,7 @@ for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
             new_results_df.to_csv('results.csv', mode='a+', index=False, header=True)
                 
 
-        evaluate(intersection, 'intersection')
+        precision, recall, f1 = evaluate(intersection, 'intersection')
         new_results_df = pd.DataFrame(
             {
                 'dataset_1': clean_files[0],
