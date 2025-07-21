@@ -34,25 +34,26 @@ llms = [
 ]
 
 # for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
-for dataset in ['D3' ]:
-
-
+for dataset in ['D5', 'D6', 'D7', 'D8' ]:
     for ll in llms:
         for suffix in ['z', 'ft', 'tf']:
         # CONFIGURATION: Edit llm and paths for datasets, candidate pairs, groundtruth files
             
             llm = f'{ll}-{suffix}'
             print(f' ----------- {dataset} {llm} -------------')
-            candidate_pairs = f'candidate_pairs/{dataset}.csv'
-            cp_df = pd.read_csv(candidate_pairs)
-            cp_columns = list(cp_df.columns)
+            candidate_pairs = f'original_candidate_pairs/{dataset}.csv'
+            cp_df_with_rows = pd.read_csv(candidate_pairs)
+            cp_columns = list(cp_df_with_rows.columns)
             clean_files = [cl.replace("clean", "").replace(".csv", "") for cl in cp_columns]
+            
 
 
 
             dataset_1 = f'data_clean/{dataset}/{clean_files[0]}clean.csv'
             dataset_2 = f'data_clean/{dataset}/{clean_files[1]}clean.csv'
             groundtruth = f'data_clean/{dataset}/gtclean.csv'
+            
+
             testing = False # Set to True to evaluate the first 100 candidate pairs for testing
 
             sep = '|' if dataset!='D3' else '#'
@@ -63,6 +64,13 @@ for dataset in ['D3' ]:
             dt2_df = pd.read_csv(dataset_2, sep=sep)
             
             gt_df = pd.read_csv(groundtruth, sep=sep)
+            
+
+            cp_df = pd.DataFrame({
+                'D1': cp_df_with_rows[cp_columns[0]].map(dt1_df['id']),
+                'D2': cp_df_with_rows[cp_columns[1]].map(dt2_df['id'])
+            })
+
 
             # convert to numpy arrays
             dt1 = dt1_df.to_numpy()
@@ -78,7 +86,6 @@ for dataset in ['D3' ]:
             dt2 = dt2[:, 1:]
 
 
-            print(len(dt1))
             # concatenate the strings in each column to a single string, omitting empty elements
             dt1 = np.array([' '.join([x for x in row if isinstance(x, str)]) for row in dt1])
             dt2 = np.array([' '.join([x for x in row if isinstance(x, str)]) for row in dt2])
@@ -95,24 +102,16 @@ for dataset in ['D3' ]:
             for i in tqdm(range(num_iterations), desc="Processing"):
                 
                 
-                dt1_index = cp[i][0]
-                dt2_index = cp[i][1]
-
-                # if i == 1785:
-                #     print(dt2_index)
-                #     print()
+                dt1_id = cp[i][0]
+                dt2_id = cp[i][1]
 
 
-                r1 = dt1[dt1_ids[dt1_index]]
-                r2 = dt2[dt2_ids[dt2_index]]
-
-                
-
-                # print(f"candidate pair {i}")
-                # print(f"record 1: {r1}")
-                # print(f"record 2: {r2}")
+                r1 = dt1[dt1_ids[dt1_id]]
+                r2 = dt2[dt2_ids[dt2_id]]
 
                 query = f"record 1: {r1}, record 2: {r2}. Answer with True. or False."
+
+
 
                 resp = ollama.chat(
                     model = llm,
@@ -123,9 +122,8 @@ for dataset in ['D3' ]:
                 
                 responses.append(resp['message']['content'])
 
-                # print(f"worker's response: {resp['message']['content']}")
 
-                gt_value = 'True' if (dt1_index, dt2_index) in gt_set else 'False'
+                gt_value = 'True' if (dt1_id, dt2_id) in gt_set else 'False'
 
                 # print(f"groundtruth value: {gt_value}")
                 # print(f"pair: {[dt1_index, dt2_index]}")
@@ -221,7 +219,7 @@ for dataset in ['D3' ]:
                     'precision': precision,
                     'recall': recall,
                     'f1': f1,
-                    'good_behavior_response_rate': good_behavior_rate
+                    'good_behavior_response_rate': good_behavior_rate                   
                 }, index=[0]
             )
             
