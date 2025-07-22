@@ -34,12 +34,23 @@ llms = [
 ]
 
 # for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
-for dataset in ['D5', 'D6', 'D7', 'D8' ]:
+for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
     for ll in llms:
         for suffix in ['z', 'ft', 'tf']:
+            
+            
+
         # CONFIGURATION: Edit llm and paths for datasets, candidate pairs, groundtruth files
             
             llm = f'{ll}-{suffix}'
+            # if os.path.exists('results.csv'):
+            #     results_df = pd.read_csv('results.csv')
+            #     exists = results_df[(results_df['dataset'] == dataset) & 
+            #                     (results_df['model'] == llm)]
+            #     if not exists.empty:
+            #         print(f'{dataset} {llm} DONE')
+            #         continue
+
             print(f' ----------- {dataset} {llm} -------------')
             candidate_pairs = f'original_candidate_pairs/{dataset}.csv'
             cp_df_with_rows = pd.read_csv(candidate_pairs)
@@ -130,6 +141,19 @@ for dataset in ['D5', 'D6', 'D7', 'D8' ]:
                 # print(" ")
 
             end = time.time()
+
+            cp_df =  pd.DataFrame({
+                'D1': cp_df_with_rows[cp_columns[0]].map(dt1_df['id']),
+                'D2': cp_df_with_rows[cp_columns[1]].map(dt2_df['id']),
+                'responses' : responses
+            })
+
+
+            cp_df.to_csv(f'responses/{dataset}/{dataset}_{llm}.csv', index=False)
+
+
+
+
 
             # model's response time
             time_seconds = end - start  
