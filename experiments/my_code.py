@@ -34,7 +34,8 @@ llms = [
 ]
 
 # for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
-for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
+# for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
+for dataset in ['D2' ]:
     for ll in llms:
         for suffix in ['z', 'ft', 'tf']:
             
@@ -50,19 +51,25 @@ for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
             #     if not exists.empty:
             #         print(f'{dataset} {llm} DONE')
             #         continue
+            if llm == 'gemma3n-z':
+                continue
 
             print(f' ----------- {dataset} {llm} -------------')
-            candidate_pairs = f'original_candidate_pairs/{dataset}.csv'
+            candidate_pairs_dict = "giannis"
+
+            candidate_pairs = f'data/candidate_pairs/{candidate_pairs_dict}/{dataset}.csv'
             cp_df_with_rows = pd.read_csv(candidate_pairs)
             cp_columns = list(cp_df_with_rows.columns)
             clean_files = [cl.replace("clean", "").replace(".csv", "") for cl in cp_columns]
             
 
+            data_dir = "giannis"
 
 
-            dataset_1 = f'data_clean/{dataset}/{clean_files[0]}clean.csv'
-            dataset_2 = f'data_clean/{dataset}/{clean_files[1]}clean.csv'
-            groundtruth = f'data_clean/{dataset}/gtclean.csv'
+
+            dataset_1 = f'data/candidate_pairs/{data_dir}/abt.csv'
+            dataset_2 = f'data/candidate_pairs/{data_dir}/buy.csv'
+            groundtruth = f'data/candidate_pairs/{data_dir}/gt.csv'
             
 
             testing = False # Set to True to evaluate the first 100 candidate pairs for testing
@@ -74,8 +81,7 @@ for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
             dt1_df = pd.read_csv(dataset_1, sep=sep)
             dt2_df = pd.read_csv(dataset_2, sep=sep)
             
-            gt_df = pd.read_csv(groundtruth, sep=sep)
-            
+            gt_df = pd.read_csv(groundtruth, sep=',')
 
             cp_df = pd.DataFrame({
                 'D1': cp_df_with_rows[cp_columns[0]].map(dt1_df['id']),
@@ -109,7 +115,6 @@ for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
 
             dt1_ids = {dt1_df.at[i, 'id']: i for i in range(len(dt1_df))}
             dt2_ids = {dt2_df.at[i, 'id']: i for i in range(len(dt2_df))}
-
             for i in tqdm(range(num_iterations), desc="Processing"):
                 
                 
@@ -149,9 +154,7 @@ for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
             })
 
 
-            cp_df.to_csv(f'responses/{dataset}/{dataset}_{llm}.csv', index=False)
-
-
+            cp_df.to_csv(f'data/candidate_pairs/giannis/responses/{dataset}_{llm}.csv', index=False)
 
 
 
@@ -237,7 +240,7 @@ for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
                 {
                     'dataset_1': clean_files[0],
                     'dataset_2': clean_files[1],
-                    'dataset': dataset,
+                    'dataset': 'giannis_D2',
                     'model': llm,
                     'time (sec)': time_seconds,
                     'precision': precision,
