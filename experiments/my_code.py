@@ -5,7 +5,7 @@ import numpy as np
 from sklearn.metrics import confusion_matrix, accuracy_score, precision_score, recall_score, f1_score
 import time
 import ollama
-from examples import vector_based_examples_dict_1, join_examples_dict_1
+from examples import *
 
 
 llms = [ 
@@ -18,12 +18,13 @@ llms = [
 ]
 
 
-examples_dict = join_examples_dict_1 
-
+examples_dict_list = [vector_based_examples_dict_1, join_examples_dict_1, join_examples_dict_2]
+examples_list = ['vector_based_examples_dict_1', 'join_examples_dict_1', 'join_examples_dict_2']
 
 prompts = { "p1" : """You are a crowdsourcing worker, working on an entity resolution task.
 You will be given two record descriptions and your task is to identify
 if the records refer to the same entity or not.
+           
 You must answer with just one word:
 True. if the records are referring to the same entity,
 False. if the records are referring to a different entity.""",
@@ -37,8 +38,21 @@ False. if the records are referring to a different entity."""
 
 }
 
+
+dataset = 'D2'
 # for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
-for dataset in ['D2']:
+# for dataset in ['D2']:
+for i in range(len(examples_list)):
+
+    print(f"""
+            -----------
+            {i} / 3 
+           ---------------
+           
+           """ )
+
+    examples_dict = examples_dict_list[i]
+    examples = examples_list[i]
     for ll in llms:
         for suffix in ['z', 'ft', 'tf']:
             if suffix == 'z':
@@ -52,7 +66,7 @@ for dataset in ['D2']:
                 if os.path.exists('results.csv'):
                     results_df = pd.read_csv('results.csv')
                     exists = results_df[(results_df['dataset'] == dataset) & 
-                                    (results_df['model'] == llm) & (results_df['examples'] == 'join_examples_dict_1')]
+                                    (results_df['model'] == llm) & (results_df['examples'] == examples)]
                     if not exists.empty:
                         print(f'{dataset} {llm} DONE')
                         continue
@@ -125,28 +139,32 @@ for dataset in ['D2']:
 
                     false_1 = dt1[dt1_ids[false_pair[0]]]
                     false_2 = dt2[dt2_ids[false_pair[1]]]
-                    if 'ft': 
+                    if suffix == 'ft':
 
                         prompt = f"""{prompt}
 
                         Example 1: 
-                            record 1: {false_1}, record 2: {false_2}
-                            Answer: False
+                        record 1: {false_1}
+                        record 2: {false_2}
+                        Answer: False.
 
                         Example 2: 
-                            record 1: {true_1}, record 2: {true_2}
-                            Answer: True
+                        record 1: {true_1}
+                        record 2: {true_2}
+                        Answer: True.
                         """
                     else: 
                         prompt = f"""{prompt}
 
                         Example 1: 
-                            record 1: {true_1}, record 2: {true_2}
-                            Answer: True
+                        record 1: {true_1}
+                        record 2: {true_2}
+                        Answer: True.
 
                         Example 2: 
-                            record 1: {false_1}, record 2: {false_2}
-                            Answer: False
+                        record 1: {false_1}
+                        record 2: {false_2}
+                        Answer: False.
                         """
 
                 ollama.create(model=llm, from_=ll, system=prompt)
@@ -185,7 +203,7 @@ for dataset in ['D2']:
                 })
 
 
-                cp_df.to_csv(f'responses/{dataset}/{dataset}_{llm}_join_ex_1.csv', index=False)
+                cp_df.to_csv(f'responses/{dataset}/{dataset}_{llm}_{examples}.csv', index=False)
 
                 # model's response time
                 time_seconds = end - start  
@@ -255,7 +273,7 @@ for dataset in ['D2']:
 
                 # save evaluation summary to same folder as datasets
                 dataset_dir = '/'.join(dataset_1.split('/')[:-1])
-                summary_filename = f"{dataset_dir}/{llm}_results_join_1.txt"
+                summary_filename = f"{dataset_dir}/{llm}_results_{examples}.txt"
 
                 with open(summary_filename, 'w') as f:
                     f.write("Response Time: {:02}h:{:02}m:{:.2f}s\n".format(int(hours), int(minutes), seconds))
@@ -276,7 +294,7 @@ for dataset in ['D2']:
                         'recall': recall,
                         'f1': f1,
                         'good_behavior_response_rate': good_behavior_rate,
-                        "examples" : 'join_examples_dict_1'
+                        "examples" : examples
                     }, index=[0]
                 )
                 ollama.delete(model=llm)
