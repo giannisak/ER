@@ -5,6 +5,8 @@ import numpy as np
 from sklearn.metrics import confusion_matrix, accuracy_score, precision_score, recall_score, f1_score
 import time
 import ollama
+from examples import vector_based_examples_dict_1, join_examples_dict_1
+
 
 llms = [ 
     "gemma3n",  
@@ -16,13 +18,7 @@ llms = [
 ]
 
 
-examples_dict = {
-    "D2" : [(339, 397), (66, 313)],
-    "D5": [(4324, 2932),(3436, 3626)],
-    "D6": [(2770, 752), (1552, 5939)],
-    "D7": [(1421, 4027), (5641, 2599)],
-    "D8": [(317, 1082), (1813, 1607)]
-}
+examples_dict = join_examples_dict_1 
 
 
 prompts = { "p1" : """You are a crowdsourcing worker, working on an entity resolution task.
@@ -41,9 +37,12 @@ False. if the records are referring to a different entity."""
 
 }
 
-for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
+# for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
+for dataset in ['D2']:
     for ll in llms:
         for suffix in ['z', 'ft', 'tf']:
+            if suffix == 'z':
+                continue
             for prompt_key in ["p1", "p2"]:
                 prompt = prompts[prompt_key]
                 # CONFIGURATION: Edit llm and paths for datasets, candidate pairs, groundtruth files
@@ -53,7 +52,7 @@ for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
                 if os.path.exists('results.csv'):
                     results_df = pd.read_csv('results.csv')
                     exists = results_df[(results_df['dataset'] == dataset) & 
-                                    (results_df['model'] == llm)]
+                                    (results_df['model'] == llm) & (results_df['examples'] == 'join_examples_dict_1')]
                     if not exists.empty:
                         print(f'{dataset} {llm} DONE')
                         continue
@@ -186,7 +185,7 @@ for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
                 })
 
 
-                cp_df.to_csv(f'responses/{dataset}/{dataset}_{llm}.csv', index=False)
+                cp_df.to_csv(f'responses/{dataset}/{dataset}_{llm}_join_ex_1.csv', index=False)
 
                 # model's response time
                 time_seconds = end - start  
@@ -256,7 +255,7 @@ for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
 
                 # save evaluation summary to same folder as datasets
                 dataset_dir = '/'.join(dataset_1.split('/')[:-1])
-                summary_filename = f"{dataset_dir}/{llm}_results_1.txt"
+                summary_filename = f"{dataset_dir}/{llm}_results_join_1.txt"
 
                 with open(summary_filename, 'w') as f:
                     f.write("Response Time: {:02}h:{:02}m:{:.2f}s\n".format(int(hours), int(minutes), seconds))
@@ -277,6 +276,7 @@ for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
                         'recall': recall,
                         'f1': f1,
                         'good_behavior_response_rate': good_behavior_rate,
+                        "examples" : 'join_examples_dict_1'
                     }, index=[0]
                 )
                 ollama.delete(model=llm)
