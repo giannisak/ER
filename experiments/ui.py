@@ -27,13 +27,13 @@ def evaluate(predictions, label):
     print("F1 Score:", f1)
     print(" ")
 
-    # Save summary to file
-    result_filename = f"{dataset_dir}/zephyr_{label}_results.txt"
-    with open(result_filename, 'w') as f:
-        f.write(f"Precision: {precision:.3f}\n")
-        f.write(f"Recall: {recall:.3f}\n")
-        f.write(f"F1 Score: {f1:.3f}\n")
-    print(f"Summary saved to {result_filename}")
+    # # Save summary to file
+    # result_filename = f"{dataset_dir}/zephyr_{label}_results.txt"
+    # with open(result_filename, 'w') as f:
+    #     f.write(f"Precision: {precision:.3f}\n")
+    #     f.write(f"Recall: {recall:.3f}\n")
+    #     f.write(f"F1 Score: {f1:.3f}\n")
+    # print(f"Summary saved to {result_filename}")
 
     return precision, recall, f1
 
@@ -47,100 +47,112 @@ llms = [
     "openhermes",  
     "zephyr"
 ]
-for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
+# for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
+for dataset in ['D2']:
     for ll in llms:
+        for prompt in ['p1', 'p2']:
+            for examples in ['vector_based_examples_dict_1', 'join_examples_dict_1', 'join_examples_dict_2']:
 
-
-
-        results_df = pd.read_csv("results.csv")
+                results_df = pd.read_csv("results.csv")
 
         
 
-        # CONFIGURATION: Edit the two model names and dataset files
-        model1 = f'{ll}-ft'
-        
-        row1 = results_df[(results_df['dataset'] == dataset) 
-                          & (results_df['model'] == model1)].iloc[0]
-        
-
-        model2 = f'{ll}-tf'
-        row2 = results_df[(results_df['dataset'] == dataset) 
-                          & (results_df['model'] == model2)].iloc[0]
-        
-
-        candidate_pairs = f'candidate_pairs/{dataset}.csv'
-        groundtruth = f'data_clean/{dataset}/gtclean.csv'
-        cp_df = pd.read_csv(candidate_pairs)
-        cp_columns = list(cp_df.columns)
-        clean_files = [cl.replace("clean", "").replace(".csv", "") for cl in cp_columns]
-
-        # Load data
-        cp = pd.read_csv(candidate_pairs).to_numpy()
-        # cp = cp[:100]  # Testing mode – only first 100 pairs
-        gt = pd.read_csv(groundtruth, sep='|').to_numpy()
-        gt_set = set(tuple(row) for row in gt)
-
-        # Get dataset directory
-        dataset_dir = f'data_clean/{dataset}'
-
-        # Load model responses
-        with open(f"{dataset_dir}/{model1}_responses.txt", 'r') as f1:
-            responses1 = [line.strip() for line in f1.readlines()]
-
-        with open(f"{dataset_dir}/{model2}_responses.txt", 'r') as f2:
-            responses2 = [line.strip() for line in f2.readlines()]
-
-        start = time.time()
-
-        # Compute union and intersection of responses
-        union = ['True' if r1 == 'True' or r2 == 'True' else 'False' for r1, r2 in zip(responses1, responses2)]
-        intersection = ['True' if r1 == 'True' and r2 == 'True' else 'False' for r1, r2 in zip(responses1, responses2)]
-
-        end = time.time()
-        time_seconds = end - start  
-
-        # Run evaluation
-
-
-        precision, recall, f1 = evaluate(union, 'union')
-
-        union_sym = "U"
-        intersection_sym = "∩"
-        new_results_df = pd.DataFrame(
-            {
-                'dataset_1': clean_files[0],
-                'dataset_2': clean_files[1],
-                'dataset': dataset,
-                'model': f"{model1} {union_sym} {model2}",
-                'time (sec)': time_seconds + row1['time (sec)'] + row2['time (sec)'],
-                'precision': precision,
-                'recall': recall,
-                'f1': f1,
-                'good_behavior_response_rate': (row1['good_behavior_response_rate'] + row2['good_behavior_response_rate']) / 2
-            }, index=[0]
-        )
-        if os.path.exists('results.csv'):
-            new_results_df.to_csv('results.csv', mode='a+', index=False, header=False)
-        else:
-            new_results_df.to_csv('results.csv', mode='a+', index=False, header=True)
+                # CONFIGURATION: Edit the two model names and dataset files
+                model1 = f'{ll}-ft-{prompt}'
+                
+                row1 = results_df[(results_df['dataset'] == dataset) 
+                                & (results_df['model'] == model1)
+                                & (results_df['examples'] == examples)].iloc[0]
                 
 
-        precision, recall, f1 = evaluate(intersection, 'intersection')
-        new_results_df = pd.DataFrame(
-            {
-                'dataset_1': clean_files[0],
-                'dataset_2': clean_files[1],
-                'dataset': dataset,
-                'model': f"{model1} {intersection_sym} {model2}",
-                'time (sec)': time_seconds + row1['time (sec)'] + row2['time (sec)'],
-                'precision': precision,
-                'recall': recall,
-                'f1': f1,
-                'good_behavior_response_rate': (row1['good_behavior_response_rate'] + row2['good_behavior_response_rate']) / 2
-            }, index=[0]
-        )
-        if os.path.exists('results.csv'):
-            new_results_df.to_csv('results.csv', mode='a+', index=False, header=False)
-        else:
-            new_results_df.to_csv('results.csv', mode='a+', index=False, header=True)
+                model2 = f'{ll}-tf-{prompt}'
+                row2 = results_df[(results_df['dataset'] == dataset) 
+                                & (results_df['model'] == model2)
+                                & (results_df['examples'] == examples)].iloc[0]
                 
+
+                candidate_pairs = f'data/candidate_pairs/original/{dataset}.csv'
+                groundtruth = f'data/{dataset}/gtclean.csv'
+                cp_df = pd.read_csv(candidate_pairs)
+                cp_columns = list(cp_df.columns)
+                clean_files = [cl.replace("clean", "").replace(".csv", "") for cl in cp_columns]
+
+                # Load data
+                cp = pd.read_csv(candidate_pairs).to_numpy()
+                # cp = cp[:100]  # Testing mode – only first 100 pairs
+                gt = pd.read_csv(groundtruth, sep='|').to_numpy()
+                gt_set = set(tuple(row) for row in gt)
+
+                # Get dataset directory
+                dataset_dir = f'data_clean/{dataset}'
+                
+                responses1_df = pd.read_csv(f'responses/{dataset}/{dataset}_{model1}_{examples}.csv')
+                responses2_df = pd.read_csv(f'responses/{dataset}/{dataset}_{model2}_{examples}.csv')
+
+
+                responses1 = responses1_df['responses'].astype('str').tolist()
+                responses2 = responses2_df['responses'].astype('str').tolist()
+                
+                # Load model responses
+                # with open(f"{dataset_dir}/{model1}_responses_{examples}.txt", 'r') as f1:
+                #     responses1 = [line.strip() for line in f1.readlines()]
+
+                # with open(f"{dataset_dir}/{model2}_responses_{examples}.txt", 'r') as f2:
+                #     responses2 = [line.strip() for line in f2.readlines()]
+
+                start = time.time()
+
+                # Compute union and intersection of responses
+                union = ['True' if r1 == 'True' or r2 == 'True' else 'False' for r1, r2 in zip(responses1, responses2)]
+                intersection = ['True' if r1 == 'True' and r2 == 'True' else 'False' for r1, r2 in zip(responses1, responses2)]
+
+                end = time.time()
+                time_seconds = end - start  
+
+                # Run evaluation
+
+
+                precision, recall, f1 = evaluate(union, 'union')
+
+                union_sym = "U"
+                intersection_sym = "∩"
+                new_results_df = pd.DataFrame(
+                    {
+                        'dataset_1': clean_files[0],
+                        'dataset_2': clean_files[1],
+                        'dataset': dataset,
+                        'model': f"{model1} {union_sym} {model2}",
+                        'time (sec)': time_seconds + row1['time (sec)'] + row2['time (sec)'],
+                        'precision': precision,
+                        'recall': recall,
+                        'f1': f1,
+                        'good_behavior_response_rate': (row1['good_behavior_response_rate'] + row2['good_behavior_response_rate']) / 2,
+                        'examples' : examples
+                    }, index=[0]
+                )
+                if os.path.exists('results.csv'):
+                    new_results_df.to_csv('results.csv', mode='a+', index=False, header=False)
+                else:
+                    new_results_df.to_csv('results.csv', mode='a+', index=False, header=True)
+                        
+
+                precision, recall, f1 = evaluate(intersection, 'intersection')
+                new_results_df = pd.DataFrame(
+                    {
+                        'dataset_1': clean_files[0],
+                        'dataset_2': clean_files[1],
+                        'dataset': dataset,
+                        'model': f"{model1} {intersection_sym} {model2}",
+                        'time (sec)': time_seconds + row1['time (sec)'] + row2['time (sec)'],
+                        'precision': precision,
+                        'recall': recall,
+                        'f1': f1,
+                        'good_behavior_response_rate': (row1['good_behavior_response_rate'] + row2['good_behavior_response_rate']) / 2,
+                        'examples' : examples
+                    }, index=[0]
+                )
+                if os.path.exists('results.csv'):
+                    new_results_df.to_csv('results.csv', mode='a+', index=False, header=False)
+                else:
+                    new_results_df.to_csv('results.csv', mode='a+', index=False, header=True)
+                        
