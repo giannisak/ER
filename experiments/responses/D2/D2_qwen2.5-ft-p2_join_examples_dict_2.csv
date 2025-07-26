@@ -7,7 +7,7 @@ D1,D2,responses
 1022,1,True
 1020,1,False
 134,1,False
-953,2,True
+953,2,False
 434,2,True
 106,2,False
 100,2,False
@@ -114,7 +114,7 @@ D1,D2,responses
 658,28,False
 657,28,False
 128,28,True
-127,28,False
+127,28,True
 584,29,False
 192,29,False
 138,29,False
@@ -158,7 +158,7 @@ D1,D2,responses
 1051,39,False
 756,39,False
 20,39,False
-19,39,True
+19,39,False
 339,40,False
 289,40,False
 20,40,True
@@ -218,7 +218,7 @@ D1,D2,responses
 731,54,False
 692,54,False
 609,54,False
-40,54,True
+40,54,False
 1042,55,False
 170,55,False
 50,55,True
@@ -253,7 +253,7 @@ D1,D2,responses
 3,62,False
 154,63,False
 81,63,False
-48,63,True
+48,63,False
 47,63,False
 799,64,False
 796,64,False
@@ -261,7 +261,7 @@ D1,D2,responses
 794,64,False
 1066,65,False
 141,65,False
-58,65,True
+58,65,False
 25,65,False
 799,66,True
 795,66,False
@@ -317,7 +317,7 @@ D1,D2,responses
 952,78,False
 938,78,False
 698,78,False
-123,78,True
+123,78,False
 48,79,False
 47,79,True
 20,79,False
@@ -355,7 +355,7 @@ D1,D2,responses
 95,87,True
 94,87,False
 93,87,False
-955,88,True
+955,88,False
 433,88,True
 198,88,True
 96,88,True
@@ -407,7 +407,7 @@ D1,D2,responses
 109,100,False
 94,100,False
 93,100,False
-366,101,True
+366,101,False
 67,101,False
 55,101,False
 49,101,True
@@ -447,7 +447,7 @@ D1,D2,responses
 785,110,False
 307,110,False
 306,110,False
-162,110,False
+162,110,True
 873,111,False
 483,111,False
 175,111,False
@@ -507,7 +507,7 @@ D1,D2,responses
 53,124,True
 799,125,False
 795,125,False
-794,125,True
+794,125,False
 199,125,False
 1017,126,False
 1016,126,False
@@ -662,7 +662,7 @@ D1,D2,responses
 416,163,True
 358,163,False
 173,163,False
-764,164,True
+764,164,False
 419,164,False
 184,164,False
 177,164,False
@@ -689,7 +689,7 @@ D1,D2,responses
 796,170,False
 168,170,False
 142,170,True
-141,170,True
+141,170,False
 372,171,True
 142,171,False
 141,171,False
@@ -703,7 +703,7 @@ D1,D2,responses
 152,173,True
 120,173,False
 293,174,False
-32,174,True
+32,174,False
 11,174,False
 9,174,False
 270,175,False
@@ -813,7 +813,7 @@ D1,D2,responses
 764,201,False
 419,201,False
 182,201,False
-103,201,False
+103,201,True
 353,202,False
 351,202,True
 159,202,False
@@ -854,7 +854,7 @@ D1,D2,responses
 302,211,False
 246,211,True
 245,211,False
-396,212,False
+396,212,True
 245,212,True
 51,212,False
 39,212,False
@@ -864,7 +864,7 @@ D1,D2,responses
 262,213,True
 297,214,False
 236,214,False
-235,214,False
+235,214,True
 222,214,False
 710,215,False
 709,215,False
@@ -873,7 +873,7 @@ D1,D2,responses
 396,216,False
 386,216,False
 207,216,False
-206,216,False
+206,216,True
 660,217,False
 659,217,False
 658,217,False
@@ -890,7 +890,7 @@ D1,D2,responses
 1058,220,False
 487,220,False
 290,220,False
-16,220,False
+16,220,True
 70,221,False
 67,221,False
 55,221,False
@@ -912,8 +912,8 @@ D1,D2,responses
 49,225,False
 36,225,False
 598,226,False
-588,226,False
-587,226,False
+588,226,True
+587,226,True
 586,226,True
 598,227,False
 588,227,True
@@ -922,7 +922,7 @@ D1,D2,responses
 598,228,False
 588,228,False
 587,228,True
-586,228,False
+586,228,True
 666,229,True
 433,229,False
 198,229,False
@@ -982,11 +982,11 @@ D1,D2,responses
 997,243,False
 777,243,False
 172,243,False
-148,243,True
+148,243,False
 592,244,False
 226,244,False
 225,244,False
-153,244,True
+153,244,False
 973,245,False
 804,245,False
 274,245,False
@@ -1073,7 +1073,7 @@ D1,D2,responses
 120,265,True
 25,265,False
 996,266,False
-884,266,False
+884,266,True
 823,266,False
 405,266,False
 404,266,False
@@ -1235,7 +1235,7 @@ D1,D2,responses
 804,305,False
 803,305,False
 1051,306,False
-430,306,True
+430,306,False
 359,306,False
 62,306,False
 784,307,True
@@ -1370,7 +1370,7 @@ D1,D2,responses
 121,338,False
 679,339,False
 677,339,False
-505,339,False
+505,339,True
 491,339,False
 308,340,False
 289,340,False
@@ -1419,7 +1419,7 @@ D1,D2,responses
 360,351,False
 172,351,False
 148,351,False
-111,351,True
+111,351,False
 353,352,False
 351,352,False
 186,352,False
@@ -1634,7 +1634,7 @@ D1,D2,responses
 251,404,False
 241,404,True
 78,404,False
-253,405,True
+253,405,False
 251,405,True
 241,405,False
 78,405,False
@@ -1648,7 +1648,7 @@ D1,D2,responses
 644,407,False
 935,408,False
 838,408,False
-345,408,True
+345,408,False
 342,408,True
 1055,409,False
 936,409,False
@@ -1720,7 +1720,7 @@ D1,D2,responses
 477,425,True
 453,425,False
 233,425,False
-384,426,False
+384,426,True
 347,426,False
 151,426,False
 63,426,False
@@ -1782,18 +1782,18 @@ D1,D2,responses
 248,440,False
 1002,441,False
 388,441,False
-387,441,False
+387,441,True
 297,441,False
 296,441,False
-388,442,False
-387,442,False
-386,442,False
-385,442,False
+388,442,True
+387,442,True
+386,442,True
+385,442,True
 388,443,True
 387,443,True
-386,443,False
+386,443,True
 385,443,True
-420,445,False
+420,445,True
 419,445,False
 184,445,False
 177,445,True
@@ -1802,7 +1802,7 @@ D1,D2,responses
 647,446,True
 357,446,False
 253,447,True
-251,447,True
+251,447,False
 241,447,False
 78,447,False
 426,448,True
@@ -1901,7 +1901,7 @@ D1,D2,responses
 638,471,False
 537,471,True
 383,471,False
-1018,472,False
+1018,472,True
 365,472,False
 344,472,False
 295,472,False
@@ -2005,7 +2005,7 @@ D1,D2,responses
 1004,497,False
 456,497,True
 455,497,False
-454,497,False
+454,497,True
 1004,498,False
 456,498,False
 455,498,True
@@ -2026,9 +2026,9 @@ D1,D2,responses
 754,502,True
 390,502,False
 280,502,False
-593,503,True
+593,503,False
 533,503,True
-532,503,True
+532,503,False
 190,503,False
 593,504,True
 532,504,False
@@ -2088,7 +2088,7 @@ D1,D2,responses
 354,517,False
 1067,518,False
 512,518,False
-493,518,True
+493,518,False
 492,518,False
 904,519,True
 759,519,True
@@ -2103,7 +2103,7 @@ D1,D2,responses
 515,521,False
 378,521,True
 888,522,False
-807,522,True
+807,522,False
 758,522,False
 381,522,False
 521,523,False
@@ -2134,14 +2134,14 @@ D1,D2,responses
 488,529,True
 486,529,False
 485,529,False
-992,530,True
+992,530,False
 982,530,False
-486,530,True
+486,530,False
 485,530,True
 992,531,True
 575,531,False
 486,531,False
-485,531,True
+485,531,False
 992,532,False
 942,532,False
 486,532,True
@@ -2197,15 +2197,15 @@ D1,D2,responses
 855,545,False
 558,545,False
 502,545,True
-498,545,True
+498,545,False
 855,546,False
 558,546,True
 504,546,True
-500,546,True
+500,546,False
 855,547,False
 558,547,False
 503,547,True
-499,547,True
+499,547,False
 855,548,False
 753,548,False
 653,548,False
@@ -2251,7 +2251,7 @@ D1,D2,responses
 660,558,False
 659,558,False
 104,558,False
-382,559,False
+382,559,True
 336,559,False
 150,559,False
 5,559,False
@@ -2262,7 +2262,7 @@ D1,D2,responses
 1027,561,False
 475,561,False
 444,561,True
-443,561,False
+443,561,True
 897,562,False
 685,562,False
 444,562,False
@@ -2299,7 +2299,7 @@ D1,D2,responses
 573,570,True
 345,570,False
 342,570,False
-1004,571,False
+1004,571,True
 796,571,False
 795,571,False
 141,571,False
@@ -2391,7 +2391,7 @@ D1,D2,responses
 466,591,True
 464,591,False
 278,591,False
-467,592,False
+467,592,True
 466,592,False
 464,592,False
 278,592,False
@@ -2404,7 +2404,7 @@ D1,D2,responses
 595,594,False
 594,594,False
 995,595,False
-980,595,False
+980,595,True
 854,595,False
 594,595,False
 869,596,True
@@ -2489,7 +2489,7 @@ D1,D2,responses
 788,615,False
 786,615,True
 999,616,False
-405,616,False
+405,616,True
 404,616,True
 104,616,False
 685,617,False
@@ -2782,7 +2782,7 @@ D1,D2,responses
 640,688,False
 639,688,False
 636,688,False
-812,689,True
+812,689,False
 640,689,False
 639,689,False
 636,689,False
@@ -2790,7 +2790,7 @@ D1,D2,responses
 814,690,True
 639,690,False
 274,690,False
-813,691,True
+813,691,False
 640,691,False
 639,691,False
 636,691,False
@@ -2806,13 +2806,13 @@ D1,D2,responses
 815,694,True
 640,694,False
 639,694,False
-636,694,True
+636,694,False
 818,695,False
 814,695,True
 640,695,False
 639,695,True
 529,696,False
-528,696,False
+528,696,True
 527,696,True
 86,696,False
 572,697,True
@@ -3199,7 +3199,7 @@ D1,D2,responses
 837,801,False
 842,802,False
 837,802,False
-836,802,False
+836,802,True
 792,802,True
 841,803,True
 839,803,False
@@ -3367,7 +3367,7 @@ D1,D2,responses
 857,842,False
 928,843,False
 866,843,False
-858,843,True
+858,843,False
 857,843,False
 969,844,False
 866,844,True
@@ -3417,7 +3417,7 @@ D1,D2,responses
 602,855,False
 74,855,False
 73,855,False
-255,856,False
+255,856,True
 139,856,False
 129,856,False
 73,856,False
@@ -3506,7 +3506,7 @@ D1,D2,responses
 680,877,True
 675,877,False
 739,878,False
-682,878,False
+682,878,True
 681,878,True
 675,878,False
 742,879,False
@@ -3612,7 +3612,7 @@ D1,D2,responses
 45,903,False
 356,904,False
 140,904,False
-139,904,False
+139,904,True
 129,904,False
 827,905,True
 802,905,False
@@ -3657,7 +3657,7 @@ D1,D2,responses
 468,914,False
 946,915,False
 679,915,True
-677,915,True
+677,915,False
 676,915,False
 873,916,True
 861,916,False
@@ -3788,7 +3788,7 @@ D1,D2,responses
 389,947,False
 59,947,False
 955,948,True
-433,948,True
+433,948,False
 96,948,False
 93,948,False
 956,949,True
@@ -4071,11 +4071,11 @@ D1,D2,responses
 928,1017,False
 927,1017,False
 1047,1018,True
-833,1018,True
+833,1018,False
 646,1018,False
 645,1018,True
 1047,1019,True
-833,1019,True
+833,1019,False
 646,1019,False
 645,1019,False
 1047,1020,False
@@ -4116,7 +4116,7 @@ D1,D2,responses
 501,1028,False
 964,1029,True
 763,1029,False
-263,1029,True
+263,1029,False
 23,1029,False
 851,1030,False
 474,1030,True
@@ -4191,7 +4191,7 @@ D1,D2,responses
 159,1047,False
 96,1047,False
 21,1047,False
-889,1048,True
+889,1048,False
 655,1048,False
 609,1048,False
 577,1048,False
