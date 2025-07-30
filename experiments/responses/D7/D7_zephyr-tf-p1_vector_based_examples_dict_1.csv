@@ -1,0 +1,5591 @@
+D1,D2,responses
+181,0,"False, as the two record descriptions are describing different instances of ""The Paparazzo Affair"
+3255,1,record 1: The Beatles
+3456,2,False
+5785,2,False
+267,3,False
+1916,4,Answer: False
+2872,5,False
+3345,6,False
+2984,7,Answer: True
+4293,8,True
+3457,9,False
+4371,10,Answer: True
+1454,11,False
+2917,12,Answer: True
+4981,13,False
+2073,14,Answer: True
+883,15,False
+5627,16,False
+5170,17,False
+718,18,Answer: False
+4691,19,"Answer: False, as guestStars and refers to different aspects of the records"
+3274,20,Answer: True
+5758,21,False
+1635,22,False
+220,22,False
+1266,23,"The answer for Example 2 is False, as the records describe two different instances of MTV (a media company and a TV show)"
+3872,24,If the records refer to the same person (i
+838,25,False
+2779,26,False
+2890,27,Answer: True
+4480,28,False
+1786,29,"False, as the record descriptions are for different episodes of The Challenge TV show"
+175,30,False
+137,31,False
+4698,32,False
+4279,33,False
+3271,34,False
+3271,35,False
+1759,36,False
+5894,37,True
+3341,38,True
+3980,39,Answer: False
+679,40,False
+3383,41,False
+1161,41,False
+5701,42,False
+815,43,Answer: True
+5604,44,False
+2143,44,False
+1109,45,False
+5196,46,Answer: True
+664,48,False
+3654,49,"record 1: Friends: ""The One With Ross's Wedding - Part 3"" (TV Episode 1995), record 2: Friends: ""The One With Rachel's Other Sister"" (TV Episode 1996)"
+1718,50,False
+653,51,"record 1: Dancing with the Stars (Season 14) The celebrity cast for the fourteenth season of ABC's Dancing with the Stars was announced on January 25, 2011"
+1908,52,True
+3978,53,False
+2915,54,True
+1330,55,False
+573,56,False
+2120,57,Answer: False
+3743,58,"If the episodes are referring to the same series, then answer is True"
+679,59,False
+2416,60,False
+1583,61,Answer: True
+1231,62,True
+29,63,record 1: Mark Zuckerberg was born in 1984
+4517,64,False
+4357,65,Answer: True
+228,66,"False, as both recordings are referring to different episodes of ""The Magician"
+2078,67,False
+3898,68,False
+5510,69,True
+3637,70,False
+268,71,False
+2489,72,Answer: False
+4315,73,False
+2288,74,Answer: True
+2288,75,Answer: True
+2017,77,False
+6016,78,False
+381,80,False
+4986,81,False
+2721,82,False
+4691,83,"Answer: False, as the first record refers to a person (Christopher McCulloch) and the second record refers to the same person's occupation as a director under his stage name, Jackson Publick"
+4706,84,False
+4649,84,Answer: False
+3321,84,Answer: False
+267,85,False
+5932,86,False
+3543,86,False
+3649,87,False
+1225,88,False
+2809,89,False
+850,90,Answer: True
+827,91,False
+3129,92,Answer: True
+706,93,False
+4000,93,False
+2802,94,True
+4986,95,False
+1507,96,False
+3898,98,False
+3192,99,"record 1: Beverly Hills, 90210 - Season 6, Episode 25 ""Slaves of New Beverly"", record 2: Beverly Hills, 90210 - Season 7, Episode 5 ""The Last Night"", Answer with True"
+1524,100,False
+3637,101,Answer: True
+5074,102,False
+1111,103,True
+1945,104,False
+3068,106,Answer: True
+3944,107,False
+4072,107,False
+4431,107,False
+2148,108,Answer: True
+5602,109,True
+1665,110,False
+632,111,False
+4614,112,False
+3540,113,False
+4051,113,False
+4869,114,The records are referring to the same episode of a drama series
+3377,115,False
+5789,116,False
+301,117,"Both records refer to the same episode (Episode 8) and events within it, so the answer is: True"
+3995,118,True
+3869,119,"Answer: False, as ""Don Megowan"" in both records refers to the same person"
+532,120,False
+1517,121,Answer: True
+3351,122,False
+170,123,True
+838,124,False
+3241,125,Answer: True
+5215,126,False
+11,127,False
+3584,128,Answer: False
+4212,129,Answer: True
+568,130,False
+4927,131,False
+5715,132,Answer: True
+1938,133,"If Carrie Rosen and Robbie Rox are two different people, the answer is False"
+4511,134,False
+1704,135,Answer: True
+5364,136,"Record 1 and Record 2 refer to the same entity related to murders and investigations in the first part (""Death in a Heartbeat - The Body in the Bag CI examines"
+536,137,"record 1: Michael Jordan, record 2: Michael Jeffery Jordan retired basketball player"
+1649,138,"In this case, both records refer to the same entity (the TV show ""Flatmates""), but only record 1 provides information about two characters moving out"
+3645,139,False
+4679,140,Answer: True
+1658,141,Answer: True
+2727,143,True
+738,144,False
+2884,145,"record 1: Michael Grassi aka Machine Gun Kelly, record 2: Richard Colson Baker aka Machine Gun Kelly"
+5250,146,True
+3667,147,Answer: True
+595,148,False
+681,149,False
+2213,150,False
+4958,151,False
+3771,152,True
+5215,153,False
+5384,154,False
+3722,155,False
+4296,156,True
+2280,157,Answer: True
+4244,158,False
+3649,158,False
+694,159,False
+794,160,False
+1954,162,False
+4256,163,False
+3457,163,False
+4156,164,False
+164,165,Answer: True
+2955,166,Answer: False
+4649,167,Answer: False
+866,168,False
+3833,169,False
+4451,170,False
+2977,171,False
+1764,172,False
+5331,173,False
+5920,174,Answer: False
+4164,175,False
+740,176,Answer: False
+5897,177,False
+5534,178,Example 3: 
+1333,180,Answer: False
+5675,181,False
+4659,182,True
+114,183,Answer: True
+2892,184,False
+2245,185,True
+1748,187,False
+2146,188,Answer: False
+5662,189,False
+1146,190,False
+2982,191,Answer: True
+1356,192,False
+4746,193,"Answer: False, as the record dates are different indicating separate instances"
+2809,194,Example 3: 
+6028,195,False
+3993,196,"record 1: The International Monetary Fund (IMF) is an organization of 189 countries working to foster global monetary cooperation, secure financial stability, facilitate international trade, promote high employment and sustainable economic growth, and reduce poverty around the world"
+2327,198,False
+4181,198,Answer: False
+568,199,False
+5838,200,Answer: True
+3100,201,Answer: True
+3236,203,True
+6001,204,False
+817,205,Answer: False
+2668,206,Answer: True
+2148,208,Answer: True
+840,209,"If the episode featuring Leeanna Saunders as a guest star is related to the same storyline or character as the episode featuring ""Anders,"" then answer True"
+5860,210,Answer: True
+2163,212,False
+850,213,Answer: True
+5453,214,False
+4812,215,Answer: True
+2463,216,False
+4398,218,False
+204,219,False
+1896,220,True
+3158,222,True
+279,223,Answer: True
+1104,224,False
+2809,225,"record 3: Tom Hanks stars in Cast Away 1997-12-18 1997-05-01, record 4: Tom Hanks is the castaway in this movie"
+699,226,True
+3543,227,Answer: False
+5932,227,Answer: False
+5032,228,Answer: False
+246,229,False
+5264,230,Answer: True
+562,231,Answer: True
+83,232,False
+4967,233,True
+2221,234,False
+5405,235,False
+2606,236,True
+4502,237,False
+157,238,Answer: False
+1874,239,True
+5,240,False
+3511,241,False
+318,242,False
+801,243,False
+118,244,Answer: True
+3637,245,False
+3352,246,The records refer to the same entity (True)
+3140,247,"record 1: Park Bo Gum's Profile - Age, Drama List, Girlfriend, Facts, Updated!, record 2: Park Bo Gum's Profile - Age, Drama List, Girlfriend, Facts, Updated!, Answer with True"
+4127,248,False
+5653,249,False
+27,249,False
+5058,250,False
+1981,251,False
+1928,251,False
+3009,252,False
+5941,253,Answer: False
+3345,254,False
+2254,255,Answer: True
+5172,256,False
+2355,257,False
+3127,257,False
+4691,258,Answer: True
+5989,259,Answer: False
+6018,260,False
+5054,261,The records refer to the same entity (Sian Kingi's murder case)
+2629,262,Answer: True
+267,263,False
+5452,264,"Both records refer to the same episode, thus:"
+2155,265,False
+1559,265,"If the records refer to the same entity, answer ""True"
+961,265,False
+2496,265,False
+2536,265,False
+2820,265,If the two records refer to the same entity (e
+5890,265,False
+3439,265,Unknown records provided
+4684,265,False
+1332,265,False
+4941,265,"Without any further context or information provided, it is impossible to determine if the two records refer to the same entity or not"
+341,265,"Without any additional context, it is impossible to determine if the records refer to the same entity or not"
+4272,265,"Without any further context, it is impossible to determine whether the records refer to the same entity or not"
+126,265,"Without any additional context provided, it is impossible to determine if the records refer to the same entity or not"
+5219,265,Not enough information provided to determine if the records refer to the same entity or not
+4026,265,"Without any further context or information provided, it is impossible to determine whether the records refer to the same entity or not"
+2208,265,"Without the actual record descriptions provided, it is impossible to determine whether the records refer to the same entity or not"
+2780,265,False
+399,265,False
+4639,265,"Unknown records, cannot determine if they refer to the same entity"
+4645,267,Answer: True
+2809,268,"This is a multiple record scenario, but based on the provided information, it seems that both records refer to the same episode of ""Guest in the Night"" TV series, as one of the guests in the episode is Ken Ruff (record 2)"
+964,269,False
+2023,269,False
+3271,270,False
+2992,271,Answer: True
+1473,272,Answer: True
+1002,274,"record 1: Michael Douglas, record 2: Michael Douglas actors"
+4357,276,"False, as Yaphet Kotto and Sarada Kotto are different individuals, although they may be related through marriage or parentage"
+4261,277,True
+2875,278,False
+2993,279,True
+3592,280,Answer: False
+3900,281,"record 1: The Flash (TV Series 2014) - Season 3 - Episode 20: ""Versus Zoom"""
+5566,282,Answer: False
+2084,283,Answer: True
+2154,284,Answer: False
+3017,285,False
+3168,286,True
+1473,287,Answer: True
+5483,288,"Without further context, it is impossible to determine if the records refer to the same entity or not"
+1862,288,Unknown records provided
+602,288,"Without any context, it is impossible to determine whether the records refer to the same entity or not"
+2919,288,"I'm sorry, but you haven't provided enough information to determine whether the records refer to the same entity or not"
+121,288,I'm unable to determine the entities referred in these records without any context
+1273,288,"False, as the descriptions provided are not sufficient to determine if the records refer to the same entity"
+2835,288,"Without any further context or information provided, it's impossible to determine if the records refer to the same entity or not"
+284,289,Answer: False
+5970,290,False
+2259,292,False
+2809,293,"If you're determining whether both records refer to the same entity (in this case, a specific episode of a TV show), then:"
+745,294,False
+3410,296,False
+4667,297,True
+4258,298,False
+4513,298,False
+738,300,False
+5566,301,False
+80,302,"False, although both records are about the television series ""Homicide: Life on the Street,"" they represent different instances of discussing or referencing the show"
+1360,303,True
+3260,304,Answer: True
+3179,305,True
+4146,306,Answer: False
+776,307,Answer: True
+1496,308,"False, as both records describe different episodes of the same TV show (""Nothing Personal"" in this case)"
+1596,310,False
+5760,310,False
+3865,311,Answer: True
+3508,312,False
+232,314,Answer: False
+3005,315,False
+4918,316,True
+4240,317,False
+5264,318,Answer: True
+4725,319,False
+895,320,False
+774,321,record 1: The Hunger Games (film series) is a dystopian science fiction adventure film franchise featuring characters created by Suzanne Collins in her novel of the same name
+3829,322,"Answer: False, as ""Kevin Brewerton"" could refer to two different individuals"
+773,324,False
+3002,325,record 1: The Wanda Beach Murders/Beaumont Children Mystery 'CI investigates into two of the most infamous unsolved mysteries in Australian criminal history are examined in The Wanda Beach Murders and The Beaumont Children Mystery
+4234,327,True
+738,328,False
+5232,329,Answer: False
+1690,330,Answer: True
+4384,331,False
+3616,332,Answer: False
+560,333,True
+3978,334,False
+5192,335,False
+4689,336,False
+1877,337,True
+3906,338,Answer: True
+4148,339,True
+42,340,Answer: True
+3511,342,False
+4418,343,"record 1: Little Mix, record 2: The X Factor UK Season 8 winners Little Mix perform their hit single ""Wings"" in this clip from the November 24, 2012 episode of The X Factor UK"
+2451,344,False
+3575,345,False
+1996,346,Answer: True
+1520,347,False
+4244,348,False
+420,349,Answer: True
+4939,350,Answer: True
+4682,351,False
+3036,352,False
+2380,353,True
+2295,354,True
+4343,355,False
+1906,356,Answer: Unknown without further context provided about which specific Alan Taylors are being referred to in each record
+4244,357,False
+896,358,Answer: True
+2084,361,False
+3161,363,False
+1910,363,False
+468,364,True
+3645,365,False
+5476,366,False
+407,367,The answers are:
+1089,368,False
+2277,369,True
+5860,370,Answer: True
+2176,371,True
+2319,372,True
+1685,374,False
+1550,375,"False, as both records describe different episodes of the TV series ""Millennium"
+3875,376,True
+5126,377,False
+617,378,True
+3637,380,Answer: True
+5390,381,False
+5041,382,False
+1274,383,True
+2809,384,"Question: Are ""Guest in the Night"" and ""Jay Huguley guestStars"" referring to the same entity?"
+3271,385,False
+1524,386,False
+4031,387,False
+2678,388,Answer: False
+2637,390,Answer: True
+572,393,Answer: False
+2272,394,Answer: False
+3274,395,Answer: True
+589,396,"False, as the records describe different events in Simon Doonan's life"
+4367,397,False
+2177,398,False
+284,399,False
+4376,401,True
+1119,402,False
+3271,403,False
+2148,404,Answer: True
+5786,405,False
+3271,407,False
+5494,408,False
+5021,410,"False, as Sam Miller and Penelope Ann Miller are two different people"
+3543,411,False
+1641,413,False
+5464,414,False
+2809,415,"record 3: The Amazing Spider-Man (2012) - 2012-07-03, record 4: The Lizard is a mutated scientist named Curt Connors, Answer with True"
+4691,416,Answer: True
+4252,417,True
+1906,418,Answer: False
+141,421,"False, as Jeremy Bronson and Bronson Dudley are two different people"
+5914,422,Answer: False
+4595,423,True
+1617,424,False
+279,427,Answer: False
+5119,428,False
+2759,429,Answer: Unclear without further context provided about which entities are being referred to in each record
+4935,430,False
+4245,433,False
+1934,434,Answer: False
+3905,436,True
+2557,438,Answer: True
+3271,439,False
+2809,440,"Record 1: The Haunting 1963-01-17 1963-01-01, Record 2: Julia (Vera Miles) is haunted by supernatural forces in this suspenseful adaptation of Shirley Jackson's novel"
+1788,442,"If Michelle Wild and Michelle Nolden are two different people, answer with False"
+3730,443,"record 1: General Electric (GE), record 2: GE Capital guestStars"
+3412,443,False
+5305,444,True
+2122,445,False
+6026,446,True
+697,446,Answer: False
+5882,448,False
+3903,449,False
+5040,450,False
+3645,451,False
+4749,452,False
+2154,453,False
+204,455,False
+3921,457,"record 1: Barack Obama Barack Hussein Obama II served as the 44th President of the United States, from 2009 to 2017"
+4700,458,False
+1356,458,False
+5613,459,True
+5079,460,Answer: False
+5065,461,False
+4985,462,Answer: False
+862,463,False
+2288,464,False
+5119,466,False
+2973,467,False
+3958,468,True
+1330,469,False
+5467,470,Answer: False
+2774,471,False
+420,473,Answer: True
+1231,475,Answer: True
+615,477,False
+5258,479,Answer: True
+3996,480,False
+3084,481,"In this case, we cannot determine if the records refer to the same entity without more information about Episode 5 in both records"
+301,482,Answer: False
+2809,483,False
+2168,484,False
+168,485,False
+1103,485,Answer: False
+1874,486,True
+3201,487,"False, as ""Tristram Shapeero"" and ""Tristam Shapeero director"" could potentially refer to two different entities, as the latter suggests a person with the title of director"
+2264,488,False
+5889,489,record 1: The Hobbit or There and Back Again by J
+1571,491,False
+4667,492,False
+175,493,False
+1914,494,False
+350,494,False
+5136,495,False
+3829,496,False
+718,497,False
+2342,499,False
+4262,501,True
+28,502,False
+4171,502,False
+4811,504,False
+5949,505,"record 1: Michael Jackson's Thriller 1983-12-02, record 2: Thriller by Michael Jackson 1983-12-02"
+2809,507,Answer: False
+638,509,False
+5654,510,False
+2928,511,True
+3018,513,False
+3271,514,False
+1949,515,False
+3514,516,Answer: True
+3081,517,Answer: True
+2085,518,False
+2008,519,False
+3548,520,Example 3:
+2809,521,Example 3:
+4649,523,Answer: False
+3321,523,False
+267,524,False
+588,525,False
+5055,526,True
+877,527,Answer: True
+5859,528,Answer: True
+5502,529,False
+4942,529,False
+4991,530,True
+3957,532,True
+5150,533,Answer: False
+4501,534,True
+4049,535,False
+1951,536,Answer: False
+2987,537,Answer: True
+4411,538,False
+3991,539,False
+3857,540,False
+649,541,False
+3270,542,True
+1245,543,False
+1127,544,Answer: False
+2154,545,Answer: False
+1929,546,False
+857,547,False
+3453,548,False
+3187,549,False
+3645,550,False
+5524,551,False
+1727,553,Answer: False
+2504,554,Answer: True
+2809,555,False
+4343,556,False
+3887,557,Answer: True
+28,558,Answer: False
+4560,559,True
+1933,560,Answer: True
+4009,562,Answer: False
+1788,563,Answer: False
+2416,564,False
+5249,566,False
+157,569,Answer: False
+3716,570,False
+3521,571,False
+5643,572,"False, as ""Zach Anner"" is a specific person, and while both records mention the name ""Zach Anner,"" they could be referring to different individuals with that name"
+5835,573,False
+3309,574,False
+4164,575,Answer: True
+170,576,True
+1256,577,False
+734,578,False
+2382,579,"False, as both records describe the same episode and content, implying that they refer to the same thing"
+4723,580,"record 1: Barack Obama 2016-12-23 2016-01-01, record 2: Donald Trump 2016-12-23"
+5654,581,Answer: True
+3274,582,False
+4965,583,False
+3575,584,False
+3592,585,False
+3996,586,False
+3556,587,Answer: True
+1104,588,False
+436,589,False
+394,589,False
+3212,590,True
+769,591,False
+1558,591,False
+1002,592,Answer: True
+5320,593,Answer: True
+3413,595,Answer: False
+3958,596,False
+2225,596,False
+5395,597,"Answer: False, as ""Bill Purple"" could refer to one person in record 1 and a different group of people (directors) in record 2"
+4392,599,Answer: False
+2809,600,False
+5854,601,True
+1641,602,False
+208,603,"record 1: John Doe 2017-04-03 1985-01-01, record 2: John Doe (born April 3, 1985) Answer with True"
+5906,604,Answer: False
+5615,606,False
+1190,607,Answer: True
+4440,608,"record 1: Tom Hanks 2016-09-01 1990-01-01, record 2: Thomas (Tom) Hanks 2018-10-15 1956-07-09"
+2274,612,Answer: True
+791,613,Answer: False
+4937,614,False
+5234,615,Answer: True
+911,616,The answer is: True
+5136,619,False
+3075,620,False
+2915,621,True
+5526,622,False
+3355,624,False
+1763,625,"record 1: The Beatles, record 2: Wings (Band) Answer with False"
+2572,626,Answer: True
+3092,627,False
+749,628,False
+2487,629,Answer: True
+3543,630,Answer: False
+3552,631,Example 3: record 1: Elon Musk
+3780,632,False
+3547,633,True
+3489,634,Answer: False
+4743,635,Answer: False
+4504,636,Answer: True
+5336,638,False
+2810,639,True
+924,640,True
+3575,641,False
+5758,642,False
+3790,643,False
+1984,647,False
+1691,648,False
+476,651,"If Lee Wilson and Alexandra Wilson are referring to the same person, answer with True, otherwise answer with False"
+2661,652,False
+3592,654,False
+3540,655,False
+4051,655,Answer: False
+4520,656,Answer: True
+284,657,False
+4238,658,True
+3096,659,False
+2066,660,False
+4168,661,Answer: False
+604,662,False
+3013,663,False
+5671,663,Answer: False
+2809,666,False
+1119,667,False
+3398,669,Answer: True
+1805,670,False
+5218,671,False
+5993,673,True
+2816,675,False
+3882,676,Answer: True
+4398,677,True
+808,678,False
+5,679,False
+1225,680,False
+5223,681,"Example 3: record 1: František Filip, record 2: Frank Štěpán Filipek"
+1557,685,True
+3587,687,False
+676,688,True
+3960,690,False
+2073,692,Answer: True
+4379,693,Example 3:
+5756,695,True
+52,696,False
+391,697,True
+2808,698,Answer: True
+63,699,False
+5938,700,False
+2809,701,Answer: False
+2809,702,"If ""Guest in the Night"" refers to a specific episode of a TV show or movie, and ""Alyshia Ochse guestStars"" is referring to her appearance in a different episode or production, then the answer would be False"
+3641,703,Answer: False
+2616,704,True
+1532,705,"If the records refer to the same person, answer with True"
+3041,706,False
+4986,707,False
+5331,708,False
+1998,710,"record 1: Steve Jobs, Apple Inc"
+2662,711,False
+241,713,Answer: True
+4398,714,"record 1: True Detective - Season 3, record 2: True Detective - Season 3 Episode 4 (Nic Pizzolatto appears as a character in this episode) Answer with True"
+1121,715,record 1: The Curious Garden by Peter Brown
+2711,716,Answer: True
+3229,717,True
+2082,719,True
+3302,720,Answer: False
+3834,721,Answer: True
+4066,722,True
+2094,723,Example 3: 
+3999,724,False
+10,725,False
+2065,726,"record 1: Act of Piracy (Ship: SS Ethan Allen), Cargo: Coal and Steel Products, Location: Bay of Biscay, Victims: 7 killed, 10 wounded, 24 rescued, Date: 1961-02-13 08:00, Perpetrator: Fregher Patria (France), Record Type: Event, Source: National Archives and Records Administration"
+10,727,False
+3031,728,"record 1: The Wedding (May 10, 1996) - Homicide of radio talk show host"
+3351,729,False
+5345,730,False
+5903,731,False
+2774,732,True
+22,733,True
+5395,734,False
+3379,736,record 1: Charlize Theron wins Best Actress at the Oscars for her role in Monster
+3088,737,Answer: True
+3637,739,False
+4331,741,False
+3345,742,True
+4325,743,False
+1681,744,False
+2315,745,False
+4513,746,Answer: True
+3733,747,False
+1333,748,"False, as Tim Hunter and Hunter are two distinct entities"
+1981,749,False
+2755,750,Answer: True
+5590,752,Answer: True
+1509,753,Answer: False
+5310,754,False
+2511,756,False
+3161,757,False
+4946,758,False
+3910,759,Answer: False
+4424,760,"record 1: Elon Musk (1) 2019-05-02 2016-01-01, record 2: Elon Musk (1) The founder and CEO of SpaceX and Tesla is also the chairman and largest shareholder of SolarCity and has significant stakes in other companies such as PayPal"
+3271,761,False
+5817,762,False
+1111,763,True
+2884,764,False
+1665,764,False
+4828,765,Answer: True
+2977,766,False
+1832,767,Answer: True
+214,768,Answer: True
+5232,769,False
+2809,771,Answer: False
+2547,773,False
+4037,773,False
+4175,774,False
+2809,776,False
+5837,777,True
+1551,778,False
+1708,779,False
+5354,779,False
+4095,780,False
+4365,781,False
+1132,782,Answer: True
+4695,783,Answer: False
+2742,784,False
+1040,785,False
+68,787,Answer: True
+2610,788,Answer: True
+4297,790,True
+1711,791,True
+2451,792,False
+2937,793,True
+935,795,Answer: False
+566,796,Answer: False
+5654,797,True
+5206,798,False
+4738,800,Answer: True
+3536,801,False
+3967,803,False
+2809,804,"Answer: False, as ""Guest in the Night"" and ""Elva Mai Hoover guestStars"" refer to different entities - while ""Guest in the Night"" is a title of a show, ""Elva Mai Hoover guestStars"" describes a specific appearance by an actress"
+1005,805,False
+182,807,False
+4986,809,"False, as ""The Forbidden Guests"" and ""Moyna MacGill guestStars"" are two different entities"
+5866,810,False
+5181,812,Answer: True
+3386,813,False
+5223,814,"record 1: Gustav Klimt, record 2: Egon Schiele"
+5735,816,Answer: False
+2085,817,False
+2960,818,False
+2154,818,Answer: False
+3814,819,Answer: False
+2809,820,"record 3: The Waltons - The Harvest Festival 1979-11-03 1979-01-01, record 4: John Boyette appears as Grandfather Walton"
+4873,821,False
+2688,822,False
+198,822,False
+598,824,True
+2287,825,False
+1475,826,Answer: True
+2404,827,False
+5671,829,"False, as there are two different individuals named Daniel Minahan who could potentially be referenced in these records"
+1922,830,False
+1827,830,False
+5863,831,False
+5554,832,Example 3: record 1: Apple iPhone XS Max (64GB) - White
+4813,833,"If Leo Williams and Brooke Williams are two different people, answer False"
+4386,834,Answer: True
+2192,836,True
+133,838,Answer: False
+455,840,False
+5331,841,False
+3944,842,False
+4174,844,Answer: True
+3351,845,False
+1109,847,False
+4452,849,Answer: True
+2721,850,False
+3751,852,Answer: False
+2973,854,False
+3215,856,False
+3367,859,True
+3678,860,Answer: False
+4037,861,True
+4240,862,False
+5297,863,False
+1210,864,Answer: False
+4511,865,False
+1089,866,False
+518,867,Answer: True
+723,868,False
+373,870,False
+2543,870,"record 1: The Avengers (TV series), record 2: Joss Whedon's The Avengers (TV series) - Answer with False"
+5267,871,Answer: False
+5634,872,"False, as the second record is a separate episode of a different sketch show, while the first record appears to be a list of sketches from that same show"
+4864,873,False
+5108,875,False
+1996,877,Answer: False
+3271,878,False
+1376,879,Example 3: 
+3586,880,Answer: False
+2987,883,Answer: False
+4864,884,Answer: False
+3677,885,False
+1340,886,True
+1356,887,False
+3271,888,False
+5607,889,True
+548,890,False
+4557,891,Answer: True
+3645,892,Answer: False
+1089,894,"False, as Brion James and Beau James are two different people, although they share a common last name"
+4935,895,False
+1119,896,False
+4741,897,"False, as the two record descriptions are about different events and characters"
+5126,898,False
+1619,899,False
+5624,900,True
+947,901,False
+3930,903,False
+3291,904,"False, as the dates provided indicate that these are two separate episodes of the same show (Coopers), but aired on different days"
+5986,905,"record 1: Apple iPhone 6S Plus (Silver) 2018-04-23 2018-07-01, record 2: Apple iPhone X (Space Gray) 2018-04-23 2018-07-01"
+3761,906,"False, record 1 and record 2 are not referring to the same entity"
+83,907,False
+4807,908,False
+4036,909,False
+805,910,Answer: False
+1039,912,Answer: False
+2085,913,False
+102,916,False
+3940,917,False
+3831,919,True
+5431,920,False
+3715,921,Answer: False
+4616,923,False
+2853,924,False
+3632,925,Answer: False
+3324,928,"If the records refer to two different individuals named Thomas and Thomas Petersson, answer False"
+160,929,False
+4404,930,Answer: True
+2401,932,False
+452,933,The given record descriptions are not sufficient to determine if they refer to the same entity
+4821,934,False
+926,935,False
+3106,935,False
+4105,935,False
+1838,935,False
+1189,935,False
+1444,936,"In this case, both records refer to the same entity (the wax museum and the coming-to-life of its statues), so the answer should be True"
+1133,937,False
+4856,938,Answer: True
+5187,940,False
+3069,941,Example 3: 
+2726,942,Answer: True
+781,947,True
+3271,949,False
+1872,951,Answer: False
+428,952,False
+2175,953,True
+4750,954,Answer: False
+4537,955,Answer: True
+6011,956,Answer: False
+64,958,Answer: True
+5328,959,True
+2605,960,False
+5074,961,False
+246,962,False
+3157,963,False
+3079,964,False
+2998,965,False
+2445,965,False
+785,966,Answer: False
+5901,968,False
+5385,969,False
+1989,969,False
+2887,971,Answer: True
+5707,972,False
+2587,973,Answer: True
+3413,974,False
+1373,975,"True, as both records refer to the same date, December 16, 2016"
+97,976,"Answer: False, as ""Bill Smitrovich"" and ""Bill Smitrovich guestStars"
+3190,977,Answer: True
+4165,978,False
+4254,979,True
+4164,980,Answer: False
+1782,981,Answer: False
+1356,982,False
+3757,983,Answer: True
+982,984,True
+3087,985,True
+5930,986,Answer: False
+3067,987,False
+1993,989,False
+4264,991,Answer: True
+612,993,False
+2325,994,True
+355,995,Answer: False
+2147,996,"False, as ""Will Buie Jr"
+4419,998,True
+308,999,Answer: True
+4511,1000,Answer: False
+3857,1001,False
+3682,1002,False
+4704,1003,True
+4053,1005,False
+2476,1006,"Record descriptions seem to be from two different dramas/episodes, hence the answer is False"
+2919,1008,False
+5483,1008,False
+121,1008,False
+1273,1008,False
+2835,1008,"Without further context or information provided, it is impossible to determine whether the records refer to the same entity or not"
+1862,1008,"Unknown records provided, cannot determine if they refer to the same entity"
+602,1008,"Unknown records provided, cannot determine if they refer to the same entity or not"
+4986,1009,False
+1537,1010,Answer: True
+4416,1011,False
+100,1012,False
+1078,1013,False
+2238,1014,False
+1473,1015,False
+5435,1018,"False, as Brian Warner (better known by his stage name Marilyn Manson) and Jody Warner are different individuals"
+3414,1019,"record 1: The Smiths, record 2: Morrissey and Johnny Marr (former members of The Smiths), answer with True"
+5654,1020,False
+2381,1021,False
+4341,1022,False
+2809,1023,Example 3:
+5227,1024,True
+4453,1025,record 1: MTV (USA network)
+1767,1026,False
+2207,1027,Answer: True
+5867,1028,False
+4881,1029,False
+1519,1030,Answer: True
+5195,1033,Answer: False
+5944,1035,Answer: True
+1028,1036,record 1: O cvr?kovi Short stories about the cricket and his magic violin
+5500,1037,Answer: True
+5141,1038,False
+2521,1039,False
+3171,1040,True
+1962,1041,False
+2051,1042,False
+2932,1043,True
+1782,1044,False
+5021,1045,Answer: False
+377,1046,"To determine whether the two records refer to the same entity or not, we need to check if both records represent the same event"
+4064,1048,False
+5519,1049,True
+4427,1050,"False, these records are referring to different families with the same surname and a shared criminal history involving Kath Pettingill"
+3342,1051,False
+4970,1052,False
+2803,1053,False
+2177,1054,False
+1372,1055,True
+3161,1056,False
+1910,1056,False
+2036,1057,"Example 1: False, as the two records describe different events involving different characters"
+1768,1058,False
+5470,1060,Answer: True
+5802,1061,True
+2809,1063,Example 3:
+1197,1065,False
+3198,1068,True
+727,1070,False
+2126,1071,True
+5671,1073,Answer: False
+3280,1074,Answer: True
+2973,1075,False
+21,1076,Answer: True
+3843,1077,False
+3754,1078,Answer: False
+4001,1081,False
+5735,1082,"If the records are referring to the same person named Martin, then answer with True"
+576,1083,False
+2856,1085,False
+3386,1086,False
+1644,1087,Answer: True
+5247,1088,False
+3712,1090,Answer: False
+1959,1091,False
+3009,1097,The task is to determine if the two records are referring to the same entity (person in this case)
+409,1098,False
+2290,1099,Answer: False
+182,1100,"If the records are referring to the same person, answer with True"
+3127,1101,False
+4496,1102,"record 1: The Shawshank Redemption (film) 'The Shawshank Redemption is a 1994 drama film, directed by Frank Darabont in his directorial debut, from a screenplay co-written with Steve Zaillian"
+2987,1103,False
+78,1104,True
+2872,1105,False
+1768,1106,False
+3266,1107,False
+2168,1108,False
+1240,1110,Answer: False
+420,1111,False
+3872,1112,Answer: Unknown without further context provided
+1646,1113,Answer: True
+4873,1114,"Answer: False, as ""Diane Lane"" and ""Joe Lane"" are different individuals"
+3262,1115,False
+2780,1116,"Without any further context, it is impossible to determine if the records refer to the same entity"
+3770,1116,Unknown records provided
+1559,1116,False
+341,1116,Unknown records provided
+5890,1116,False
+4684,1116,Unknown records provided
+4272,1116,Unknown records provided
+5842,1116,Unknown records provided
+3439,1116,"Without knowing the entities in question, it is impossible to answer this"
+2208,1116,Unknown records provided
+1009,1116,Unknown records cannot be compared for entity resolution
+2155,1116,False
+961,1116,"Without knowing the actual movie titles or directors, it is impossible to determine if the records refer to the same entity"
+4941,1116,False
+2536,1116,False
+1332,1116,False
+126,1116,"Without any further context or information provided, it is impossible to determine whether the records refer to the same entity"
+2496,1116,False
+4639,1116,False
+81,1116,"Unknown records, cannot determine if they refer to the same entity or not"
+4026,1116,"Unknown records, cannot determine if they refer to the same entity"
+5219,1116,"Without the actual record descriptions, it is impossible to determine whether they refer to the same entity or not"
+2820,1116,False
+1604,1116,"Without the actual titles or directors, it is impossible to determine if they refer to the same entity or not"
+399,1116,"Unknown records, cannot determine if they refer to the same entity or not"
+1800,1117,Answer: True
+4654,1118,False
+2783,1120,False
+4385,1121,Answer: True
+3271,1122,False
+3413,1123,False
+5771,1124,False
+109,1125,"If the episodes refer to the same series, then the answer is True"
+5785,1126,False
+5092,1127,Answer: True
+5021,1129,False
+2809,1130,"record 3: The Outer Limits (TV Series 1963–1965) episode ""The Human Factor"" (season 1, episode 24) featuring Robert Cobert and Burt Reynolds"
+3271,1131,False
+2865,1132,False
+5477,1133,True
+576,1134,False
+175,1135,False
+1769,1136,False
+3646,1136,False
+5735,1138,False
+1198,1139,True
+5938,1140,False
+3335,1142,"False, as the two records describe different episodes of the television show ""Law & Order"
+2831,1143,"If the records refer to two different individuals named Jack and Bailey Thompson, then the answer is False"
+2837,1144,False
+5228,1146,True
+950,1148,True
+1109,1149,False
+78,1150,"record 1: Sherlock Holmes: Crimes and Punishments (French: Les Crimes de Sherlock Holmes) is a 2013 French-Canadian biographical adventure mystery film directed by Claude Chabrol, loosely based on four short stories by Arthur Conan Doyle: ""The Purloined Letter"", ""The Blue Carbuncle"", ""The Stockbroker's Clerk"" and ""The Speckled Band"""
+354,1153,Example 3: record 1: The CEO of XYZ Corporation is John Smith
+3643,1154,True
+1683,1156,False
+926,1157,False
+3211,1159,False
+1082,1160,"False, as the two records describe different scenarios involving Zelda, the supermodel"
+2697,1161,Answer: True
+3271,1162,False
+1699,1163,False
+4118,1163,False
+2264,1164,"Answer: False, as Carla Diaz and Izzy Diaz are different people, despite both being celebrities named Diaz who have made guest appearances on various shows produced by MTV"
+2051,1165,False
+2542,1167,False
+2587,1168,Answer: True
+2236,1169,True
+862,1170,False
+5666,1173,Answer: True
+3014,1174,Answer: False
+1641,1176,Answer: False
+1953,1177,The answers are:
+4105,1178,Answer: False
+4244,1179,False
+5431,1180,False
+5942,1181,Answer: False
+5527,1183,Answer: True
+1595,1184,record 1: The Big Bang Theory
+2363,1186,False
+5100,1187,True
+5671,1188,"Answer: Unknown, as we do not have the context of the records to determine if they refer to the same person (Daniel Junge) or not"
+951,1189,False
+3339,1190,"Example 1: False, as the two records are about different stories/events"
+5671,1191,False
+4970,1192,False
+3872,1194,False
+2717,1195,Record descriptions are:
+1335,1197,False
+4517,1198,False
+5004,1199,True
+4969,1200,True
+1925,1201,False
+4667,1202,False
+151,1203,"If the episodes refer to the same series, answer: True"
+3994,1206,True
+105,1208,True
+2809,1210,Example 3:
+881,1212,True
+738,1213,False
+2252,1215,False
+3253,1217,False
+1461,1217,False
+1147,1218,True
+5938,1219,False
+504,1220,False
+3106,1222,False
+3161,1223,Answer: False
+390,1224,False
+2036,1225,"Record 1 refers to an incident involving The Cruise ship and celebrities Ace Cooper and Mona Malone, while Record 2 describes two separate events - the disappearance of a character named Je Soo and a dangerous situation where people are being shot with sumpitans"
+4749,1227,False
+5235,1229,"record 1: The Lord of the Rings: The Fellowship of the Ring (film) ~ Peter Jackson, record 2: The Lord of the Rings: The Fellowship of the Ring (film) ~ Peter Jackson ~ Wellington, New Zealand"
+3062,1230,True
+1881,1233,False
+214,1234,False
+284,1235,"If the episode featuring both actors portrays two different characters, then the answer is False"
+3712,1236,False
+1123,1237,record 1: What Were You Doing In Electro City When The Lights Went Off? 'Professor Jonathon Surge was visiting his lab when he suddenly disappears
+2809,1239,"To determine if the records are referring to the same entity, we need to analyze the provided information"
+5212,1240,Answer: True
+463,1241,Answer: True
+1635,1243,False
+220,1243,False
+5092,1244,False
+148,1246,Answer: True
+749,1247,Answer: True
+2809,1248,False
+1415,1250,False
+4813,1253,False
+964,1254,False
+2023,1254,False
+4347,1255,False
+5267,1256,Answer: True
+2437,1258,False
+4569,1259,False
+1454,1261,False
+1738,1262,Example 1: False
+385,1264,True
+4698,1265,False
+4245,1266,False
+2801,1267,False
+4961,1267,False
+217,1267,False
+3158,1268,False
+2809,1269,"The task provided is incomplete and does not provide enough context to determine if ""Guest in the Night"" and ""Joe Orofino guestStars"" refer to the same entity"
+5126,1271,False
+1996,1272,"False, as ""Kyle Secor"" can refer to both a person (actor) and a role (director)"
+1454,1274,False
+4452,1275,Answer: True
+4228,1276,False
+3171,1277,Answer: True
+4565,1278,False
+4449,1280,Example 3:
+4156,1281,False
+594,1283,Answer: True
+962,1284,False
+153,1285,Answer: True
+2809,1286,False
+2290,1287,False
+3271,1288,False
+5993,1290,False
+5547,1291,Answer: True
+2353,1292,Answer: False
+1648,1294,False
+565,1295,False
+1912,1296,False
+2572,1300,Answer: True
+1388,1302,True
+2489,1303,Answer: False
+160,1304,False
+987,1305,Answer: False
+614,1306,True
+5464,1307,False
+4105,1309,Answer: False
+4922,1311,False
+5659,1312,Answer: True
+4700,1313,False
+4142,1314,Answer: True
+2800,1315,False
+1314,1315,False
+2811,1316,Answer: True
+4886,1318,False
+2446,1319,False
+1483,1322,False
+2809,1324,False
+5980,1326,Answer: True
+4442,1327,Answer: True
+29,1328,True
+644,1329,Answer: True
+2845,1330,True
+1654,1331,Answer: True
+476,1332,"If Lee Wilson and Jane Edith Wilson are the same person, answer with True"
+589,1333,Answer: True
+3092,1335,Answer: True
+434,1336,False
+5258,1337,Answer: True
+5149,1338,False
+3072,1339,Answer: True
+3217,1340,Answer: True
+2847,1341,Answer: True
+4677,1342,Example 3:
+3253,1343,False
+1461,1343,False
+4691,1345,True
+897,1346,False
+1153,1348,False
+4204,1348,False
+4750,1350,Answer: True
+4292,1351,False
+2779,1355,"If the episodes feature Jessica Perry and Jessica Blair as different characters, then the answer is False"
+4901,1357,"If George Khan and George Coe are two different individuals, answer False"
+5455,1358,False
+5142,1359,True
+5454,1360,False
+2105,1361,False
+6029,1361,False
+3377,1363,False
+3036,1364,False
+864,1365,Answer: False
+674,1366,False
+2853,1368,Answer: False
+4632,1369,Answer: False
+4750,1370,False
+5710,1371,"record 1: The case against Georgia Rae Mahoney is being dropped due to a lack of evidence, but Falsone suspects that the whole Mahoney situation will blow up in the department's face because he knows the shooting didn't go down the way it was reported by Stivers, Kellerman, and Lewis"
+502,1372,False
+3267,1373,False
+3126,1374,Answer: True
+1130,1375,False
+1613,1376,Answer: True
+2168,1377,False
+3274,1378,Answer: False
+5228,1382,False
+459,1383,False
+3857,1385,False
+1373,1385,False
+208,1385,False
+1505,1386,True
+2353,1387,False
+4649,1387,Answer: False
+2668,1387,"False, as Bryan and Bruce Gordon are two different people"
+5149,1388,False
+5831,1389,Answer: False
+122,1390,Answer: True
+2925,1391,False
+4550,1392,"record 1: The Avenging Phantom/Myth Conceptions 'In ''The Avenging Phantom,'' ten year old Jimmy is afraid to sleep in the dark, -- almost as much as he's afraid of the mean old lady at the variety store, the Mongrel that chases him home every day, and the bully who constantly torments him"
+2642,1393,Answer: False
+4217,1394,"record 1: Saturday Night Live, season 37, episode 8, original air date December 16, 2011, cast member Bill Hader plays Stefon segment ""The Man Your Man Could Smell Like"", guest star is actor/comedian Justin Timberlake, answer with True"
+3271,1397,False
+381,1398,False
+1696,1400,Answer: True
+3440,1401,True
+4809,1403,False
+1473,1404,False
+4562,1405,"record 1: The Lord of the Rings: The Fellowship of the Ring (film) 2001-12-13, record 2: The Fellowship of the Ring (film) 2001-12-19"
+1516,1407,True
+5945,1408,False
+3839,1408,Answer: False
+5757,1408,Answer: False
+5154,1408,Answer: False
+1783,1408,False
+6017,1410,True
+176,1411,"Example 1: False, as two different records are provided"
+2703,1412,Answer: True
+213,1413,False
+4970,1414,False
+1197,1416,False
+5792,1418,"False, as The Trial of the Monarch and Return to Spider-Skull Island are separate episodes from different TV shows: The Venture Bros"
+2746,1419,False
+3029,1420,Answer: True
+4082,1421,Answer: False
+5385,1423,False
+281,1424,Answer: True
+2662,1426,Answer: False
+652,1427,False
+3106,1429,"If Elaine Morgan and Genia Morgan are the same person, answer True"
+287,1429,"If Robert Morgan and Genia Morgan are referring to the same person, answer with True"
+4004,1432,"Your task is to identify if the records refer to the same instance of ""The Pretender"" or not"
+3386,1433,False
+176,1434,"Record 1 refers to serial killer Rodney Cameron, while Record 2 is about a murder committed by Shayne Lovera and her lover Brett Rae"
+4764,1435,"record 1: Blood Ties (1) Their rotation in robbery is up, Frank and Tim return to the homicide unit"
+5380,1436,False
+1601,1436,False
+4691,1437,True
+4813,1440,False
+2809,1441,Example 3: 
+3210,1442,Answer: True
+3501,1445,False
+45,1447,False
+2133,1448,"record 1: Apple iPhone SE (2nd generation) 2020-04-21, record 2: iPhone SE (2020) 2020-04-21"
+3106,1452,False
+3477,1454,False
+260,1456,"In this example, both records refer to the same event or situation, so the answer is:"
+5830,1457,Answer: True
+5772,1460,Answer: False
+1668,1461,False
+1509,1462,Answer: False
+924,1463,False
+2809,1464,False
+4127,1466,Answer: True
+831,1467,False
+4245,1468,False
+683,1469,False
+3688,1471,True
+2809,1473,"Record 1 and Record 2 both involve the individual Rhona Raher-Olefsky, as she appeared as a guest in an episode of the TV show ""Guest in the Night"" in 1954, and also made a separate appearance on the same show"
+4600,1474,"Answer: False, as both records describe the same episode of Law & Order: Special Victims Unit (""Sniper"") airing on January 5, 1996"
+4592,1475,Answer: True
+223,1476,"record 1: The Norfolk Island Murder 'Hosted by Steve Liebmann, this episode of Crime Investigation Australia features detailed re-enactments and interviews with key figures, including the head of the police investigation, local Norfolk Island residents as well as intimate interviews with Janelle Patton’s mother and father"
+6,1478,False
+1218,1479,Answer: True
+2809,1480,False
+50,1481,Answer: True
+926,1482,False
+3176,1485,Answer: True
+2407,1486,False
+2350,1487,Answer: False
+4331,1488,False
+403,1489,False
+3165,1490,Example 3: 
+3841,1491,False
+5796,1492,False
+651,1493,False
+1115,1495,False
+4001,1495,False
+2728,1495,False
+2798,1496,True
+271,1497,False
+2988,1500,False
+5771,1503,"If they are referring to the same person, answer with True"
+2832,1505,record 1: MTV Unplugged presents John Mayer Volume 1 (album)
+5600,1507,record 3: Barack Obama delivered his farewell address from McCormick Place in Chicago on Tuesday evening
+313,1508,Answer: True
+2661,1509,Answer: False
+3073,1510,False
+5433,1510,"To determine whether the records are referring to the same entity, we need more information"
+1610,1511,False
+1832,1512,Example 3: record 1: Beyonce Knowles Carter 'Beyoncé announced on Instagram that she and Jay-Z are expecting twins
+4626,1513,Answer: False
+1369,1514,The task is to identify if the records refer to the same entity
+1820,1516,Answer: True
+3341,1517,False
+4750,1522,False
+125,1523,"If the two records are referring to the same person (Larry Williams), then answer is True"
+175,1524,False
+420,1525,False
+3580,1526,False
+5416,1527,False
+555,1528,False
+3669,1529,"False, as the date range for both records is the same (1995-11-03 to 1995-01-01), but they are two separate events being recorded by Autofocus A"
+4118,1530,False
+3745,1531,False
+2428,1532,Answer: False
+3360,1533,False
+838,1534,False
+3516,1535,"record 1: [41] Kizumonogatari [2] Tsukiuta 'Koyomi is being chased by Oshino Ougi, who tells him she knows that he remembers everything since the day he was turned into a vampire"
+858,1536,False
+4739,1537,False
+4901,1538,False
+2856,1540,False
+5036,1541,Answer: False
+5418,1542,Answer: True
+2809,1544,Example 3:
+2400,1545,record 1: The Flight Of Prosperity
+2946,1546,Example 3: 
+1079,1547,True
+3171,1548,True
+5343,1549,False
+318,1550,False
+4410,1551,True
+5876,1554,False
+4101,1556,"False, the records are describing two separate experiences for Cheese Maker Mike"
+5755,1558,False
+5107,1559,Answer: True
+1788,1560,False
+4899,1561,False
+503,1562,False
+4161,1564,False
+1928,1565,Answer: False
+1981,1565,Answer: False
+3630,1566,"Both records refer to the same story, therefore:"
+1794,1568,Answer: True
+2724,1569,Answer: True
+4184,1570,Answer: True
+3010,1572,"False, as both records are referring to two different instances of ""Twin Brothers Strange was happing to Ace Cooper"
+1908,1573,Answer: True
+3711,1575,False
+5099,1575,False
+324,1575,Answer: False
+1718,1576,Answer: True
+2594,1577,False
+2350,1578,"False, the two records describe different events and heists"
+5130,1579,Answer: True
+3616,1581,False
+1012,1583,Answer: True
+5754,1584,True
+4551,1586,True
+5502,1587,Answer: False
+4942,1587,False
+5455,1588,False
+1925,1589,"False, as ""Jean de Segonzac"" can refer to either a person (director) or a location (winery)"
+5187,1590,False
+246,1591,False
+907,1592,Example 3:
+4418,1593,Answer: True
+5396,1594,Answer: False
+1788,1595,"If Michelle Wild and Michelle Richard are referring to two different individuals, then the answer is False"
+2353,1596,False
+1844,1598,True
+1333,1599,Answer: False
+541,1600,False
+3824,1601,True
+2884,1602,False
+1377,1603,Answer: False
+3829,1604,False
+5715,1605,record 1: Hello Goodbye Montig wonders if it is possible to feel both happy and sad at the same time
+4914,1606,True
+1878,1607,False
+4890,1607,False
+5648,1609,True
+4725,1610,Answer: True
+542,1611,False
+3109,1612,False
+1486,1614,Answer: False
+3290,1615,False
+1441,1617,"False, as the dates are different, indicating that these could be two separate events"
+1434,1618,False
+4418,1625,False
+1650,1628,"Answer: False, as Jack and Ellia English are likely different individuals, even if they both appear as guest stars in separate records"
+2915,1629,Answer: True
+3386,1630,False
+4296,1631,False
+4341,1632,False
+1131,1633,False
+5492,1634,Answer: True
+4416,1637,True
+2676,1638,False
+3757,1639,Answer: True
+2685,1640,record 1: The Curse of the Bamboo Plant A group of people become convinced that a cursed bamboo plant in their office building is causing misfortune and tragedy
+2523,1641,"Answer: False, as record 1 and record 2 describe different events in the story"
+4519,1642,Answer: True
+5784,1644,False
+2780,1646,Unknown records cannot be compared for entity resolution
+1559,1646,"Unknown records provided, cannot determine if they refer to the same entity"
+341,1646,Unknown records provided
+5890,1646,False
+4272,1646,False
+3439,1646,Unknown records cannot be evaluated for entity resolution
+2208,1646,False
+2155,1646,Unknown records cannot be evaluated for entity resolution
+961,1646,False
+4941,1646,False
+2536,1646,Unknown records cannot be evaluated for entity resolution
+1332,1646,False
+126,1646,False
+2496,1646,Unknown records cannot be compared for entity resolution
+4684,1646,Unknown records provided
+4639,1646,"If you do not have enough information to determine whether the records refer to the same entity or not, answer with False"
+4026,1646,False
+5219,1646,"Unknown records provided, cannot determine if they refer to the same entity or not"
+2820,1646,Unknown records provided
+399,1646,Unknown records cannot be evaluated for entity resolution
+2036,1647,"False, as the two records describe different situations involving Ace Cooper and the cruise ship Nova"
+4323,1648,Answer: True
+3780,1649,False
+3362,1650,False
+3271,1651,False
+5667,1652,False
+3799,1653,False
+3668,1654,False
+5222,1655,False
+2809,1656,False
+1103,1657,Answer: False
+5238,1658,False
+5065,1659,False
+5860,1661,False
+2809,1662,Example 3:
+3172,1664,False
+5935,1665,Answer: True
+3695,1668,False
+4370,1669,True
+1693,1670,False
+4873,1671,"record 1: ""The Great Gatsby"" (2013) - Diane Lane, record 2: ""Under the Tuscan Sun"" (2003) - Diane Lane, Alan Rickman guestStars"
+5079,1672,Answer: False
+2998,1673,False
+2445,1673,False
+1899,1674,Answer: True
+5297,1676,Answer: False
+1454,1679,False
+3351,1680,"record 1: Emma Watson 2013-10-17, record 2: Emma DuBois Stewart 2013-10-17"
+423,1683,Answer: False
+733,1684,"record 1 and record 2 both have the job title ""Sewer Inspector"", indicating that they may refer to the same person or role"
+3711,1685,False
+2265,1687,Answer: True
+4551,1688,False
+821,1689,Answer: True
+1095,1690,"record 1: Grey's Anatomy - ""Bring the Pain"" (TV Episode 2016), record 2: How to Get Away with Murder - ""We're Not Friends"" (TV Episode 2017)"
+3290,1691,True
+89,1692,"False, the records refer to two different situations involving Dr"
+5887,1695,Answer: False
+28,1696,Answer: False
+4171,1696,False
+5169,1697,True
+3437,1698,Answer: True
+1951,1703,False
+4665,1704,False
+1063,1705,True
+338,1706,False
+731,1707,Answer: True
+3597,1709,True
+1910,1710,False
+1953,1711,Answer: False
+125,1712,"If both records refer to the same person (Larry Williams) in the context of being directors, then answer is True"
+1569,1714,False
+3485,1715,True
+1683,1716,False
+4824,1717,False
+3274,1718,False
+3536,1719,False
+4156,1720,Answer: False
+3573,1721,Answer: False
+133,1723,False
+1374,1724,Answer: True
+2075,1726,False
+3271,1728,False
+3478,1729,False
+11,1730,False
+3455,1731,True
+2488,1732,False
+844,1733,False
+2214,1735,False
+5126,1736,False
+4073,1737,"Both examples involve entity resolution, where the task is to determine if two records refer to the same entity"
+3751,1737,Answer: False
+4813,1738,Answer: False
+4667,1741,False
+1938,1742,Answer: True
+393,1743,False
+5182,1744,False
+5305,1745,True
+1613,1746,True
+1509,1748,False
+6028,1751,False
+5454,1753,"record 1 and record 2 both refer to events that occurred on October 8, 2014"
+3274,1754,Answer: False
+954,1755,Answer: True
+3446,1756,record 1: The Walking Dead
+4433,1757,True
+817,1758,False
+2960,1759,"If Erika Johnson and Calen Camero Johnson are two different people, answer with False"
+2154,1759,False
+2886,1760,Answer: False
+5390,1761,False
+4832,1762,False
+2809,1763,False
+749,1764,False
+5480,1765,False
+2826,1766,False
+4031,1767,False
+4938,1768,Answer: True
+2725,1771,Answer: True
+1751,1772,False
+1309,1772,Answer: False
+4567,1774,False
+4996,1775,True
+2809,1777,False
+1765,1778,Answer: False
+2831,1779,False
+419,1781,"record 1: Kim Jae Wook, record 2: Lee Sang Min After being falsely accused by Choi Jung Woo, Kim Jae Wook and Lee Sang Min start to work together to clear their names"
+26,1783,"False, as the two records are referring to different episodes of a show"
+3324,1784,The records refer to the same entity (person) - True
+3028,1786,False
+351,1787,Answer: True
+3382,1788,False
+3356,1789,False
+2606,1792,Answer: False
+768,1793,"record 1: The Big Bang Theory (TV Series) 2007-09-24 2013-01-01, record 2: Jim Parsons Stars"
+3271,1794,False
+5547,1795,Answer: True
+714,1796,False
+184,1798,Answer: False
+1333,1801,Answer: False
+3953,1802,False
+2524,1805,Answer: True
+5160,1806,Answer: False
+926,1807,False
+2350,1808,"Record 1 is not related to Record 2, therefore the answer is False"
+6055,1809,True
+1290,1810,Answer: True
+140,1811,False
+329,1812,Answer: True
+1912,1813,False
+3271,1814,False
+1319,1815,Answer: True
+5919,1816,False
+694,1817,Answer: True
+2343,1818,Answer: False
+4561,1819,False
+463,1820,False
+967,1821,record 1: The Incredible Mr
+4965,1822,False
+4302,1823,False
+5704,1825,False
+1005,1826,False
+2728,1827,True
+1727,1828,False
+5142,1829,Example 3: 
+2831,1831,False
+168,1833,False
+1103,1833,False
+368,1834,"False, as ""A Nero Wolfe Mystery Genius detective Nero Wolfe and his right-hand man, Archie Goodwin, solve seemingly impossible crimes"
+45,1835,Answer: False
+506,1836,Answer: True
+5789,1837,False
+4416,1838,Answer: True
+5087,1839,Answer: False
+5257,1840,False
+3947,1841,Answer: False
+4374,1842,True
+835,1843,Answer: True
+4121,1844,False
+588,1845,Answer: False
+1231,1847,Answer: True
+4206,1848,False
+4480,1851,False
+5739,1852,False
+4893,1852,False
+1522,1853,True
+5223,1855,False
+2177,1856,False
+2121,1857,Answer: True
+3394,1858,False
+451,1858,False
+1385,1858,False
+1361,1859,True
+5387,1860,False
+2778,1861,Answer: True
+2809,1862,"record 3: LeBron James 2018-07-02 1996-12-30, record 4: LeBron Raymone James Sr"
+3426,1866,Answer: False
+1618,1867,False
+5289,1868,False
+3930,1869,False
+332,1870,Answer: True
+3725,1873,True
+5848,1874,False
+5901,1876,Answer: True
+3271,1877,"record 1: LeBron James LeBron James was born on December 30, 1984"
+2855,1879,False
+4986,1881,False
+2911,1883,False
+1181,1884,False
+1291,1884,False
+5614,1885,Answer: True
+5789,1886,False
+1041,1887,True
+5407,1888,Answer: False
+2727,1889,True
+5491,1890,Answer: False
+1104,1893,False
+810,1896,False
+4548,1898,Answer: True
+1900,1899,Example 3: 
+1356,1901,False
+5145,1902,"record 1: Amitabha Bachchan, born on 11 October 1942 in Allahabad, record 2: Amitabh Bachchan, born on 11 October 1942 in Allahabad"
+3374,1903,False
+4048,1904,False
+5135,1905,Answer: False
+5561,1906,False
+2809,1907,False
+5372,1909,Answer: True
+19,1910,Answer: True
+3069,1912,False
+4285,1913,Answer: True
+467,1914,False
+3917,1915,False
+3695,1916,False
+2584,1916,False
+818,1920,True
+3271,1921,Answer: True
+5204,1924,False
+4700,1927,False
+83,1929,Answer: True
+2853,1931,Answer: False
+820,1931,False
+3970,1932,False
+2084,1933,Answer: True
+3138,1934,False
+2712,1935,True
+4698,1937,False
+1609,1938,Example 3: 
+1517,1939,Answer: True
+4534,1940,False
+2322,1941,False
+2221,1942,False
+3324,1943,If both records refer to the same person named Thomas W
+749,1945,Answer: True
+3201,1946,Answer: True
+3269,1947,True
+2809,1948,Example 3: 
+2768,1949,"record 1: The Witches (3) After the murder of the priest, Marek and Fiedler investigate, but they are being watched"
+2676,1950,False
+1938,1951,"If the episodes they appear in are for different characters or stories, then answer is False"
+5286,1952,False
+644,1954,Answer: True
+5902,1957,False
+2038,1958,False
+2290,1959,True
+644,1961,False
+4861,1962,False
+3005,1964,False
+6050,1966,Answer: True
+4223,1967,Answer: False
+4457,1968,"False, the records refer to two different murder cases"
+2036,1969,Example 1: False
+1266,1970,"The answer is True, as both records are about the character Nadeko Sengoku, specifically her encounter with Koyomi and Suruga at the abandoned shrine"
+4577,1972,False
+2467,1973,False
+2713,1974,"If the episode featuring Doug Shemer and the episode featuring Doug Benson as a guest star are both referring to different episodes of a TV series, then answer is False"
+4511,1976,False
+1388,1978,False
+1329,1982,False
+5367,1983,False
+3314,1985,"False, the record descriptions are referring to two different instances of ""Race For Your Life"""
+4906,1986,False
+5223,1988,False
+378,1990,Answer: True
+3505,1991,False
+4091,1992,Answer: False
+5660,1993,False
+2287,1994,"record 1: [47] Kizumonogatari - Part 2 Ougi Dark[4] - Awa Bakemono no Mudazukai - Part 2 After losing a game of rock-paper-scissors with Oshino, Koyomi is forced to accompany him to the roof of Naoetsu High School"
+4225,1995,False
+1564,1996,False
+3271,1997,Answer: False
+437,1998,True
+2973,1999,Answer: False
+5119,1999,False
+224,2002,True
+175,2003,False
+2809,2004,False
+4813,2005,Answer: False
+5648,2006,Answer: False
+3602,2008,False
+2042,2009,True
+1005,2011,False
+35,2014,Answer: True
+1209,2017,True
+422,2018,False
+3356,2019,False
+4811,2022,False
+3575,2024,False
+5091,2025,True
+742,2027,True
+5036,2028,Answer: False
+2154,2029,False
+2960,2029,False
+3543,2030,False
+167,2031,"Answer: The records refer to the same entity (TV series ""Don't Call It A Comeback"" and its episode ""Mark contemplates his future at the network; and a sexual encounter scares Mary Jane"
+4986,2033,False
+6051,2034,Answer: False
+5,2035,Answer: False
+572,2037,Record descriptions:
+5119,2038,Answer: False
+732,2039,True
+4784,2043,False
+4574,2048,Example 3: 
+4561,2049,False
+744,2050,True
+421,2051,False
+5215,2052,False
+5938,2054,False
+218,2059,False
+5987,2060,False
+2567,2061,False
+140,2062,"Answer: False, as Steve Arnold and Steve Agee are two different individuals"
+5225,2064,Answer: True
+473,2065,False
+2353,2067,Answer: True
+3738,2069,False
+694,2070,False
+866,2071,False
+1864,2073,"record 1: Friends - Matthew Comer (actor) on April 15, 1998"
+1007,2074,Answer: False
+5920,2075,False
+4986,2076,False
+2764,2078,Answer: False
+1388,2080,False
+5476,2081,False
+4542,2081,False
+3715,2082,False
+540,2084,True
+1981,2085,False
+1928,2085,Answer: False
+2362,2089,False
+5875,2090,False
+4114,2091,True
+2179,2092,False
+1764,2092,False
+768,2093,False
+5848,2094,False
+1843,2095,False
+5704,2096,False
+1562,2097,False
+4697,2098,True
+3584,2099,Answer: True
+4280,2100,True
+3983,2101,True
+1487,2102,Answer: True
+5119,2105,False
+2801,2106,False
+4961,2106,False
+217,2106,False
+5282,2107,False
+4179,2109,False
+1741,2114,False
+3715,2117,False
+2721,2118,False
+2593,2119,False
+1840,2120,False
+2339,2122,"Answer: False, as record 1 includes an additional story titled ""Cold Blood, Warm Heart"""
+5297,2124,False
+927,2125,Answer: False
+849,2127,False
+1358,2128,Answer: False
+4907,2129,True
+1078,2131,False
+4649,2134,False
+2668,2134,"If they both refer to the same person, answer True"
+2353,2134,"If Barry Gordon and Joyce Gordon are referring to the same person, answer with True"
+3271,2135,False
+5063,2136,Example 3: 
+838,2137,False
+4560,2138,False
+3695,2139,False
+4528,2140,Answer: True
+5122,2141,"Both records refer to the same entity, hence answer is True"
+2343,2142,"record 1: The Fate of the Furious (2017) - Tiffany Haddish Joins Cast as Female Lead in 'Girls Trip' 2016-04-22, record 2: The Fate of the Furious (2017) - Dwayne Johnson Shares First Photo From Set With Jason Statham and Kurt Russell 2016-03-02, Answer with False"
+2405,2143,False
+1726,2144,False
+5727,2146,False
+2877,2147,Answer: True
+3803,2149,Answer: True
+5989,2151,Answer: False
+5671,2152,Answer: False
+1509,2153,False
+3592,2155,Answer: False
+2075,2156,False
+866,2156,False
+1377,2158,Answer: False
+5674,2159,"Both records refer to the same crime and victim, therefore the answer is: True"
+3599,2161,True
+1373,2162,False
+3857,2162,False
+208,2162,False
+768,2163,True
+885,2165,Answer: True
+2801,2167,False
+4961,2167,False
+217,2167,False
+4906,2168,False
+5870,2169,False
+4682,2170,False
+4742,2171,Answer: True
+2676,2174,Answer: False
+3862,2175,Answer: True
+5387,2176,False
+5673,2180,False
+5654,2182,Example 3:
+4726,2183,False
+2623,2184,False
+4483,2185,False
+5016,2186,False
+5583,2187,Answer: False
+603,2188,Example 3: record 1: Elon Musk
+1420,2190,"If the description of record 1 indicates that it is an episode of a TV show or series called MTV, and the description of record 2 only specifies the date when it was accessed, then the answer would be False, as the two records appear to refer to different things"
+1034,2191,False
+5539,2192,False
+5944,2193,Answer: False
+6003,2194,True
+2809,2195,False
+1578,2196,False
+2403,2197,Answer: True
+2721,2198,False
+3992,2199,Answer: True
+3853,2200,False
+786,2201,False
+3423,2203,False
+5124,2205,True
+4970,2206,False
+2329,2208,Example 1: False
+4873,2209,Answer: False
+4682,2210,False
+4678,2212,"False, as the record titles and descriptions indicate two different incidents or stories"
+5969,2213,"record 1: The author, Katherine, is a high school student with a passion for sports, writing, and music"
+641,2214,"False, as the dates given are different for each record"
+2207,2215,Answer: True
+4242,2216,True
+1296,2217,True
+5210,2218,True
+2118,2219,True
+3557,2220,Example 3: 
+4649,2222,Answer: False
+5380,2223,"If the two individuals, Jim Smith and T"
+1601,2223,Answer: False
+3663,2225,Answer: True
+5720,2226,Answer: False
+443,2229,False
+3592,2229,False
+1586,2230,"To determine if the records refer to the same entity, we need to compare the entire descriptions provided"
+141,2231,True
+3028,2232,False
+1519,2233,Answer: False
+2005,2238,False
+5717,2239,Answer: True
+698,2240,Example 3: 
+1062,2241,"If the Christmas Specials mentioned in both records are referring to the same event, then answer is True"
+2809,2242,False
+4371,2243,False
+5827,2244,False
+1819,2245,True
+3839,2246,False
+3310,2246,False
+300,2247,"Answer: False, as the dates are different for each record"
+4373,2248,False
+2809,2249,False
+4011,2250,False
+2460,2253,False
+4612,2254,Answer: True
+5199,2255,False
+2809,2257,Example 3:
+6040,2258,Answer: True
+2809,2259,"record 3: The Case of the Careless Victim 1957-09-01 1957-01-01, record 4: Fred MacMurray and Raymond Burr star"
+160,2260,False
+2416,2261,False
+247,2264,False
+4379,2266,Answer: False
+4137,2267,False
+3751,2268,Answer: True
+5182,2269,False
+1266,2270,False
+4017,2271,"False, as both records describe separate episodes of the TV show ""Homicide: Life on the Street"""
+1788,2275,False
+3342,2276,False
+3478,2278,False
+4317,2280,False
+434,2281,False
+4986,2282,False
+5099,2283,False
+3711,2283,Answer: False
+324,2283,False
+0,2287,False
+514,2288,False
+5364,2289,Answer: True
+4428,2290,Answer: True
+1530,2293,False
+3294,2295,"record 1: Michael Jordan 1984-03-28 1984-01-01, record 2: Michael Jackson 1984-03-28"
+1396,2296,False
+2424,2297,"record 1: The case involving a multiple shooting at a restaurant and the case where Frank collapses during interrogation are related because both cases involve suspects being questioned in the ""box"
+768,2298,False
+5315,2299,False
+1972,2299,False
+2141,2300,"record 1: 孟买地铁8号线建设进入正式工程 孟买新区南仑区明日开工 孳京高速将明年完成 中国航空发展公司成立五年以来第一架客机被投入试飞 厦门地铁将于2015年底开通 上海地铁14号线建设进入正式工程等，记者称这是当局为了确保北京成功举办的2022年岸城 Winter Olympics 在全国推动经济发展的一系列工程。2014-09-16, record 2: 孔明区商业楼地段出价达到1000元每平方米，有人预计将超过1500元每平方米！厦门市场持续闯红灯，再度创新市场高位！2014-09-23"
+3665,2302,Answer: False
+5172,2304,False
+3408,2305,"To determine if these records refer to the same entity or not, we need to analyze the information provided in both records"
+67,2306,"record 1: MTV stays true to itself in ""Rob Dyrdek's Fantasy Factory"
+4315,2307,Answer: True
+3126,2313,"record 1 and record 2 both have the same show, ""Happy Valley"", but they refer to different episodes"
+4517,2314,False
+2378,2315,True
+3897,2316,False
+2809,2318,False
+712,2319,Answer: True
+5126,2320,False
+62,2321,False
+5616,2323,False
+3593,2327,True
+3065,2328,Answer: False
+4399,2329,True
+4397,2330,False
+3395,2331,False
+3254,2332,Answer: True
+4876,2333,False
+2547,2334,False
+4682,2335,False
+5816,2336,Answer: True
+1887,2338,Answer: True
+2809,2339,"In this case, you need to determine if ""Guest in the Night"" and ""Judy Toll guestStars"" refer to the same entity"
+2809,2340,False
+908,2342,False
+3417,2343,False
+3142,2344,True
+5977,2345,True
+141,2347,False
+4365,2348,False
+423,2349,True
+3113,2350,True
+2588,2351,True
+2012,2352,False
+565,2353,True
+1636,2355,record 1: MTV
+768,2358,True
+4347,2359,False
+2778,2361,record 1 and record 2 refer to different entities
+4332,2362,Answer: False
+4537,2363,False
+11,2364,False
+4172,2364,False
+2623,2365,Answer: False
+1103,2366,False
+3779,2369,False
+1258,2370,True
+2278,2371,True
+1529,2372,True
+2967,2373,True
+2605,2376,False
+4666,2378,Answer: True
+2612,2380,False
+5444,2381,Answer: False
+4054,2387,False
+4220,2388,False
+1806,2389,True
+2988,2391,False
+1175,2392,Example 3: 
+1636,2394,record 1: Goodness Gracious Me (1996-2001) 'Goodness Gracious Me is a British Indian sketch comedy show that was originally broadcast on BBC Radio 4 from 1996 to 1998 and later televised on BBC Two from 1998 to 2001
+97,2396,False
+1356,2399,False
+4700,2399,"If James Bloom and James Woodley are the same person, answer with True"
+914,2400,Answer: False
+720,2401,False
+4029,2403,Answer: True
+1372,2405,False
+56,2407,Answer: False
+4328,2408,True
+175,2410,"False, as Larry David and Avery Davis are two different individuals and cannot be considered the same entity"
+1714,2411,False
+77,2415,False
+1551,2416,Answer: False
+1957,2418,False
+1388,2419,Answer: True
+5278,2420,Answer: False
+2809,2421,"record 3: John Doe, born on January 1, 1970, record 4: Jane Smith, born on January 1, 1970"
+437,2423,True
+4698,2424,False
+2884,2425,Answer: False
+4849,2426,"record 1: The Fosters (TV Series) Season 6, Episode 6 - ""Broken Heart"""
+3179,2427,Answer: True
+2367,2428,Answer: False
+6008,2430,Answer: True
+3417,2431,False
+2263,2432,False
+1733,2433,Answer: True
+652,2435,False
+1062,2436,True
+706,2439,False
+3389,2441,False
+3812,2442,Example 3: 
+398,2443,Answer: True
+4517,2445,Answer: False
+1564,2447,False
+4309,2448,False
+3079,2450,Answer: False
+5751,2451,Answer: True
+1492,2452,False
+5030,2454,False
+3185,2456,Answer: False
+250,2457,False
+3187,2458,"False, as the second record is about a different event and characters within the same context (Japanese colonial rule of Korea)"
+2754,2459,False
+746,2460,Answer: True
+3715,2461,Answer: False
+4007,2462,Answer: False
+1746,2464,Answer: True
+1102,2465,"Your input is: record 1: Episode 16 2016-12-20 2016-01-01, record 2: 2016-12-20"
+2010,2471,False
+2809,2474,"False, as ""Guest in the Night"" refers to a specific episode of a TV series or movie, while ""Reg E"
+5481,2476,False
+2352,2479,False
+849,2480,False
+4270,2482,True
+4197,2483,False
+1863,2485,False
+5870,2486,False
+1451,2487,False
+5971,2488,True
+5591,2489,Answer: True
+2888,2491,Answer: False
+4965,2493,Answer: False
+3676,2494,False
+1780,2495,True
+3568,2496,Answer: True
+5196,2498,Answer: True
+3300,2499,False
+4301,2500,False
+4726,2502,False
+445,2503,False
+1990,2509,True
+3271,2510,False
+3863,2511,"In this case, the answer would be: True"
+4210,2512,Answer: False
+4655,2513,Example 3: 
+1641,2515,False
+769,2515,False
+1625,2516,False
+3392,2517,True
+5736,2518,Answer: True
+3585,2520,Answer: False
+1125,2521,record 1: The Cosby Show
+2816,2522,False
+4425,2523,False
+5182,2524,False
+590,2525,"record 1: The Amazing Spider-Man (film), record 2: The Amazing Spider-Man (film) Answer with True"
+3178,2525,False
+3604,2527,Answer: False
+2327,2528,False
+4181,2528,False
+564,2529,"False, the records refer to different entities"
+5909,2532,True
+5079,2536,Answer: False
+5593,2537,False
+2300,2538,Answer: True
+2007,2539,Example 1: False
+4400,2540,True
+2339,2541,"False, as the records refer to different stories and characters"
+1821,2542,"In this case, both records refer to the same event, so the answer is True"
+627,2543,Answer: True
+371,2545,False
+3737,2546,Answer: False
+1210,2547,False
+3253,2548,False
+849,2550,False
+5763,2553,Record descriptions:
+541,2554,False
+2365,2555,Answer: True
+5886,2556,False
+1906,2557,"False, as ""Alan"" and ""Alenah"" are different people"
+3271,2558,False
+4256,2559,False
+3457,2559,False
+575,2561,False
+2394,2566,"record 1: The Dark Knight- Christopher Nolan 'The Dark Knight is a 2008 superhero film directed, produced, and written by Christopher Nolan"
+2720,2567,"False, the second record provides additional context that distinguishes it from the first"
+3913,2570,True
+926,2571,False
+3324,2572,"If both records refer to the same person named Thomas, answer with True"
+530,2573,True
+4745,2575,Answer: False
+50,2577,Answer: True
+1563,2578,True
+4592,2579,"Answer: False, as ""guestStars"" implies that Conan O'Brien is appearing on a different show, and not referring to the same entity as the first record where he is the host of his own show"
+1869,2580,False
+5650,2581,"False, as both records describe different cases/investigations"
+5526,2583,False
+2362,2585,Answer: True
+2290,2587,"If the episodes are referring to two different shows, then answer is False"
+4499,2587,"If the episodes refer to the same series, then the answer is True"
+3526,2587,"If the episodes are referring to the same TV show, answer with True"
+1133,2588,False
+3290,2591,Answer: True
+2283,2593,True
+5901,2597,False
+5641,2599,Your task is to determine whether the two records refer to the same entity or not
+4116,2601,Answer: True
+3712,2602,False
+575,2605,"record 1: Doctor Who (TV series), record 2: The Lazarus Experiment (Doctor Who episode)"
+408,2606,"If both episodes are referring to the same television show, answer with True"
+5619,2607,Answer: False
+4264,2608,Answer: True
+168,2609,False
+3271,2610,False
+3675,2612,Answer: True
+541,2613,Answer: False
+284,2614,Answer: False
+4858,2615,True
+919,2616,True
+4691,2617,True
+1396,2618,False
+2809,2619,False
+3447,2620,False
+3271,2621,"record 1: Albert Einstein Albert Einstein was born on March 14, 1879"
+1422,2623,"If both records refer to the same person (Kristina Romanova and Kristina ""Keyyo"" Petrushina are the same person), answer with True"
+3348,2626,Answer: False
+5484,2627,"False, as both records describe the same scene and investigation"
+5232,2628,False
+3783,2630,Answer: False
+3681,2631,False
+5197,2632,False
+5750,2636,False
+3647,2638,True
+5315,2640,False
+161,2641,False
+2437,2643,Answer: True
+2809,2646,"record 1: To Kill a Mockingbird 1962-12-18 1962-07-01, record 2: Based on the novel by Harper Lee"
+1833,2648,False
+3036,2650,False
+291,2651,False
+4986,2652,False
+2013,2653,Answer: False
+5155,2655,False
+3687,2656,"Both records refer to the same event, so answer should be: True"
+3762,2657,True
+193,2658,False
+1726,2659,"False, as the two records describe different stories with different characters involved in different murders"
+4109,2661,False
+1148,2662,True
+3109,2664,False
+431,2668,Answer: False
+425,2668,"If they refer to the same person, answer with True"
+2280,2669,Answer: True
+3271,2671,False
+305,2673,Answer: False
+2923,2675,False
+1266,2676,Answer: False
+779,2678,False
+514,2680,Answer: False
+1113,2681,False
+1309,2682,"If the episodes discussed in both records refer to the same television show, then answer is True"
+1759,2683,False
+1369,2685,False
+2853,2686,Answer: True
+2286,2688,False
+5580,2689,Answer: True
+5195,2690,Answer: False
+4008,2691,False
+1469,2692,Answer: True
+3767,2693,Answer: False
+766,2694,Answer: True
+1994,2695,False
+3628,2697,Answer: True
+5653,2698,Answer: False
+27,2698,False
+4546,2699,"False, as the given record descriptions refer to two different episodes of the TV show ""Law & Order: Special Victims Unit"" (justice being a subsidiary division within the show's fictional universe)"
+4277,2700,Answer: True
+2987,2701,True
+2809,2702,Answer: False
+3079,2703,False
+1038,2704,"False, despite both records mentioning ""Mushroom Farmer"" as a job, they refer to different individuals based on the context provided in record 2"
+4818,2706,True
+2350,2707,"record 1: The Blood Spray of Goemon Ishikawa, Part 2"
+2809,2708,False
+175,2710,False
+3665,2711,False
+1132,2714,False
+3283,2715,"False, as these are two separate events involving Ace's weather-themed magic show being disrupted by bad weather caused by extortionists targeting Mr"
+5687,2716,Answer: True
+2966,2717,False
+0,2720,False
+990,2721,False
+3243,2722,False
+2026,2722,Answer: False
+883,2723,False
+3468,2725,True
+4726,2726,False
+5875,2726,False
+1419,2727,False
+5597,2728,"record 1: The Beatles - Abbey Road, record 2: The Beatles - Let It Be Answer with True"
+1612,2729,Answer: True
+4083,2730,False
+5739,2733,False
+897,2734,False
+1056,2735,"Record 1 and Record 2 both refer to the death of teenager Will Hudson in Manchester, so the answer would be True"
+2809,2736,Your task is to determine if both records refer to the same entity (person or production) or not based on the provided information
+5527,2738,Answer: True
+5250,2739,False
+2960,2740,False
+261,2741,"record 1: Barack Obama 2007-11-15 President of the United States, record 2: Barack Obama 2007-11-15 Democratic Party politician, Senator from Illinois"
+175,2743,False
+3424,2744,Example 3:
+3995,2746,False
+4096,2747,Answer: True
+4262,2748,True
+5177,2752,False
+3929,2753,Answer: False
+1365,2754,True
+2470,2756,False
+5932,2757,False
+1362,2759,False
+2787,2761,Answer: True
+3552,2762,"record 1: The Killing Fields of Truro 'For the 2008 launch of Crime Investigation Australia CI presents the complete and compelling story of ''The Killing Fields of Truro'', one of the most infamous crimes in Australia and yet another set in Adelaide"
+4241,2763,Answer: True
+2080,2764,False
+2081,2765,True
+4874,2770,Answer: False
+4262,2771,Answer: False
+1898,2772,False
+5794,2773,False
+1805,2774,False
+2809,2775,"Your task is to determine whether the records ""Guest in the Night 1954-08-29 1954-01-01"" and ""Mojo Gentry guestStars"" refer to the same entity or not"
+4813,2776,If Leo Williams and Archie D
+4973,2778,True
+2809,2779,False
+4721,2781,Answer: False
+1377,2782,Answer: False
+3645,2783,False
+3324,2784,Answer: False
+3651,2784,False
+2809,2785,"True, as ""Rose Abdoo guestStars"" in the second record is indicating that she was a guest on the show ""Guest in the Night"" during the specified time period"
+2504,2786,Answer: True
+2335,2787,"False, the records describe two different instances where Skip is diagnosed with Flippball Sleep and visited by Ace and Cosmo"
+1378,2788,Answer: False
+5197,2789,False
+5214,2790,False
+2514,2794,Answer: True
+4109,2795,False
+262,2796,False
+3414,2796,False
+877,2797,"False, as while both records mention William Rabkin and William Ragsdale, they are not necessarily referring to the same entity"
+478,2798,True
+615,2799,False
+5481,2800,False
+2381,2802,False
+5716,2803,False
+5162,2803,False
+1473,2806,Answer: True
+2298,2807,"record 3: Justin Timberlake, *NSYNC - It's Gonna Be Me (Official Video) 1999-05-18 1999-05-25, record 4: Justin Timberlake, *NSYNC - It's Gonna Be Me (Official Video) 1999-05-18 1999-05-25"
+2149,2808,"record 1: The Watson case is being tackled by Pembleton and Bayliss, who are following different leads"
+2952,2811,record 1: Mona's threat incidents
+5554,2812,True
+3027,2813,False
+1078,2814,Answer: True
+2877,2815,False
+3801,2816,False
+5483,2817,"Without additional context, it is impossible to determine if the records refer to the same entity"
+1862,2817,Unknown records provided
+602,2817,False
+2919,2817,False
+121,2817,"Without knowing the actual titles, it's impossible to determine if they refer to the same entity or not"
+1273,2817,"Unknown records provided, cannot determine if they refer to the same entity or not"
+2835,2817,I am unable to determine if the given records refer to the same entity or not based on the provided information
+5789,2819,Answer: True
+3324,2821,Answer: False
+4227,2821,Answer: False
+5403,2822,False
+5688,2824,False
+3730,2826,False
+2809,2828,Record 1 and Record 2 are referring to two different entities
+5646,2830,Answer: True
+2721,2832,False
+344,2833,Answer: True
+5701,2834,Answer: True
+5579,2836,True
+3684,2837,"If the records refer to the same person, answer with True"
+3483,2838,False
+5789,2841,False
+2838,2842,False
+393,2843,False
+1642,2846,True
+443,2847,False
+3846,2849,Answer: True
+4652,2850,"If Al Nelson and Sean Nelson are two different individuals, then the answer is False"
+2489,2851,Answer: False
+3915,2854,False
+5128,2855,Answer: True
+1960,2857,True
+2985,2858,False
+3397,2859,False
+4774,2860,Answer: True
+3151,2862,Answer: False
+2741,2863,Answer: False
+4297,2864,"True, both records are related to Mike Rowe and his show Dirty Jobs"
+2221,2866,False
+1974,2868,False
+5728,2871,Answer: True
+5633,2872,True
+5770,2873,Answer: True
+76,2874,"record 1: The Big Bang Theory Leonard and Sheldon's relationship is examined, while Wolowitz and Koothrappali pursue women"
+3419,2875,False
+1626,2877,Answer: True
+4691,2878,True
+4100,2881,True
+831,2884,False
+4556,2885,False
+1793,2886,record 1: The Inamorata Consequence (episode)
+3745,2887,"record 1: The Grand Budapest Hotel 'The Grand Budapest Hotel tells of a legendary concierge at a famous European hotel between 1932-1960s (imagine it's a cross between the Aga Khan's villa and the Raffles in Singapore, with priceless art collections) and the lobby boy who becomes his trusted friend and eventual protege"
+2205,2888,Answer: True
+1629,2889,Answer: False
+3490,2891,False
+4773,2893,False
+284,2898,False
+2923,2900,False
+4247,2901,False
+154,2903,"record 1: Tom Cruise, record 2: Michael Cruise actor"
+5568,2905,False
+1063,2905,False
+5987,2906,False
+1314,2910,False
+5546,2911,Answer: True
+2542,2912,False
+3106,2913,False
+287,2913,False
+734,2914,False
+1353,2915,False
+4947,2916,Answer: True
+5789,2917,False
+476,2918,"If Lee Wilson and Keith Wilson are two different individuals, the answer is False"
+1566,2921,True
+3331,2922,"record 1: The Big Bang Theory S13E1 - The Vengeful Extraction Polarization 2019-09-24 2019-09-24, record 2: The Big Bang Theory S13E1 2019-09-24"
+5385,2924,False
+1989,2924,False
+1821,2926,Answer: True
+2277,2927,False
+1451,2928,"record 1: Barack Obama, record 2: Barack Obama (spelled as Barak in some sources), answer with True"
+3859,2930,Example 3: 
+3438,2932,False
+5463,2934,Answer: True
+5380,2935,"False, as Jim Smith and Melanie Smith are two different individuals and their appearances cannot be assumed to refer to the same entity unless further context is provided"
+1601,2935,False
+2886,2936,False
+3356,2938,False
+5001,2940,Answer: False
+3695,2942,False
+614,2943,False
+738,2944,True
+2809,2945,False
+2233,2946,False
+4881,2950,False
+5080,2951,False
+3298,2953,True
+476,2956,"If Lee Wilson and Ebboney Wilson are the same person, answer True"
+3100,2957,Answer: False
+4324,2959,False
+568,2961,"record 1: Steve Jobs 2016-09-28 2016-01-01, record 2: Steve Jobs Founder of Apple Inc 2016-09-28"
+2809,2962,False
+5029,2963,False
+1898,2965,Answer: True
+5670,2966,False
+2026,2967,Answer: False
+5558,2969,Answer: True
+5677,2970,False
+1958,2971,False
+434,2973,False
+5096,2975,False
+1275,2977,True
+1726,2978,"False, as the two records describe different stories and sets of characters"
+5981,2979,"record 1: Blood Ties (2) While Pembleton is still interested in the housekeeper's ex-boyfriend, Ballard still thinks that the Wilson family needs to be looked at more closely"
+5735,2981,False
+4924,2982,False
+2248,2984,False
+5948,2987,False
+3177,2988,Answer: True
+1521,2989,False
+4352,2991,"record 1: MTV, record 2: MTV (Music Television) - Answer with False"
+3377,2993,False
+1195,2994,Answer: True
+926,2995,False
+3426,2996,Answer: False
+5223,2999,"record 1: The Beatles, record 2: The Rolling Stones"
+5476,3001,Answer: False
+3981,3003,Answer: True
+3939,3004,False
+5911,3005,False
+4137,3006,False
+4958,3007,Answer: True
+2891,3009,True
+4685,3010,True
+5006,3011,True
+4655,3014,False
+2862,3015,False
+5800,3016,Answer: True
+291,3017,False
+5793,3018,True
+4223,3019,Answer: False
+3708,3020,True
+2435,3021,Answer: True
+5137,3022,False
+393,3023,False
+3624,3024,"Answer: False, although the record descriptions are very similar, they refer to two separate instances of the same show"
+3415,3025,False
+4783,3027,Answer: False
+2816,3028,False
+1442,3029,Answer: True
+2297,3030,False
+3413,3031,False
+2623,3032,False
+2154,3033,False
+2960,3033,False
+1576,3036,True
+1017,3037,Answer: False
+1460,3037,"If the episodes featuring both Kristen Fick and Kristen Valerio are of different shows or storylines, then answer False"
+6032,3038,"Answer: False, as both records refer to the same event and investigation, but they are two separate instances of reporting it (likely in different media or publications)"
+1073,3039,Answer: True
+4725,3041,False
+5482,3043,Example 3: 
+4970,3045,False
+5705,3047,"record 1: Beyoncé Knowles 1981-09-04 1981-01-01, record 2: Yoncé Knowles 1961-01-01 1961-01-01"
+510,3048,False
+3005,3049,False
+2539,3050,Answer: False
+2584,3051,False
+5451,3053,Answer: True
+3775,3054,False
+4054,3056,Answer: False
+2718,3058,False
+5789,3061,False
+2731,3063,"record 1: The Lion King (1994) Soundtrack, record 2: The Lion King (Soundtrack) 1994"
+723,3064,False
+4843,3065,Both records describe the same episode of a TV show
+1490,3066,False
+615,3067,False
+3419,3069,Answer: True
+1378,3071,"Record 1 and Record 2 both refer to the same story, ""Koimonogatari [5] Hitagi End - Part 5"" and ""Hitagi End - Part 1"""
+532,3073,Answer: False
+5540,3074,False
+2272,3075,Answer: False
+175,3076,False
+201,3078,"record 1: Omar Williams, record 2: Amos 'n' Andy (referred as the show)"
+625,3079,False
+5733,3081,"False, as the records refer to different entities"
+2968,3082,Answer: True
+3613,3083,False
+4120,3084,Answer: True
+1344,3085,False
+3692,3086,False
+4177,3087,Answer: True
+5570,3092,Answer: True
+5325,3093,True
+1551,3094,False
+3328,3101,False
+4265,3102,"False, as the record descriptions are for different episodes of a TV show"
+56,3104,"False, the records refer to different trips and episodes"
+4199,3106,Answer: False
+2043,3107,False
+5223,3108,"False, although both records mention Mozart and Don Giovanni, they refer to different events as evidenced by the context of Bertramka and František's interactions with Mozart"
+5627,3110,Answer: False
+2211,3111,Answer: True
+2067,3113,Answer: True
+5746,3115,Answer: True
+3064,3116,False
+175,3117,Answer: True
+3704,3119,Answer: False
+2461,3122,"record 1 and record 2 both involve a murder investigation (woman found dead in hotel room in record 1, woman murdered in Manchester hotel in record 2), so the answer is: True"
+4955,3124,True
+5663,3126,True
+1578,3129,Answer: True
+1197,3132,False
+3077,3133,True
+5737,3134,False
+1768,3136,False
+1042,3137,Answer: False
+1329,3138,Answer: False
+753,3140,Answer: True
+706,3141,False
+4000,3141,Answer: False
+2367,3144,Answer: False
+3127,3146,False
+2660,3147,record 1: Virtual Fatality Ace Cooper disappeared during his teleportation trick and was kidnapped by two men in a van
+816,3148,Answer: True
+4219,3149,Answer: False
+4972,3150,False
+4184,3152,False
+3333,3152,False
+5443,3154,True
+2355,3157,Answer: True
+5570,3158,True
+4483,3159,False
+1564,3162,False
+2243,3164,False
+1213,3166,False
+31,3168,"False, as both records are describing the same episode of a drama series, but they contain different scenes"
+3261,3171,record 1: The Prophecy (1999)
+1028,3172,Example 3:
+1525,3174,Answer: True
+3706,3175,True
+5238,3177,False
+393,3178,False
+4549,3181,False
+2988,3184,False
+3172,3185,False
+4077,3186,True
+5502,3189,False
+4942,3189,False
+318,3192,False
+4885,3195,False
+3114,3197,False
+1493,3198,Answer: False
+1088,3199,False
+4331,3200,False
+3134,3202,Answer: True
+2070,3203,True
+1571,3205,False
+5518,3205,False
+4698,3207,False
+4986,3208,False
+3351,3210,False
+3133,3211,False
+1439,3213,False
+1551,3214,False
+3341,3215,"record 1 and record 2 both refer to characters in the anime series ""Monogatari Series: Second Season"""
+2031,3216,True
+177,3218,False
+1487,3220,Answer: True
+5295,3222,True
+3515,3223,False
+5671,3226,"Answer: False, as Daniel and Daniels are two different names"
+3013,3226,False
+4247,3228,False
+5137,3229,False
+4511,3230,False
+4986,3231,False
+1254,3232,Answer: True
+445,3233,False
+1642,3234,Answer: True
+2592,3236,Answer: True
+2581,3238,Answer: True
+1928,3242,Answer: False
+1981,3242,False
+1754,3247,False
+100,3248,False
+2955,3250,False
+4703,3251,False
+4103,3252,False
+652,3255,False
+4151,3256,False
+4970,3258,False
+3271,3259,False
+5938,3260,Answer: False
+4700,3261,False
+1356,3261,False
+2668,3262,Answer: True
+213,3263,False
+5831,3264,"record 1: The Fate of the Furious (film), record 2: Furious 8 (alternative title) guestStars Vin Diesel"
+4682,3265,False
+1155,3268,False
+1461,3269,False
+3253,3269,False
+4247,3270,False
+4968,3271,Answer: False
+2215,3272,True
+1584,3273,False
+2026,3274,False
+3497,3275,False
+5194,3277,Answer: True
+2809,3278,Example 3:
+1972,3279,False
+5315,3279,False
+2816,3280,False
+373,3281,False
+1058,3282,Answer: True
+2826,3283,"False, as the two records describe different cases and murders"
+4807,3284,Answer: False
+128,3285,True
+3935,3286,False
+1202,3287,Example 3:
+4365,3289,False
+2176,3290,Answer: False
+498,3291,False
+2334,3293,False
+5004,3295,Answer: False
+2639,3299,"False, as the records are describing different instances of Larry's experience with Chet's Shirt and Ted Danson"
+4978,3301,Answer: True
+258,3304,Answer: True
+1396,3305,True
+1909,3306,Answer: False
+2162,3307,Answer: True
+2093,3308,Answer: True
+4163,3310,False
+1217,3311,False
+3645,3312,Answer: False
+4067,3314,"record 1: Kim Jae-wook 2021-03-26 2021-01-01, record 2: Kim Jae Wook (hangul: 金在甫; born September 8, 1984) is a South Korean actor and model"
+3691,3317,Answer: True
+307,3319,Answer: True
+2240,3320,False
+4707,3321,True
+3819,3322,"record 1: The Big Bang Theory (TV Series) 2007-09-24 2007-05-02, record 2: The Big Bang Theory (TV Series) 2007-09-24"
+4118,3323,False
+1699,3323,Answer: False
+5847,3324,"Example 3: record 1: Apple iPhone 6 Plus (Gold, 64 GB) - Verizon Wireless"
+3915,3325,Answer: False
+3711,3326,Answer: False
+5099,3326,False
+324,3326,False
+5704,3327,Answer: False
+4596,3328,False
+4183,3329,False
+1944,3330,Answer: True
+4739,3331,False
+2051,3332,False
+2809,3333,"record 1: Alfred Hitchcock Presents (TV series episode) 1961-02-05 1960-01-01, record 2: The Farewell Party guestStars"
+3814,3336,Answer: True
+1771,3338,record 1: Amazon
+1951,3339,False
+562,3340,False
+1211,3341,"False, as both records describe different investigations and events, although they share some characters such as Mike and Frank"
+5182,3342,False
+5132,3345,Answer: False
+5568,3346,True
+5605,3347,False
+2327,3348,False
+4181,3348,False
+5664,3349,Answer: True
+5250,3351,False
+1938,3352,False
+5693,3354,False
+2478,3355,"Answer: False, as they describe two separate instances of Nadeko being under the effects of a Snake Constrictor curse"
+2812,3357,Answer: True
+3759,3358,True
+55,3360,Answer: False
+3605,3361,False
+3864,3362,Answer: False
+3768,3363,False
+5930,3365,False
+3426,3366,Answer: False
+4202,3368,"False, while both individuals mentioned are famous actors, they played different characters in separate shows"
+4066,3369,False
+2772,3370,True
+4911,3372,True
+3140,3374,"False, as the individuals and events described in each record are different"
+1240,3377,Answer: False
+2452,3378,True
+1146,3381,False
+1569,3383,False
+264,3384,Answer: True
+785,3385,True
+5277,3388,Answer: False
+2793,3389,False
+733,3390,True
+5309,3391,False
+5789,3392,False
+3538,3393,True
+4132,3394,"False, as the record descriptions are about two different events - one in 2007 and another in 2005 - regarding the disappearance of Donald Mackay and the murder of Robert Aussie Bob Trimbole"
+4398,3396,False
+3549,3397,False
+4104,3399,"record 1: Help Wanted, Male, 2002-06-30, 2002-01-01"
+4581,3400,True
+896,3402,True
+3102,3403,False
+2756,3404,Answer: True
+5682,3405,"If the individuals named in both records are referring to the same person, answer with True"
+2809,3406,"record 1: Charlie Chaplin's Great Dictator (film) 1940-10-14 1940-01-01, record 2: The Great Dictator is a 1940 satirical political comedy-drama film written, produced, directed by, and starring Charlie Chaplin"
+248,3407,Answer: False
+5058,3408,Answer: False
+3358,3409,Example 3: record 1: Elon Musk's SpaceX launches Falcon Heavy rocket
+4618,3410,Your input records are as follows:
+152,3411,False
+4700,3413,False
+1356,3413,False
+1578,3414,Answer: False
+4484,3415,True
+2860,3416,False
+5995,3418,Answer: True
+1059,3419,True
+6014,3420,True
+2751,3423,False
+3630,3424,"The two records describe the same event, specifically the story of how Fujiko Mine and Lupin III first met"
+4178,3425,False
+4233,3431,Answer: False
+2316,3432,False
+3923,3433,Answer: True
+2884,3434,False
+1665,3434,Answer: False
+801,3436,False
+2826,3437,False
+1800,3438,False
+3211,3439,False
+5700,3440,True
+4332,3441,False
+3637,3442,False
+1131,3444,False
+1197,3445,False
+833,3446,"Answer: False, as there are two separate record descriptions describing different instances"
+3887,3447,Answer: False
+4604,3448,False
+3973,3449,"False, both records refer to the same episode of Law & Order: Special Victims Unit"
+4658,3451,False
+2157,3453,False
+4727,3456,False
+160,3458,False
+673,3460,False
+2809,3461,Example 3: 
+5247,3463,"If the two individuals named Oz Scott and Kelsey Scott are separate entities, then answer should be False"
+5830,3465,False
+951,3466,Answer: False
+3211,3467,record 1: Ashley Walters plays the role of Jason Collins in Top Boy; record 2: Ashley Walters plays the role of Dushane in Top Boy
+1934,3469,False
+4963,3470,False
+2809,3472,False
+1732,3473,Answer: True
+3087,3474,True
+386,3475,False
+5241,3476,True
+4976,3478,Answer: True
+3106,3479,"False, as Elaine Morgan and Vinta Morgan are two different people, although they may be related by family ties (mother-daughter, for example)"
+287,3479,Answer: False
+3013,3480,False
+5671,3480,Answer: False
+3853,3482,False
+2362,3483,Answer: False
+4922,3485,Answer: True
+2316,3486,False
+339,3486,False
+1361,3488,False
+5860,3490,True
+2983,3491,Answer: True
+5297,3492,Answer: False
+1981,3494,False
+5276,3495,Answer: True
+1587,3496,Answer: True
+2394,3497,Answer for Example 3: False
+5911,3498,True
+1181,3499,Answer: False
+4025,3500,False
+3458,3501,Answer: False
+955,3504,Answer: True
+5735,3505,Answer: False
+1118,3507,Answer: True
+4469,3508,True
+5151,3510,True
+5263,3512,"record 1: The Big Bang Theory (TV series), record 2: Brooklyn Nine-Nine (TV series)"
+1215,3515,"False, as both records describe the same event and thought process"
+5304,3516,Answer: False
+3488,3519,Answer: False
+5967,3520,"Record 1 and Record 2 are not related, as they do not refer to the same entity or characters"
+4245,3522,False
+2809,3523,False
+5189,3525,True
+2258,3526,Answer: True
+4698,3527,Answer: True
+3308,3528,True
+1797,3529,True
+28,3530,Answer: False
+4171,3530,False
+1647,3531,Answer: True
+1711,3532,"Answer: False, as ""Zach Galifianakis"" refers to a person, while ""Between Two Ferns with Zach Galifianakis"" refers to a specific interview series hosted by Zach Galifianakis"
+1943,3533,True
+1422,3534,False
+1788,3536,False
+2463,3537,False
+1646,3539,Answer: True
+2884,3540,False
+3719,3541,False
+2955,3542,Answer: False
+177,3544,"record 1: Supernatural (TV series), record 2: Supernatural (TV series)"
+5671,3549,False
+5455,3550,False
+567,3551,False
+71,3552,Answer: True
+62,3553,False
+5593,3555,Answer: False
+1776,3556,Answer: False
+866,3557,Answer: False
+1603,3558,True
+2226,3559,Example 3: 
+3271,3560,False
+1040,3561,False
+459,3563,False
+3695,3566,False
+1297,3567,False
+3806,3568,False
+6050,3569,"False, as while both records mention the last name ""Thorne"", they refer to different individuals"
+5493,3570,False
+3257,3571,Answer: True
+5901,3572,True
+2350,3574,"False, the records are referring to two separate events and characters"
+1245,3577,Answer: Unclear without further context about the specific records being referred to
+3684,3580,False
+1446,3581,False
+519,3581,False
+253,3582,Answer: True
+5776,3583,Answer: True
+3860,3584,False
+2289,3585,Answer: False
+802,3586,True
+2084,3589,False
+3339,3590,Example 1: False
+5067,3592,Answer: True
+3104,3593,False
+4472,3596,False
+5469,3597,Answer: True
+3271,3602,"record 1: Stephen King Stephen King was born on September 23, 1947"
+3710,3607,False
+3071,3608,False
+295,3610,False
+4550,3611,"False, the two records are about different stories"
+3737,3613,False
+2154,3614,Answer: False
+2960,3614,False
+990,3616,Answer: False
+5086,3617,Answer: True
+1954,3619,False
+2809,3620,"Answer: False, as ""Guest in the Night"" and ""Pat Colby guestStars"" describe different entities"
+2451,3622,False
+1916,3624,False
+5761,3625,False
+4569,3627,False
+1718,3628,False
+2987,3629,False
+402,3630,False
+324,3631,False
+1830,3634,False
+1029,3635,False
+2075,3636,False
+866,3636,False
+3752,3637,Answer: True
+175,3638,False
+4393,3641,Answer: True
+4650,3642,False
+1970,3643,Answer: True
+768,3644,False
+402,3646,False
+1373,3647,False
+327,3648,False
+5960,3649,Answer: True
+4925,3650,False
+4777,3651,"To determine if two records refer to the same entity, we need to analyze the information provided in each record"
+2953,3652,"If the records are referring to two different individuals named David and Jill Ritchie who are both guest stars in separate episodes, then the answer is False"
+4807,3653,False
+5394,3654,True
+2086,3655,True
+3271,3656,False
+1013,3659,Answer: True
+3527,3660,False
+706,3660,False
+2102,3662,False
+838,3662,Answer: False
+5968,3663,True
+1579,3664,False
+4048,3665,Answer: False
+1066,3666,"record 1: The Smiths, formed in 1982-11-07, disbanded in 1987-02-15; record 2: The Smiths, active from 1982 to 1987"
+5346,3667,Answer: True
+160,3668,False
+3897,3670,False
+869,3671,"In this case, the answer is not immediately clear as we do not have enough information from the second record to determine whether it refers to the same episode or a different one"
+2809,3672,"Record 1: The Day of the Iguana 1971-06-27 1971-01-01, Record 2: The Day of the Locust 1975-07-28 1975-01-01"
+1951,3673,False
+791,3674,False
+1934,3677,False
+3618,3679,Answer: True
+3607,3681,Answer: True
+1839,3682,False
+5483,3684,False
+1862,3684,False
+602,3684,False
+2919,3684,I am not provided with the full context of these records
+121,3684,False
+1273,3684,I'm sorry but the information provided is not sufficient to determine whether the records refer to the same entity or not
+2835,3684,False
+1486,3686,False
+1998,3687,"Both records refer to the same person, Carl Williams, also known as the Baby Faced Killer"
+3322,3688,False
+52,3689,False
+2987,3690,Answer: False
+2890,3692,False
+1889,3693,Answer: False
+2221,3694,Answer: False
+1981,3696,False
+1928,3696,False
+3695,3698,False
+236,3699,True
+4874,3701,Answer: False
+4262,3702,False
+5743,3703,False
+2809,3704,False
+1117,3705,"record 1: The Night Caller: Eric Edgar Cooke (2008-04-27, 2008-01-01)"
+2219,3706,False
+2779,3707,Answer: False
+5883,3708,Example 3:
+1085,3709,False
+2073,3710,False
+2508,3712,True
+1553,3713,True
+5950,3715,False
+2774,3716,True
+5016,3722,False
+3540,3724,False
+4051,3724,False
+4498,3727,Answer: True
+4807,3729,False
+1835,3730,False
+2465,3733,Answer: True
+2809,3735,False
+160,3736,False
+825,3737,True
+3271,3739,"record 1: Neil Armstrong Neil Armstrong (August 5, 1930 – August 25, 2012) was an American astronaut and aeronautical engineer, who was also a naval aviator, test pilot, and university professor"
+3157,3740,Answer: False
+5697,3742,True
+2011,3743,False
+1523,3744,Answer: False
+878,3747,False
+195,3748,False
+3290,3750,Answer: False
+2690,3752,"If the episode number and air date match for both records, then they likely refer to the same episode"
+5095,3752,False
+1373,3752,False
+3907,3752,False
+3857,3752,False
+208,3752,False
+5812,3753,True
+2923,3754,False
+5206,3755,False
+1110,3757,Answer: False
+1048,3758,Answer: True
+5421,3759,Answer: True
+5202,3760,Answer: True
+4236,3761,True
+168,3764,False
+3306,3765,Answer: True
+754,3766,False
+2370,3767,Answer: True
+5973,3768,True
+2809,3769,This is a new example provided by the user
+4236,3774,Answer: True
+4155,3778,False
+863,3780,Example 3: 
+1300,3781,False
+1593,3782,True
+4347,3784,False
+1711,3785,False
+4156,3786,False
+2316,3789,False
+5278,3791,"False, as Iain Smith and Ron Clinton Smith are two different people"
+2939,3792,False
+611,3793,False
+4577,3794,False
+5906,3795,False
+2786,3796,"To determine if the records refer to the same entity, we need to consider the information provided in both records"
+275,3798,False
+5215,3799,False
+4621,3801,True
+2074,3802,False
+5621,3803,Answer: True
+3921,3804,Answer: True
+5729,3805,Answer: True
+5742,3806,False
+645,3807,Answer: True
+385,3808,Answer: True
+2564,3809,False
+858,3810,True
+5170,3811,Answer: False
+547,3812,Answer: False
+5761,3813,False
+5608,3814,False
+2616,3816,Answer: True
+4352,3822,False
+498,3823,False
+4784,3824,False
+1949,3826,"False, as Bret Stewart and Jon Stewart are two different individuals in this context"
+3501,3827,False
+1920,3829,Answer: True
+5199,3830,Answer: True
+2085,3831,False
+4986,3833,False
+1997,3834,False
+1119,3835,False
+736,3836,Answer: True
+2350,3838,"Answer: False, as the date for the second record is different"
+3656,3840,Both records refer to the same event
+5259,3841,record 1: F-O-L-L-W T-H-R-OUGH The DiMeos realize they have great intentions but lack follow-through when it comes to … everything
+4259,3843,"False, as the records are describing two different instances involving Crosetti's death and investigation"
+1273,3845,I am unable to determine if the records refer to the same entity without knowing what is in the descriptions
+5483,3845,False
+2835,3845,Not enough information provided to determine if the records refer to the same entity or not
+121,3845,I am unable to determine if the records refer to the same entity without the necessary information
+602,3845,"Without knowing the specific record descriptions, it is impossible to determine if they refer to the same entity"
+1862,3845,False
+2919,3845,"Unknown records provided, cannot determine if they refer to the same entity"
+2987,3846,"If they both refer to the same person, Holly Dale, then answer is True"
+4735,3848,True
+3799,3851,False
+3394,3853,False
+1385,3853,False
+4385,3854,Answer: False
+284,3855,False
+6034,3856,False
+3551,3858,False
+5902,3859,Answer: True
+2154,3860,Answer: False
+2960,3860,"record 1: The Amazing Spider-Man (2012), record 2: The Amazing Spider-Man (2012) Answer with True"
+3684,3862,False
+4023,3863,"False, as the date mentioned in record 2 is different from the one mentioned in record 1"
+4005,3864,Answer: True
+3361,3865,"False, as both records are describing different episodes of the TV show ""Homicide: Life on the Street"
+3721,3866,False
+3271,3867,False
+4161,3869,Answer: True
+4107,3870,False
+4807,3871,False
+3562,3873,Answer: True
+4037,3876,False
+679,3877,False
+2890,3878,Answer: False
+133,3879,False
+2710,3882,Answer: False
+1441,3884,Record 1 and Record 2 are not referring to the same entity
+443,3885,False
+2748,3886,Answer: True
+2967,3887,"record 1: New York Baz, Nancy and the mammies head to New York to ride bicycles on a high wire between two skyscrapers"
+1162,3888,Answer: True
+4511,3890,False
+1636,3893,record 1: The Simpsons 'The Simpsons is an American animated sitcom created by Matt Groening for the Fox Broadcasting Company
+5864,3895,Answer: True
+262,3896,False
+198,3896,"False, as Samuel Barnett and Barnett Lloyd are two different people"
+178,3897,False
+2759,3901,False
+1372,3902,"Record 1 and Record 2 are not referring to the same entity, hence the answer would be False"
+1424,3904,True
+4314,3905,False
+679,3907,False
+424,3908,False
+5483,3909,"Without knowing the specific records, it is impossible to determine whether they refer to the same entity or not"
+1862,3909,"Unknown records provided, cannot determine if they refer to the same entity or not"
+602,3909,"Without any additional context, it is impossible to determine if the records refer to the same entity"
+2919,3909,"Without knowing the contents of the records, it is impossible to determine whether they refer to the same entity or not"
+121,3909,"I'm sorry, but you haven't provided enough information to determine if the records refer to the same entity or not"
+1273,3909,"Without knowing the actual titles and directors, it is impossible to determine whether they refer to the same entity or not"
+2835,3909,Unknown records provided
+1356,3910,False
+4700,3910,False
+2297,3910,False
+2826,3911,Example 3: 
+89,3912,False
+1252,3914,Answer: True
+5398,3916,Answer: True
+734,3917,False
+678,3918,True
+5850,3920,Answer: True
+4888,3921,"record 1: The Great Wall of China: A Symbol of Unity and Protection The Great Wall of China: A Symbol of Unity and Protection explores the cultural and historical significance of this iconic structure, from its construction during ancient Chinese dynasties to its role as a symbol of national identity and pride in modern times"
+599,3922,"record 1: The Godfather Part II 1974-03-14 1974-01-01, record 2: The Godfather III 1990-03-25 1990-01-01"
+3453,3923,True
+5199,3924,Answer: False
+1788,3927,False
+3781,3928,False
+4506,3929,"record 1: Morgan Johnson, record 2: Kasey Kahlo were both politicians from Liberia?"
+3935,3932,False
+1591,3935,False
+3406,3937,Answer: True
+5758,3938,True
+30,3939,False
+4371,3941,False
+9,3942,Answer: False
+4091,3943,Answer: True
+5289,3946,True
+5671,3947,"If the records refer to the same person named Daniel, answer with True"
+5476,3948,False
+4542,3948,False
+4813,3948,False
+5139,3949,False
+1112,3950,False
+5926,3951,False
+2947,3952,Answer: True
+2047,3953,"If they refer to the same person, answer True"
+1189,3954,Answer: False
+3271,3955,False
+5512,3957,False
+2414,3959,Example 3:
+3548,3963,Example 3:
+2322,3964,False
+4137,3967,False
+3063,3968,Example 3: 
+4830,3969,True
+3586,3970,"If the records are referring to the same person (Geeta Patel), answer with True"
+5917,3971,False
+443,3973,False
+2615,3974,True
+5429,3977,"False, the records refer to different entities"
+284,3978,"If the episode features two different characters named Andrew Eio and Andrew Sykes as guests, then the answer is False"
+4321,3979,False
+1955,3980,Answer: True
+679,3982,False
+4970,3984,False
+3414,3986,record 1: J
+4794,3989,Answer: True
+2968,3990,Answer: True
+2312,3991,The records refer to the same entity (True
+3240,3994,True
+4161,3997,False
+5229,3998,True
+2960,3999,Answer: False
+5259,4001,Answer: True
+2333,4003,False
+5301,4004,Answer: True
+600,4006,True
+713,4007,True
+3187,4008,Example 3: 
+2892,4010,False
+2809,4012,Example 3: 
+4848,4013,Answer: True
+3004,4014,Answer: True
+1839,4017,False
+1876,4018,False
+4986,4019,False
+404,4023,Answer: True
+3215,4024,True
+368,4025,"Answer: False, as the second record provides additional information such as the year range and number of episodes, indicating that it may refer to a different series or season with the same name"
+501,4026,False
+1421,4027,Example 1: True
+79,4028,Answer: True
+4655,4030,Answer: False
+5664,4032,Example 3: 
+2929,4033,Answer: False
+3581,4033,Answer: False
+359,4035,False
+1116,4039,True
+4011,4041,False
+614,4042,False
+1197,4043,False
+1020,4045,True
+2788,4046,Answer: True
+5007,4047,False
+1507,4049,False
+3583,4051,Your task is to determine if both records refer to the same episode of a show or not based on the given information
+2660,4052,Example 3: Ace Cooper MTV Virtual Fatality Ring Theater Jimmy Hagen 200th anniversary celebration disappearance replacement audition decendant of founding family mental hospital quitting magic shocking announcement stows away in van ancient city perfectly preserved by Hengers robot caretakers banished for free will trustworthy malfunctioning Henger find a way inside
+4198,4053,False
+4400,4054,False
+3287,4055,Answer: True
+1823,4058,False
+5771,4059,False
+561,4060,Answer: True
+3377,4062,False
+720,4064,False
+5249,4065,False
+3856,4068,Answer: True
+3784,4069,"In this case, both records refer to the same entity (Tsubasa Hanekawa's house fire) and should be answered with ""True"""
+5065,4070,False
+3932,4072,Answer: True
+2987,4073,False
+4483,4074,Answer: True
+5231,4076,False
+2221,4078,False
+338,4079,False
+2416,4083,False
+2782,4084,record 1: Beyoncé - Crazy in Love (feat
+4592,4085,Answer: False
+767,4087,"record 1: The X-Files (Season 6) - Episode 12 ""Musings Cugel"""
+762,4091,"If the two episodes are referring to the same story or event, answer with ""True"
+4838,4092,False
+3161,4097,False
+1910,4097,False
+459,4101,False
+5349,4102,Answer: True
+4901,4103,False
+1998,4104,"Example 1: False, as MTV in both records refers to a media company"
+204,4105,Answer: False
+1432,4107,Answer: True
+2466,4109,True
+5223,4110,True
+740,4111,"False, as the two records provide slightly different information about the source they were taken from (one mentions ""record 1"" and the other does not)"
+4986,4112,False
+5168,4113,True
+2977,4114,Answer: True
+434,4117,False
+1958,4120,Answer: True
+603,4124,"False, as both records describe different instances of the same ongoing investigation or series of events"
+4229,4125,False
+4083,4126,False
+4822,4128,Answer: True
+1385,4131,Answer: True
+5130,4132,Answer: True
+2263,4133,False
+2809,4134,"True, if Ashlyn Ani played both roles in Guest in the Night (1954), or if the second record refers to a different episode of the same TV series as the first one, with Ashlyn Ani appearing as a guest star"
+4037,4136,False
+1290,4140,False
+3524,4142,False
+6029,4143,False
+1951,4148,Answer: False
+5340,4149,Answer: False
+2494,4150,True
+1726,4151,"For the second example, the answer is False as while both records involve murders, they do not appear to be related in any way beyond being separate crime dramas"
+2001,4152,False
+819,4153,False
+1446,4154,False
+2255,4155,False
+4549,4160,False
+2405,4161,Answer: True
+601,4162,"Both records refer to the same entity, therefore the answer is True"
+723,4163,False
+3066,4164,False
+5016,4164,False
+3271,4168,"record 1: Stephen Hawking Stephen William Hawking CH CBE FRS FRSA (8 January 1942 – 14 March 2018) was an English theoretical physicist, cosmologist, and author who was a Lucasian Professor of Mathematics at the University of Cambridge"
+3170,4169,True
+1206,4170,False
+632,4171,False
+1711,4172,Answer: False
+919,4173,Answer: False
+3608,4174,Answer: True
+765,4175,False
+3671,4176,False
+5476,4178,False
+5247,4179,False
+5632,4180,Answer: False
+3771,4180,Answer: False
+5139,4181,False
+45,4182,Answer: True
+4961,4183,Answer: True
+2884,4184,True
+702,4185,True
+5848,4187,False
+2443,4188,False
+4793,4189,True
+4384,4190,False
+2973,4193,False
+5649,4195,Answer: True
+2415,4196,True
+434,4197,False
+5740,4199,"False, as the dates provided are different for each record, indicating that they likely refer to two separate events or investigations"
+4198,4200,True
+2730,4203,False
+5671,4205,"False, as there could be multiple people named Daniel who are writers"
+6037,4206,Answer: True
+5151,4207,Answer: True
+926,4209,False
+3454,4210,False
+144,4210,False
+5381,4211,True
+780,4212,False
+2809,4213,False
+827,4214,"False, as the examples provided are separate tasks and do not require a comparison between the two records"
+3507,4216,False
+2977,4217,False
+1986,4219,False
+5448,4220,False
+840,4220,"Record 1: ""Superhero Fight Club"" Anders, episode 103; Record 2: ""America's Got Talent"" Judah Friedlander appears as a contestant in the episode ""Judges Cut"" (season 8, episode 6)"
+5126,4222,False
+4137,4223,False
+3710,4224,False
+5422,4225,False
+1208,4225,False
+4698,4226,False
+5341,4227,"If Jamie Young and Keone Young are two different individuals, then the answer is False"
+1889,4228,"record 1: This is a continuation of a story involving Detective Inspector Rachel Bailey and her team, as they investigate the murder of a young Turkish woman made to look like suicide"
+3878,4229,False
+2872,4230,False
+3082,4231,Answer: True
+2701,4232,True
+2960,4234,False
+2154,4234,False
+274,4235,Answer: False
+1333,4236,False
+2689,4237,"Answer: False, as record 1 summarizes two separate events that happened on different dates (shop therapy for Mary Jane and Paul Jr"
+5119,4238,False
+5048,4240,False
+5114,4242,"Record 1: Batman (1) After discovering a series of murders in Gotham City, Batman begins his own investigation to uncover the killer's identity"
+2878,4243,Answer: True
+4682,4244,False
+5223,4245,Example 3: 
+651,4247,False
+4936,4248,Answer: True
+2565,4249,False
+3728,4251,Answer: True
+3044,4252,True
+913,4253,False
+4922,4254,Answer: False
+615,4256,False
+5670,4257,False
+4691,4260,Answer: True
+5675,4264,Answer: False
+2469,4266,True
+5431,4267,Answer: True
+1646,4268,False
+12,4272,False
+757,4275,Example 3:
+5627,4277,False
+2431,4279,Answer: True
+1805,4283,False
+3555,4287,Answer: False
+2054,4290,Answer: True
+2809,4291,"record 1: Perry Mason: The Case of the Twisted Cord 1960-03-27 1958-01-01, record 2: Perry Mason: The Case of the Twisted Sister 1961-12-04 1959-01-01"
+4711,4295,True
+3741,4296,False
+1876,4299,True
+2961,4300,True
+4652,4303,"False, as Al Nelson and Kevin Nelson are two different individuals and cannot be considered the same entity unless provided with further context that suggests otherwise"
+4156,4305,False
+1813,4310,"record 1: Modern Family: Season 5, episode 3 - ""Spaghetti and Meatballs"", Aron Paramor appears as a waiter"
+463,4311,False
+3424,4312,True
+4256,4314,False
+3457,4314,False
+4566,4315,Answer: False
+1212,4316,"Example 3: record 1: Barack Obama delivered a speech to a joint session of Congress on February 24, 2009"
+4139,4318,"In Example 3: Both records refer to different black panthers, so the answer is False"
+1028,4319,Example 3: 
+2530,4320,Answer: True
+3749,4321,record 1: A study on the effects of a high-protein diet on weight loss and muscle gain
+597,4322,False
+5908,4323,True
+4040,4324,Answer: True
+2155,4325,False
+1559,4325,"Without any further context, it's impossible to determine if the records refer to the same entity or not"
+961,4325,Unknown records provided
+2536,4325,Unknown records provided
+2820,4325,False
+5890,4325,False
+3439,4325,False
+3770,4325,False
+4684,4325,False
+1332,4325,False
+4941,4325,False
+341,4325,False
+2496,4325,False
+4272,4325,False
+126,4325,False
+5842,4325,False
+5219,4325,"Unknown records, cannot determine if they refer to the same entity"
+81,4325,False
+4026,4325,False
+2208,4325,Unknown records provided
+1604,4325,"Unknown records provided, cannot determine if they refer to the same entity"
+1009,4325,False
+2780,4325,I do not have access to the specific record descriptions you provided in your second example
+399,4325,False
+4639,4325,False
+2676,4329,False
+5606,4333,False
+4853,4335,"Answer for first record: Unknown, as there is no clear indication in the given description whether they are visiting two separate places (Etosha National Park and Zimbabwe) or if Etosha National Park is a part of Zimbabwe"
+3763,4338,False
+6050,4339,False
+2755,4341,False
+5733,4343,Example 3:
+4764,4345,"record 1: The body of a woman is found dead in t 1997-10-17, record 2: Kwak Dok Ki, a member of Doctor Fabre, is found dead"
+55,4346,False
+2783,4347,Answer: True
+5514,4348,Answer: True
+5278,4349,Answer: False
+5852,4351,Answer: True
+696,4352,False
+4634,4355,False
+3645,4357,False
+4245,4358,False
+5667,4361,False
+3386,4362,"record 1: Karaoke (film), released in 1996 with Daniel Feeld as writer, starting believing that his characters were coming alive during production from April 28 to May 19"
+1548,4364,Answer: True
+43,4366,False
+3129,4367,True
+1864,4368,False
+472,4369,False
+1455,4370,False
+2425,4371,False
+5304,4372,False
+5932,4375,False
+71,4376,Answer: False
+3584,4377,Answer: True
+4014,4379,False
+4985,4380,False
+758,4381,Answer: True
+4254,4382,Answer: True
+3192,4383,False
+1875,4385,False
+5324,4386,Answer: True
+3298,4387,Answer: True
+4121,4388,False
+5659,4389,False
+876,4389,Answer: False
+5743,4390,Answer: True
+2753,4392,Answer: True
+726,4394,True
+4731,4395,True
+1353,4396,Answer: False
+5612,4398,Answer: False
+2809,4399,False
+3641,4401,False
+2774,4402,Answer: True
+5231,4406,Answer: True
+3274,4407,False
+3274,4408,Answer: False
+1957,4409,False
+751,4411,"Both records refer to the same event, thus:"
+4700,4413,False
+1356,4413,False
+2362,4415,False
+3329,4417,False
+5053,4418,False
+1681,4419,False
+345,4420,Answer: True
+3846,4421,False
+1410,4421,False
+679,4422,False
+708,4424,False
+2831,4425,"False, as the records describe different individuals - Jack Thompson and The Crusader's Son (referring to Mary Louise Thompson's son) are not the same entity"
+4208,4426,True
+3423,4427,False
+4901,4428,False
+4319,4430,Answer: True
+2853,4432,False
+3697,4433,Example 3: record 1: Jennifer Lawrence
+3100,4434,False
+1605,4436,False
+3271,4437,Answer: False
+358,4438,True
+5631,4439,True
+3138,4440,False
+810,4441,Answer: True
+3412,4443,False
+5518,4444,Answer: False
+2877,4445,False
+1478,4451,True
+4301,4452,False
+5563,4453,True
+3472,4454,False
+2082,4455,Answer: True
+536,4456,False
+5649,4457,"record 1: A-C-- ACTION JJ’s thrilled when he is chosen by his classmates to film his horror movie project, but soon the pressure of directing gets to him"
+2809,4458,False
+5550,4459,False
+4813,4461,False
+3846,4462,Answer: False
+1410,4462,False
+1269,4467,False
+4511,4468,False
+4386,4469,False
+4107,4471,False
+5000,4472,The task is to determine if both records refer to the same episode of a TV show or not
+2006,4475,False
+6030,4476,Answer: False
+2809,4477,Example 3:
+568,4478,False
+3543,4479,False
+3106,4480,False
+287,4480,False
+5139,4481,False
+4303,4482,False
+3250,4483,Answer: True
+3227,4484,"record 1: Les Kane and his older brother Brian Kane, both involved in criminal activities as painter and docker respectively, were both targeted for assassination due to their roles in the waterside crime war"
+1987,4486,Answer: True
+4137,4487,False
+3598,4488,Answer: False
+632,4489,False
+947,4491,False
+1646,4492,False
+1006,4493,Answer: True
+1536,4494,"False, as while both records describe the same event (the planting and discovery of a time bomb on The Assassins), they refer to different instances of this event, as evidenced by the different dates provided"
+1707,4495,Example 3: record 1: Barack Obama
+2077,4496,"Example 3: The New York Times published an article on climate change denial in 2015, while in 2021 they published another article on the same topic"
+1065,4497,Answer: True
+2809,4498,False
+2266,4500,True
+2809,4503,"record 1: The Secret of NIMH 1982-08-13 1982-01-01, record 2: Elizabeth Hartman guestStars"
+32,4504,Answer: False
+2565,4505,False
+5233,4505,"If both episodes belong to the same season of the same TV series, then answer is True"
+6020,4507,False
+91,4508,False
+4782,4509,Example 3: record 1: Steve Jobs co-founded Apple Inc
+260,4511,Answer: False
+1651,4513,False
+2884,4514,False
+1665,4514,False
+1329,4516,Answer: False
+3754,4518,False
+1859,4519,"record 1: [25] Tsukihi Phoenix, Part 3 Araragi agrees to take Shinobu on a trip to buy doughnuts"
+1010,4520,True
+5204,4521,False
+939,4522,Answer: False
+1776,4525,False
+620,4526,False
+291,4531,False
+914,4532,"False, as both records describe different episodes of the same television show, Law & Order: Special Victims Unit (SVU), but they do not depict the resolution of the same case or entity"
+909,4533,Answer: True
+379,4534,False
+4409,4535,False
+1224,4536,True
+5895,4537,Answer: True
+3104,4539,Answer: True
+5029,4542,Answer: False
+2416,4545,False
+584,4546,Answer: False
+476,4548,Answer: False
+3869,4550,False
+986,4550,False
+2809,4551,False
+1029,4552,False
+1092,4554,False
+362,4555,Answer: True
+1160,4558,Example 3: 
+470,4559,Answer: True
+2790,4560,Answer: False
+3408,4563,False
+4928,4565,Answer: False
+5735,4565,"If the guests appearing in both records refer to the same person, then answer is True"
+5789,4569,False
+1378,4570,"False, as the two records describe different events in the anime series ""Monogatari Series: Second Season"" and do not refer to the same entity"
+511,4574,False
+4107,4575,False
+4741,4576,Record 1: Master of Magic
+2827,4577,False
+3303,4578,False
+563,4579,Answer: True
+5380,4583,Answer: False
+5429,4584,True
+61,4589,True
+3359,4590,False
+4423,4590,False
+2,4592,Answer: True
+706,4593,"If the records refer to the same person, answer with True"
+5041,4594,False
+5042,4597,"Answer: False, as the examples provided are separate records for different episodes of an anime series"
+443,4598,False
+4937,4599,False
+2078,4600,False
+1676,4601,False
+5129,4603,False
+422,4604,False
+1400,4605,True
+660,4606,True
+4787,4607,"False, as both records describe different instances of Ace and Cosmo investigating an incident involving Skip Ramsdale and Barsky"
+1623,4608,Answer: True
+329,4609,False
+630,4609,False
+1936,4610,Answer: True
+1638,4612,False
+1605,4615,Answer: True
+4151,4618,False
+4606,4621,Answer: False
+3211,4622,False
+1266,4625,"Record 1 and Record 2 are not related, so the answer is False"
+2740,4626,Answer: True
+3940,4627,False
+360,4628,Answer: False
+772,4630,Answer: True
+1158,4631,Answer: True
+2067,4632,Answer: False
+853,4633,Answer: True
+5221,4636,False
+4499,4637,Answer: False
+4190,4637,"False, as the record descriptions appear to be referring to two different shows or episodes with similar titles"
+3848,4637,Answer: False
+3526,4637,Answer: False
+2443,4637,False
+2290,4637,Answer: False
+3472,4641,Answer: True
+4921,4642,Answer: False
+1985,4645,Answer: True
+3920,4648,False
+5938,4652,False
+4511,4653,False
+2809,4655,"record 3: The Bing Crosby Show (also known as The Philco Radio Time) episode ""Guest in the Night"" from August 29, 1954, featuring Gita Isak as a guest star"
+2939,4656,False
+4542,4657,False
+35,4658,Answer: False
+1490,4659,False
+1805,4660,False
+962,4661,Answer: True
+4778,4663,False
+3880,4664,Answer: False
+1377,4666,False
+3282,4668,False
+4811,4669,False
+2072,4671,True
+554,4672,Answer: True
+3880,4678,Record 1: Junior
+4452,4679,Answer: False
+5163,4684,False
+501,4685,False
+4655,4686,Answer: False
+4105,4688,False
+4157,4689,False
+3036,4692,Answer: True
+4463,4694,"False, as the records describe two separate incidents involving Multi-Flames starting fires"
+4634,4697,False
+3499,4699,Answer: True
+4355,4702,False
+3753,4703,False
+4579,4704,False
+2809,4705,record 3: The Man from Earth (2007) John Oldman stars as a professor who stuns his colleagues by announcing that he is not only a centuries-old caveman but the original paradigm of mankind
+5119,4706,False
+3324,4706,"Answer: False, as the first record only provides a name and the second record provides additional information about the person's full name"
+3799,4708,False
+3483,4710,False
+3531,4713,Answer: True
+949,4714,False
+448,4714,False
+4326,4716,True
+3397,4717,False
+5515,4718,The records refer to the same case and trial
+1972,4719,False
+5653,4720,False
+2047,4722,"record 1: Friends Episode ""The One With Rachel's Crush"", record 2: Friends Episode ""The One Where Rachel Goes Back to Work"" (Laura Fairchild plays a different character in this episode)"
+2355,4723,Answer: True
+5391,4725,False
+3887,4728,Answer: False
+3455,4729,Answer: False
+5569,4731,False
+587,4732,True
+359,4734,False
+5789,4735,False
+1962,4738,Answer: False
+3970,4743,False
+2685,4744,Answer for Example 3: False
+5166,4746,Answer: True
+4523,4747,"record 1: X-Oshi After a party at the DNA Club, Hotchkiss the bouncer and his robotic friend Jojo were on their way home when suddenly Hotchkiss is mysteriously was tagging the DNA Club"
+1916,4748,False
+4109,4749,False
+1580,4752,False
+3761,4753,Answer: True
+3661,4754,Answer: False
+2075,4755,Answer: False
+1555,4759,False
+1727,4761,Answer: False
+1821,4763,"Record 1 and Record 2 both involve the Venture family and their arch-nemesis, The Monarch"
+926,4766,False
+1711,4767,"Answer: False, as between two celebrities, Zach Galifianakis' character in ""Between Two Ferns: The Movie"" interviews them separately, hence they are not referring to the same entity"
+604,4768,Answer: False
+3256,4771,"record 1: The Godfather, record 2: The Godfather Part II 'In the continuing saga of the Corleone crime family, a young Vito Corleone gains power and status in early 20th century New York"
+4614,4772,False
+5021,4773,"Answer: False, as Sam Miller and Harlon Miller are two different people and cannot be referring to the same entity in this context"
+3129,4774,Answer: True
+3081,4775,False
+862,4776,False
+1155,4779,False
+2494,4780,False
+5454,4781,False
+4247,4781,False
+568,4781,False
+106,4782,"Answer: False, as while both records involve the phrase ""Dirtiest Water Jobs"", the dates provided indicate that they are likely two separate lists or instances of this concept"
+4585,4783,True
+4540,4784,False
+2026,4785,True
+3477,4789,"Answer: False, as Stephen Graham and Ginny Brown Graham are different individuals, although they may be related through marriage or some other relationship"
+5759,4791,Answer: True
+1325,4792,True
+5380,4793,False
+1601,4793,False
+4457,4794,"Answer for Example 3: False, as each record refers to a different entity"
+5898,4796,Answer: False
+2257,4797,Answer: True
+1025,4800,True
+3430,4801,True
+1982,4802,False
+1422,4803,False
+1331,4804,True
+1792,4806,False
+2421,4807,False
+4511,4809,"record 1: SpongeBob SquarePants, record 2: The SpongeBob SquarePants Movie: Sponge Out of Water"
+2809,4811,Example 3:
+1614,4814,"record 1: The Notebook (film) 2004, record 2: The Notebook (novel) 1996"
+2642,4817,False
+3859,4822,Answer: False
+862,4824,False
+1289,4825,True
+5513,4828,False
+2691,4830,Answer: True
+3153,4832,Answer: True
+1909,4834,Answer: False
+4049,4838,False
+4629,4840,Answer: False
+4213,4841,Answer for Example 3: False
+2603,4842,Answer: True
+5875,4843,Answer: False
+3037,4844,False
+4276,4850,Answer: True
+1762,4851,Answer: True
+1135,4853,Example 3: 
+3845,4854,False
+3216,4854,False
+4807,4855,False
+3309,4857,Answer: False
+817,4858,False
+1870,4860,"record 1: Ghosts of the Sargasso On a scientific expedition in the Bermuda Triangle, Doc's experimental equipment awakens and possibly enrages the submerged ghost of Major Tom, a test pilot who crashed in an experimental aircraft designed by Doc's father"
+1473,4861,False
+5704,4862,False
+2252,4864,Depends on the context of the record descriptions
+3192,4865,False
+3741,4866,False
+4991,4868,True
+5675,4869,False
+1759,4870,"record 1: Eva Perón, record 2: Evita Before her death in 1952, Eva Perón made a plea to the Argentine people that she be called Evita rather than Eva Duarte de Perón"
+91,4871,Answer: False
+2424,4872,Answer: False
+691,4874,True
+5170,4876,Answer: False
+3472,4877,False
+2831,4877,False
+174,4881,False
+2809,4882,False
+4567,4883,False
+5294,4884,False
+1991,4886,False
+2212,4888,False
+2997,4889,False
+3663,4892,"record 1: Susie Myers (played by Susie Essman), record 2: Susan Bloom-Simpson (also played by Susie Essman) in a different show or production"
+1290,4894,Answer: False
+5394,4895,False
+652,4896,False
+5050,4897,Answer: True
+3253,4898,False
+5102,4899,False
+1580,4902,Answer: False
+5727,4903,False
+2507,4907,True
+175,4910,False
+4839,4911,True
+4198,4912,"record 1: The Beatles - Love Me Do (Original single version) 1962-08-17 1994-12-31, record 2: The Beatles - Love Me Do (Original single version) 1962-08-17 1994-12-31"
+4555,4913,False
+4783,4916,False
+680,4918,False
+3382,4922,Your task is to determine if the two records refer to the same episode or not
+1361,4925,False
+1155,4926,False
+402,4927,Answer: False
+5084,4928,"False, as Dominic and Donna Cooper are two different people"
+6048,4928,Answer: False
+1777,4929,True
+3821,4934,Answer: True
+5329,4935,Answer: False
+2809,4937,Example 3:
+1838,4938,False
+3965,4939,True
+514,4940,Answer: False
+1462,4941,Answer: False
+4700,4942,False
+5843,4944,True
+5676,4949,True
+5735,4950,"If the episode featuring both Martin and Martin Short is about a single individual named Martin, then the answer would be False, as they are referring to two different entities"
+3505,4953,False
+3699,4954,record 1: Mayoi Snail (2) 'Mayoi Hachikuji is a missing girl who goes missing on her way home from school
+2260,4955,Answer: True
+4935,4959,False
+1111,4961,Answer: False
+2809,4964,False
+14,4965,True
+5020,4967,Answer: True
+3296,4968,Answer: True
+4332,4969,False
+2348,4970,False
+3645,4972,False
+5991,4973,True
+1074,4974,"record 1: The Devil Inside - John Ernest Cribb 'A chilling investigation of John Ernest Cribb, who on August 11th 1978, broke into the home of the Connell's"
+5156,4975,Answer: False
+2892,4978,False
+1425,4979,Answer: True
+5587,4981,True
+1387,4986,Answer: True
+2816,4994,False
+3602,4995,Answer: False
+2527,4996,False
+1670,4997,False
+644,4998,False
+3244,4998,False
+2946,4999,Answer: True
+1667,5000,Example 3: record 1: Apple Inc
+723,5001,"If Carole Wells and Keely Wells are the same person, answer with True"
+384,5002,Answer: True
+5076,5003,Answer: False
+3573,5004,Answer: True
+1533,5005,Answer: False
+2495,5006,True
+3395,5010,Answer: False
+168,5013,Answer: False
+1103,5013,Answer: False
+5238,5014,False
+3690,5015,False
+4046,5016,True
+1587,5017,Answer: False
+2287,5019,False
+4371,5020,Answer: True
+1309,5021,False
+4262,5022,Answer: False
+1922,5024,False
+1827,5024,False
+3458,5025,"record 1: [48] Otorimonogatari [2] Tsukihi Phoenix - Part 2 Tsukihi goes out to meet Araragi and the latter tries to convince her to forget about the ""curse"" of being a deity"
+714,5027,False
+4134,5028,True
+4715,5029,True
+4063,5031,False
+2809,5032,False
+2809,5033,This is a new example that has not been provided in the initial material
+4529,5034,True
+3871,5035,False
+5207,5036,"Answer: False, as the given time stamps indicate that both records are referring to the same events and characters, but they are two separate episodes of a TV show"
+1848,5041,"If the episode number and air dates match, then the records refer to the same entity, i"
+76,5044,True
+5958,5050,Answer: True
+2122,5051,Answer: False
+2832,5053,record 1: Solving the Secrets David - Fastest Known Plant and Seasonal Modification
+4516,5054,True
+985,5055,False
+3021,5056,Answer: True
+469,5057,False
+1416,5060,Answer: False
+3169,5061,True
+5694,5064,False
+2923,5066,Answer: False
+3456,5067,False
+796,5068,False
+615,5069,False
+5016,5071,Answer: False
+2653,5072,"False, as both records are describing the same series of murders, but they provide different information about specific victims"
+4901,5076,False
+3972,5077,Answer: False
+1164,5078,"If the episodes refer to the same TV show, answer True"
+5195,5079,Answer: False
+5021,5080,False
+1824,5081,Answer: True
+4048,5082,False
+555,5083,False
+1026,5084,True
+3483,5085,False
+3979,5086,True
+2308,5087,Answer: True
+1805,5088,False
+2445,5089,False
+923,5091,False
+3045,5092,"record 1: The Corrs, record 2: The Corrs (Sharon Corr replaces Andrea Corr) guest Stars"
+4459,5093,Answer: True
+1468,5096,True
+93,5097,Record descriptions:
+140,5098,False
+2130,5100,Answer: True
+4589,5101,Answer: False
+1414,5102,False
+706,5103,False
+152,5107,False
+1466,5108,True
+1133,5111,Answer: True
+2728,5112,False
+1115,5112,False
+2293,5112,False
+4001,5112,False
+16,5113,Answer: True
+1578,5114,True
+191,5115,"Answer: False, as although both records are related to an anniversary party and involve Freddie and Stuart, they describe different events that occurred on the same date (June 10, 2013)"
+2281,5117,Answer: True
+3194,5119,False
+3271,5120,"record 1: Alik Sakharov, born May 17, 1959, is a Russian cinematographer and director"
+2265,5127,False
+2886,5132,False
+4425,5133,False
+4268,5135,False
+4480,5136,False
+5745,5139,False
+2473,5140,"record 1: Episode 7 [Golden Time Team investigation] 2019-06-01 2019-01-01, record 2: The Accelerator to the Abyss [Hong Soo and Kang Woo encounter] Hong Soo catches Kang Woo interrogating Burying Beetle at Port Poongsan"
+381,5142,False
+1044,5144,False
+293,5148,Answer: True
+745,5149,Answer: False
+5476,5150,Answer: False
+4542,5150,"False, as William Link and William Erwin are two different individuals"
+2809,5151,False
+2258,5152,Answer: True
+1358,5153,False
+5643,5153,False
+5782,5154,False
+1380,5156,Answer: True
+4844,5158,False
+1860,5158,False
+3549,5160,False
+4752,5162,Answer: True
+1807,5165,False
+4756,5166,False
+111,5167,Answer: True
+3945,5169,False
+2672,5170,False
+5518,5171,False
+5994,5172,False
+696,5173,False
+291,5175,False
+5994,5176,"record 1: Barack Hussein Obama II, record 2: Barack H"
+5667,5177,False
+4840,5178,False
+3103,5180,False
+496,5182,True
+2809,5185,Example 3:
+1584,5186,Answer: True
+4053,5188,False
+4300,5189,Answer: True
+1084,5191,Answer: True
+453,5193,Answer: True
+5953,5194,True
+1668,5195,False
+5141,5197,False
+4292,5198,False
+3271,5200,False
+3731,5202,False
+1166,5203,Answer: True
+4841,5204,False
+1864,5205,Answer: False
+5146,5206,True
+1962,5208,Answer: False
+2638,5209,"If both records refer to the same episode of MTV, answer True"
+4561,5212,False
+4470,5213,Answer: True
+4791,5214,False
+4955,5216,False
+4864,5217,False
+195,5218,False
+4542,5219,False
+4986,5221,"record 3: Justin Bieber concert 2017-06-01 2017-01-01, record 4: Ariana Grande concert 2017-06-04 2017-01-01, Answer with True"
+1448,5224,Answer: True
+5643,5226,False
+4579,5228,Answer: True
+5691,5229,False
+5780,5230,Answer: False
+5410,5231,Answer: True
+4734,5232,Answer: True
+1908,5234,False
+1001,5235,"record 1: Dexter (1) 2018-09-25 2018-01-01, record 2: Dexter (1) In the Series 1 Premiere, Dexter Morgan deals with a body discovered in a field in Miami"
+2285,5236,"record 1: MTV (1981-08-01) Michael Jackson's ""Beat It"" music video premieres on MTV"
+231,5237,"False, as the air dates are different for each record, indicating separate episodes of the same TV show"
+2224,5241,False
+2889,5244,False
+1005,5245,Answer: False
+5476,5248,False
+4542,5248,False
+1841,5249,Answer: True
+5634,5253,"False, as the dates are different for each record, indicating that they refer to two separate episodes of a TV show"
+4198,5254,Answer: True
+5810,5256,True
+5223,5257,False
+947,5258,False
+286,5261,Answer: True
+1578,5263,False
+2163,5265,record 3: Barack Obama addresses a joint session of Congress on healthcare reform
+2660,5268,"record 1: The Lion King (1994) - Disney's ""The Lion King,"" the seventh-largest grossing movie of all time, follows the adventures of Simba, a feckless young lion who learns the responsibilities of adulthood and acceptance of his destiny"
+3028,5269,False
+2801,5270,False
+4961,5270,False
+217,5270,False
+475,5271,Answer: True
+4682,5272,False
+2654,5273,True
+2034,5275,True
+5971,5276,True
+4986,5277,"Record 1 refers to the title of a movie (""The Forbidden Guests""), while record 2 provides additional information about a specific episode or appearance (Rod McLachlan as a guest star)"
+1967,5278,False
+160,5279,False
+4082,5280,True
+2741,5281,"False, as the dates provided for each record are different, indicating separate incidents"
+970,5283,False
+4761,5286,Answer: True
+3907,5287,False
+2013,5289,"If the episodes refer to the same series, then answer is True"
+2176,5290,False
+2249,5292,Answer: True
+5661,5293,False
+5414,5294,Answer: True
+5739,5296,False
+4893,5296,False
+4972,5297,Answer: False
+1090,5298,Answer: True
+2074,5299,Answer: False
+5665,5300,False
+1567,5301,True
+1458,5303,Answer: True
+2337,5305,Answer: False
+2069,5307,True
+2629,5309,False
+1809,5311,Answer: True
+1517,5312,False
+443,5313,False
+4861,5314,False
+4803,5315,"If the individuals Daniel Grao and Gil Grail are referring to the same person, answer with ""True"
+935,5316,Answer: False
+3667,5317,Answer: False
+1805,5318,False
+4986,5319,False
+5647,5320,False
+2689,5321,Answer: False
+1568,5325,The answers are:
+5938,5327,False
+3996,5328,False
+741,5330,Answer: True
+470,5331,Answer: True
+521,5333,Answer: True
+1210,5334,"If Eric Brown and Charisse Brown are two different people, then the answer is False"
+5632,5336,Answer: False
+4440,5336,Answer: False
+985,5337,False
+2279,5338,Answer: True
+3116,5339,Answer: True
+4500,5340,Answer: True
+562,5341,Answer: False
+1756,5342,"False, as both records describe two separate incidents of hostage situations"
+866,5343,False
+1856,5344,False
+3271,5346,Answer: True
+2004,5348,True
+2737,5352,False
+4262,5354,False
+195,5355,False
+5539,5357,False
+5069,5358,False
+2676,5359,"False, as Neve Campbell and Carlos Campbell are likely two different people"
+5382,5361,False
+3156,5362,Answer: True
+4473,5363,False
+3333,5365,Answer: False
+3730,5366,"If Ryan Pope and Brent Pope are two different individuals, the answer is False"
+4024,5367,Answer: True
+1946,5368,Example 3: 
+5268,5369,False
+3571,5370,Answer: False
+722,5372,True
+4772,5374,Answer: True
+663,5375,True
+5459,5376,"False, as both records are describing different episodes of a TV series"
+2884,5379,False
+1665,5379,False
+91,5381,False
+502,5382,"record 1: The Big Bang Theory (TV series) 2007-09-24 2006-09-22, record 2: The Big Bang Theory (TV series) Leonard and Penny are married in Las Vegas"
+2809,5383,"record 1: The Twilight Zone ""The Invaders"" 1961-10-23 1958-10-02, record 2: Agnes Moorhead guestStars"
+4425,5384,False
+5223,5387,"Example 3: František Filip, record 2: Nákla domu 'František odjel na krátkou cestu za Butteauovými"
+2238,5388,False
+1055,5390,Answer: True
+3252,5392,record 1: MTV
+2321,5393,Answer: True
+1521,5394,True
+706,5395,"If the two individuals referred to in the record descriptions are the same person, answer with True"
+795,5396,True
+4178,5398,False
+4440,5399,Answer: False
+2919,5404,"I'm sorry, but you haven't provided enough information for me to determine if the records refer to the same entity"
+5483,5404,False
+121,5404,False
+1273,5404,False
+2835,5404,False
+1862,5404,False
+602,5404,False
+2149,5405,"Answer: False, as both records refer to the same episode of a TV show"
+5255,5406,False
+1678,5407,Answer: True
+2592,5408,Answer: True
+4559,5409,True
+6028,5410,False
+5789,5412,False
+2568,5413,Answer: True
+4362,5414,True
+255,5422,True
+647,5423,Answer: True
+5138,5424,False
+1824,5425,Answer: False
+2181,5428,Answer: True
+1007,5430,Example 3: 
+3003,5431,"If the two episodes are referring to the same TV show, answer with ""True"
+1331,5431,Answer: False
+1551,5435,False
+3221,5439,"record 1: Prisoner's Base (1) 1998-06-26 1998-01-01, record 2: Prisoner's Base (3) 1998-07-24 1998-01-01"
+2036,5440,"False, they are two separate events/scenarios"
+650,5441,True
+4682,5442,False
+5384,5443,False
+2868,5444,Answer: True
+5137,5445,False
+2376,5446,Answer: True
+5511,5449,Answer: False
+1340,5450,Answer: True
+5199,5451,Answer: False
+3036,5453,False
+5025,5454,Answer: True
+2429,5456,record 1: (Episode 19) Jihu runs out of the clinic and wanders in the rain
+2853,5457,False
+820,5457,"If Roger Wright and N'Bushe Wright are two different people, then the answer is False"
+4509,5458,False
+4388,5460,True
+4665,5461,False
+3068,5462,record 1: The Grand Budapest Hotel
+1614,5463,Answer: True
+5362,5464,True
+5128,5465,False
+3413,5466,Answer: False
+4214,5467,False
+91,5468,False
+77,5469,False
+2809,5470,False
+3550,5472,False
+2801,5474,False
+4961,5474,False
+217,5474,False
+1402,5475,True
+5204,5476,Answer: False
+1867,5478,Answer: True
+4316,5482,False
+1992,5483,True
+9,5484,record 1: The Amazing Race Canada
+445,5485,Answer: True
+4792,5487,False
+4512,5489,Answer: False
+3897,5489,False
+2917,5491,"False, as while both records involve food-related jobs, they are not directly related to each other and refer to different entities (different coffee plantations, marine mammal rescues, etc"
+2809,5492,"False, as ""Guest in the Night"" and ""D'Monroe guestStars"" refer to two different episodes of a TV show"
+4008,5493,Answer: False
+5675,5495,False
+2788,5496,False
+5118,5497,"Answer: False, as the episode titles and brief descriptions are different, indicating separate cases"
+1396,5498,False
+5996,5502,False
+5671,5503,"False, as two individuals with the name Daniel Junge may exist and this does not necessarily indicate that they are the same person"
+3413,5504,False
+429,5508,Answer: True
+5932,5509,False
+284,5512,False
+564,5513,Answer: False
+3328,5514,False
+2583,5515,Answer: True
+3180,5516,True
+543,5517,False
+3210,5521,False
+3351,5523,False
+4604,5525,False
+81,5529,False
+537,5530,False
+2154,5532,False
+2960,5532,False
+801,5533,False
+5667,5535,False
+2151,5536,Answer: True
+5418,5538,Answer for Example 3: False
+771,5539,False
+4917,5542,record 1: Trafalgar 2010-01-29 2010-01-01
+2662,5543,False
+5539,5546,False
+8,5547,Answer: False
+4194,5548,"Answer: False, as both records have the same description but represent different instances in time"
+5297,5550,False
+1839,5550,False
+3523,5551,"False, based on the difference in release dates"
+4291,5553,Answer: False
+716,5553,False
+3704,5554,"record 1: Kim Won Bong (Kim Esther) fears that Park Hyeok may be a traitor for not checking in, and when he and Nam Ok see him talking to Chief Inspector Matsurra, they shoot him"
+1607,5556,Answer: True
+4421,5558,True
+1727,5559,False
+1277,5560,Answer: True
+166,5561,Example 3: 
+4303,5567,False
+3047,5568,"False, the records refer to different entities"
+869,5570,False
+218,5571,Answer: False
+3233,5573,True
+5178,5574,True
+2483,5576,False
+4747,5577,"False, as the recording dates are different"
+4769,5578,"record 1: James Brown, record 2: James Brown (singer), answer with True"
+1391,5579,Answer: False
+4807,5580,False
+4492,5581,True
+4409,5586,False
+739,5587,False
+5566,5591,False
+4532,5592,Answer: True
+2809,5593,False
+4066,5596,Answer: False
+4142,5597,False
+723,5598,"record 1: Billie Eilish, record 2: Billie Eilish (as a different occurrence)"
+773,5602,False
+132,5607,"If the episode number and air dates in both records refer to the same episode, then answer is True"
+5117,5608,record 1: The Matrix
+432,5609,Answer: False
+3705,5610,False
+5107,5611,Answer: True
+3483,5612,False
+1168,5613,Answer: True
+5052,5615,False
+5040,5618,Answer: True
+3665,5624,True
+3984,5625,True
+3615,5627,Answer: False
+1676,5631,False
+5660,5635,False
+2623,5636,False
+536,5638,False
+3641,5639,"If they both represent the same person, answer with True"
+2905,5640,False
+454,5641,True
+394,5642,False
+436,5642,False
+5031,5643,"record 1: John Smith 2017-09-25 1980-01-01, record 2: John S"
+3076,5644,True
+5032,5645,False
+1950,5646,Answer: True
+1612,5648,record 1: Life in the Wet Zone and record 3: Survival 'David discover plants that have evolved to shed their dependency on water enabling them to survive in the driest environments
+5337,5650,Answer: True
+814,5651,False
+97,5652,Answer: True
+2609,5654,False
+2386,5656,False
+402,5658,False
+5733,5659,Answer: True
+1810,5660,Answer: True
+5657,5661,False
+5464,5662,Answer: False
+2794,5663,True
+2813,5664,Answer: True
+3271,5666,False
+4276,5669,False
+4384,5670,True
+5129,5671,False
+584,5672,False
+422,5674,False
+5005,5679,False
+1627,5682,False
+1517,5683,False
+1898,5684,False
+2809,5685,False
+2440,5686,True
+2028,5687,record 1: MTV
+4040,5689,False
+1442,5691,Answer: False
+6025,5693,Answer: True
+4795,5694,True
+4942,5695,Answer: False
+943,5699,Record descriptions:
+1551,5702,False
+4262,5703,False
+140,5704,False
+5932,5705,Answer: False
+1768,5706,False
+2085,5707,"record 1: The Beatles, record 2: The Beatles (band) Answer with True"
+4377,5708,True
+4293,5709,False
+1310,5710,True
+5595,5712,False
+2973,5713,False
+1039,5714,False
+5480,5716,False
+2827,5717,False
+1309,5717,False
+1687,5719,Answer: True
+2123,5721,"record 1: Kanye West, record 2: Ye (stylized as ye) Album Released"
+5919,5722,False
+4857,5723,True
+3056,5724,False
+2404,5726,Answer: True
+1569,5727,Answer: False
+4025,5728,False
+4800,5731,"record 1: Barack Obama born in Hawaii 1961-08-04, record 2: Barack Obama born in Kenya 1961-08-04"
+986,5732,False
+1874,5733,False
+846,5735,"False, as both records describe the same event, ""Stakeout"", but at different dates (1996-03-15 for record 1 and 1996-01-01 for record 2)"
+3009,5736,True
+2729,5737,Answer: True
+1713,5740,False
+5137,5741,False
+2584,5742,False
+1163,5744,True
+451,5746,False
+2698,5747,Answer: False
+897,5750,False
+5140,5751,True
+4689,5752,False
+4986,5753,False
+5953,5753,False
+318,5755,False
+5491,5756,"Answer: False, as these records refer to different book titles and authors"
+4512,5757,False
+3897,5757,False
+5263,5759,False
+1226,5760,Answer: False
+542,5761,False
+4935,5762,False
+4637,5764,False
+783,5765,False
+2884,5766,False
+1665,5766,False
+2616,5767,False
+3271,5769,False
+2596,5770,False
+3295,5771,False
+27,5772,False
+5653,5772,False
+4281,5773,True
+215,5775,True
+762,5777,Answer: False
+1240,5778,Answer: False
+5139,5779,False
+3106,5781,False
+4986,5782,False
+3166,5784,Answer: False
+538,5785,Answer: True
+700,5788,Answer: True
+4357,5789,False
+5930,5790,False
+4137,5791,Answer: False
+3793,5792,False
+5987,5793,False
+5656,5794,False
+5499,5796,Answer: False
+2809,5797,Answer: False
+4054,5798,Answer: False
+3970,5799,False
+1151,5803,Answer: True
+2884,5805,False
+1665,5805,False
+4859,5806,True
+2460,5807,False
+4269,5809,False
+5021,5812,"False, as Sam Miller and Mary West Miller are two different people"
+2547,5815,Answer: True
+3549,5818,"If the two records refer to the same person (Chris Lai and Chris Paulk), then the answer is True"
+91,5819,False
+1718,5821,Answer: True
+3540,5824,False
+4741,5825,"False, as the second record introduces a new character, the young girl working with Yago, whereas the first record only mentions ""Master of Magic"" without any specific characters"
+5638,5827,"False, as the description of record 2 is a continuation of the events described in record 1 and refers to the same characters and situation"
+5419,5828,True
+1940,5829,False
+5922,5831,True
+3506,5832,False
+4682,5834,False
+5129,5835,False
+4213,5836,False
+4813,5837,False
+840,5838,If the episodes feature different characters played by Jay O
+1103,5839,"If the two records are referring to the same person named Terry Moore, then answer with True"
+2824,5841,Answer: True
+3271,5842,False
+768,5843,False
+1240,5844,Answer: False
+5775,5846,"False, based on the provided descriptions"
+5371,5850,record 1: Stealth Robber Ace and Cosmo were practicing their new act in the middle of a hard rainstorm when suddenly they crash into what seems to be an invisible helicopter
+3760,5852,Answer: True
+2221,5853,True
+1199,5854,True
+1109,5855,False
+2795,5858,True
+5597,5861,False
+4659,5862,False
+2330,5863,True
+3579,5868,True
+1256,5869,True
+576,5870,False
+125,5872,False
+5445,5874,False
+2483,5877,False
+5012,5879,record 1: Dark Secret Behind Soo Cheol The Golden Time Team gets a call about a kid named Pyo Hyun Soo
+4721,5880,"Answer: False, as Patricia Hamilton and Lisa Gay Hamilton are two different people"
+679,5881,False
+2783,5882,"Answer: False, as the two records describe different episodes of the TV show ""The Venture Bros"
+1021,5883,Answer: True
+1092,5886,False
+971,5889,True
+5196,5893,False
+5707,5894,False
+5945,5896,False
+3839,5896,False
+2218,5896,False
+5757,5896,False
+5154,5896,False
+1783,5896,False
+1266,5897,Example 1: False
+4768,5898,False
+5008,5899,Answer: True
+5483,5900,"Without any context, it is impossible to determine whether the records refer to the same entity or not"
+1862,5900,Unknown records provided
+602,5900,False
+2919,5900,"Without further context, it's impossible to determine whether the records refer to the same entity"
+121,5900,I am unable to determine the accuracy of your provided record descriptions as they are incomplete and do not provide sufficient context for me to make a determination
+1273,5900,"Without any further context, it's impossible to determine if these records refer to the same entity"
+2835,5900,I am unable to determine whether the records refer to the same entity without knowing the contents of the records
+2008,5901,False
+3324,5902,"If ""Thomas"" in both records refers to the same person, then it's possible that ""Gay Thomas guestStars"" is elaborating on the earlier mention of ""Thomas"""
+3651,5902,False
+2542,5903,Answer: False
+2809,5905,False
+4879,5908,Answer: False
+5380,5909,False
+3763,5910,True
+1442,5911,Answer: False
+2809,5913,Example 3:
+5789,5914,False
+4754,5915,False
+3509,5916,True
+4990,5918,record 1: Liu Bei 220 AD - 223 AD 168 BC - 117 BC
+5412,5919,record 1: Faceless
+2547,5921,False
+1747,5922,True
+4940,5923,False
+3055,5925,Answer: True
+2609,5926,False
+439,5929,True
+4001,5932,Answer: True
+5563,5934,False
+4887,5939,False
+1783,5940,False
+4986,5941,False
+2025,5942,Answer: True
+1197,5943,False
+4278,5944,Answer: True
+4153,5945,"record 1: Curb Your Enthusiasm Larry David's unscripted series in which he portrays a heightened version of himself in various misadventures, where nothing seems to go right for him or the people around him"
+1039,5946,Answer: False
+2224,5947,Answer: True
+735,5948,Answer: True
+3271,5950,False
+1775,5953,Answer: False
+2241,5954,"If both episodes belong to the same TV show (series), then answer with True"
+3404,5957,Answer: True
+2994,5958,False
+657,5960,The records refer to the same entity (episode) in this case
+2420,5961,False
+4247,5962,False
+198,5963,Answer: True
+5440,5965,False
+3729,5965,False
+971,5966,Answer: False
+4955,5969,Answer: True
+2162,5970,Answer: True
+1684,5971,False
+5238,5972,False
+2746,5973,False
+5444,5975,False
+3187,5977,False
+4874,5979,Answer: True
+1078,5981,False
+394,5983,False
+436,5983,False
+1880,5985,"Answer: False, as both records describe the same character (Ra On/Sam Nom) and location (capital), indicating that they may refer to the same story or narrative"
+3271,5986,Answer: False
+2015,5987,True
+6035,5988,True
+2062,5990,Answer: False
+5473,5992,"Answer: False, as the record dates are different (2008-10-02 in the second record vs"
+5480,5993,False
+5431,5993,False
+4378,5995,False
+2809,5996,"record 3: The Black Candle 1962-03-18 1962-01-01, record 4: Boris Karloff guestStars"
+4412,5997,True
+5110,5999,True
+3487,6001,Record 1 and Record 2 refer to different entities
+2901,6002,Answer: True
+6,6003,False
+2809,6004,False
+5029,6006,Answer: True
+5248,6007,True
+681,6014,False
+5454,6017,False
+5115,6018,False
+2884,6021,False
+1665,6021,False
+4775,6022,record 1: Haunted Houses The investigation into the murders in 1995 leads Cohle and Hart to suspect a connection between missing children and evangelist Billy Lee Tuttle's Wellsprings Program
+2892,6024,False
+1201,6025,False
+1197,6027,False
+2204,6028,True
+4934,6029,Answer: True
+3691,6030,False
+3301,6031,"Record 1: The case involves a young woman who was viciously attacked and almost died, three months after similar attacks"
+1032,6033,Answer: True
+2267,6035,Answer: True
+4721,6036,Answer: False
+4904,6037,False
+2557,6039,Answer: False
+5136,6040,False
+731,6041,Answer: False
+5036,6042,False
+561,6044,Answer: True
+4813,6046,False
+3645,6047,False
+1002,6048,"record 1: Richard Gere, record 2: Richard Gere actor"
+3809,6049,"record 1: Apple iPad (3rd generation) 'Apple's third-generation iPad comes in two versions, with 16GB, 32GB or 64GB of storage and in black or white"
+2265,6051,False
+2966,6053,Answer: False
+3271,6055,False
+1266,6059,Record 1: Nadeko Snake (1) Koyomi and Suruga come across a girl while climbing a mountain to an abandoned shrine
+5831,6062,False
+3874,6063,Answer: True
+2569,6064,"False, as both records are describing separate events and times"
+4986,6065,False
+2101,6066,True
+41,6067,True
+4411,6068,False
+1538,6069,Answer: True
+1411,6070,Answer: False
+5139,6071,False
+4597,6074,False
+4245,6075,False
+1741,6076,False
+3345,6079,False
+1551,6086,False
+4465,6087,Answer: True
+3849,6089,Answer: True
+4709,6090,False
+5992,6092,Answer: True
+316,6093,Answer: True
+2358,6094,"False, as the given descriptions are not enough to determine if the two records refer to the same entity"
+5692,6097,Answer: True
+364,6098,False
+4985,6101,False
+5821,6103,True
+2973,6104,"If Stephen Lord and Stephen Ratazzi are two different individuals, the answer is False"
+3059,6109,False
+96,6110,False
+1773,6111,Answer: True
+3942,6122,"record 1: The Lord of the Rings: The Fellowship of the Ring 2001-12-18, record 2: The Lord of the Rings: The Fellowship of the Ring 2001-12-19"
+1188,6125,True
+3379,6126,True
+371,6127,Answer: True
+1928,6128,False
+1981,6128,False
+1378,6130,record 1: Hitagi End - Part 5
+4442,6131,"False, as the two records describe different episodes of the TV show ""Curb Your Enthusiasm"
+532,6135,"record 1: The Crown, record 2: The Royal Households, answer with: True (if the second record refers to the same institution as The Crown) or False (if it refers to a different institution)"
+5848,6136,False
+727,6138,False
+3881,6141,False
+1952,6142,"Both records refer to the same episode of ""My Family Monty"" and the events described in both records are happening on the same day (October 31, 2017), therefore:"
+1397,6143,False
+6009,6144,False
+1855,6145,True
+4898,6146,Answer: True
+2960,6147,False
+2154,6147,Answer: False
+311,6148,True
+5431,6150,False
+4346,6151,False
+5345,6152,False
+5014,6153,Answer: True
+1216,6154,Answer: False
+2967,6155,True
+1799,6156,False
+1711,6158,False
+4856,6160,False
+3023,6162,False
+4939,6166,Answer: False
+291,6167,False
+2809,6169,Answer: False
+2694,6174,Answer: True
+618,6175,Answer: True
+5524,6176,"record 1: The Beatles, record 2: Ringo Starr (as a solo artist) Answer with False"
+5502,6177,False
+4942,6177,False
+3780,6178,False
+3271,6179,False
+2923,6180,False
+4560,6183,False
+1485,6185,Answer: False
+528,6186,True
+3663,6187,Answer: True
+1240,6188,"False, as both records refer to the same incident involving Bolander and Felton's suspension, Howard's exam, Pembleton and Bayliss' investigation, and two fires"
+719,6190,Answer: False
+1551,6191,False
+3104,6192,False
+2644,6193,"record 1: The Great Wall of China We are heading to the most famous tourist attraction in Beijing, China - The Great Wall! There is a saying, ""If you're lucky enough to have lived in Asia for any period of time, then you're lucky enough!"" I totally agree with this quote because Asia is full of amazing attractions"
+3027,6195,False
+4066,6198,False
+658,6199,Answer: True
+3332,6200,Answer: False
+4109,6201,Answer: True
+2892,6202,Answer: False
+1551,6203,False
+4606,6205,Answer: True
+393,6207,False
+4049,6208,False
+3715,6209,False
+1786,6210,The examples provided do not require any crowdsourcing work as they are already given answers
+3681,6214,True
+838,6215,False
+1767,6219,Answer: True
+693,6221,Answer: True
+3356,6223,False
+3192,6226,False
+1266,6227,Example 1: The records refer to the same entity (Nadeko Sengoku) in different contexts
+4240,6232,Answer: True
+580,6233,"False, the record descriptions are not referring to the same entity"
+4228,6236,False
+305,6237,False
+4686,6240,True
+4107,6241,False
+5491,6242,Answer: True
+2114,6244,Answer: True
+611,6245,False
+4732,6247,False
+1691,6248,False
+2769,6249,False
+807,6250,False
+464,6251,Answer: False
+1699,6252,False
+1210,6253,False
+5525,6255,Answer: True
+2516,6258,False
+2600,6260,False
+3485,6261,Answer: False
+6051,6262,False
+3996,6264,False
+1996,6265,Answer: True
+5459,6267,Answer: False
+5331,6271,False
+4649,6274,"False, as ""Keith Gordon"" in the first record could refer to either the person (actor, producer, etc"
+2779,6277,False
+1293,6278,"Both records refer to the same entity, as they both describe events related to the ""If You Have Ghosts"" case and involve Wayne, Roland, and Amelia"
+2769,6282,False
+4086,6283,Answer: True
+4441,6284,Answer: True
+5203,6286,Answer: False
+1878,6288,False
+1473,6289,"record 1: The Avengers (Marvel Comics), record 2: The Avengers (TV Series)"
+285,6291,True
+5718,6293,record 1: The Great Train Robbery (1963)
+3692,6295,Answer: True
+5789,6297,False
+3699,6298,Example 3: 
+2075,6300,False
+5502,6304,False
+4942,6304,False
+3445,6305,False
+4644,6305,False
+2489,6310,False
+32,6312,False
+246,6313,False
+5360,6313,False
+443,6314,False
+160,6317,False
+1155,6322,False
+5215,6323,False
+4377,6324,Answer: False
+5792,6325,Answer: True
+4109,6326,True
+2026,6327,False
+4970,6329,False
+62,6330,False
+2998,6332,False
+2445,6332,False
+864,6333,Answer: True
+2532,6334,Answer: True
+838,6335,False
+2711,6336,"False, as each record describes a separate crime investigation"
+1014,6339,Answer: False
+3492,6340,Answer: True
+5323,6341,False
+4865,6342,"If the episodes refer to the same series, then answer is True"
+1025,6342,False
+4631,6343,Answer: True
+5376,6345,Answer: False
+2529,6345,Answer: False
+3355,6346,False
+2537,6347,True
+3018,6348,False
+1075,6350,Answer: False
+3635,6351,Answer: False
+4986,6353,False
+4984,6354,Answer: False
+1453,6356,False
+4560,6358,Record 1 and Record 2 refer to the same entity (episode)
+5033,6360,Answer: True
+2727,6361,True
+3646,6369,False
+1210,6370,Answer: False
+1544,6371,Answer: True
+5253,6373,False
+1909,6375,Record 1 and Record 2 both refer to Karen and her situation with Kaiki
+2392,6377,False
+229,6377,False
+1885,6378,False
+5751,6382,Answer: False
+2753,6383,Answer: True
+5849,6385,Answer: True
+2322,6386,Answer: True
+295,6390,False
+3955,6392,True
+3564,6393,Answer: True
+2943,6394,False
+3769,6394,False
+3127,6395,False
+6028,6396,False
+5223,6397,"record 1: Tom Hiddleston, record 2: Loki (Marvel Comics character), Tom Hiddleston portrayed Loki in the Marvel Cinematic Universe films"
+2409,6398,True
+2026,6399,False
+1928,6400,"record 1: The Legend of Korra - Book Three: Change, record 2: The Legend of Korra - Book Three: Change guest Stars Michael Gill, Michael G"
+1981,6400,False
+1510,6401,True
+2159,6402,Answer: True
+611,6403,False
+2005,6404,True
+817,6405,False
+4901,6408,False
+1591,6412,False
+32,6415,False
+1326,6416,True
+5943,6417,False
+3638,6419,Answer: True
+5662,6423,Answer: False
+5742,6424,False
+3271,6426,False
+2530,6427,False
+1912,6429,Answer: False
+2809,6431,Record 1 and Record 2 are referring to the same entity (Venla M?ntysalo) in different contexts
+4637,6433,False
+445,6434,False
+1141,6435,False
+4186,6436,False
+4653,6437,"record 1: Beyoncé, record 2: Sasha Fierce (stage name of Beyoncé)"
+1399,6438,Answer: True
+5455,6441,False
+3730,6442,Answer: False
+3412,6442,If the episode featuring both Ryan Dann and Ryan Yu as guests does not have any other context that suggests they are representing the same entity (e
+1711,6443,"record 1: Sarah Silverman, record 2: Venice Family Clinic Edition At the 2018 Silver Circle Gala, Sarah Silverman presented Venice Family Clinic’s Humanitarian Award to Funny or Die (Mike Farah and Brad Jenkins) and Between Two Ferns (Zach Galifianakis and Scott Aukerman) for their collaboration to promote the Affordable Care Act through their viral video with President Obama"
+1532,6446,False
+1317,6447,Answer: True
+5160,6450,True
+27,6451,False
+5653,6451,False
+3140,6453,Example 3: 
+5541,6454,False
+2163,6455,Answer: True
+3037,6457,Answer: True
+2805,6461,False
+1659,6462,Answer: True
+5366,6464,False
+1264,6465,Record descriptions:
+2809,6467,False
+2242,6469,False
+5126,6470,False
+3415,6471,False
+4414,6472,Answer: True
+4682,6473,False
+2809,6475,Answer: False
+2179,6476,False
+5426,6477,Answer: True
+441,6479,"To determine whether ""The Silent Speaker (2)"" in both records refers to the same event or not, we need to compare the additional information provided"
+2073,6480,False
+2035,6481,False
+3517,6481,False
+4183,6482,Answer: True
+5380,6483,False
+2679,6484,"Record descriptions are different, so answer is False"
+1703,6485,"record 1: The Amazing Race 30, record 2: The Amazing Race 30 Season 30 Episode 1 answer with True"
+3047,6486,"False, based on the given descriptions"
+4307,6487,True
+1942,6489,"record 1: Aston Villa vs Arsenal (Premier League) 2015-08-16 2015-01-01, record 2: Aston Villa vs Arsenal (Premier League) 2015-08-16"
+1374,6494,"Answer: False, as the dates indicate that both records refer to different events"
+2894,6496,Answer: True
+3494,6500,True
+3470,6502,True
+860,6503,"Answer: False, as the record dates are different, indicating separate episodes of the same TV show"
+5074,6504,False
+2949,6505,False
+150,6506,Answer: True
+3296,6507,Answer: False
+4332,6508,False
+1442,6509,Answer: False
+4570,6510,True
+3209,6512,True
+793,6514,Answer: True
+274,6515,Answer: False
+3161,6516,False
+1910,6516,False
+3690,6517,True
+2644,6518,True
+5789,6521,False
+2784,6523,False
+340,6525,True
+2749,6527,False
+1089,6528,False
+578,6529,False
+3540,6530,False
+4051,6530,False
+4596,6531,False
+516,6532,"record 1: The Longest War 'In August 1964, Australian and Indonesian forces clashed in a fierce conflict over a tiny uninhabited island in the middle of nowhere - an event that few Australians know about, but one which helped shape our nation"
+381,6535,False
+4904,6536,False
+3039,6537,Answer: True
+2767,6539,Answer: True
+2609,6540,Answer: True
+3043,6543,True
+1641,6544,False
+1377,6545,False
+840,6546,False
+2958,6547,Answer: True
+3709,6549,Answer: True
+453,6550,Answer: False
+3308,6552,True
+96,6555,True
+2809,6558,False
+3265,6559,"record 1: Adventure Time (TV series), record 2: Steven Universe (TV series)"
+1377,6561,False
+4419,6563,False
+4440,6564,"record 1: Hanazawa Kana singing ""Hope"" (2014) 2016-05-19, record 2: Hanazawa Kana singing ""Hope"" (2014) 2017-03-08"
+2164,6567,False
+5365,6570,Answer: True
+5284,6572,False
+706,6573,False
+1571,6574,False
+3485,6574,False
+4056,6576,Answer: True
+1106,6579,True
+328,6581,False
+4625,6586,record 1: Episode 20 Jandi takes Seokyeong to Jihoo's house after he collapses at the clinic
+4038,6587,False
+5901,6588,False
+4921,6589,Example 3: record 1: Tesla Roadster
+5240,6593,Example 3: 
+2491,6594,Answer: True
+3279,6600,True
+3195,6603,Answer: True
+4193,6605,Answer: False
+5126,6607,False
+5220,6608,True
+4427,6609,"False, the two records are not referring to the same entity"
+3184,6610,"record 1: The Bold and the Beautiful, record 2: The Young and the Restless"
+709,6612,False
+1306,6615,False
+3524,6616,False
+1159,6618,False
+5206,6619,False
+751,6620,Answer: False
+3737,6621,False
+3248,6623,False
+2035,6625,False
+1681,6626,False
+622,6627,Answer: False
+4256,6628,False
+3457,6628,False
+3104,6629,False
+3017,6630,Answer: True
+3052,6632,True
+4089,6633,False
+4511,6634,False
+3516,6635,Example 3: 
+501,6639,False
+168,6640,False
+1103,6640,False
+3271,6643,False
+933,6644,True
+4053,6645,False
+1490,6646,"If the episode features both Amanda Knight and Keith Knight as guests, then answer with True"
+1578,6647,Answer: False
+5074,6648,False
+5652,6650,Answer: True
+3386,6651,Answer: False
+2686,6655,Answer: True
+5129,6656,False
+2123,6659,Answer: False
+2685,6664,"False, as both records describe the same event and characters"
+3980,6666,Answer: True
+1405,6667,True
+5656,6671,True
+91,6672,False
+3271,6673,False
+5518,6674,False
+5713,6675,Answer: False
+3442,6679,Answer: True
+4682,6681,False
+2702,6685,"False, the two records refer to different entities"
+1764,6687,False
+1928,6690,False
+1981,6690,False
+851,6693,"In this case, both records refer to the same entity, ""The Weeping Woman,"" so the answer is: True"
+4865,6694,"record 1: Jin Sik's disappearance in Episode 8 of a drama called ""Someone Has Kidnapped Jin Sik"", which aired on June 2, 2019, and the first episode aired on January 1, 2019 (Source: Viu)"
+4256,6697,False
+3457,6697,False
+2429,6698,"False, the records refer to two different entities"
+2809,6700,"record 3: Jennifer Aniston plays Rachel Green in Friends 1994-09-22 1994-05-02, record 4: Sandra Kalula portrays Monica Geller's love interest in a Friends episode titled ""The One With Rachel's Other Sister"" (season 8, episode 13) on February 6, 1997"
+153,6701,False
+4917,6702,"record 1 and record 2 are not entity resolution pairs, as they refer to different entities (High Tide Dan Snow's exam on the growth of Britain's empire vs Stargate Atlantis)"
+2841,6703,Answer: False
+5761,6704,False
+1615,6704,False
+1321,6705,Answer: True
+2123,6706,True
+467,6708,False
+755,6709,True
+562,6710,False
+5354,6712,False
+4698,6715,False
+4853,6716,Answer: False
+1329,6717,False
+5665,6718,Answer: False
+5814,6722,Answer: True
+5373,6723,False
+77,6724,False
+537,6725,False
+4873,6726,False
+2190,6727,False
+1113,6728,True
+5701,6729,False
+576,6731,False
+3009,6732,False
+1710,6734,Answer: False
+2284,6738,Answer: True
+117,6739,Answer: False
+844,6740,Answer: True
+3741,6741,False
+542,6742,False
+2311,6744,False
+5102,6745,False
+5502,6748,False
+564,6750,Answer: True
+3324,6753,"Answer: False, as there are two distinct individuals named Thomas and Thomas K"
+2750,6754,Answer: True
+2051,6756,False
+5182,6761,"record 1: Oprah Winfrey, record 2: In 2015, Pauletta Patterson married film producer Quincy Jones in a private ceremony in Florida"
+3986,6763,False
+5777,6764,Answer: True
+1343,6765,False
+1420,6766,False
+5745,6768,False
+1002,6769,False
+2693,6771,False
+4706,6772,False
+4649,6772,False
+3321,6772,False
+317,6774,False
+4901,6776,False
+3597,6778,False
+2547,6779,False
+2666,6784,Answer: True
+716,6785,False
+4291,6785,Answer: False
+4560,6786,False
+796,6787,False
+1290,6788,Answer: False
+4481,6789,Answer: True
+2199,6792,Record descriptions provided:
+2285,6793,Record 1: Fallen Heroes (1) and (2) both refer to the investigation of Judge Gibbons' murder and Georgia Rae's organization
+5249,6795,False
+5514,6799,Answer: False
+935,6801,Answer: False
+2809,6805,True
+2809,6806,The task is to determine if the records are referring to the same entity or not
+5255,6811,False
+856,6814,False
+3535,6815,"record 1: Kanye West 2016-12-15 2016-12-17, record 2: Kanye West 2016-12-16"
+3009,6816,True
+1627,6818,False
+256,6819,False
+4978,6821,Answer: True
+572,6822,False
+5566,6824,Answer: False
+5573,6826,Answer: False
+5243,6827,False
+5987,6831,False
+1629,6832,Answer: True
+3949,6833,Example 3: 
+2633,6834,False
+2007,6836,Example 3: 
+5095,6837,"If the Episode 5 mentioned in record 1 refers to the same episode as the date mentioned in record 2, then answer with True"
+1267,6839,False
+3243,6840,Answer: False
+1847,6841,Answer: False
+1952,6844,False
+1075,6845,Answer: True
+2764,6846,Answer: True
+4861,6848,False
+1110,6850,False
+4511,6854,False
+2292,6856,True
+964,6857,False
+2023,6857,False
+2343,6858,Answer: False
+4970,6860,False
+927,6863,False
+2198,6864,Answer: False
+679,6865,False
+3489,6868,False
+3557,6869,"Record 1 and Record 2 both refer to Full Court Press, a TV show featuring Munch and Gharty investigating the death of a high-school athlete and four other unsolved murders involving members of Georgia Rae Mahoney's organization"
+1951,6872,False
+4020,6873,True
+2134,6875,"record 1: The Big Bang Theory (Season 7) S07E16 ""The Earworm Reaction"" 2013-03-07, record 2: The Big Bang Theory (Season 7) S07E16 ""The Earworm Reaction"" 2013-03-07"
+4245,6876,False
+3271,6877,False
+5671,6878,False
+1361,6879,False
+295,6884,False
+2405,6885,Answer: True
+714,6886,Answer: False
+5176,6887,record 1 and record 3: False
+694,6888,False
+754,6889,False
+1129,6893,Answer: True
+1045,6898,False
+3142,6899,False
+1775,6900,False
+2853,6902,False
+820,6902,False
+3477,6904,"If Stephen Graham and Timothi-Jane Graham are referring to the same person, answer with True"
+2404,6906,"False, as the records are referring to different episodes/parts of a series"
+2230,6910,"record 1: Tokyo FM, record 2: The broadcasting station revealed on September 13 that they will air a special broadcast for the drama that consists of shortened versions of episodes one through eight, behind-the-scenes clips, and NG cuts"
+5450,6911,True
+6050,6912,False
+3953,6912,False
+2974,6913,Answer: False
+2075,6914,False
+4331,6915,False
+1069,6918,True
+2809,6929,False
+4986,6930,False
+4699,6931,True
+168,6932,"record 1: Lucy Liu plays the female lead opposite Pierce Brosnan in ""The November Man,"" directed by Roger Donaldson"
+1103,6932,False
+4351,6933,Answer: True
+3813,6934,Answer: False
+3096,6936,False
+3173,6939,False
+5725,6944,"record 1: The Amazing Spider-Man (TV Series) 1977-12-05 1977-12-01, record 2: The Amazing Spider-Man (TV Series) 1977-12-08"
+1793,6945,True
+577,6946,"False, as the two records describe different cases and investigations, although they both involve Munch spreading Christmas cheer and investigating deaths related to Santa Claus suits"
+5041,6949,False
+2262,6950,False
+2395,6951,False
+2809,6953,False
+1805,6954,False
+3300,6955,False
+1569,6956,False
+5987,6957,False
+2514,6960,False
+2198,6961,Answer: False
+4333,6964,Answer: True
+1491,6965,Answer: True
+4111,6966,True
+2149,6972,False
+5753,6974,True
+4765,6975,False
+1155,6978,False
+5623,6981,Answer: False
+2353,6982,Answer: True
+1040,6984,Answer: False
+6034,6985,Answer: False
+4615,6986,Answer: False
+1935,6988,Answer: True
+2008,6992,False
+2818,6994,False
+632,6995,False
+3400,6998,True
+5709,6999,False
+2809,7000,False
+2605,7001,False
+1002,7003,False
+6046,7006,True
+637,7007,"record 1: The Ripper Case A serial killer is on the loose, and Harley and Dunlap are assigned to the case"
+24,7009,False
+3271,7012,False
+3106,7014,"If the records refer to two different people named Elaine and Denise Morgan, then the answer is False"
+1651,7015,Answer: True
+5728,7017,Answer: False
+445,7018,False
+94,7020,True
+3417,7024,False
+4008,7025,False
+1353,7026,False
+4874,7031,Answer: True
+3891,7032,Example 3:
+3099,7033,Answer: False
+1099,7038,False
+1660,7041,Answer: False
+1937,7045,False
+5464,7046,False
+4053,7047,False
+947,7048,False
+2160,7049,Answer: True
+5084,7050,False
+6048,7050,Answer: False
+4393,7052,False
+1266,7053,Example 1: False
+5660,7054,False
+2960,7055,False
+1703,7056,False
+1396,7059,False
+3258,7064,"False, as Michael Hirsh and Public Relations are not referring to the same entity in these record descriptions"
+5336,7067,False
+679,7068,"If the episodes featuring Jennifer Salt and Jennifer Tollady are about the same character or event, answer with ""True"
+3962,7069,"Answer: False, as ""Boys Over Flowers"" is a different drama with a similar title in Korean (Hanguk: 花少年)"
+5087,7070,Answer: False
+4386,7071,True
+1266,7075,Answer: False
+4467,7080,Answer: True
+2981,7081,True
+77,7082,False
+2803,7086,False
+374,7090,True
+5185,7094,Answer: True
+3822,7095,Answer: True
+3457,7096,False
+5259,7097,Answer: False
+2573,7102,Answer: False
+939,7103,Answer: True
+5408,7111,Answer: True
+3104,7112,False
+3271,7115,False
+3933,7116,Answer: False
+486,7120,True
+1839,7121,False
+2443,7122,Record descriptions are:
+2224,7123,Answer: True
+788,7125,False
+1941,7127,True
+5035,7131,Example 3: 
+5522,7135,False
+4079,7139,False
+2676,7147,"False, as Neve Campbell and Adam Campbell are related by blood (both being Canadian actors), but they can still represent different entities in the context of this task"
+4122,7148,False
+5216,7148,False
+1188,7149,False
+738,7150,False
+2202,7151,Answer: True
+4430,7152,Answer: True
+856,7157,"False, as both records describe the same episode and content"
+5654,7159,Answer: False
+5690,7160,Answer: True
+5940,7166,Answer: False
+4901,7167,False
+3414,7168,False
+3323,7169,"Record 1 and Record 2 refer to the same entity, which is the author Terry Goodkind"
+2884,7170,False
+1665,7170,False
+4083,7172,False
+5128,7173,False
+4318,7174,False
+5238,7175,False
+1754,7176,False
+3197,7179,Answer: True
+5154,7180,Answer: False
+1292,7184,Answer: False
+231,7185,The answers for the provided examples are:
+2012,7186,False
+3547,7187,False
+4058,7190,Answer: False
+1431,7191,Answer: True
+1573,7192,True
+5289,7193,False
+4474,7195,True
+5707,7199,False
+3326,7200,Answer: True
+4884,7203,Answer: True
+4394,7204,Answer: False
+4789,7205,record 1: CSI: Miami
+369,7207,False
+5336,7209,False
+5069,7210,False
+2809,7213,Example 3:
+3645,7215,"If the records are referring to two different episodes of a TV show featuring these guests, then the answer is False"
+5114,7216,"Example 1: False, as both records are referring to different individuals named ""Cold Sweat"" and ""MTV"""
+4682,7217,Answer: False
+4983,7218,Answer: False
+1673,7220,True
+2831,7221,"If both Jack Thompson and Peter Thompson are playing different characters in the two records, the answer is False"
+162,7223,"record 1: Tom Hanks 2016-12-31 1956-07-09, record 2: Tom Hanks 1993-11-24"
+1965,7225,Answer: True
+5217,7226,True
+5153,7227,record 1: Heitor Martinez (person)
+4165,7228,record 1: Robert Downey Jr
+2809,7229,Question: Should we use reusable bags when grocery shopping?
+2809,7230,False
+5683,7231,False
+4768,7233,False
+2751,7235,False
+4675,7236,False
+4621,7237,False
+1683,7239,False
+214,7240,False
+5494,7241,False
+5184,7244,True
+3620,7245,Answer: True
+4036,7251,True
+5795,7252,"record 1: The Fresh Prince of Bel-Air (TV Series 1990–1996) – Will Smith, record 2: The Fresh Prince of Bel-Air - Will Smith"
+5481,7255,Answer: True
+2789,7257,Answer: True
+5283,7258,False
+840,7259,False
+1591,7260,False
+2846,7261,"Example 3: record 1: Elon Musk Elon Musk is a South African-born American entrepreneur, business magnate, and engineer"
+1759,7262,False
+3343,7263,Answer: False
+3944,7264,False
+2105,7266,False
+6029,7266,False
+343,7268,True
+877,7269,False
+3252,7270,record 1: MTV
+5362,7271,Answer: False
+3415,7273,False
+4804,7275,Answer: True
+986,7276,"record 1: The Beatles, record 2: Ringo Starr"
+3056,7278,False
+4778,7278,False
+5337,7280,False
+4595,7281,False
+4508,7281,False
+5531,7282,False
+2605,7283,False
+5571,7284,Answer: True
+1715,7288,Answer: True
+2029,7289,"Both records refer to the same event and tickets, so answer should be True"
+3271,7290,False
+1768,7291,False
+2100,7294,False
+1964,7296,Answer: False
+3227,7297,"record 1 and record 2 both relate to individuals associated with the Painters and Dockers Union and incidents of violence, specifically involving Les Kane, Billy Longley, and Pat Shannon"
+4472,7300,False
+1905,7301,True
+2008,7302,False
+3619,7304,True
+5962,7307,True
+679,7308,Answer: False
+937,7311,True
+2050,7314,"Both records refer to the same crime, as they both mention a young girl being murdered in a similar style to Adena Watson's murder"
+2446,7315,Answer: True
+2797,7316,Answer: True
+3277,7318,Answer: True
+5750,7321,Answer: False
+3859,7322,Answer: False
+768,7324,False
+5688,7326,False
+3813,7327,False
+269,7328,False
+5932,7329,False
+5483,7330,"Without knowing the exact names and titles in both records, it is impossible to determine if they refer to the same entities or not"
+1862,7330,I'm sorry but the information provided is not enough to determine whether the records refer to the same entity or not
+602,7330,"Unknown records, cannot determine if they refer to the same entity or not"
+2919,7330,"Without any further context, it is impossible to determine whether the records refer to the same entity or not"
+121,7330,False
+1273,7330,I'm sorry but the information provided is not enough to determine if the records refer to the same entity or not
+2835,7330,False
+1928,7332,False
+4844,7333,Answer: False
+1860,7333,False
+2721,7335,False
+5223,7337,False
+4097,7339,True
+4129,7340,False
+5431,7341,False
+3704,7342,False
+2751,7344,False
+2936,7345,False
+4511,7346,False
+1935,7350,False
+2967,7351,Answer: False
+4290,7355,False
+5775,7356,Answer: False
+3722,7358,Answer: False
+1333,7359,Answer: False
+4825,7360,Answer: False
+3565,7361,Answer: True
+4073,7364,False
+3798,7365,True
+2721,7366,False
+5247,7368,"If ""Oz Scott"" and ""Raina Scott"" are referring to two different people, then the answer is False"
+4566,7369,False
+5137,7370,False
+4481,7373,Answer: False
+1333,7375,False
+4583,7376,False
+3377,7376,False
+295,7378,False
+2463,7379,Answer: True
+394,7383,False
+436,7383,False
+20,7386,"record 1: The Lion King (1994 film) 1994-06-15 1994-06-15, record 2: The Lion King (TV series) 1997-01-01"
+5016,7387,False
+2110,7388,Answer: False
+2809,7390,Answer: False
+2886,7394,False
+3027,7397,False
+424,7398,False
+1853,7399,"record 1: Ski Cats 'In an effort to rescue the world's ultra-elite supermodels, The Agents check into Ski Lift, a remote Swiss resort, specializing in ''intense body pampering for world class glamour freaks"
+2094,7402,False
+1898,7404,False
+2848,7406,False
+1991,7408,False
+2027,7409,False
+5967,7410,"False, as the two records describe different instances"
+1831,7411,False
+5392,7414,False
+183,7415,Answer: True
+3019,7417,Answer: True
+4739,7418,False
+6002,7419,Answer: True
+1038,7424,Answer: True
+2998,7425,False
+1805,7428,Answer: False
+4028,7434,Answer: True
+3914,7436,Answer: True
+4878,7437,"False, as the two records describe different episodes of the same TV show, and do not pertain to entity resolution"
+2340,7440,Answer: False
+4726,7442,False
+1498,7443,"False, as both records describe different instances of the ""A Sheep In Wolf's Clothing"" story"
+1347,7444,Answer: True
+4030,7445,"If both episodes belong to the same season of the same TV show, then the answer is True"
+5677,7446,False
+5074,7447,Answer: If both records refer to the same person (i
+498,7448,False
+951,7452,Answer: False
+4767,7456,True
+1316,7457,Answer: True
+3667,7458,Answer: True
+622,7460,False
+4157,7461,"record 1: Spider-Man: Homecoming (as Freedom) 2017-07-05 2016-01-01, record 2: Spider-Man: Homecoming (as Freedom 'Mary Jane's plans for an anxiety-free weekend go awry when Mark asks her to be his ''beard'' during an unexpected visit from his parents"
+4327,7466,False
+476,7467,False
+3934,7468,"False, as ""So Bright a Light"" is a specific title of a recording or broadcast event, while ""R"
+2777,7469,True
+2809,7470,False
+838,7471,Answer: False
+1187,7472,Answer: True
+1954,7473,True
+3248,7474,False
+4700,7476,False
+1356,7476,False
+994,7478,True
+5036,7479,False
+5929,7480,Answer: True
+839,7484,Answer: False
+5223,7487,False
+428,7489,False
+2641,7490,Example 3: 
+264,7491,False
+5855,7492,"record 1: [45] Bungou Stray Dogs Season 1 Episode 9 ""Words Bring a New Day"""
+2544,7496,Answer: True
+4415,7497,"record 1: Terra Mater Factual Studios, record 2: Making of Oceans - The Tresure Hunt 3D was a collaboration between our company and Atlantic Productions GB"
+3839,7498,False
+3310,7498,Answer: False
+840,7499,"If the episode featuring Anders and the episode featuring Matt Gillanders as a guest star are both episodes of the same TV show, answer with True"
+2809,7500,Answer: False
+4933,7504,Answer: True
+2378,7506,False
+5029,7507,False
+4179,7508,False
+3271,7509,"record 1: Akira Kurosawa Akira Kurosawa (18 April 1910 – 6 September 1998) was a Japanese film director, producer, screenwriter and editor"
+4696,7510,True
+525,7511,False
+5176,7512,True
+4213,7513,Answer: True
+4164,7514,False
+4587,7516,False
+3540,7519,False
+4051,7519,False
+4772,7520,Answer: False
+1649,7521,Answer: True
+738,7525,False
+3996,7526,Answer: True
+2162,7529,Answer: True
+3249,7531,Answer: True
+4986,7532,False
+10,7532,False
+5648,7533,False
+611,7534,False
+2809,7535,False
+3263,7536,True
+5475,7537,Answer: True
+5510,7538,True
+2277,7539,Answer: True
+284,7540,False
+3312,7541,Answer: True
+2008,7542,False
+3474,7543,"If the episodes are referring to the same television show, answer with ""True"
+4745,7545,False
+1657,7546,Answer: True
+4011,7547,False
+4011,7551,False
+696,7552,False
+5996,7554,False
+5454,7555,False
+4247,7555,False
+568,7555,False
+2809,7557,False
+292,7558,Answer: False
+1803,7560,Answer: True
+421,7562,Answer: True
+2922,7564,Answer: True
+2154,7565,False
+2960,7565,False
+5183,7568,False
+791,7569,Answer: True
+4979,7571,Answer: True
+4986,7573,False
+2848,7574,Answer: True
+445,7575,False
+5938,7577,Answer: False
+3116,7579,True
+3245,7580,True
+4867,7581,True
+1825,7582,True
+1000,7583,"False, the records refer to different entities"
+2809,7584,"record 3: The Great Adventure 1953-07-26 1953-01-01, record 4: Cynthia Szigeti actor"
+5952,7586,False
+3801,7591,False
+1939,7592,True
+5267,7593,False
+4986,7596,False
+3754,7597,False
+2998,7598,"record 1: ""The Real World"" (TV Series) - Susan Horgan (20 episodes, 1995-1998), record 2: ""The Outer Limits"" (TV Series) - Susan Strasberg (1 episode, 1996)"
+2445,7598,Answer: False
+2289,7599,False
+161,7602,True
+4045,7604,True
+3625,7610,Answer: True
+57,7615,True
+831,7616,False
+5454,7618,False
+4698,7619,Answer: True
+3715,7622,False
+2869,7623,Answer: True
+928,7624,"record 1: Christopher Fairbank, birthplace: Liverpool, occupation: Actor"
+3271,7626,False
+346,7627,True
+1018,7628,False
+926,7632,False
+2886,7633,False
+3432,7637,True
+4510,7638,Answer: False
+3803,7639,Answer: False
+609,7640,False
+1518,7642,Answer: True
+1889,7644,record 1: MOTHER TERESA
+4778,7648,False
+807,7650,Answer: False
+475,7651,"In this case, we cannot determine if the records refer to the same entity based on the provided information"
+2547,7655,False
+2445,7657,False
+2998,7657,False
+4987,7658,True
+5096,7661,False
+2339,7662,Answer: True
+2642,7664,Depends on the specific shows and programming being referred to in each record
+2210,7667,True
+6011,7670,False
+3853,7671,Answer: False
+3800,7672,Answer: False
+5171,7673,True
+3827,7674,False
+2953,7675,False
+2626,7677,Answer: True
+4307,7678,False
+3136,7679,Answer: True
+2790,7680,Example 3:
+1143,7681,False
+2816,7685,False
+974,7687,Answer: True
+5671,7690,Same entity: True
+4986,7691,"record 3: Kerry Washington stars in ABC's 'Scandal' 2012-10-15 2012-06-01, record 4: Kerry Washington returns as Olivia Pope in the second season of ABC's 'Scandal' 2013-09-28 2013-04-01"
+2670,7692,False
+2809,7694,Example 3:
+2265,7695,"False, as ""Bruno Kirby"" refers to a person, while ""Bruno Kirby directors"" likely refers to directors who have worked on films featuring Bruno Kirby"
+716,7696,False
+4291,7696,"If the episode features both Ash Taylor and Hal Baylor as guests, answer with True"
+4151,7697,False
+5251,7699,True
+2358,7700,record 1: Strangers and Other Partners (2)
+555,7703,Answer: True
+3493,7706,Answer: True
+4659,7707,False
+3661,7709,Answer: False
+3549,7710,False
+944,7711,True
+2657,7715,False
+3121,7716,False
+925,7717,"To determine if the records refer to the same entity, we need more information about what is being referred to in each record"
+2627,7720,False
+17,7721,"Both records describe Episode 7 and contain information about John Parr's revenge, Simone's murder investigation, Danny being thrown out by the Quinlans, Mrs Archer's reaction, and Bernie sharing her pregnancy news with Father Matthew"
+3413,7722,False
+4511,7726,Answer: False
+1369,7728,False
+5975,7730,Answer: True
+1257,7731,True
+2398,7734,"False, as the dates provided indicate that these are two separate episodes of the TV show ""Heartbeat"" (formerly known as ""Homicide: Life on the Street"")"
+4301,7735,False
+36,7736,Answer: True
+630,7737,False
+394,7738,False
+1868,7738,False
+2084,7738,False
+1493,7743,False
+927,7745,True
+5386,7748,True
+3090,7750,True
+5767,7752,False
+1099,7754,False
+3165,7755,True
+4419,7756,False
+3322,7757,False
+3417,7758,False
+5191,7762,True
+1097,7763,False
+3409,7764,False
+3550,7767,False
+4147,7769,False
+4930,7772,Answer: True
+901,7773,record 1: Geratzite Gaffer Yordan the Gerak is a wealthy farmer with a large family
+5368,7775,False
+4535,7776,Answer: True
+5499,7777,"Answer: False, as the records describe different shows (MTV vs"
+2057,7778,Answer: True
+4171,7780,False
+28,7780,"If Tony Roberts and Mark Roberts are two different individuals, then the answer is False"
+3436,7781,False
+5981,7785,"record 1: Blood Ties (2) While Pembleton is still interested in the housekeeper's ex-boyfriend, Ballard still thinks that the Wilson family needs to be looked at more closely"
+5279,7786,True
+5416,7788,"record 1: Beached 1960-05-02 1960-01-01, record 2: Stranded 1960-05-02"
+2047,7790,Answer: False
+4873,7791,False
+5901,7792,False
+2456,7793,True
+5053,7794,False
+4970,7795,False
+5828,7798,Answer: True
+3178,7800,Answer: False
+3133,7801,False
+4698,7802,False
+214,7804,False
+175,7806,Answer: False
+652,7807,False
+4318,7808,False

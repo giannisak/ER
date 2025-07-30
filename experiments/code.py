@@ -20,12 +20,12 @@ import time
 import ollama
 
 # CONFIGURATION: Edit llm and paths for datasets, candidate pairs, groundtruth files
-llm = 'zephyr-ft'
-dataset_1 = './data/dt2/abt.csv'
-dataset_2 = './data/dt2/buy.csv'
-candidate_pairs = './data/dt2/cp.csv'
-groundtruth = './data/dt2/gt.csv'
-testing = False # Set to True to evaluate the first 100 candidate pairs for testing
+llm = 'gemma3n-z'
+dataset_1 = './data_clean/D7/tmdbclean.csv'
+dataset_2 = './data_clean/D7/tvdbclean.csv'
+candidate_pairs = './candidate_pairs/D7.csv'
+groundtruth = './data_clean/D7/gtclean.csv'
+testing = True # Set to True to evaluate the first 100 candidate pairs for testing
 
 # read the files (Edit sep if needed)
 dt1 = pd.read_csv(dataset_1, sep='|')
@@ -63,9 +63,9 @@ for i in range(num_iterations):
     r1 = dt1[dt1_index]
     r2 = dt2[dt2_index]
 
-    # print(f"candidate pair {i}")
-    # print(f"record 1: {r1}")
-    # print(f"record 2: {r2}")
+    print(f"candidate pair {i}")
+    print(f"record 1: {r1}")
+    print(f"record 2: {r2}")
 
     query = f"record 1: {r1}, record 2: {r2}. Answer with True. or False."
 
@@ -78,13 +78,13 @@ for i in range(num_iterations):
     
     responses.append(resp['message']['content'])
 
-    # print(f"worker's response: {resp['message']['content']}")
+    print(f"worker's response: {resp['message']['content']}")
 
     gt_value = 'True' if (dt1_index, dt2_index) in gt_set else 'False'
 
-    # print(f"groundtruth value: {gt_value}")
-    # print(f"pair: {[dt1_index, dt2_index]}")
-    # print(" ")
+    print(f"groundtruth value: {gt_value}")
+    print(f"pair: {[dt1_index, dt2_index]}")
+    print(" ")
 
 end = time.time()
 
@@ -154,27 +154,27 @@ print("Recall:", recall)
 print("F1 Score:", f1)
 print(" ")
 
-# save evaluation summary to same folder as datasets
-dataset_dir = '/'.join(dataset_1.split('/')[:-1])
-summary_filename = f"{dataset_dir}/{llm}_results.txt"
+# # save evaluation summary to same folder as datasets
+# dataset_dir = '/'.join(dataset_1.split('/')[:-1])
+# summary_filename = f"{dataset_dir}/{llm}_results.txt"
 
-with open(summary_filename, 'w') as f:
-    f.write("Response Time: {:02}h:{:02}m:{:.2f}s\n".format(int(hours), int(minutes), seconds))
-    f.write(f"Good Behavior Response Rate: {good_behavior_rate:.2f}\n")
-    f.write(f"Precision: {precision:.3f}\n")
-    f.write(f"Recall: {recall:.3f}\n")
-    f.write(f"F1 Score: {f1:.3f}\n")
+# with open(summary_filename, 'w') as f:
+#     f.write("Response Time: {:02}h:{:02}m:{:.2f}s\n".format(int(hours), int(minutes), seconds))
+#     f.write(f"Good Behavior Response Rate: {good_behavior_rate:.2f}\n")
+#     f.write(f"Precision: {precision:.3f}\n")
+#     f.write(f"Recall: {recall:.3f}\n")
+#     f.write(f"F1 Score: {f1:.3f}\n")
 
-print(f"Summary saved to {summary_filename}")
+# print(f"Summary saved to {summary_filename}")
 
-# model's responses
-for i in range(len(responses)):
-    if responses[i] != 'True' and responses[i] != 'False':
-        responses[i] = 'False' 
+# # model's responses
+# for i in range(len(responses)):
+#     if responses[i] != 'True' and responses[i] != 'False':
+#         responses[i] = 'False' 
 
-if 'ft' in llm or 'tf' in llm:
-    responses_filename = f"{dataset_dir}/{llm}_responses.txt"
-    with open(responses_filename, 'w') as file:
-        for response in responses:
-            file.write(response + '\n')
-    print(f"Responses saved to {responses_filename} for union/intersection.")
+# if 'ft' in llm or 'tf' in llm:
+#     responses_filename = f"{dataset_dir}/{llm}_responses.txt"
+#     with open(responses_filename, 'w') as file:
+#         for response in responses:
+#             file.write(response + '\n')
+#     print(f"Responses saved to {responses_filename} for union/intersection.")

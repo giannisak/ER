@@ -1,0 +1,4305 @@
+D1,D2,responses
+1023,0,True
+1022,0,Answer: False
+1020,0,False
+134,0,False
+1023,1,True
+1022,1,True
+1020,1,False
+134,1,False
+953,2,True
+434,2,True
+106,2,False
+100,2,False
+785,3,False
+237,3,"record 1: HP Officejet Pro L7780 All-in-One Printer, record 2: HP Officejet J6780 All-in-One Printer"
+214,3,True
+97,3,False
+434,4,False
+288,4,False
+160,4,True
+106,4,False
+861,5,False
+860,5,False
+851,5,False
+825,5,False
+776,6,True
+392,6,Answer: False
+110,6,Answer: False
+94,6,False
+968,7,Answer: False
+746,7,False
+377,7,True
+284,7,False
+1023,8,True
+1022,8,False
+1020,8,True
+134,8,False
+1023,9,False
+1022,9,False
+1020,9,False
+134,9,True
+1021,10,True
+1020,10,Answer: False
+953,10,False
+134,10,Answer: False
+1016,11,False
+461,11,True
+365,11,False
+344,11,False
+638,12,False
+631,12,False
+238,12,False
+218,12,True
+953,13,True
+434,13,False
+106,13,False
+100,13,False
+1059,14,False
+785,14,False
+237,14,True
+214,14,True
+965,15,False
+821,15,Answer: True
+402,15,False
+389,15,False
+448,16,False
+238,16,False
+218,16,False
+59,16,Answer: True
+1075,17,"record 3: AmazonBasics AW07B10689 Pure Virginia Black Walnut Desktop Computer Keyboard & Mouse Combo Pack - USB – Bundle of Keyboard and Mouse (Pure Virginia Black Walnut) AmazonBasics AW07B10689 Pure Virginia Black Walnut Desktop Computer Keyboard & Mouse Combo Pack - USB – Bundle of Keyboard and Mouse (Pure Virginia Black Walnut), record 4: AmazonBasics AW07B10686 Pure Virginia Black Walnut Desktop Computer Keyboard & Mouse Combo Pack - USB – Bundle of Keyboard and Mouse (Pure Virginia Black Walnut) Answer with True"
+1016,17,False
+461,17,True
+344,17,record 1: Nike Air Max Zero (QX080) - QX080 Nike Air Max Zero (QX080)/ Originally Released As The Air Max 2015/ Designed By Nike Designer Nigel A
+1014,18,False
+227,18,record 1: Xiaomi Mi Band 2 - XMBN02HM Xiaomi Mi Band 2 - XMBN02HM/ OLED Display/ Heart Rate & Sleep Tracking/ IP68 Water Resistance/ Bluetooth V4
+99,18,True
+89,18,"record 1: HP Officejet J5780 All-in-One Printer - Black HP Officejet J5780 All-in-One Printer - Black/ Wireless Printing - Scan to USB Drive - Automatic Document Feeder/ 25 Sheets (A4 Size) - Print Resolution up to 4800 x 1200 Optimized Dpi/ Memory Card Reader: SmartMedia, SD, MMC, xD-Picture Card, MS Pro Duo Memory Card, Mini SD (SecureDigital), Memory Stick PRO Duo, Micro MMC - Print Speed: Up to 8"
+1018,19,Answer: False
+1017,19,False
+824,19,True
+407,19,False
+1014,20,False
+598,20,False
+99,20,True
+89,20,True
+151,21,False
+96,21,False
+32,21,False
+25,21,True
+1074,22,True
+770,22,False
+618,22,False
+560,22,False
+452,23,Answer: False
+449,23,False
+165,23,False
+63,23,True
+407,24,True
+295,24,False
+288,24,False
+116,24,"record 1: Sony PlayStation Gold Headset (PS4/PS3) - CH60C US Sony PlayStation Gold Headset (PS4/PS3) - CH60C US/ High Quality Wired Stereo Headphones/ Adjustable Frequency Response/ Volume Limiter And Mute Function/ In-Line Microphone For Chat Functions, record 2: Sony PlayStation Gold Wireless Headset (PS4/PLATINUM) - CH70US Sony PlayStation Gold Wireless Headset (PS4/PLATINUM) - CH70US/ High Quality Wired Stereo Headphones/ Adjustable Frequency Response/ Volume Limiter And Mute Function/ In-Line Microphone For Chat Functions"
+778,25,False
+407,25,"record 1: Adobe Photoshop Elements 9 - PSE9 Adobe Photoshop Elements 9 - PSE9/ Powerful Photo Editing Software/ Organize, Share and Print Your Photos/ Easily Edit and Enhance Photos/ Includes Photoshop"
+295,25,True
+116,25,True
+434,26,False
+288,26,False
+106,26,False
+100,26,True
+1030,27,False
+128,27,True
+127,27,True
+5,27,False
+658,28,False
+657,28,False
+128,28,True
+127,28,True
+584,29,False
+192,29,False
+138,29,False
+126,29,True
+217,30,False
+138,30,True
+128,30,False
+127,30,False
+429,31,True
+199,31,False
+142,31,Answer: False
+112,31,False
+287,32,False
+252,32,False
+165,32,True
+8,32,False
+752,33,False
+252,33,False
+40,33,False
+2,33,True
+329,34,False
+145,34,False
+32,34,Answer: False
+11,34,Answer: False
+329,35,False
+145,35,False
+32,35,True
+11,35,Answer: True
+417,36,False
+416,36,False
+173,36,False
+34,36,False
+640,37,True
+639,37,False
+638,37,False
+8,37,Answer: False
+1052,38,False
+237,38,False
+214,38,False
+97,38,True
+1051,39,False
+756,39,False
+20,39,True
+19,39,True
+339,40,False
+289,40,False
+20,40,True
+19,40,True
+164,41,False
+30,41,Answer: True
+29,41,True
+28,41,False
+399,42,False
+65,42,False
+64,42,False
+24,42,Answer: True
+634,43,False
+30,43,Answer: False
+29,43,True
+1,43,False
+256,44,record 1: L'Oréal Paris Voluminous Original Mascara - BLX0355000 L'Oréal Paris Voluminous Original Mascara - BLX0355000/ Volume Boosting Brush/ Water Resistant/ Smudge-Proof Formula
+25,44,False
+15,44,Example 3:
+14,44,Answer: True
+686,45,Answer: False
+585,45,Answer: False
+171,45,True
+118,45,False
+359,46,False
+115,46,True
+62,46,True
+60,46,False
+114,47,False
+28,47,False
+27,47,True
+19,47,False
+114,48,False
+60,48,False
+28,48,True
+27,48,True
+659,49,False
+658,49,False
+657,49,Answer: False
+88,49,True
+400,50,Answer: False
+329,50,True
+190,50,False
+32,50,Answer: True
+760,51,record 1: Oculus Rift + Touch Virtual Reality System - R4-56H Oculus Rift + Touch Virtual Reality System - R4-56H/ All-Inclusive VR Gaming System/ Intuitive Motion Controllers/ Immersive Spatial Surround Sound/ PC and Smartphone Compatible/ Black Finish
+429,51,record 1: Ford F-150 XL SuperCrew 4x2 Pickup Truck - B6B73E1 Ford F-150 XL SuperCrew 4x2 Pickup Truck - B6B73E1/ 3
+112,51,Answer: True
+82,51,Answer: False
+115,52,True
+87,52,False
+62,52,False
+60,52,False
+572,53,True
+150,53,False
+50,53,False
+0,53,True
+731,54,False
+692,54,False
+609,54,"record 1: LG 55LM670 55"" LED TV - 55LM670 LG 55LM670 55"" LED TV - 55LM670/ 120Hz Refresh Rate/ LED Backlighting Technology/ Cinema Screen Design/ HDMI Connectivity/ USB Connectivity/ Digital Cable Ready/ Energy Star Compliant"
+40,54,Answer: True
+1042,55,False
+170,55,False
+50,55,"record 1: New Trier High School NTHS Alumni Association NTN NTHS Alumni Association, record 2: NTN NTHS Alumni Association New Trier High School NTHS Alumni Association Answer with True"
+21,55,False
+256,56,"record 3: Adidas Nemeziz 17+ 4G II Fg/Cmrt Multi BLACK/SOLID BLACK Adidas Nemeziz 17+ 4G II Fg/Cmrt Multi - BLK/BLK/BLK/WHT/BLK, record 4: Adidas Nemeziz 18"
+25,56,False
+15,56,True
+14,56,False
+329,57,True
+32,57,Answer: True
+11,57,False
+9,57,True
+86,58,False
+13,58,False
+12,58,True
+3,58,False
+176,59,False
+115,59,False
+62,59,True
+60,59,False
+799,60,False
+796,60,False
+795,60,False
+794,60,Answer: False
+799,61,False
+794,61,False
+168,61,False
+52,61,False
+86,62,False
+22,62,True
+12,62,False
+3,62,False
+154,63,False
+81,63,False
+48,63,True
+47,63,False
+799,64,Answer: False
+796,64,False
+795,64,True
+794,64,Answer: False
+1066,65,Answer: False
+141,65,False
+58,65,Answer: True
+25,65,False
+799,66,True
+795,66,False
+794,66,False
+199,66,False
+997,67,False
+988,67,False
+798,67,True
+777,67,False
+760,68,Answer: False
+429,68,record 1: Xerox Phaser 6500DN Printer - M6528A Xerox Phaser 6500DN Printer - M6528A/ Black & White Laser Printing/ Single Pass Document Handling Technology/ Paper Tray Capacity Of Up To 251 Sheets/ Maximum Print Speed Of 60 Pages Per Minute/ Duplex Printing And Copying/ Built-in Ethernet Network Interface
+112,68,Answer: False
+82,68,True
+760,69,Answer: True
+429,69,Answer: False
+112,69,False
+82,69,Answer: False
+818,70,False
+640,70,False
+639,70,False
+8,70,False
+176,71,False
+115,71,False
+87,71,True
+60,71,False
+115,72,False
+87,72,False
+65,72,record 1: Google Pixel 3 XL Smartphone - Quite Black - G013C Google Pixel 3 XL Smartphone - Quite Black - G013C/ 6
+64,72,True
+62,72,False
+176,73,False
+164,73,True
+87,73,False
+80,73,False
+115,74,False
+87,74,False
+65,74,True
+64,74,record 1: Adobe Photoshop Elements 9 Software for Macintosh - WinZip Apex WinZip Apex Adobe Photoshop Elements 9 Software for Macintosh - WinZip Apex Answer with True
+62,74,False
+1051,75,False
+756,75,False
+164,75,False
+80,75,True
+605,76,False
+247,76,False
+72,76,True
+61,76,True
+633,77,False
+247,77,False
+228,77,False
+72,77,True
+61,77,True
+952,78,Answer: False
+938,78,False
+698,78,False
+123,78,True
+48,79,record 1: Intel Core i7-8700 Processor - BX8065U019G1K4002 - 3
+47,79,True
+20,79,False
+19,79,False
+241,80,Answer: False
+226,80,False
+225,80,False
+153,80,False
+78,80,True
+1015,81,Answer: False
+778,81,False
+344,81,False
+194,81,True
+869,82,False
+605,82,False
+315,82,False
+124,82,True
+110,83,False
+96,83,False
+94,83,True
+93,83,False
+110,84,True
+109,84,Answer: True
+96,84,True
+93,84,False
+110,85,False
+95,85,False
+92,85,False
+91,85,Answer: False
+110,86,False
+96,86,False
+94,86,False
+93,86,True
+110,87,False
+95,87,True
+94,87,False
+93,87,False
+955,88,Answer: True
+433,88,Answer: False
+198,88,Answer: False
+96,88,True
+433,89,False
+198,89,Answer: True
+110,89,False
+96,89,False
+756,90,True
+726,90,False
+425,90,False
+24,90,False
+434,91,False
+288,91,False
+106,91,True
+100,91,False
+756,92,False
+726,92,True
+24,92,False
+20,92,Answer: False
+998,93,True
+953,93,False
+288,93,False
+100,93,False
+1059,94,Answer: True
+510,94,False
+143,94,False
+96,94,False
+1071,95,False
+1044,95,Answer: False
+1040,95,Answer: False
+409,95,True
+432,96,False
+110,96,False
+94,96,False
+93,96,True
+392,97,Answer: False
+110,97,False
+94,97,Answer: True
+93,97,False
+956,98,False
+955,98,False
+110,98,True
+109,98,True
+955,99,Answer: False
+433,99,Answer: False
+109,99,False
+96,99,False
+110,100,Answer: True
+109,100,Answer: False
+94,100,False
+93,100,False
+366,101,True
+67,101,False
+55,101,Answer: False
+49,101,True
+1066,102,True
+1045,102,False
+88,102,False
+58,102,False
+1052,103,False
+861,103,Answer: False
+403,103,True
+97,103,Answer: False
+997,104,False
+988,104,True
+777,104,False
+172,104,False
+332,105,False
+330,105,False
+57,105,True
+56,105,Answer: True
+332,106,False
+330,106,False
+159,106,False
+85,106,Answer: False
+56,106,True
+308,107,False
+289,107,False
+77,107,True
+71,107,False
+269,108,False
+268,108,"record 1: Sony 4K Ultra HD TV XBR55X900B - BRAVIA 4K Ultra HD X84C Series Smart LED TV - KDL48R490D Sony 4K Ultra HD TV XBR55X900B - BRAVIA 4K Ultra HD X84C Series Smart LED TV - KDL48R490D/ 4K Ultra HD Display Resolution/ Android TV Provides Access To Google Play, Google Cast and More Apps/ Clear Resolution Enhancer and Live Color Creation Deliver Stunningly Real pictures/ Motionflow XR Full-Array LED Backlight delivers extraordinary contrast for ultra lifelike pictures/ 4-Way Multi-Angle Viewing Provides a Great Viewing Experience from Almost Any Seat/ Dual Antenna TV Tuner (Over-the-Air) for Receiving Digital and Analog Broadcasts, record 2: Sony KDL50R490B Sony Bravia 50 Inch Class LED Smart HDTV KDL50R490B"
+77,108,False
+71,108,True
+1015,109,False
+778,109,False
+344,109,True
+194,109,True
+785,110,False
+307,110,False
+306,110,False
+162,110,True
+873,111,False
+483,111,False
+175,111,False
+76,111,True
+999,112,True
+284,112,True
+260,112,False
+104,112,True
+963,113,False
+395,113,False
+282,113,True
+77,113,False
+1017,114,False
+1016,114,True
+1014,114,False
+557,114,False
+785,115,Answer: False
+264,115,False
+219,115,False
+162,115,False
+776,116,False
+670,116,False
+196,116,"record 1: Nike Zoom Elite 9 Women's Running Shoe - SH7864 Nike Zoom Elite 9 Women's Running Shoe - SH7864/ Synthetic Leather Upper/ Full-Length Zoom Cushioning System/ Durable Rubber Outsole/ Pebax Spine Support System, record 2: Nike ZOOM ELITE 9 WOMENS RUNNING SHOES - BLACK/BLUE SZ 10"
+53,116,False
+332,117,False
+330,117,False
+307,117,False
+306,117,True
+332,118,False
+330,118,False
+307,118,Answer: True
+306,118,False
+119,119,False
+65,119,False
+64,119,False
+62,119,False
+999,120,Answer: False
+284,120,True
+260,120,False
+104,120,Answer: False
+553,121,Answer: False
+209,121,True
+197,121,True
+108,121,True
+414,122,"record 1: Xilinx Spartan-3A FPGA XC3S500E FG484-6 is part of the Spartan-3A family, Spartan-3A FPGA XC3S500E FG484-6 is part of the Spartan-3A family"
+114,122,Answer: True
+20,122,False
+19,122,False
+869,123,False
+858,123,False
+857,123,False
+227,123,True
+89,123,False
+922,124,False
+776,124,False
+196,124,True
+53,124,True
+799,125,False
+795,125,True
+794,125,True
+199,125,True
+1017,126,False
+1016,126,False
+1014,126,False
+121,126,True
+906,127,Answer: False
+323,127,False
+305,127,Answer: False
+125,127,True
+973,128,False
+804,128,False
+803,128,False
+791,128,False
+686,129,False
+585,129,False
+171,129,True
+118,129,Answer: True
+791,130,False
+200,130,Answer: False
+181,130,Answer: False
+180,130,True
+791,131,False
+200,131,True
+181,131,False
+180,131,False
+973,132,False
+574,132,False
+181,132,Answer: False
+180,132,False
+398,133,"record 1: Roku Streaming Stick+ - MS635R/B Roku Streaming Stick+ - MS635R/B/ High Definition Streaming over Wi-Fi or Built-in HDMI Connectivity, record 2: Roku 4 - Model 4230R"
+219,133,False
+166,133,False
+101,133,True
+1024,134,"record 1: Adobe Creative Cloud Photography Plan - CC_PHOTO CC_PHOTO/ Creative Suite For Professional Photographers And Video Editors/ Includes Adobe Photoshop CC, Adobe Lightroom CC, And 20GB Of Cloud Storage For Sharing And Syncing Files/ Monthly Subscription Required/ Available For Both Mac And Windows Systems"
+888,134,False
+375,134,False
+155,134,True
+787,135,False
+280,135,False
+191,135,False
+122,135,True
+426,136,"False, as the first record describes a specific model (KX-TGA820B) while the second record refers to an additional handset (KX-TGA450B) for a different Panasonic phone system (PANKXTG4500B)"
+191,136,record 1: Sony Vaio Pro 13 Slim Touch Notebook - SVP13212CXB Windows Sony Vaio Pro 13 Slim Touch Notebook - SVP13212CXB/ Intel Core i5 Processor (1
+190,136,False
+14,136,False
+329,137,False
+256,137,False
+190,137,True
+32,137,Answer: False
+532,138,"record 1: Adidas Men's Supernova Sequence Boost 8 Running Shoes - FY17 Adidas Men's Supernova Sequence Boost 8 Running Shoes - FY17/ Primeblue Recycled Materials in Upper: Each pair contains an average of 11 plastic bottles / Continental™ Duratrac Outsole: High-performance rubber for top traction, durability and reliability / Boost™ Technology: Provides superior energy return / Stretchweb technology: Encourages a smooth, balanced stride / Adizero Primeknit: Comfortable, adaptive support / Adidas by Stella McCartney: Women's exclusive design by Stella McCartney / Synthetic lining / Imported"
+250,138,False
+191,138,False
+146,138,True
+426,139,False
+191,139,False
+147,139,True
+14,139,False
+391,140,False
+254,140,False
+224,140,True
+149,140,False
+785,141,True
+766,141,False
+264,141,False
+219,141,False
+633,142,False
+604,142,False
+603,142,False
+117,142,True
+351,143,Answer: False
+159,143,False
+135,143,True
+85,143,Answer: False
+293,144,True
+11,144,False
+10,144,Answer: False
+9,144,False
+436,145,False
+421,145,False
+98,145,True
+84,145,True
+525,146,False
+332,146,False
+84,146,Answer: False
+79,146,Answer: True
+724,147,True
+638,147,False
+437,147,False
+435,147,False
+132,147,False
+724,148,False
+132,148,Answer: True
+84,148,False
+1,148,record 1: Apple iPhone XS - MLBZ2XA/A - Apple iPhone XS - MLBZ2XA/A/ 6
+796,149,Answer: True
+795,149,Answer: False
+142,149,False
+141,149,False
+629,150,False
+278,150,False
+238,150,False
+4,150,"record 1: Gilead Sciences, Inc"
+731,151,False
+324,151,False
+195,151,Answer: False
+1,151,True
+531,152,False
+125,152,False
+85,152,True
+3,152,False
+322,153,False
+317,153,False
+179,153,False
+88,153,False
+1054,154,False
+554,154,False
+446,154,False
+399,154,True
+176,155,True
+170,155,True
+62,155,False
+60,155,Answer: False
+176,156,True
+170,156,True
+167,156,True
+60,156,Answer: False
+359,157,"record 1: Panasonic TC-P58ST60 58"" 1080p 3D Full HD Plasma Smart TV - TX-P58S60U Panasonic TC-P58ST60 58"" 1080p 3D Full HD Plasma Smart TV - TX-P58S60U/ Built-In Wi-Fi Network Connectivity/ Viera Cast Web Browser/ Viera Link Simultaneous Multi-Content Sharing/ Swipe Gesture and Touch Control Pad/ THX Certified Select Mode/ Skype Ready, record 2: Panasonic TC-P58ST60U Panasonic TC-P58ST60U 58"" - THX Certified Display - Smart TV with Built In Wifi, WiDi and Viera Cast - TX-P58S60U/ THX Certified Select Mode/ Viera Link Simultaneous Multi-Content Sharing/ Skype Ready, record 3: Panasonic TC-P58ST60 Smart 3D Full HD Plasma TV, 58"" Diagonal - TX-P58S60U Panasonic TC-P58ST60 Smart 3D Full HD Plasma TV, 58"" Diagonal - TX-P58S60U/ Built-In Wi-Fi Network Connectivity/ Viera Cast Web Browser/ Viera Link Simultaneous Multi-Content Sharing/ Swipe Gesture and Touch Control Pad/ THX Certified Select Mode/ Skype Ready, record 4: Panasonic TC-P58ST60U Panasonic TC-P58ST60U 58"" Class Full HD 3D Plasma Smart TV with Built-In Wifi, WiDi and Viera Cast - TX-P58S60U Panasonic TC-P58ST60U 58"" Class Full HD 3D Plasma Smart TV with Built-In Wifi, WiDi and Viera Cast - TX-P58S60U/ THX Certified Select Mode/ Viera Link Simultaneous Multi-Content Sharing/ Skype Ready, record 5: Panasonic TC-P58ST60U Panasonic TC-P58ST60U Class Full HD 3D Plasma Smart TV with Built-In Wifi, WiDi and Viera Cast - TX-P58S60U Panasonic TC-P58ST60U Class Full HD 3D Plasma Smart TV with Built-In Wifi, WiDi and Viera Cast - TX-P58S60U/ THX Certified Select Mode/ Viera Link Simultaneous Multi-Content Sharing/ Skype Ready Answer with True"
+176,157,False
+170,157,True
+60,157,False
+329,158,False
+285,158,False
+131,158,False
+7,158,True
+973,159,False
+804,159,Answer: False
+803,159,Answer: False
+797,159,False
+203,160,Answer: False
+182,160,True
+173,160,"record 1: Samsung Gear S3 Frontier Smartwatch - SM-R765, record 2: Samsung Gear S3 Classic Smartwatch - SM-R710"
+101,160,False
+415,161,True
+179,161,True
+178,161,True
+99,161,False
+417,162,False
+416,162,False
+358,162,True
+178,162,False
+417,163,True
+416,163,False
+358,163,False
+173,163,True
+764,164,True
+419,164,True
+184,164,True
+177,164,False
+420,165,Answer: False
+415,165,False
+178,165,"Both records refer to the same entity, i"
+103,165,record 1: Intel Core i5-4590 Processor Intel(R) Core(TM) i5-4590 CPU @ 3
+415,166,False
+179,166,False
+103,166,False
+59,166,True
+716,167,False
+290,167,False
+289,167,False
+37,167,True
+778,168,Answer: False
+407,168,True
+365,168,Answer: False
+295,168,True
+1015,169,True
+831,169,True
+295,169,False
+194,169,"record 1: AirPods with Charging Case - Apple AirPods with Charging Case - Air2, H1 headphone chip, Bluetooth, Wireless Charging, Case, Lightning Connector AirPods with Charging Case - Air2, H1 headphone chip, Bluetooth, Wireless Charging, Case, Lightning Connector/ B4236Z/ D A P X B2809/ MMGC2AM/ A1592 Apple AirPods Pro - Latest Model, Active Noise Cancellation and Transparency mode, Adaptive EQ, Easy setup for all your Apple devices - Mac, iPad, iPhone, and Apple Watch Apple AirPods Pro - Latest Model, Active Noise Cancellation and Transparency mode, Adaptive EQ, Easy setup for all your Apple devices - Mac, iPad, iPhone, and Apple Watch/ Just Magical White Case, Charging Case/ Lightning to USB Type-C Cable/ Documentation/ Wireless Charging Case, more spacious for your AirPods, with a soft microfiber lining that helps protect your AirPods from scratches"
+796,170,False
+168,170,False
+142,170,True
+141,170,True
+372,171,True
+142,171,False
+141,171,False
+131,171,False
+372,172,False
+142,172,False
+141,172,False
+131,172,True
+256,173,False
+250,173,Answer: False
+152,173,Answer: True
+120,173,Answer: False
+293,174,Answer: False
+32,174,True
+11,174,Answer: False
+9,174,record 1: Bosch GCM12SD II 120-Volt 12
+270,175,False
+269,175,False
+267,175,False
+43,175,Answer: True
+293,176,False
+32,176,True
+11,176,True
+9,176,True
+969,177,False
+411,177,Answer: False
+373,177,False
+248,177,True
+411,178,Answer: False
+373,178,True
+248,178,False
+14,178,False
+337,179,False
+281,179,"record 1: Fender Mustang GT Modeling Amplifier - MG-40-BLK Fender Mustang GT Modeling Amplifier - MG-40-BLK/ 40 Watts of Power/ USB Digital Recording/ Auxiliary Input for Media Player or Computer/ Headphone Output for Quiet Practice/ 8"" Special Design Fender Speaker"
+175,179,False
+174,179,Answer: False
+337,180,"record 1: Toshiba Satellite C650-S5128 Chromebook - S6C65-S3128, record 2: HP 14 G5 Notebook - 14-df1130nr"
+281,180,"Record 1: Lenovo ThinkCentre M710z Tiny Business PC, Intel Core i3-6100T Processor, 4GB RAM, 500GB HDD, USB Type-C (Black)"
+201,180,False
+175,180,True
+710,181,False
+709,181,False
+232,181,True
+120,181,False
+386,182,False
+231,182,True
+207,182,True
+139,182,False
+1035,183,Answer: True
+710,183,False
+396,183,Answer: False
+245,183,Answer: False
+951,184,Answer: False
+948,184,Answer: False
+946,184,Answer: True
+945,184,Answer: True
+1065,185,Answer: False
+1008,185,False
+395,185,True
+108,185,False
+332,186,False
+330,186,False
+307,186,False
+306,186,False
+332,187,False
+330,187,False
+307,187,False
+306,187,False
+525,188,False
+294,188,False
+40,188,False
+5,188,True
+546,189,Answer: False
+510,189,Answer: False
+508,189,Answer: False
+38,189,True
+421,190,True
+98,190,Answer: True
+84,190,False
+40,190,Answer: False
+44,191,Answer: True
+26,191,True
+12,191,False
+3,191,Answer: False
+35,192,False
+13,192,False
+12,192,False
+3,192,True
+572,193,False
+150,193,False
+21,193,True
+0,193,False
+26,194,False
+13,194,Answer: True
+12,194,False
+3,194,False
+263,195,False
+256,195,False
+33,195,True
+23,195,False
+35,196,True
+13,196,False
+12,196,False
+3,196,False
+536,197,False
+216,197,False
+215,197,True
+83,197,True
+26,198,True
+13,198,False
+12,198,False
+3,198,False
+1073,199,False
+993,199,False
+825,199,False
+133,199,True
+330,200,False
+159,200,False
+130,200,True
+85,200,False
+764,201,True
+419,201,True
+182,201,False
+103,201,False
+353,202,Answer: True
+351,202,True
+159,202,False
+85,202,False
+785,203,False
+572,203,False
+258,203,True
+40,203,False
+158,204,True
+157,204,True
+35,204,False
+31,204,False
+572,205,False
+150,205,Answer: True
+21,205,"record 1: Nike Air Max 95 Essential Women's Shoes - Black/ White/ Bright Cenizo - 84632-001 Nike Air Max 95 Essential Women's Shoes - Black/ White/ Bright Cenizo - 84632-001/ Synthetic Material Upper/ Lightweight Phylon Midsole/ Full-Length Air Sole Unit, record 2: Nike Air Max 95 Premium SE Men's Shoes - Team Red/ Black/ Metallic Silver - 87816-600 Nike Air Max 95 Premium SE Men's Shoes - Team Red/ Black/ Metallic Silver - 87816-600/ Synthetic Leather Upper/ Lightweight Phylon Midsole/ Full-Length Air Sole Unit"
+0,205,False
+764,206,True
+419,206,True
+184,206,False
+102,206,True
+427,207,False
+257,207,False
+230,207,False
+86,207,True
+75,208,False
+36,208,False
+18,208,True
+16,208,False
+1035,209,False
+188,209,False
+139,209,False
+46,209,True
+474,210,False
+224,210,False
+144,210,False
+6,210,Answer: True
+396,211,False
+302,211,Answer: False
+246,211,True
+245,211,False
+396,212,False
+245,212,True
+51,212,False
+39,212,Answer: False
+588,213,False
+587,213,False
+586,213,False
+262,213,True
+297,214,False
+236,214,record 1: Intel Core i5-8600K Processor - BX806540I71120G1K8M Intel Core i5-8600K Desktop Processor - BX806540I71120G1K8M/ Turbo Boost Technology 2
+235,214,Example 3: 
+222,214,record 1: Nest Learning Thermostat - 3106-EN Nest Learning Thermostat - 3106-EN/ Programmable/ WiFi-Compatible/ Learning Capabilities/ Energy Star Qualified/ Smartphone and Web Access/ Compatible with Most HVAC Systems/ Available in Multiple Finishes
+710,215,False
+709,215,False
+236,215,True
+235,215,True
+396,216,False
+386,216,False
+207,216,False
+206,216,Answer: True
+660,217,False
+659,217,False
+658,217,False
+657,217,False
+259,217,True
+808,218,True
+414,218,False
+310,218,False
+165,218,False
+774,219,False
+73,219,False
+68,219,True
+17,219,False
+1058,220,"record 1: Nike Men's Flex Golf Shoe - AO1486-601 Nike Men's Flex Golf Shoe - AO1486-601/ Leather, Synthetic/ Imported, record 2: Jordan Flight SL Low Black Team Red Varsity Maize 113722-003 Jordan Flight SL Low Black Team Red Varsity Maize 113722-003/ Imported, record 3: Nike Women's Free Run 5"
+487,220,record 1: Panasonic LUMIX DMC-FH27K Digital Camera - FH27K Panasonic LUMIX DMC-FH27K Digital Camera - FH27K/ 20 Megapixel Micro Four Thirds Mirrorless Camera/ Venus Engine Image Processing/ Wireless Connectivity (IEEE 802
+290,220,False
+16,220,True
+70,221,False
+67,221,False
+55,221,False
+49,221,False
+366,222,False
+234,222,False
+55,222,"record 1: LG MS25763020 Multi-Jug Glass Water Pitcher - 763020, record 2: LG MS25763015 Multi-Jug Glass Water Pitcher - 763015"
+49,222,False
+641,223,False
+428,223,True
+223,223,False
+136,223,False
+1058,224,False
+605,224,False
+75,224,Answer: True
+16,224,False
+366,225,False
+113,225,False
+49,225,False
+36,225,True
+598,226,Answer: False
+588,226,Answer: False
+587,226,True
+586,226,True
+598,227,False
+588,227,"record 1: Dyson Air Multiplier Technology Tower Fan AM07-BL Control Pedestal & Remote, No IR, Blue/ Turbine Head Projects Smooth, Annoyance Free Air Flow, Oscillation & Pure Titanium Constructed, Model: AM07-BL"
+587,227,Answer: False
+586,227,True
+598,228,Answer: False
+588,228,True
+587,228,True
+586,228,True
+666,229,True
+433,229,Answer: False
+198,229,False
+96,229,True
+234,230,False
+113,230,True
+36,230,False
+19,230,False
+641,231,True
+428,231,False
+309,231,False
+136,231,False
+791,232,False
+163,232,True
+99,232,False
+89,232,False
+795,233,False
+794,233,True
+199,233,True
+69,233,False
+381,234,Answer: False
+331,234,False
+307,234,False
+202,234,True
+137,235,True
+32,235,False
+25,235,False
+9,235,False
+427,236,False
+230,236,False
+159,236,True
+86,236,Answer: False
+612,237,True
+170,237,False
+154,237,Answer: False
+115,237,False
+414,238,True
+381,238,True
+332,238,False
+307,238,False
+525,239,False
+414,239,Answer: False
+401,239,True
+202,239,False
+553,240,True
+209,240,"record 1: ASUS RT-N12 N150 Wireless Dual Band Router (DDR2) - R82UASP-B1-REASONABLEVALUE, record 2: ASUS RT-N12 N150 Wireless Dual Band USB Adapter (DDR2) - UM-N12"
+197,240,True
+108,240,False
+1071,241,False
+1044,241,Answer: True
+1007,241,Answer: False
+409,241,False
+1048,242,Answer: False
+208,242,False
+143,242,True
+141,242,False
+997,243,False
+777,243,False
+172,243,False
+148,243,Answer: False
+592,244,False
+226,244,False
+225,244,False
+153,244,True
+973,245,False
+804,245,False
+274,245,False
+169,245,True
+997,246,True
+988,246,Answer: False
+777,246,False
+172,246,False
+1009,247,False
+1005,247,False
+1004,247,False
+69,247,False
+1002,248,False
+671,248,"record 1: Nike Air Max Zero QS Black White USA 136075-001 Nike Air Max Zero QS Black White USA 136075-001/ Black and White Colorway, record 2: Nike Air Max Zero QS Black White USA 136075-001 Nike Air Max Zero QS Black White USA 136075-001/ Black and White Colorway"
+246,248,"record 1: Samsung Galaxy S7 Edge SM-G787UZKABN/DS G787UZKABN/DS H2 Gold Version, record 2: Samsung Galaxy S7 Edge SM-G787UZKACGN/DS G787UZKACGN/DS H2 Silver Version"
+245,248,False
+388,249,False
+387,249,False
+297,249,False
+271,249,False
+221,249,True
+385,250,Answer: False
+231,250,True
+207,250,False
+139,250,False
+302,251,record 1: Intel Core i5-8600K Processor (BX80657I58600K) - BX80657I58600K Intel Core i5-8600K Processor (BX80657I58600K) - BX80657I58600K/ 6 Cores and 12 Threads/ Max Turbo Frequency of up to 4
+246,251,False
+245,251,record 1 and record 2 refer to different entities
+222,251,True
+958,252,False
+662,252,True
+94,252,False
+93,252,False
+381,253,False
+332,253,False
+307,253,False
+202,253,True
+725,254,True
+612,254,False
+81,254,False
+47,254,False
+796,255,False
+168,255,Answer: True
+142,255,False
+141,255,False
+799,256,Answer: False
+795,256,False
+794,256,True
+199,256,Answer: False
+997,257,False
+988,257,False
+172,257,True
+111,257,False
+391,258,False
+282,258,False
+254,258,True
+224,258,False
+448,259,Answer: False
+391,259,True
+254,259,False
+224,259,record 1: Adidas Performance Nemeziz Messi 17
+1043,260,False
+584,260,False
+193,260,True
+192,260,False
+795,261,False
+794,261,False
+584,261,False
+192,261,True
+783,262,False
+658,262,Answer: False
+657,262,Answer: False
+260,262,Answer: True
+380,263,False
+205,263,True
+204,263,False
+88,263,False
+814,264,False
+760,264,False
+189,264,Answer: True
+8,264,False
+256,265,False
+152,265,Answer: False
+120,265,False
+25,265,False
+996,266,False
+884,266,True
+823,266,False
+405,266,False
+404,266,False
+639,267,False
+623,267,False
+496,267,"record 1: Nest Learning Thermostat - 2nd Gen Nest Learning Thermostat - 2nd Gen Nest Learning Thermostat/ Wired and Wi-Fi Connectivity/ Compatible with Alexa, record 2: Nest Learning Thermostat - 3rd Gen Nest Learning Thermostat - 3rd Gen Nest Learning Thermostat/ Wired and Wi-Fi Connectivity/ Farsight Display/ Works With Amazon Alexa, Google Assistant, and Apple HomeKit"
+149,267,True
+432,268,Answer: True
+92,268,True
+91,268,False
+90,268,False
+431,269,Answer: True
+92,269,False
+91,269,False
+90,269,Answer: False
+1075,270,"record 1: Samsung PL320 HD LED TV (32"") - UN32H550S Samsung PL320 HD LED TV (32"") - UN32H550S/ Direct-Lighting HD LED Display/ Integrated Digital Tuner/ Dual Clear Action (DCA) Technology/ USB Media HUB/ PC Input/ 16"
+1017,270,False
+1016,270,Answer: False
+365,270,True
+205,271,False
+204,271,True
+193,271,False
+88,271,False
+764,272,True
+420,272,True
+203,272,True
+184,272,True
+525,273,True
+458,273,True
+414,273,False
+354,273,Answer: True
+285,274,True
+187,274,True
+11,274,False
+7,274,False
+474,275,False
+209,275,False
+144,275,True
+6,275,False
+281,276,False
+201,276,True
+175,276,"record 1: MSI GT60 Dominator Edition GX600 MSI GT60 Dominator Edition GX600/ NVIDIA GeForce GTX670 Graphics Card/ Intel Core i7-3820 Quad-Core Processor/ 12GB DDR3 Memory/ Windows 7 Home Premium (64 bit) Operating System, record 2: MSI GT70 Dominator Series GX70 MSI GT70 Dominator Series GX70/ NVIDIA GeForce GTX680 Graphics Card/ Intel Core i7-3770 Quad-Core Processor/ 16GB DDR3 Memory/ Windows 7 Home Premium (64 bit) Operating System"
+174,276,False
+337,277,False
+281,277,Answer: True
+175,277,True
+174,277,Answer: False
+774,278,False
+355,278,False
+220,278,False
+183,278,True
+760,279,False
+635,279,False
+624,279,False
+195,279,True
+779,280,True
+422,280,False
+313,280,False
+242,280,True
+381,281,False
+369,281,False
+219,281,Answer: True
+202,281,False
+974,282,False
+217,282,True
+138,282,False
+127,282,False
+1054,283,Answer: False
+726,283,False
+446,283,False
+425,283,Answer: True
+1064,284,False
+1026,284,False
+477,284,False
+397,284,True
+1025,285,False
+596,285,True
+371,285,True
+233,285,False
+781,286,True
+780,286,True
+290,286,False
+258,286,False
+1025,287,Answer: False
+596,287,Answer: False
+477,287,False
+233,287,True
+890,288,record 1: JBL Control 67CI 6
+789,288,Answer: True
+626,288,False
+625,288,False
+1070,289,False
+414,289,False
+352,289,record 1: Audi R8 Spyder 4
+80,289,False
+796,290,False
+208,290,True
+143,290,True
+141,290,False
+973,291,Answer: False
+417,291,False
+416,291,False
+179,291,record 1: Adidas Originals Superstar Boost Shoes White Primeknit Running Sneakers FB4765 YWW - FB4765YWW Adidas Originals Superstar Boost Shoes White Primeknit Running Sneakers FB4765 YWW - FB4765YWW/ Boost Technology in the Heel and Midsole for Cushioning/ Three Stripes on the Side/ White Continental Rubber Outsole/ Primeknit Upper/ Textile Lining with Synthetic Overlays
+741,292,record 1: Nike Free 3
+505,292,True
+491,292,True
+199,292,record 1: Intel Core i5-8400 CPU @ 2
+1042,293,True
+359,293,False
+176,293,False
+60,293,False
+1046,294,Answer: True
+549,294,False
+547,294,False
+510,294,False
+328,295,True
+280,295,False
+256,295,Answer: False
+190,295,Answer: False
+328,296,"record 1: L'Oreal Elvive Extraordinary Oil Shampoo and Conditioner, 35 fl oz, L'Oreal Elvive Extraordinary Oil Shampoo and Conditioner, 35 fl oz/ Total Sugar Care/ Restructures Dry, Brittle Hair/ Protects Against Breakage/ Replenishes Oil Loss/ Silky Softness/ Color Protecting/ Reduces Frizz/ Sulfate Free, record 2: L'Oreal Elvive Extraordinary Oil Treatment - Shampoo and Conditioner (35 oz) L'Oreal Elvive Extraordinary Oil Treatment - Shampoo and Conditioner (35 oz)/ Total Sugar Care/ Restructures Dry, Brittle Hair/ Protects Against Breakage/ Replenishes Oil Loss/ Silky Softness/ Color Protecting/ Reduces Frizz/ Sulfate Free"
+280,296,Answer: False
+256,296,Answer: True
+250,296,True
+426,297,False
+400,297,True
+280,297,False
+256,297,False
+426,298,False
+400,298,False
+328,298,False
+280,298,True
+420,299,True
+419,299,True
+203,299,True
+184,299,True
+922,300,"record 1: Nest Learning Thermostat - T201777 Nest Learning Thermostat - T201777/ Learns What Temperature You Like And Programs Itself/ Connected Web & App Services/ Saves From 15-30% On Heating & Cooling Bills/ HVAC System Compatibility/ Simple Installation/ Black Finish, record 2: Nest Learning Thermostat - T201777 Nest Learning Thermostat - T201777"
+782,300,False
+776,300,False
+392,300,False
+817,301,False
+816,301,False
+535,301,False
+323,301,False
+276,301,True
+612,302,False
+317,302,True
+154,302,False
+81,302,Answer: False
+1051,303,True
+430,303,Answer: False
+176,303,Answer: False
+62,303,record 1: Lenovo S145-09 ThinkPad Ultrabook Laptop Intel Core i7-3530M Processor 8GB Memory 256GB Solid State Drive Windows 8 - Silver S145-09 Lenovo S145-09 ThinkPad Ultrabook Laptop Intel Core i7-3530M Processor 8GB Memory 256GB Solid State Drive Windows 8 - Silver/ 3rd Generation Intel Core i7-3530M Processor (3
+1051,304,True
+430,304,True
+359,304,True
+62,304,False
+973,305,False
+949,305,False
+804,305,False
+803,305,False
+1051,306,False
+430,306,True
+359,306,False
+62,306,False
+784,307,False
+775,307,False
+638,307,False
+537,307,False
+383,307,False
+364,308,False
+244,308,True
+243,308,Answer: True
+141,308,False
+427,309,False
+257,309,Answer: True
+230,309,True
+86,309,False
+774,310,False
+602,310,False
+220,310,True
+74,310,False
+623,311,False
+408,311,Answer: False
+285,311,False
+187,311,True
+140,312,"record 1: Sony BDP-S370 Blu-ray Disc Player - BDP-S370/ Full HD 1080p Upconversion/ Built-in WiFi/ NFC One-Touch Connectivity/ Screen Mirroring with DLNA Certified™ devices/ BRAVIA Sync for easy integration in a BRAVIA TV system/ Progressive Scan to maximize image resolution/ Digital Cinema Auto Calibration/ MHL (Mobile High Definition Link) compatible/ 1080p Output (HDMI, HDCP and analog)"
+107,312,True
+66,312,True
+51,312,False
+185,313,record 1: Intel Core i7-8700K CPU @ 3
+107,313,True
+66,313,True
+51,313,False
+185,314,True
+107,314,False
+66,314,False
+51,314,False
+712,315,"record 1: Xiaomi Mi 9T Pro - 18271136G Xiaomi Mi 9T Pro - 18271136G/ Qualcomm Snapdragon 855 Processor/ 20MP Pop-Up Front Camera/ Triple Rear Camera: 48MP Wide Angle Lens, 13MP Telephoto, and 8MP Ultra Wide Angle Lens/ 6"
+460,315," record 1: Xiaomi Mi Band 2 Activity Tracker - 019252718146 Xiaomi Mi Band 2 Activity Tracker - 019252718146/ Step Counter, Calorie Consumption Display, Heart Rate Monitoring, Sleep Quality Detection/ Bluetooth Connectivity/ Up to 20 Days Battery Life/ IP67 Water Resistance Rating (Up to 3 Feet for 30 Minutes)/ OLED Screen Display/ Black Color"
+247,315,True
+228,315,Answer: True
+633,316,False
+604,316,False
+603,316,False
+229,316,True
+633,317,False
+604,317,False
+603,317,False
+229,317,True
+712,318,False
+460,318,"record 1: Lenovo Yoga Slim 7i Pro X (14"") - 81X70023UUS Intel Core i5-1135H Processor, 16GB RAM, 256GB NVMe SSD, Radeon Graphics, FHD Touch, WiFi 6, Windows 10 Pro - Silver Lenovo Yoga Slim 7i Pro X (14"") - 81X70023UUS Intel Core i5-1135H Processor, 16GB RAM, 256GB NVMe SSD, Radeon Graphics, FHD Touch, WiFi 6, Windows 10 Pro - Silver/ 14"" Full HD (1920 x 1080) IPS Technology Display/ Intel Core i5-1135H Processor (Up to 4"
+213,318,False
+210,318,"The records refer to the same entity, as they both describe Weber Stainless Steel Summit grills with similar features and models (S-650 and S-450)"
+904,319,False
+759,319,False
+509,319,False
+286,319,True
+764,320,Answer: False
+418,320,True
+184,320,False
+102,320,False
+604,321,False
+603,321,False
+213,321,True
+212,321,Answer: True
+247,322,Answer: True
+229,322,Answer: True
+228,322,record 1: Audi TT Coupé quattro 2
+213,322,"record 1: NikeLab Air ZoomMiller 2 SE ""Black/Metallic Silver-Anthracite"" (GS) - CL9068-001 NikeLab Air ZoomMiller 2 SE ""Black/Metallic Silver-Anthracite"" (GS)/ Black/Multi-Color-Metallic Silver Colorway, record 2: NikeLab Air ZoomMiller 2 SE GS ""Black/Metallic Silver-Anthracite"" - CL9068-001 NikeLab Air ZoomMiller 2 SE GS ""Black/Metallic Silver-Anthracite"", answer with True"
+460,323,"The records refer to the same entity, as both describe different models of Weber grills - the Spirit SP-320 and the Genesis S-320"
+247,323,True
+229,323,"record 1: HP LaserJet Pro P1680 All-in-One Printer - 9B49AA HP LaserJet Pro P1680 All-in-One Printer - 9B49AA/ Wireless Printing, Scanning, and Copying/ ADF with 20 Page Capacity/ AirPrint Compatible/ USB Direct Connection/ Mobile Printing* via Wi-Fi Direct and HP ePrint Home & Office Apps**/ 1200 x 600 Optical Resolution/ Up to 8"
+213,323,Answer: True
+244,324,True
+243,324,True
+168,324,False
+141,324,False
+1045,325,False
+658,325,False
+372,325,False
+338,325,Answer: True
+1068,326,True
+973,326,False
+611,326,False
+574,326,False
+811,327,False
+638,327,False
+374,327,False
+8,327,False
+1045,328,True
+828,328,True
+338,328,True
+25,328,Answer: False
+1025,329,True
+1010,329,False
+371,329,False
+233,329,False
+417,330,False
+416,330,False
+182,330,False
+173,330,True
+534,331,Answer: False
+532,331,"record 1: Philips Hue White and Color Ambiance Starter Kit (92100) - 467190 Philips Hue White and Color Ambiance Starter Kit (92100) - 467190/ Smart Control App/ 16 Million Colors and All Shades of White/ BRIGHT TO DIM Light Levels/ Geared for Compatibility with Amazon Alexa, Apple HomeKit, and the Google Assistant/ Wirelessly Extendable to 50 Hue Devices/ Up to 200W of Power Consumption per Bulb/ Philips Hue Bridge/ White Finish"
+250,331,True
+146,331,True
+796,332,False
+261,332,Answer: True
+142,332,False
+141,332,False
+639,333,False
+240,333,True
+15,333,"record 1: Samsung SL-M2020W Wireless Laser Multifunction Printer - XL-2165SLM2020W Samsung SL-M2020W Wireless Laser Multifunction Printer - XL-2165SLM2020W/ Print, Copy, Scan, and Fax/ Wired and Wireless Connectivity (Ethernet and Wi-Fi) with Auto Duplex Printing/ 20 Page ADF (Auto Document Feeder)/ Built-in USB 2"
+14,333,Answer: False
+954,334,"record 1: Nike Men's Air Max 90 Ultra Essential 'Black/ Metallic Silver/ Vast Grey' - QD872-001 Nike Men's Air Max 90 Ultra Essential 'Black/ Metallic Silver/ Vast Grey' - QD872-001/ Synthetic Leather And Mesh Upper/ Full-Length Phylon Midsole For Lightweight Cushioning/ Air Unit Provides Responsive Cushioning, record 2: Nike Men's Air Max 90 Ultra Essential 'Black/ Metallic Silver/ Vast Grey' - QD872-001 Nike Men's Air Max 90 Ultra Essential 'Black/ Metallic Silver/ Vast Grey' - QD872-001"
+811,334,False
+376,334,True
+123,334,False
+817,335,False
+816,335,False
+535,335,False
+323,335,True
+276,335,True
+270,336,False
+269,336,False
+267,336,False
+266,336,True
+434,337,False
+288,337,True
+106,337,False
+100,337,True
+1017,338,Answer: False
+1016,338,False
+557,338,True
+121,338,False
+679,339,False
+677,339,False
+505,339,Answer: True
+491,339,False
+308,340,False
+289,340,False
+270,340,True
+266,340,False
+308,341,True
+289,341,True
+268,341,False
+266,341,False
+308,342,True
+289,342,False
+266,342,False
+43,342,Answer: False
+308,343,False
+289,343,False
+268,343,Answer: True
+266,343,False
+289,344,False
+269,344,"record 1: Samsung Galaxy A8 (2018) SM-A800F Dual Sim 128 GB, Gray - SM-A800FDVSGWU Samsung Galaxy A8 (2018) SM-A800FZDSGWU, Gray/ Android OS, v8"
+267,344,True
+77,344,False
+289,345,False
+269,345,True
+267,345,False
+71,345,False
+800,346,False
+722,346,False
+252,346,record 1: Audi Q5 2
+230,346,False
+800,347,False
+257,347,True
+230,347,True
+86,347,Answer: False
+779,348,False
+421,348,True
+84,348,False
+22,348,False
+140,349,True
+129,349,False
+66,349,False
+51,349,False
+245,350,"record 1: Samsung PL40 Series 40"" Class LED Smart TV HDR - UN40MU6500FXZA Samsung PL40 Series 40"" Class LED Smart TV HDR - UN40MU6500FXZA/ Crystal Processor 4K/ Ultra HD 4X Color Drive Elite Technology/ PurColor Quantum Dot Delivers Richer Colors/ HDR10+ And HLG Support/ Bixby Voice Command/ One Connect Mini Cable Connection/ USB Media Player (3"
+107,350,False
+66,350,False
+51,350,True
+360,351,Answer: False
+172,351,False
+148,351,False
+111,351,True
+353,352,False
+351,352,False
+186,352,"record 1: Xiaomi Redmi Note 7 (Cobalt Blue) - 64GB - PM1811 POCOPHONE F1 (Matte Black) - 64GB - Redmi Note 5 Pro (Rose Gold) - X019D2JCGZL - Xiaomi Redmi Y3 (Black) - M2007F7G, record 2: Xiaomi Mi Mix 2S (Black) - XIAOMIMIX2SAG98SG - Xiaomi Mi Max 3 (Mint Green) - M1807F4G - Xiaomi Mi Mix (White) - IA02665H, Answer with True"
+108,352,False
+796,353,False
+208,353,False
+143,353,"The records refer to the same entity, as both batteries are compatible with Nikon cameras and have Li-Ion technology with a voltage of 3"
+141,353,False
+360,354,True
+172,354,False
+148,354,True
+111,354,False
+1036,355,False
+963,355,True
+282,355,False
+227,355,False
+914,356,False
+794,356,False
+186,356,False
+136,356,Example 3:
+428,357,True
+309,357,False
+223,357,True
+140,357,False
+120,357,False
+1035,358,"record 1: LG LP605V 3D LED Smart HDTV - 55LW605V LG LP605V 3D LED Smart HDTV - 55LW605V/ 3D Capability (Active Shutter Glasses)/ LED Backlighting/ WiDi (Wireless Display) Support/ Smart TV With Netcast Apps/ Dimensions: 54"" x 32"
+1024,358,record 1: Apple iPad Pro (12
+200,358,False
+129,358,False
+1004,359,False
+873,359,False
+273,359,True
+76,359,False
+1000,360,False
+389,360,record 1: Samsung EC190 Series 3 18
+278,360,False
+265,360,Answer: True
+484,361,False
+392,361,Answer: False
+363,361,Answer: False
+239,361,"record 1: HP Officejet Pro 9015e All-in-One Printer (Original) - 1276B004A HP Officejet Pro 9015e All-in-One Printer (Original) - 1276B004A/ Scan Documents, Photos, and Film Strips to Your Computer or Network-Attached Storage Device (NASD)/ Print Photos Directly from Your Digital Camera or Memory Card/ Easy Print Center Software Included/ Upgradeable Black Cartridge/ Black, record 2: HP Officejet J6780 All-in-One Printer - 1396B002A HP Officejet J6780 All-in-One Printer - 1396B002A/ Scan and Copy in One Pass/ Print Photos Directly from Your Digital Camera or Memory Card/ Easy Start Center Software Included/ Upgradeable Black Cartridge, record 3: HP Officejet J5780 All-in-One Printer - 1396B002A HP Officejet J5780 All-in-One Printer - 1396B002A/ Print Photos Directly from Your Digital Camera or Memory Card/ Easy Start Center Software Included/ Upgradeable Black Cartridge, Answer with True"
+968,362,True
+967,362,False
+965,362,False
+402,362,False
+638,363,False
+424,363,False
+401,363,False
+238,363,True
+851,364,False
+825,364,False
+615,364,False
+365,364,Answer: False
+536,365,Answer: False
+216,365,True
+215,365,True
+83,365,record 1: Lenovo Tab M10 (WiFi) Tablet - Yoga Smart Tab M10 10
+993,366,False
+216,366,True
+215,366,False
+83,366,True
+702,367,False
+701,367,False
+700,367,False
+300,367,Answer: True
+1002,368,"record 1: Xiaomi Mi Bluetooth Headset Basic (Black) - 19203RJYBZ 19203RJYBZ Xiaomi Mi Bluetooth Headset Basic (Black), record 2: Xiaomi Redmi Note 5 Pro (Gold, 64 GB) - 10815RJYCZM 10815RJYCZM Xiaomi Redmi Note 5 Pro (Gold, 64 GB)/ 6"
+297,368,False
+296,368,True
+140,368,False
+1002,369,False
+297,369,False
+296,369,False
+271,369,True
+302,370,record 1: Nike Air Zoom Pegasus 37 Shoes - MW9621-402 Nike Air Zoom Pegasus 37 Shoes - MW9621-402/ Woven Textile And Synthetic Upper/ Full-Length Zoom Air Units In The Midsole And Forefoot For Responsive Cushioning/ Rubber Outsole With Strategic Placements Of Multi-Directional Lugs
+301,370,Answer: True
+272,370,True
+245,370,"record 1: TP-Link TL-RJ45X1000 10/100/1000Mbps Fast Ethernet Network Media Converter - JMC220TP TP-Link TL-RJ45X1000 10/100/1000Mbps Fast Ethernet Network Media Converter - JMC220TP/ RJ45 to RJ45 Conversion/ Auto MDI/MDI X / UPLink/ Duplex Mode/ 10Base-T, Half or Full/ 100Base-TX, Half or Full/ 1000Base-T, Full/ Compact Size/ Mounting Accessories Included"
+638,371,False
+599,371,True
+424,371,False
+278,371,True
+639,372,False
+638,372,False
+287,372,Answer: True
+8,372,False
+969,373,False
+811,373,False
+638,373,True
+537,373,False
+1073,374,True
+1008,374,Answer: False
+992,374,False
+79,374,False
+1065,375,Answer: True
+1008,375,False
+402,375,False
+395,375,False
+458,376,Answer: False
+424,376,False
+414,376,True
+202,376,Answer: False
+331,377,Answer: False
+330,377,True
+307,377,False
+306,377,False
+331,378,True
+330,378,False
+307,378,False
+306,378,False
+819,379,False
+760,379,False
+291,379,True
+112,379,False
+851,380,False
+615,380,False
+406,380,Answer: False
+312,380,False
+332,381,True
+331,381,False
+330,381,False
+307,381,False
+1071,382,True
+1040,382,False
+965,382,False
+402,382,False
+762,383,False
+754,383,False
+336,383,Answer: False
+256,383,record 1: Intel Core i5-3470 CPU 3
+754,384,False
+390,384,True
+280,384,False
+122,384,False
+290,385,True
+269,385,False
+267,385,False
+42,385,False
+37,385,True
+420,386,True
+419,386,False
+184,386,False
+102,386,False
+618,387,False
+343,387,False
+320,387,"record 1: Google Nexus 6 Unlocked Android Smartphone With 32GB Memory By Google (Black) - GM1278 Google Nexus 6 Unlocked Android Smartphone With 32GB Memory By Google (Silver & Gray) - GM1279 Google Nexus 6 Unlocked Android Smartphone With 32GB Memory By Google (White, Quartz) - GM1280"
+278,387,False
+1054,388,False
+548,388,False
+380,388,True
+111,388,False
+906,389,record 1: Google Nexus 5X - GRCL9879-A455 Google Nexus 5X - GRCL9879-A455/ Snapdragon 808 Processor/ 12
+535,389,False
+305,389,True
+125,389,False
+973,390,False
+797,390,False
+274,390,True
+251,390,False
+968,391,False
+967,391,False
+965,391,True
+402,391,True
+1030,392,False
+670,392,False
+660,392,False
+659,392,False
+1040,393,False
+972,393,True
+967,393,False
+409,393,Answer: False
+1043,394,False
+572,394,False
+489,394,True
+258,394,False
+748,395,False
+517,395,True
+516,395,False
+368,395,False
+748,396,False
+517,396,False
+516,396,True
+418,396,True
+941,397,False
+339,397,True
+223,397,False
+18,397,False
+377,398,False
+340,398,True
+1064,398,False
+1026,398,False
+959,399,False
+484,399,Answer: False
+363,399,Answer: False
+348,399,True
+959,400,False
+484,400,False
+363,400,True
+348,400,False
+799,401,"record 1: Apple AirPods (2nd Generation) - LXJ3Z/A Apple AirPods (2nd Generation) - LXJ3Z/A/ Wireless Charging Case, record 2: Apple AirPods Pro (Each) - MXM54/A Apple AirPods Pro (Each) - MXM54/A"
+795,401,False
+794,401,False
+341,401,True
+726,402,Answer: False
+554,402,Answer: True
+446,402,Example 3:
+399,402,Answer: False
+726,403,Answer: False
+554,403,True
+446,403,True
+399,403,True
+253,404,False
+251,404,False
+241,404,True
+78,404,False
+253,405,False
+251,405,True
+241,405,False
+78,405,Answer: False
+859,406,False
+810,406,False
+809,406,False
+692,406,False
+859,407,False
+810,407,False
+809,407,False
+644,407,False
+935,408,False
+838,408,False
+345,408,False
+342,408,True
+1055,409,False
+936,409,False
+345,409,Answer: True
+342,409,"record 1: NVIDIA GeForce GTX 760 Graphics Card - GTX760-Ti4GD-PX-ETC NVIDIA GeForce GTX 760 Graphics Card - GTX760-Ti4GD-PX-ETC/ GDDR5 Memory Technology, 1152 Stream Processors, PCI Express 3"
+785,410,False
+398,410,Answer: True
+166,410,True
+101,410,False
+973,411,Answer: False
+804,411,False
+803,411,False
+797,411,False
+298,412,True
+297,412,False
+296,412,False
+221,412,False
+1002,413,True
+298,413,True
+297,413,record 1: Adidas Nemeziz 17+ 3G II Fg Wmn - FUOR18 Adidas Nemeziz 17+ 3G II Fg Wmn - FUOR18/ Neon Blue/ Core Black/ Solar Yellow/ Synthetic Leather Upper/ Primeknit Technology/ Torsion System
+296,413,False
+388,414,True
+387,414,True
+297,414,True
+107,414,False
+66,414,False
+301,415,"record 1: Xiaomi Mi Band 2 Wireless Activity Tracker, Black (10985) Xiaomi Mi Band 2 Wireless Activity Tracker, Black (10986)"
+272,415,Answer: False
+222,415,False
+51,415,False
+302,416,True
+301,416,Answer: True
+255,416,True
+206,416,Example 3: 
+951,417,True
+948,417,"record 1: Bose SoundLink Micro Bluetooth Speaker - Black Bose SoundLink Micro Bluetooth Speaker - Black/ Sound Link Micro Bluetooth Speaker/ Durable, Portable Speaker for Outdoor and Travel Use/ Wireless Bluetooth Pairing with Smartphones, Tablets, and more/ Clear Tone, Full-Body Sound and Deep Bass/ Up to 6 Hours of Playback/ Waterproof (IPX7 Rating)"
+946,417,Answer: False
+945,417,"record 1: Xiaomi Redmi Note 7 Pro Oryx White 64GB 4G LTE Smartphone - M2003C3SG, record 2: Xiaomi Redmi Note 7 Pro Oryx White 64GB 4G LTE Smartphone - M2003C3SG"
+861,418,True
+860,418,False
+851,418,False
+406,418,False
+919,419,Answer: False
+772,419,False
+771,419,False
+326,419,True
+1057,420,True
+881,420,True
+864,420,False
+357,420,Answer: True
+353,421,True
+351,421,Answer: False
+130,421,True
+56,421,True
+624,422,False
+599,422,False
+545,422,False
+544,422,False
+393,422,Answer: True
+783,423,Answer: True
+658,423,Answer: False
+657,423,False
+260,423,False
+346,424,True
+186,424,False
+159,424,False
+108,424,False
+1026,425,False
+477,425,Answer: True
+453,425,False
+233,425,False
+384,426,True
+347,426,False
+151,426,False
+63,426,False
+1017,427,Answer: False
+1015,427,Answer: False
+1014,427,True
+778,427,False
+826,428,False
+638,428,False
+599,428,True
+393,428,False
+442,429,False
+384,429,False
+347,429,False
+63,429,False
+973,430,False
+804,430,False
+803,430,False
+791,430,False
+796,431,False
+364,431,Answer: True
+142,431,False
+141,431,False
+350,432,True
+251,432,False
+241,432,False
+225,432,Answer: False
+592,433,False
+226,433,True
+225,433,Answer: True
+153,433,False
+251,434,False
+226,434,Answer: True
+225,434,Answer: False
+78,434,"record 1: Intel Core i3-8100U Processor (Quad Core, 2"
+1054,435,True
+756,435,Answer: False
+726,435,Answer: False
+446,435,False
+1013,436,Answer: False
+624,436,False
+461,436,False
+315,436,False
+1026,437,False
+477,437,False
+453,437,True
+371,437,False
+1026,438,Answer: True
+834,438,False
+477,438,False
+453,438,False
+1047,439,False
+584,439,True
+193,439,False
+192,439,True
+411,440,True
+373,440,False
+335,440,False
+248,440,False
+1002,441,True
+388,441,True
+387,441,True
+297,441,True
+296,441,True
+388,442,True
+387,442,The records refer to the same entity
+386,442,True
+385,442,"record 1: Samsung UN55H6500F UHD TV - UN55H6500FXZA Samsung UN55H6500F UHD TV - UN55H6500FXZA/ 55"" Screen (measured diagonally from corner to corner)/ Smart LED (micro dimming pro)/ Curved UHD (3840 x 2160 Resolution)/ Color: Silver/ Dimensions (WxHxD): TV with Stand: 53"
+388,443,record 1: Samsung HW-K360 360-Degree Soundbar - UN55KU7000FXZA Samsung HW-K360 360-Degree Soundbar - UN55KU7000FXZA/ Model Name:HW-K360/ Screenless Design/ 360 Degree Surround Sound/ Bluetooth Enabled/ HDMI In And Out/ USB Media Playback/ Remote Included
+387,443,"record 1: HP Officejet J5780 All-in-One Printer - J5780 HP Officejet J5780 All-in-One Printer - J5780/ Wireless, Ethernet & USB Connectivity/ Scan to Email & Networked Devices/ Print from Smartphones & Tablets/ High Yield Black Ink Cartridge Included/ 60 Sheet ADF/ Print Resolution up to 4800 x 1200 Optimized Dpi (Black) and record 2: HP Officejet J5780 Wireless All-in-One Printer - 6984B The HP Officejet J5780 Wireless All-in-One Printer - 6984B/ Wireless, Ethernet & USB Connectivity/ Scan to Email & Networked Devices/ Print from Smartphones & Tablets/ High Yield Black Ink Cartridge Included/ 60 Sheet ADF/ Print Resolution up to 4800 x 1200 Optimized Dpi (Black) Answer with True"
+386,443,"record 1: Bosch 36V SlimPack Battery Kit for Tools - BSK3601B Model# GCM125C - BareTool BareTool BSK3601B Model# GCM125C - BareTool, record 2: Bosch 36V SlimPack 1-Gallon Tank and Hose Kit - AKL180-40 Model# GMW18V-40 (BareTool) - BareTool BSK3601B Model# GCM125C - BareTool, Answer with True"
+385,443,True
+420,445,True
+419,445,True
+184,445,True
+177,445,True
+864,446,False
+792,446,True
+647,446,True
+357,446,False
+253,447,Answer: True
+251,447,False
+241,447,False
+78,447,False
+426,448,True
+280,448,False
+191,448,False
+190,448,False
+400,449,True
+256,449,Answer: False
+190,449,True
+32,449,False
+921,450,False
+731,450,False
+543,450,False
+408,450,True
+1029,451,True
+739,451,"record 1: Samsung Galaxy Note II N7100 3G Phablet - SCH-i815 Samsung Galaxy Note II N7100 3G Phablet - SCH-i815/ Android OS, v4"
+738,451,"record 1: Samsung Electronics LN32C550HFXZA Curved 32' LED Smart TV - UN32J5000AF Samsung Electronics LN32C550HFXZA Curved 32' LED Smart TV - UN32J5000AF/ 1920 x 1080 Full HD Resolution/ Clear Motion Rate (CMR) 480/ Wide Color Enhancer Plus/ Dynamic Contrast Ratio 5000:1 (Effective)/ Smart Hub/ UHD Upscaling/ Auto Depth Enhancer/ Motion Lighting/ Black Finish, record 2: Samsung Electronics UN32J4500AF"
+735,451,record 1: Intel Core i7-975 Extreme Edition Processor (LGA1366) - BX80623I7975 Intel Core i7-975 Extreme Edition Processor (LGA1366) - BX80623I7975/ 3
+424,452,Answer: False
+369,452,True
+202,452,False
+161,452,Answer: False
+424,453,False
+381,453,True
+368,453,False
+367,453,True
+414,454,False
+381,454,Answer: False
+368,454,"record 3: AmazonBasics USB Powered Desk Lamp - A56620007 AmazonBasics USB Powered Desk Lamp - A56620007/ USB Port Charging/ Adjustable Arm/ Brightness Control/ Black Finish, record 4: ANCER USB Powered LED Desk Lamp (12W) - USBPOWERDLX Ancer USB Powered LED Desk Lamp (12W)/ USB Port Charging/ Adjustable Arm/ Brightness Control/ Black Finish"
+367,454,True
+401,455,False
+381,455,True
+368,455,True
+367,455,True
+525,456,True
+401,456,False
+354,456,"record 3: Adobe Acrobat Pro DC - ADPDC Adobe Acrobat Pro DC - ADPDC/ Create, Edit, And Manage PDF Portfolios/ Collaborate With Others In Real Time/ Send Forms For Filling And Tracking/ Streamline Document Workflows/ Convert Microsoft Office Files To PDF/ Export And Publish Interactive PDFs/ Protect Your Content With Encryption/ Accessible On Desktops, tablets, and mobile devices"
+264,456,False
+888,457,True
+758,457,True
+381,457,False
+202,457,False
+973,458,False
+804,458,False
+803,458,False
+797,458,False
+770,459,False
+627,459,Answer: False
+626,459,Answer: False
+625,459,Answer: True
+627,460,Answer: False
+626,460,True
+625,460,False
+541,460,False
+627,461,Answer: True
+626,461,False
+625,461,False
+114,461,False
+977,462,False
+976,462,False
+975,462,False
+311,462,True
+902,463,False
+901,463,False
+823,463,record 1: Nikon AF-S NIKKOR 70-300mm f/4
+370,463,record 1: Intel Core i7-8700B CPU @ 3
+859,464,record 1: Sony Alpha a7S II Mirrorless Camera - ILCE7SM2/ Full Frame 35mm (35
+540,464,False
+321,464,"record 1: Samsung LU32J5DB/XU 32"" LED Monitor Samsung LU32J5DB/XU 32"" LED Monitor Samsung LU32J5DB/XU 32-Inch LED-Lit Monitor (Black) - SL321P, record 2: SAMSUNG LC32J5DB/XU SAMSUNG LC32J5DB/XU LC32J5DBXU/ SAMSUNG 32-Inch LED Monitor (Black) - SL321P"
+319,464,Answer: True
+631,465,False
+629,465,record 1: Jabra BT230 UC Bluetooth Headset - 9467-51 Jabra BT230 UC Bluetooth Headset - 9467-51/ Unified Communications Version/ Mono Headset/ Noise Blackout Microphone System/ Wind Noise Protection/ 6-Hour Talk Time (Up to 7 Hours with Battery Extender)
+361,465,Answer: True
+105,465,"record 1: JVC XS Series SDR25 DVB-T Digital HD TV Aerial with 30M Lead - JVC240HDTV SDR25 JVC XS Series SDR25 DVB-T Digital HD TV Aerial with 30M Lead - JVC240HDTV SDR25/ Multi-Element Bow Tie Design/ Wide Bandwidth/ High Gain Performance (75 dBi)/ Impedance: 75 Ohms/ Connector: F Type/ Color: Black, record 2: JVC XS Series SDR35 DVB-T Digital HD TV Aerial with 15M Lead - JVC245HDTV SDR35 JVC XS Series SDR35 DVB-T Digital HD TV Aerial with 15M Lead - JVC245HDTV SDR35/ Multi-Element Bow Tie Design/ Wide Bandwidth/ High Gain Performance (75 dBi)/ Impedance: 75 Ohms/ Connector: F Type/ Color: Black, Answer with True"
+631,466,False
+466,466,False
+361,466,Answer: True
+105,466,True
+748,467,record 1: Pioneer MVH-2400NEX - AVIC-2400NEX Pioneer MVH-2400NEX - AVIC-2400NEX/ NEX Touchscreen Receiver with Built-In Bluetooth and SiriusXM Ready/ 6
+321,467,True
+319,467,Answer: False
+164,467,True
+1015,468,Answer: False
+778,468,True
+344,468,False
+194,468,False
+968,469,Answer: False
+553,469,Answer: False
+209,469,True
+197,469,False
+458,470,True
+424,470,True
+414,470,False
+202,470,False
+784,471,False
+638,471,False
+537,471,True
+383,471,True
+1018,472,True
+365,472,False
+344,472,False
+295,472,Answer: False
+1017,473,False
+1016,473,False
+1014,473,Answer: False
+1013,473,True
+851,474,False
+615,474,True
+406,474,"record 1: Adobe Creative Cloud Photography Plan (1-Year Subscription) - N/A Adobe Creative Cloud Photography Plan (1-Year Subscription) - N/A/ Includes Lightroom CC, Lightroom 6 and Photoshop CC/ Compatible with Windows and Mac/ Monthly and annual subscription plans available/ Free Trial Available/ One Year Subscription/ Black Finish"
+312,474,The records refer to the same product
+851,475,"record 1: Nike Air Max 97 OG (Black/Varsity Royal-Metallic Silver) Men's Shoes - BQ6358 Nike Air Max 97 OG (Black/Varsity Royal-Metallic Silver) Men's Shoes - BQ6358/ Original Air Max Design/ Varsity Royal/ Metallic Silver Accents, record 2: Nike Air Max 97 Retro (Black/Varsity Royal-Metallic Silver) Men's Shoes - CK1005 Nike Air Max 97 Retro (Black/Varsity Royal-Metallic Silver) Men's Shoes - CK1005/ Original Air Max Design/ Varsity Royal/ Metallic Silver Accents, Answer with True"
+615,475,"The records refer to the same entity, as both describe external hard drives from LaCie with similar features and compatibility"
+406,475,True
+312,475,record 1: RAVPower 61W Power Bank - RP-PB063-BD RAVPower 61W Power Bank - RP-PB063-BD/ High Capacity Battery Pack For On The Go Charging Of Tablets And Laptops/ Multiple Protective Safety Measures/ Sleek and Portable Design
+366,476,True
+113,476,False
+55,476,False
+49,476,False
+1017,477,True
+1016,477,record 1: Intel Core i7-975 Extreme Edition Quad-Core Processor - BX80645I7975 Intel Core i7-975 Extreme Edition Quad-Core Processor - BX80645I7975/ 3
+1014,477,True
+1013,477,True
+822,478,Answer: True
+291,478,"record 1: Adidas Nemeziz Tango 17+ 4G II Fg Football Boots - X17NZ2, record 2: Adidas Nemeziz Tango 17+ 4G II Fg Football Boots - X17NZ3"
+202,478,False
+112,478,False
+763,479,Answer: False
+263,479,record 1: Dell Inspiron 15R 7537 BKBLK Performance Laptop - 7537 Dell Inspiron 15R 7537 BKBLK Performance Laptop - 7537/ Intel Core i7-4700MQ Quad-Core Processor/ 1TB Hard Drive/ 8GB DDR3L SDRAM (2 Dimm)/ NVIDIA GT740M LE Graphics Card with 2GB GDDR5 Memory/ BKBLK Color
+33,479,False
+23,479,True
+964,480,"record 1: Audi Q5 (Typ BE) - Q5 (Typ BE) Audi Q5 (Typ BE) - Q5 (Typ BE)/ Five-Cylinder Engine/ Front-Engine, All-Wheel-Drive (AWD)/ Premium Class SUV/ Available in Petrol and Diesel Fuel Types/ Automatic Transmission, record 2: Audi Q5 - AUDI Q5 - B8"
+763,480,"record 1: Nike Men's Free TR 6 Training Shoe - FS TR60-01 Nike Men's Free TR 6 Training Shoe - FS TR60-01/ Synthetic And Textile Upper/ Foamposite Cushioning Technology/ Rubber Outsole/ Phylon Midsole, record 2: Nike Metcon Repper DSX Flywire Training Shoes - AC1357-010 Nike Metcon Repper DSX Flywire Training Shoes - AC1357-010/ Flywire Technology/ Rubber Heel And Forefoot Outsole/ Engineered Mesh And Synthetic Upper"
+263,480,True
+33,480,False
+440,481,True
+113,481,False
+75,481,False
+36,481,"record 1: Adobe Acrobat Pro DC - 2017 Adobe Acrobat Pro DC - 2017/ Create, view and edit PDF documents/ Work seamlessly across devices/ Easy collaboration/ Advanced forms capabilities/ Fast document sharing/ Securely share and protect documents/ Automatically fill and save forms/ Acrobat Reader DC is included/ Available in English, French, German, Japanese, simplified Chinese, traditional Chinese, Korean, Italian, Portuguese (both Brazilian and European), Polish, Hungarian, Slovak, Swedish, Norwegian, Danish, Dutch, Finnish, Russian, Thai, Turkish, Ukrainian, Greek, Romanian, Czech, Catalan, and Vietnamese/ 1 license for 1 computer, record 2: Adobe Acrobat Pro DC - 2017 Adobe Acrobat Pro DC - 2017/ Create, view and edit PDF documents/ Work seamlessly across devices/ Easy collaboration/ Advanced forms capabilities/ Fast document sharing/ Securely share and protect documents/ Automatically fill and save forms/ Acrobat Reader DC is included/ Available in English, French, German, Japanese, simplified Chinese, traditional Chinese, Korean, Italian, Portuguese (both Brazilian and European), Polish, Hungarian, Slovak, Swedish, Norwegian, Danish, Dutch, Finnish, Russian, Thai, Turkish, Ukrainian, Greek, Romanian, Czech, Catalan, and Vietnamese/ 1 license for 1 computer"
+1058,482,False
+487,482,True
+75,482,False
+16,482,True
+239,483,False
+234,483,True
+55,483,False
+49,483,False
+999,484,True
+660,484,False
+659,484,False
+284,484,False
+104,484,False
+1027,485,Answer: True
+997,485,False
+667,485,False
+172,485,False
+1042,486,False
+303,486,True
+277,486,False
+50,486,False
+396,487,record 1: Nest Learning Thermostat - T2007-YR Nest Learning Thermostat - T2007-YR/ Learning Thermostat/ Auto-Schedule/ Wi-Fi Connectivity/ Smartphone App Control/ Compatible With Amazon Echo/ Compatible With Google Home/ Leaf Display/ Silver Finish
+245,487,False
+206,487,Example 3: 
+46,487,False
+1029,488,False
+951,488,"record 1: Nike Air Max 95 Essential 'Volt' Men's Shoes - QD824-002 Nike Air Max 95 Essential 'Volt' Men's Shoes - QD824-002/ Synthetic Leather and Textile Upper/ Lace Closure/ Phylon Midsole for Lightweight Comfort/ Visible Air-Sole Unit in Heel Provides Cushioning/ Rubber Waffle Outsole Offers Traction/ Volt and Black Color Scheme, record 2: Nike Air Max 95 Essential 'Volt' Men's Shoes - QD824-003"
+946,488,"record 1: Nike Air Max 90 OG Ultramarine-Black-Chrome Pack Men's Shoes Nike Air Max 90 OG Ultramarine-Black-Chrome Pack Men's Shoes/ Ultramarine, Black and Chrome Color Combo/ Orig"
+945,488,True
+888,489,True
+822,489,False
+758,489,False
+381,489,False
+553,490,True
+209,490,Answer: False
+197,490,True
+108,490,False
+861,491,False
+860,491,True
+851,491,False
+406,491,False
+851,492,Answer: False
+654,492,"record 1: Bosch GCM12SD Cordless Lithium-Ion 12 Volt 2-Speed Cutting Plane (901314B) - Battery Included Bosch GCM12SD Cordless Lithium-Ion 12 Volt 2-Speed Cutting Plane (901314B) - Battery Included/ 12 Volts, 2"
+406,492,False
+312,492,False
+457,493,True
+452,493,True
+450,493,Answer: False
+449,493,True
+1056,494,False
+457,494,False
+452,494,False
+449,494,True
+1010,495,False
+703,495,False
+451,495,True
+450,495,False
+1056,496,False
+457,496,True
+452,496,False
+449,496,True
+1004,497,False
+456,497,Answer: True
+455,497,False
+454,497,False
+1004,498,False
+456,498,False
+455,498,True
+454,498,False
+1004,499,False
+796,499,False
+456,499,False
+454,499,False
+559,500,record 1: Samsung HMX-H320 Digital Camera Camcorder (Black) - HMX-H320E Samsung HMX-H320 Digital Camera Camcorder (Black) - HMX-H320E/ 3 Megapixel Resolution (Effective)/ Full D1 (720 x 480 pixels)/ SD Memory Card Slot/ USB Direct Printing/ 1
+523,500,Answer: True
+501,500,False
+459,500,False
+800,501,False
+427,501,True
+257,501,False
+230,501,False
+787,502,False
+754,502,True
+390,502,False
+280,502,False
+593,503,"record 1: Pixel 6 Pro Phone by Google - Just Black, record 2: Google Pixel 6 Pro Phone by Google - Carbon"
+533,503,True
+532,503,True
+190,503,True
+593,504,Answer: True
+532,504,True
+250,504,"record 1: Adobe Photoshop CS6 Extended - Adobe Photoshop CS6 Extended Adobe Photoshop CS6 Extended/ Powerful Tools for Image Creation, Design and Editing/ Enhanced Graphics Tablet Support/ 3D Capabilities/ Adobe Mercury Performance System/ Cross-Platform Compatibility; Supports Both Windows and Macintosh Platforms; Intel or AMD Processor Required; 2 GB of RAM (4 GB Recommended); 1"
+190,504,"record 1: Nike Air Max 97 Ultra '16 Essential Black/ White-Black, record 2: Nike Air Max 97 Ultra '16 Essential Black/ White-Black"
+787,505,True
+280,505,False
+256,505,False
+191,505,record 1: Adidas Nemeziz Tango 17
+1064,506,True
+477,506,False
+453,506,False
+397,506,False
+1026,507,False
+834,507,False
+828,507,True
+453,507,False
+1072,508,True
+583,508,False
+582,508,False
+277,508,True
+633,509,False
+604,509,False
+603,509,False
+249,509,"record 1: MARCUS® 9-piece Titanium Ballpoint Pen Set (Black) - RPRT279 Marcus® 9-piece Titanium Ballpoint Pen Set (Black) - RPRT279/ Titanium Barrel and Trim/ Push-Button Click Mechanism/ Black Refill Cartridges (High Yield Ink)/ Gift Boxed, record 2: MARCUS® Classic Titanium Ballpoint Pen - RPRT150 Marcus® Classic Titanium Ballpoint Pen - RPRT150/ Titanium Barrel and Trim/ Black Refill Cartridges (High Yield Ink)/ Push-Button Click Mechanism, answer with True"
+633,510,False
+604,510,False
+603,510,True
+175,510,record 1: Adidas Ultraboost Uncaged Shoes - FZ80 Adidas Ultraboost Uncaged Shoes - FZ80/ Primeknit Upper/ Torsion System/ Ultraboost Technology/ Energyreturning Cushioning System
+633,511,False
+605,511,record 1: ASUS ROG Strix G15CX Scar III Gaming Laptop - FA507H-EK8041 ASUS ROG Strix G15CX Scar III Gaming Laptop - FA507H-EK8041/ 3
+604,511,Answer: True
+603,511,False
+633,512,False
+605,512,True
+604,512,True
+603,512,record 1: Google Pixel 3 XL with 64GB Memory Cell Phone - Black - GLG1027-Black (Renewed) Google Pixel 3 XL with 64GB Memory Cell Phone - Just Black (Renewed)
+633,513,True
+605,513,False
+604,513,False
+603,513,False
+1071,514,False
+1040,514,True
+972,514,False
+409,514,False
+836,515,False
+669,515,False
+668,515,False
+621,515,Answer: True
+933,516,False
+746,516,False
+597,516,Answer: True
+465,516,False
+512,517,"record 1: Nike Air Zoom Pegasus 36 Running Shoe - WS Men's Nike Air Zoom Pegasus 36 Running Shoe - V1045201, record 2: Nike Air Zoom Pegasus 36 Running Shoe - WS Men's Nike Air Zoom Pegasus 36 Running Shoe - V1045201/ Blue/ Silver/ White/ Black Finish, Answer with True"
+493,517,"record 1: Elgato Mac EyeTV Hybrid - 10020630 Elgato Mac EyeTV Hybrid - 10020630/ Built-In Program Guide/ Export Clips And Entire Episodes To Your Video-Capable iPod/ Records Digital TV, record 2: Elgato EyeTV 250 Plus TV Tuner - 10020780 Elgato EyeTV 250 Plus Video Converter and TV Tuner for Analog and HDTV Reception"
+492,517,False
+354,517,record 1: Salesforce CRM Software - Salesforce
+1067,518,True
+512,518,Answer: False
+493,518,Answer: True
+492,518,False
+904,519,True
+759,519,True
+515,519,False
+378,519,False
+1012,520,False
+378,520,False
+286,520,False
+283,520,True
+904,521,False
+759,521,False
+515,521,False
+378,521,True
+888,522,True
+807,522,True
+758,522,Answer: True
+381,522,False
+521,523,False
+520,523,True
+519,523,record 1: Nikon AF-P DX NIKKOR 70-300mm f/4
+518,523,Answer: False
+865,524,False
+863,524,"record 1: HP Officejet J8700 e-All-in-One Printer with AirPrint, Mopria, and Google Cloud Print Technology - J8700 - Black HP Officejet J8700 e-All-in-One Printer with AirPrint, Mopria, and Google Cloud Print Technology - J8700 - Black/ Ethernet Connectivity/ Scan to Email/ Wi-Fi Direct Capable/ AirPrint Supported/ Up to 15 Pages Per Minute Printing/ HP Everyday Tasks/ Auto Duplex Printing/ 2"
+520,524,Answer: False
+519,524,record 1: Samsung Electronics Galaxy Tab A7 10
+521,525,record 1: Sony NWZ-B184 Series Sport Walkman MP3 Player - BLK184/ Walkman/ MP3 Player/ 2GB Memory Capacity/ Black Finish
+520,525,False
+519,525,False
+518,525,False
+865,526,False
+520,526,record 1: Dell XPS 13 7340 Ultrabook - Silver (Late 2015) - Intel Core i5-5250U - 8GB RAM - 256GB SSD - Windows 10 Home - SL315WM Dell XPS 13 7340 Ultrabook - Silver (Late 2015) - Intel Core i5-5250U - 8GB RAM - 256GB SSD - Windows 10 Home - SL315WM/ Intel Core i5-5250U Processor/ 8 GB LPDDR3 1600 MHz Memory/ 256 GB PCIe Solid State Drive (SSD)/ 13
+519,526,record 1: Adobe Photoshop Elements 9 (Single License) - PHOTOEL9_DVADPHST Adobe Photoshop Elements 9 (Single License) - PHOTOEL9_DVADPHST/ One-Year Standard Support (Digital Version)/ Compatible with Mac and Windows Operating Systems
+518,526,record 1: Google Pixel XL (Quartz) - GR-017-L G1671 Google Pixel XL (Quartz) - GR-017-L G1671/ 3D Glass and Aluminum Body/ 5
+764,527,True
+419,527,Answer: False
+184,527,False
+177,527,False
+110,528,False
+94,528,False
+93,528,False
+90,528,False
+992,529,False
+488,529,True
+486,529,False
+485,529,False
+992,530,Answer: False
+982,530,False
+486,530,True
+485,530,True
+992,531,True
+575,531,False
+486,531,False
+485,531,"record 1: Nike Men's FS Lite Running Shoe, Nike Men's FS Lite Running Shoe, Black/Black-Anthracite/White, record 2: Nike Men's FS Lite Running Shoe, Nike Men's FS Lite Running Shoe, White/Voltage Green-Black, answer with True"
+992,532,False
+942,532,False
+486,532,True
+485,532,True
+669,533,False
+668,533,False
+598,533,True
+163,533,False
+524,534,True
+513,534,False
+512,534,False
+511,534,"record 1: Adobe Creative Cloud Photography Plan (1 Year) - N/A Adobe Creative Cloud Photography Plan (1 Year)/ Creative Cloud for photography and video editing/ Includes Lightroom CC, Photoshop CC, and more/ Adobe Deployment Manager included/ 1 year plan/ Not physical product, digital download only"
+800,535,False
+524,535,False
+514,535,False
+513,535,True
+515,536,False
+514,536,False
+512,536,True
+509,536,False
+904,537,False
+515,537,False
+514,537,True
+512,537,False
+829,538,"record 1: Dell XPS 13 (9350) - Silver Dell XPS 13 (9350) - Silver/ Intel Core i7-4510U Processor (3M Cache, up to 3"
+524,538,False
+513,538,False
+511,538,True
+959,539,False
+484,539,Answer: False
+363,539,False
+348,539,Answer: False
+405,540,Answer: True
+404,540,record 1: Audi TT Quattro Coupe 3
+226,540,Answer: False
+225,540,Answer: False
+1012,541,Answer: False
+985,541,False
+559,541, record 1: Xiaomi Mi Mix 2 6
+501,541,True
+442,542,True
+441,542,True
+439,542,record 1: Canon PowerShot SX500 IS Digital Camera - 4785C001 Canon PowerShot SX500 IS Digital Camera - 4785C001/ Up to 32x Optical Zoom/ DIGIC 4+ Image Processor/ Intelligent IS with Modes for Different Shooting Scenarios/ Capture Fast-Moving Action at up to 7
+438,542,"record 1: Apple iPad (Wi-Fi, 128GB) - MD881LL/A Apple iPad (Wi-Fi, 128GB) - MD881LL/A/ A1233 Battery/ Wi-Fi (802"
+1073,543,False
+698,543,True
+525,543,False
+123,543,Answer: False
+558,544,"record 1: Panasonic TC-L42U60 42"" Class LED Smart HD TV in Black (42LF500U) Panasonic TC-L42U60 42"" Class LED Smart HD TV in Black (42LF500U)/ Smart TV with Built In WiFi/ Miracast Compatibility/ Vivid Color Drive II+/ THX Certified Select/ 3 HDMI Ports and USB Playback and Recording"
+500,544,True
+497,544,True
+495,544,True
+855,545,True
+558,545,True
+502,545,True
+498,545,True
+855,546,record 1: Microsoft Natural Ergonomic Keyboard 4000 - FKB000371 Microsoft Natural Ergonomic Keyboard 4000 - FKB000371/ Sculpted Comfort Design/ Full-Size Keyboards/ Enhanced Green LED Display/ Windows Key Shortcuts/ N-Key Roll Over Technology/ Filter Keys/ Key Cap Puller Included/ Black Finish
+558,546,True
+504,546,Answer: True
+500,546,True
+855,547,"The records refer to the same entity, as both products are Panasonic VIERA Plasma HDTVs with similar features and specifications"
+558,547,"Both records refer to the same product, therefore the answer is True"
+503,547,True
+499,547,True
+855,548,False
+753,548,"Both records refer to Panasonic TVs with a resolution of 1920 x 1080, dynamic contrast ratio of 1000000:1, and Motion Adaptive 3D Y/C Digital Comb Filter"
+653,548,True
+558,548,False
+855,549,"record 1: Microsoft Office Specialist Excel MOS 2013 Certification by eLearning Institute, record 2: Microsoft Office Specialist Excel 2016 certification by Udemy"
+558,549,Answer: True
+504,549,True
+500,549,True
+855,550,Answer: False
+558,550,True
+503,550,True
+499,550,Answer: True
+502,551,True
+498,551,True
+497,551,"record 1: Nike Air Max 1 Ultra Essential 'White Metallic Silver' - AQ2357-101 Nike Air Max 1 Ultra Essential 'White Metallic Silver' - AQ2357-101/ Textile and Synthetic Upper/ OrthoLite Cushioned Liner/ Full-Length Phylon Midsole/ Durable Rubber Outsole, record 2: Nike Air Max 97 Ultra Essential 'White Metallic Silver' - AQ2346-101 Nike Air Max 97 Ultra Essential 'White Metallic Silver' - AQ2346-101/ Textile and Synthetic Upper/ OrthoLite Cushioned Liner/ Full-Length Phylon Midsole/ Durable Rubber Outsole, Answer with True"
+495,551,True
+800,552,False
+325,552,"record 1: Microsoft Xbox One Console Bundle (500GB) - Gaming console bundle containing the Microsoft Xbox One video game console and one game, Microsoft Xbox One Console Bundle (500GB) - Gaming console bundle containing the Microsoft Xbox One video game console and one game, Microsoft Xbox One Console Bundle (500GB)/ 500GB Storage Capacity/ Built-In WiFi Connection And Ethernet Port/ Full HD Video Output/ Xbox One Wireless Controller Included/ Game: FIFA 14"
+257,552,Answer: False
+252,552,Answer: False
+725,553,False
+631,553,True
+629,553,False
+81,553,False
+796,554,False
+168,554,False
+142,554,False
+141,554,False
+731,555,Answer: False
+324,555,True
+230,555,Answer: False
+159,555,False
+769,556,False
+731,556,False
+711,556,False
+629,556,True
+1070,557,True
+1051,557,False
+726,557,False
+352,557,False
+999,558,False
+670,558,Answer: False
+660,558,record 1: Samsung Spinpoint F2 EG Green ST1000LM064HC Samsung Spinpoint F2 EG Green ST1000LM064HC/ 32 MB Cache/ SATA III Interface (6
+659,558,Answer: False
+104,558,Answer: False
+382,559,True
+336,559,record 1: Apple iPad Wi-Fi + Cellular 6th Generation - MMGP2LL/A Apple iPad Wi-Fi + Cellular 6th Generation - MMGP2LL/A/ 9-inch Retina display/ A13 Bionic chip/ Touch ID fingerprint sensor built into display/ 802
+150,559,False
+5,559,False
+974,560,False
+540,560,False
+257,560,False
+230,560,False
+1027,561,False
+475,561,False
+444,561,True
+443,561,True
+897,562,False
+685,562,Answer: False
+444,562,False
+443,562,False
+1012,563,Answer: False
+559,563,True
+501,563,False
+459,563,True
+468,564,True
+465,564,"record 1: Microsoft Office Professional Plus 2013 CD Key for PC - KBZ-OPE-PLUS-2013 Microsoft Office Professional Plus 2013 CD Key for PC - KBZ-OPE-PLUS-2013/ Includes Access, Excel, Outlook, PowerPoint, Publisher, and Word/ Compatible with Windows 7, Windows 8, or Windows 8 Pro operating systems (64 bit)"
+463,564,True
+442,564,True
+469,565,Answer: False
+468,565,"record 1: Adobe Photoshop Elements 8 Adobe Photoshop Elements 8/ Organizer For Quick And Easy Management Of Your Digital Media/ Edit Tool For Enhancing, Correcting, Or Creating Images/ Premium Content Including Over 600 Online Design Ideas, Recordings, And Tutorials/ Exclusive Features To Create Visual Effects And Fun Animations/ New And Improved Guided Editing And Creations With Step-by-Step Project Assignments, Record 2: Adobe Photoshop Elements 8 Adobe Photoshop Elements 8 (Macintosh)/ Adobe Photoshop Elements 8 For Macintosh Computers/ Organizer For Quick And Easy Management Of Your Digital Media/ Edit Tool For Enhancing, Correcting, Or Creating Images/ Premium Content Including Over 600 Online Design Ideas, Recordings, And Tutorials/ Exclusive Features To Create Visual Effects And Fun Animations/, Answer with True"
+465,565,True
+438,565,"The records refer to different products, therefore the answer is False"
+469,566,"record 1: Nike Men's Duraspeed AP Training Shoes, Black/Black-Vast Grey, Size 10 D US, record 2: Nike Men's Fit 4 Training Shoes, Black/Vast Grey-Metallic Silver, Size 10 D US"
+468,566,True
+465,566,Answer: False
+438,566,The records refer to different products
+469,567,record 1: DJI Phantom Standard Quadcopter Bundle with 3-Axis Gimbal and FPV Monitor - PHANTOM3 STANDARD DJI Phantom Standard Quadcopter Bundle with 3-Axis Gimbal and FPV Monitor - PHANTOM3 STANDARD/ 2
+442,567,record 1: Nikon D3400 DSLR Camera (Body) - 1510 Nikon D3400 DSLR Camera (Body) - 1510/ 24
+439,567,"record 1: BIC Cristal Ball Pen, White, Pack of 12 BIC Cristal Ball Pen, White, Pack of 12/ Refillable/ Medium Point/ Smooth Writing/ High-Quality Printing/ Easy-Clean/ Non-Drip Ink System/ Grip Zone, record 2: Bic Round Stick Ballpen, White, Pack of 12 Bic Round Stick Ballpen, White, Pack of 12/ Medium Point/ Smooth Writing/ High-Quality Printing/ Easy-Clean/ Non-Drip Ink System/ Grip Zone"
+438,567,Answer: True
+442,568,record 1: Google Pixel 4a (5G) Smartphone - Google Pixel 4a (5G) Smartphone/ Snapdragon 765G/ 12
+441,568,Answer: True
+439,568,Answer: False
+438,568,"record 1: Microsoft Windows Server 2016 Standard Evaluation Edition (x64) - 17851 Microsoft Windows Server 2016 Standard Evaluation Edition (x64) - 17851/ For Development, Testing and Evaluation Purposes Only/ Operating System/ Up to 180 Days in a Non-Production Environment/ Language Support: English, Simplified Chinese, Traditional Chinese, French, German, Japanese, Korean, Portuguese (Brazil), Russian"
+469,569,True
+449,569,False
+442,569,True
+438,569,"The records refer to the same entity, as both products are Sony High Definition Handycams with similar features and models (HDRSR10 and HDRHC9)"
+882,570,False
+573,570,True
+345,570,False
+342,570,False
+1004,571,Answer: True
+796,571,False
+795,571,False
+141,571,False
+854,572,False
+595,572,Answer: True
+594,572,Answer: False
+142,572,"False, as the first record is for a battery specific to two camera models, while the second record is for an entire camera"
+611,573,False
+574,573,True
+225,573,False
+78,573,False
+882,574,False
+667,574,False
+622,574,Answer: True
+573,574,False
+882,575,True
+667,575,Answer: True
+573,575,False
+443,575,False
+882,576,Answer: False
+667,576,True
+622,576,Answer: False
+573,576,False
+1012,577,"record 1: Nike Air Max 1 Ultra Moire Men's Shoes - AM1U0, record 2: Nike Air Max 1 Ultra Moire Mens Shoes-AM1U0, color: Black/ White-Black, size: 9"
+559,577,True
+523,577,True
+501,577,Answer: False
+802,578,Answer: False
+723,578,False
+616,578,False
+566,578,False
+801,579,False
+723,579,False
+619,579,False
+616,579,False
+571,579,False
+566,579,False
+565,579,False
+515,579,Answer: True
+801,580,False
+723,580,False
+619,580,False
+616,580,False
+571,580,False
+566,580,False
+565,580,False
+515,580,"The records refer to the same entity, as both describe Toshiba's White 19LV506 model which is a 19"" LCD HDTV with built-in DVD player"
+546,581,Answer: True
+510,581,False
+508,581,False
+38,581,False
+1046,582,False
+549,582,True
+547,582,record 1: Intel Pentium Dual-Core Processor E2160 - SL9P4 [Bottleneck Gray] Intel Pentium Dual-Core Processor E2160 - SL9P4 [Bottleneck Gray]/ 1
+86,582,False
+1046,583,False
+549,583,False
+547,583,Answer: True
+86,583,False
+800,584,False
+620,584,False
+257,584,False
+230,584,False
+800,585,Answer: False
+620,585,False
+257,585,False
+230,585,False
+800,586,False
+620,586,False
+257,586,False
+230,586,False
+800,587,False
+620,587,False
+257,587,False
+230,587,False
+986,588,Answer: False
+978,588,False
+522,588,True
+509,588,False
+986,589,True
+978,589,False
+891,589,False
+539,589,False
+467,590,False
+466,590,True
+464,590,True
+278,590,False
+467,591,True
+466,591,True
+464,591,True
+278,591,False
+467,592,Answer: True
+466,592,True
+464,592,False
+278,592,False
+880,593,False
+788,593,False
+786,593,False
+443,593,False
+980,594,False
+854,594,False
+595,594,"False, the first record describes a specific lens for the Panasonic Black Lumix camera, while the second record describes the entire camera model (TZ5) in silver color"
+594,594,Answer: False
+995,595,False
+980,595,True
+854,595,False
+594,595,Answer: False
+869,596,Answer: True
+227,596,False
+14,596,False
+8,596,False
+901,597,False
+520,597,False
+483,597,True
+172,597,False
+673,598,Answer: False
+523,598,False
+506,598,True
+497,598,Both records refer to different Panasonic TV models
+855,599,False
+755,599,True
+753,599,record 1: Nikon AF-S NIKKOR 70-200mm f/4G ED VR Zoom Lens (Black) - 7915B001 Nikon AF-S NIKKOR 70-200mm f/4G ED VR Zoom Lens (Black) - 7915B001/ 70-200 mm Focal Length/ Autofocus/ Vibration Reduction Image Stabilization/ Super Integrated Coating/ Minimum Focus Distance: 1
+558,599,False
+498,599,False
+855,600,False
+559,600,False
+558,600,False
+507,600,True
+1000,601,False
+389,601,True
+278,601,False
+265,601,False
+766,602,Answer: True
+756,602,Answer: False
+554,602,False
+446,602,Answer: False
+611,603,Answer: False
+592,603,Answer: True
+574,603,True
+78,603,False
+611,604,Answer: True
+592,604,True
+574,604,True
+78,604,False
+686,605,False
+585,605,True
+171,605,False
+118,605,False
+686,606,Answer: True
+585,606,Answer: False
+171,606,False
+118,606,False
+995,607,True
+980,607,record 1: Lenovo ThinkPad Yoga 260 2-in-1 Convertible Laptop - 80WJ01US Lenovo ThinkPad Yoga 260 2-in-1 Convertible Laptop - 80WJ01US/ 12
+854,607,Answer: False
+595,607,False
+362,608,Answer: True
+216,608,False
+202,608,False
+79,608,False
+660,609,False
+659,609,Answer: False
+658,609,Answer: False
+657,609,Answer: False
+892,610,Answer: False
+768,610,record 1: Intel Core i5-4690K Processor (BX80646I54690K) Intel Core i5-4690K Processor (BX80646I54690K)/ Turbo Boost Technology/ 3
+767,610,Answer: True
+737,610,"record 1: Xiaomi Mi Max 2, 6"
+1067,611,True
+77,611,"record 1: Panasonic TC-P58S6B Ultra HD 4K Smart LED TV - TC-P58S6B Panasonic TC-P58S6B Ultra HD 4K Smart LED TV - TC-P58S6B/ UHD Resolution (3,840 x 2,160)/ 58"" Screen Size/ LED Type Display/ Built-in WiFi Connectivity/ Smart Connectivity Enabled/ Built-in Web Browser/ Motion Adaptive Intelligent Sensor/ Eco Mode/ Dimensions (WxHxD) - 53"
+71,611,False
+43,611,record 1: NVIDIA GTX 970 Founders Edition - 900-1G745 NVIDIA GTX 970 Founders Edition - 900-1G745/ PCI Express 3
+903,612,"record 1: Dell XPS 15 9550 Laptop - 7566 Intel Core i7-8700HK Processor, NVIDIA GeForce GTX 1050 Ti Graphics Card, 8GB RAM, 256GB SSD Storage - Black Dell XPS 15 9550 Laptop - 7566 Intel Core i7-8700HK Processor, NVIDIA GeForce GTX 1050 Ti Graphics Card, 8GB RAM, 256GB SSD Storage - Black/ 15"
+896,612,"record 1: Adobe Premiere Elements 14 Video Editing Software - 980769 Adobe Premiere Elements 14 Video Editing Software - 980769/ Organize & Share Your Video Creations/ Use Guided Edits to Learn the Basics/ Make Movie Magic with Fun, Fast Effects/ Create Menus and Slideshows/ Enjoy Easy Online Sharing/ Import From Camcorders and More/ Edit Photos & Enhance Them/ Sync Elements Between Devices/ Share Creations on Facebook/ Video Stabilization/ Black Finish"
+768,612,"The records refer to the same entity, as both describe Garmin Nuvi 205W and Garmin nvi 255W automobile navigation systems, with similar features such as preloaded maps, voice prompts, touchscreen, SD card slot, and anti-theft Garmin Lock"
+737,612,True
+896,613,"record 1: iPhone X (64GB, Space Gray) - MMGC2ZA/ A1865-B10 - iPhone X (64GB) - MMGC2ZA/ A1865-B10 - 6"
+768,613,Answer: True
+767,613,"Both records describe the Garmin Nuvi 205 GPS Navigation System, hence they refer to the same entity"
+737,613,True
+593,614,Answer: True
+532,614,True
+250,614,Answer: False
+190,614,"record 1: Nike Air Zoom Spiridon 'Anthracite' Men's Shoes - CJ5943-001 Nike Air Zoom Spiridon 'Anthracite' Men's Shoes - CJ5943-001/ Textile Upper/ Full-Length Zoom Air Units/ Synthetic Sole, record 2: Nike Air Zoom Spiridon 'Anthracite' Men's Training Shoe - CJ5943-001 Nike Air Zoom Spiridon 'Anthracite' Men's Training Shoe - CJ5943-001/ Textile Upper/ Full-Length Zoom Air Units/ Synthetic Sole"
+941,615,False
+879,615,False
+788,615,False
+786,615,True
+999,616,False
+405,616,True
+404,616,True
+104,616,False
+685,617,Answer: False
+475,617,False
+444,617,False
+443,617,False
+485,618,False
+475,618,False
+444,618,Answer: False
+443,618,True
+1027,619,False
+475,619,True
+444,619,False
+443,619,False
+656,620,True
+532,620,True
+400,620,True
+190,620,False
+532,621,Answer: False
+400,621,True
+250,621,record 1: ASUS RT-N600U Wireless AC1750 Dual Band Gigabit Router (Black) - RT-N600U-B1 ASUS RT-N600U Wireless AC1750 Dual Band Gigabit Router (Black) - RT-N600U-B1/ 880 Mbps @ 2
+190,621,True
+762,622,False
+747,622,"record 1: Samsung Electronics Curved Ultra HD 55 Inch Smart LED TV (UN55HU753) - PN55HU753FXZA Samsung Electronics Curved Ultra HD 55 Inch Smart LED TV (UN55HU753) - PN55HU753FXZAFXZA/ 4K Resolution/ UHD/ 178 Degree Wide Viewing Angle/ Smart TV/ ConnectShare Memory/ USB Reader & Writer/ HDMI x 3(Side, Rear x 2)/ DVB-T2/ CI+ Slot/ Analog Tuner (50/60Hz)/ Clear Motion Rate/ Auto Depth Enhancer/ Game Mode/ MHL Technology Supported/ Eco Sensor/ Animated Menu/ Smart View App/ WLAN 802"
+400,622,False
+250,622,"record 1: Apple MacBook Air MBA7,1 Intel Core i5 1"
+747,623,Answer: True
+400,623,Answer: False
+280,623,True
+256,623,False
+664,624,True
+614,624,Answer: True
+190,624,True
+32,624,False
+664,625,Answer: False
+613,625,True
+190,625,Answer: False
+32,625,False
+747,626,True
+328,626,True
+280,626,True
+256,626,"record 1: Nike Air Zoom Generation III Basketball Shoes, Men's Nike Air Zoom Generation III Basketball Shoes, Black/Black-Anthracite-Metallic Silver, Size 9"
+747,627,False
+534,627,Answer: True
+400,627,False
+256,627,False
+664,628,Answer: True
+256,628,False
+190,628,False
+32,628,False
+762,629,True
+664,629,Answer: False
+532,629,Answer: False
+400,629,Answer: False
+677,630,False
+536,630,True
+246,630,False
+245,630,"record 1: HP Officejet Pro K860 Printer - J971A K860a HP Officejet Pro K860 Printer - J971A K860a/ Instant-On Technology/ Print, Scan and Copy from One Device/ 2400 x 1200 Optimized DPI Resolution/ Black Ink Tank (67 Page Yield)/ Tri-Color Ink Tank (250 Page Yield Each)/ Standard Paper Tray (Up to 250 Sheets)/ Automatic Document Feeder (ADF) for Scanning and Copying/ Print Speed Up To 8 Pages Per Minute (B/W), record 2: HP Officejet Pro K860 All-in-One Printer with 2"
+157,631,False
+35,631,True
+31,631,True
+12,631,False
+989,632,False
+936,632,False
+879,632,False
+538,632,Answer: True
+861,633,False
+860,633,False
+410,633,"record 1 and record 2 both refer to the same product, so the answer is True"
+311,633,False
+1039,634,Answer: False
+844,634,False
+665,634,False
+568,634,True
+616,635,"False, they are referring to two different Samsung TVs with different screen sizes"
+571,635,False
+567,635,False
+566,635,Answer: False
+565,635,Answer: True
+933,636,Answer: True
+746,636,Answer: True
+597,636,False
+468,636,False
+981,637,False
+846,637,False
+665,637,False
+569,637,Answer: True
+713,638,True
+589,638,False
+257,638,False
+230,638,False
+708,639,False
+583,639,Answer: True
+582,639,False
+581,639,Answer: False
+800,640,False
+722,640,False
+620,640,True
+427,640,False
+992,641,False
+575,641,True
+486,641,False
+485,641,False
+992,642,False
+576,642,True
+486,642,False
+485,642,False
+997,643,False
+988,643,Answer: False
+798,643,"record 1: Samsung NP570-JA19 XE273S02-K01 Samsung NP570-JA19 XE273S02-K01/ Intel Core i3-6100U Processor, record 2: HP Pavilion 14-ce205na HP Pavilion 14-ce205na/ AMD A6-6310 Processor"
+777,643,Answer: True
+713,644,True
+711,644,True
+635,644,False
+589,644,True
+616,645,True
+571,645,Answer: False
+566,645,True
+565,645,True
+616,646,"False, the records describe different Samsung TV models with different screen sizes"
+571,646,Answer: True
+568,646,False
+566,646,False
+565,646,False
+725,647,Answer: True
+612,647,False
+337,647,False
+81,647,Answer: False
+708,648,Answer: False
+583,648,Answer: False
+582,648,True
+581,648,False
+1055,649,True
+838,649,False
+490,649,Answer: True
+483,649,False
+1055,650,True
+838,650,False
+490,650,Answer: True
+483,650,False
+634,651,Answer: True
+619,651,False
+580,651,"False, the two records describe different models of Samsung LCD TVs"
+578,651,False
+546,652,True
+510,652,True
+508,652,False
+38,652,True
+546,653,"record 1: Google Pixel XL Smartphone (Quite Black, 64GB) Google Pixel XL Smartphone (Quite Black, 64GB)/ 5"
+510,653,False
+508,653,True
+38,653,False
+981,654,False
+665,654,False
+649,654,"record 1: Nike Air Max Zero QS 'Camo' Nike Air Max Zero QS 'Camo'/ Black, Anthracite, Green Strike & Grey Camouflage Nike Air Max Zero QS 'Camo', record 2: Nike Air Max Zero QS 'Camo' Nike Air Max Zero QS 'Camo'"
+567,654,Answer: True
+634,655,Answer: False
+619,655,Answer: True
+616,655,False
+566,655,False
+708,656,True
+583,656,Answer: False
+582,656,"record 1: Sony SLT-A57 Digital SLR Camera - KDLCD152B Body Cap only, record 2: Sony Alpha DSLR A390K (Black) - 14MP Exmor APS HD CMOS Sensor/ Fast Hybrid Autofocus, Record 3: Sony Cyber-shot RX10 II Digital Camera (Black) - ZEISS Optics and Fast Hybrid Autofocus, Record 4: Sony Alpha DSLR-A58K (Black) Body Cap only, Answer with True"
+581,656,True
+660,657,True
+659,657,False
+658,657,Answer: False
+657,657,Answer: False
+660,658,False
+659,658,False
+658,658,False
+657,658,Answer: True
+660,659,False
+659,659,Answer: True
+658,659,Answer: False
+657,659,Answer: False
+660,660,False
+659,660,False
+658,660,Answer: True
+657,660,Answer: False
+859,661,"False, the first record refers to a specific Yamaha sound projector model (YSP3050BK), while the second record refers to a specific Yamaha receiver model (RX-V663BL)"
+790,661,"record 1: Adidas Nemeziz 17+ 3G Football Boot - X 18 Adidas Nemeziz 17+ 3G Football Boot - X 18/ Primeknit Textile Upper/ Sprintframe Outsole Construction/ Boost Technology Insole/ Core Black And Solar Red Colorway, record 2: Adidas Nemeziz 17"
+692,661,"Both records describe AV receivers with similar audio decoding capabilities and maximum power output, indicating that they may refer to similar or equivalent products"
+644,661,record 1: Bose QuietComfort 35 II Wireless Headphones - Silver Bose QuietComfort 35 II Wireless Headphones - Silver/ Bluetooth and NFC pairing/ Alexa voice control/ Balanced audio performance via Acoustic Noise Cancelling technology/ Volume-optimized EQ and improved battery life/ Duo Mode for sharing any connected source/ Bose Connect app for software updates/ Accessible via assistive technologies
+469,662,True
+451,662,False
+442,662,False
+438,662,Answer: False
+802,663,False
+634,663,False
+616,663,False
+580,663,Answer: True
+848,664,True
+837,664,Answer: True
+669,664,Answer: True
+668,664,True
+842,665,True
+792,665,True
+669,665,Answer: False
+668,665,Answer: True
+968,666,False
+967,666,True
+965,666,False
+402,666,False
+741,667,True
+677,667,False
+505,667,False
+491,667,False
+802,668,False
+634,668,False
+579,668,Answer: True
+578,668,False
+1012,669,False
+990,669,False
+932,669,Answer: True
+501,669,"False, as while both TVs display content, they have different screen sizes (32"" vs"
+968,670,False
+967,670,False
+965,670,True
+402,670,True
+753,671,Answer: False
+708,671,Answer: False
+653,671,True
+558,671,True
+859,672,False
+790,672,False
+692,672,False
+644,672,Both records refer to audio receivers with similar features and connectivity options
+741,673,False
+679,673,"record 1: Nike Air Max 97 OG SE Women's Shoes - QD1669-300 Nike Air Max 97 OG SE Women's Shoes - QD1669-300/ Black/ Vast Grey/ Neon Green/ White, record 2: Nike Air Max 97 Ultra 19 Women's Shoes - DQ4518-001"
+677,673,Example 3:
+676,673,True
+802,674,False
+801,674,False
+610,674,Answer: True
+607,674,Answer: True
+759,675,False
+723,675,Answer: True
+559,675,False
+501,675,record 1: Apple iPad Wi-Fi + Cellular - MD881B/A (4th Generation) Apple iPad Wi-Fi + Cellular - MD881B/A (4th Generation)/ A7 chip with 64-bit architecture/ Fingerprint sensor built into Touch ID/ 8 megapixel iSight camera backside illumination/ Auto image stabilization/ FaceTime HD video/ Front-facing FaceTime HD camera/ Wi‑Fi (802
+960,676,True
+359,676,Answer: False
+119,676,Answer: False
+60,676,Answer: False
+883,677,False
+430,677,False
+154,677,False
+119,677,False
+693,678,record 1: Acer Nitro AN515-43-R9BZ Acer Nitro AN515-43-R9BZ/ Intel Core i7-8700 Processor (6 Cores)/ 16GB DDR4 Memory/ 2TB SATA Hard Drive (7200RPM)/ NVIDIA GeForce GTX 1060 3GB Graphics Card (GDDR5 VR Ready)/ SuperSpeed USB 3
+617,678,Answer: False
+591,678,Answer: False
+590,678,True
+693,679,False
+617,679,False
+591,679,Answer: True
+590,679,record 1: Audi Q7 Quattro 3
+802,680,False
+801,680,True
+634,680,False
+578,680,True
+802,681,False
+801,681,True
+616,681,False
+578,681,False
+802,682,False
+610,682,Answer: True
+607,682,Answer: True
+578,682,Answer: False
+802,683,Answer: True
+801,683,False
+610,683,Answer: True
+607,683,Answer: True
+619,684,False
+617,684,False
+616,684,True
+566,684,False
+708,685,False
+634,685,"False, as although both TVs have similar specifications and brands, they are different models"
+608,685,Answer: True
+583,685,"These records both refer to Samsung plasma HDTVs, specifically the Series 4 models PN50A450 and PN42A450"
+773,686,"record 1: Google Nexus One (32 GB) Factory Unlocked Cell Phone - XFZW8N1AM1B Android Smartphone, record 2: Google Nexus One (16 GB) Factory Unlocked Cell Phone - XFR47C1AM1B Android Smartphone"
+713,686,False
+711,686,False
+589,686,Answer: False
+337,687,Answer: False
+201,687,Answer: False
+175,687,record 1: Nike Free Run 3
+174,687,Answer: False
+819,688,True
+640,688,False
+639,688,False
+636,688,False
+812,689,Answer: False
+640,689,record 1: Samsung Galaxy Note 3 SM-N900T Android Smartphone - SCH-I647 Samsung Galaxy Note 3 SM-N900T Android Smartphone - SCH-I647/ 5
+639,689,False
+636,689,"record 1: Samsung Electronics UN55KU6070FXZA Flat Panel TV, 55""-UN55KU6070FXZA Samsung Electronics UN55KU6070FXZA Flat Panel TV, 55""-UN55KU6070FXZA/ 1080p Full HD Resolution/ Dynamic Contrast Ratio of 2000000:1/ Clear Motion Rate of 1200/ Energy Star Certified and eco Institutional Plus/ ConnectShare Movie provides easy connection of various external devices/ Dimensions (WxHxD) without stand: 1446"
+818,690,True
+814,690,Answer: True
+639,690,Answer: False
+274,690,False
+813,691,"record 3: Apple MacBook Pro (Intel Core i5, 8GB RAM, 128GB SSD) - MLB2, record 4: Apple MacBook Pro (Intel Core i5, 8GB RAM, 128GB SSD) - MLB2"
+640,691,Answer: False
+639,691,True
+636,691,Answer: False
+818,692,Answer: False
+815,692,Answer: True
+640,692,False
+639,692,False
+636,692,True
+818,693,Answer: False
+640,693,True
+639,693,False
+636,693,False
+815,694,True
+640,694,Answer: False
+639,694,record 1: LG LM6400 64 oz
+636,694,False
+818,695,True
+814,695,True
+640,695,False
+639,695,True
+529,696,False
+528,696,True
+527,696,True
+86,696,False
+572,697,True
+555,697,False
+150,697,False
+0,697,The records refer to the same entity
+809,698,False
+609,698,False
+589,698,False
+462,698,Answer: True
+967,699,False
+965,699,False
+409,699,False
+318,699,Answer: True
+770,700,False
+158,700,False
+157,700,True
+3,700,False
+1039,701,False
+844,701,False
+665,701,False
+648,701,True
+1049,702,False
+820,702,False
+807,702,False
+5,702,False
+713,703,False
+589,703,False
+257,703,False
+230,703,False
+635,704,False
+545,704,False
+544,704,True
+543,704,False
+1049,705,False
+820,705,True
+760,705,False
+291,705,False
+802,706,False
+665,706,False
+616,706,False
+580,706,False
+679,707,True
+677,707,True
+676,707,False
+358,707,False
+790,708,False
+692,708,False
+644,708,False
+609,708,True
+790,709,"record 1: Samsung Electronics America, Inc"
+692,709,True
+644,709,True
+609,709,False
+427,710,False
+257,710,False
+230,710,False
+86,710,Answer: False
+1006,711,True
+256,711,True
+190,711,False
+32,711,False
+722,712,False
+540,712,False
+427,712,False
+230,712,False
+781,713,record 1: Samsung BD-J5100 Blu-ray Player - BD-J5100 Samsung BD-J5100 Blu-ray Player - BD-J5100/ Progressive Scan To Enhance The Fast-Action And Fine Details Of High Definition Images/ 3D Compatibility (Bluetooth Glasses Not Included)/ Full HD 1080p/ USB Media Host With Slide Show/ Digital Copy Offerred By Select Content Providers/ BD-Live Functionality Offered By Select Content Providers (Fees May Apply And Operational Mode Might Change)/ HDMI Output For The Transmission Of Uncompressed High Definition Digital Video And Multi Channel Audio/ Ethernet Connection For BD Live/ DivX Plus Certified/ Built In WiFi Allows For Wireless Streaming Of Media From A PC Network To Your TV Without The Use Of Cables Or Dongles/ USB 2
+780,713,True
+408,713,False
+40,713,False
+862,714,False
+745,714,True
+520,714,False
+519,714,False
+981,715,"record 1: Nike Air Zoom Pegasus 36 Running Shoe - Men's Nike Air Zoom Pegasus 36 Running Shoe - Men's/ Black/ Volt Green/ Wht, record 2: Nike Air Zoom Pegasus 36 Running Shoe - Women's Nike Air Zoom Pegasus 36 Running Shoe - Women's/ Black/ Wolf Grey-Black, answer with False"
+665,715,record 1: Lenovo ThinkStation S30 - Intel Xeon E3-1275L v5 Processor - 8GB DDR4 RAM - 256GB PCIe NVMe M
+649,715,True
+567,715,True
+612,716,True
+154,716,False
+48,716,False
+47,716,False
+859,717,False
+790,717,False
+692,717,False
+644,717,False
+981,718,True
+846,718,"record 1: ASUS P7P55-M LE3 Motherboard (Intel LGA 1155, ATX) - P7P55-M LE3 ASUS P7P55-M LE3 Motherboard (Intel LGA 1155, ATX)/ Intel® P55 Express Chipset/ SATA 6Gb/s, USB 3"
+665,718,Answer: True
+569,718,"False, although both TVs are Samsung 52' Series 6 LCD Black Flat Panel HDTVs, the model numbers and some specifications (such as response time) are different"
+685,719,False
+475,719,False
+444,719,False
+443,719,False
+703,720,True
+620,720,False
+452,720,False
+88,720,False
+1032,721,False
+713,721,False
+635,721,True
+589,721,False
+1043,722,True
+646,722,record 1: Lenovo ThinkPad T500 Laptop Computer - 2768-B4G ThinkPad T500 Laptop Computer - 2768-B4G/ Intel Core Duo Processor Technology/ 15
+645,722,False
+199,722,False
+773,723,False
+722,723,True
+620,723,False
+540,723,True
+1061,724,False
+541,724,False
+526,724,False
+195,724,False
+394,725,Answer: True
+313,725,True
+44,725,False
+26,725,Answer: False
+875,726,False
+435,726,True
+158,726,False
+44,726,False
+875,727,Answer: False
+436,727,False
+158,727,False
+44,727,False
+731,728,False
+472,728,True
+467,728,False
+466,728,Answer: False
+1054,729,record 1: Toshiba Satellite Pro S650 Touchscreen Laptop - Satellite Pro S650-S6520 Toshiba Satellite Pro S650 Touchscreen Laptop - Satellite Pro S650-S6520/ 15
+756,729,False
+725,729,Answer: False
+570,729,True
+765,730,False
+693,730,Answer: True
+649,730,False
+648,730,False
+590,730,Answer: False
+948,731,True
+947,731,False
+946,731,Answer: False
+85,731,Answer: False
+708,732,True
+583,732,Answer: False
+582,732,"record 1: Apple iPhone XR, 64 GB - White A2137 Apple iPhone XR, 64 GB - White/ 6"
+581,732,"The record descriptions refer to the same entity, as both records describe Samsung's PN50A550 and PN50A650 plasma HDTVs, with similar features and specifications"
+744,733,True
+743,733,Answer: True
+558,733,False
+504,733,False
+500,733,False
+779,734,Answer: False
+436,734,False
+413,734,False
+242,734,False
+779,735,False
+422,735,Answer: True
+413,735,False
+242,735,False
+875,736,False
+436,736,True
+158,736,False
+44,736,False
+437,737,False
+435,737,False
+423,737,"Both records refer to the same product, the Pioneer HD Radio Tuner - GEXP10HD"
+79,737,False
+855,738,False
+744,738,Answer: True
+743,738,Answer: False
+558,738,Answer: False
+427,739,False
+257,739,False
+230,739,False
+86,739,Answer: False
+655,740,False
+448,740,True
+313,740,False
+40,740,False
+437,741,Answer: True
+158,741,False
+44,741,False
+26,741,False
+329,742,Answer: False
+147,742,False
+32,742,False
+9,742,False
+329,743,False
+147,743,False
+32,743,False
+9,743,False
+1033,744,False
+974,744,False
+713,744,False
+589,744,False
+545,745,"record 1: Samsung Electronics America, Inc"
+544,745,Answer: False
+543,745,Answer: False
+542,745,The answer is: True
+713,746,False
+589,746,False
+560,746,Answer: True
+230,746,False
+713,747,False
+589,747,False
+257,747,False
+230,747,False
+530,748,record 1: Lenovo IdeaPad Y700-13ISK Intel Core i5-4210U 13
+528,748,Answer: True
+527,748,True
+86,748,Answer: False
+530,749,Answer: True
+529,749,Answer: False
+527,749,Answer: False
+86,749,Answer: False
+561,750,True
+257,750,False
+230,750,False
+86,750,False
+688,751,False
+687,751,"record 3: Samsung Electronics Curved 65"" Class LED Smart TV - UN65MU7090 Samsung Electronics Curved 65"" Class LED Smart TV - UN65MU7090/ MU7000 Series/ 4K Ultra HD Resolution/ UHD Dimming/ Auto Depth Enhancer/ Clean View Panel/ Smart Hub with Content Search Plus/ Wi-Fi Connectivity"
+487,751,False
+107,751,False
+688,752,False
+687,752,False
+487,752,False
+107,752,False
+688,753,False
+687,753,False
+487,753,False
+107,753,False
+740,757,Both records refer to the same product
+697,757,"record 1: Lululemon Align Pant - 25"" Black Lululemon Align Pant - 25"" Black/ Nulu Fabric/ High-Rise Waistband/ Four-Way Stretch/ Sculptek™ Reinforced Panels/ Signature Sweat-Wicking Fabric"
+301,757,False
+272,757,False
+740,758,True
+702,758,record 1: Toshiba Chromebook C100-C-3120 11
+696,758,"record 1: Lenovo IdeaPad Yoga 2 Pro-81J903150 IdeaCentre A726 All-In-One - Black, record 2: Lenovo Flex 2 Convertible Laptop 14'' FHD Touch - 80X001DU US"
+691,758,record 1: Lenovo ThinkPad X260 Touch 12
+700,759,False
+694,759,False
+674,759,False
+235,759,False
+740,760,True
+697,760,True
+300,760,False
+107,760,False
+733,761,True
+732,761,True
+730,761,"record 1: HP Officejet Pro 8150 All-in-One Printer - J670a HP Officejet Pro 8150 All-in-One Printer - J670a/ Wireless Printing, Scanning and Copier/ 4800 x 1200 Optical Resolution/ 20 Pages Per Minute (PPM)/ ADF with Duplex Capability/ Multiple Format Copying/ Built-in Ethernet Connectivity/ Black Finish"
+729,761,False
+733,762,"record 1: MSI GS60 Ghost Pro-248 Dual Graphics Workstation Laptop (Intel Core i7-4930HQ Quad-Core Processor, 16 GB RAM, NVIDIA GeForce GTX 750M + Intel HD Graphics 4600) - MSI-GS60-278 MSI GS60 Ghost Pro-248 Dual Graphics Workstation Laptop (Intel Core i7-4930HQ Quad-Core Processor, 16 GB RAM, NVIDIA GeForce GTX 750M + Intel HD Graphics 4600)/ 15"
+732,762,True
+730,762,Answer: False
+356,762,Answer: False
+355,762,record 1: DJI Phantom 4 Quadcopter - BG1151 DJI Phantom 4 Quadcopter - BG1151/ 12 Megapixel Camera/ 7 Kilometer Transmission Range/ Visual Positioning/ GPS/ GLONASS/ Retractor Mechanism/ Obstacle Avoidance/ Intelligent Flight Modes
+327,763,False
+68,763,False
+39,763,False
+17,763,False
+729,764,Answer: False
+728,764,record 1: Canon EOS Rebel T6 DSLR Camera with 18-55mm IS II Kit - EF-S1855IS II Black Canon EOS Rebel T6 DSLR Camera with 18-55mm IS II Kit - EF-S1855IS II Black/ APS-C CMOS Sensor/ High-Performance DIGIC 4+ Image Processor/ 9-Point AF System and Scene Intelligent Auto Mode/ Capture High-Resolution Images and Videos with Ease/ Built-In Wi-Fi and NFC Connectivity/ Compatible With EOS Rebel T6 EF Lenses/ EF-S18-55mm f/3
+356,764,"record 1: Nike Air Zoom Pegasus 38 Women's Running Shoes - WS1764-002 Nike Air Zoom Pegasus 38 Women's Running Shoes - WS1764-002/ Engineered Mesh Upper For A Secure, Precise Fit / Flywire Cable System Enhances Lockdown And Support Throughout The Foot / Responsive Cushioning In The Heel Provides Exceptional Shock Absorption / Zoom Air Units Deliver An Efficient, Lightweight Ride / Full-Length Rubber Outsole For Durability And Multi-Surface Traction"
+355,764,record 1: HP EliteBook Folio G1 Notebook - EB1140nr HP EliteBook Folio G1 Notebook - EB1140nr/ Intel Core M-5Y71 vPro Processor (2
+729,765,False
+728,765,record 1: Nike Air Zoom Pegasus 38 Shoes - AO2405-001 Nike Air Zoom Pegasus 38 Shoes - AO2405-001/ Flywire Technology/ Zoom Air Units in the Heel and Forefoot/ Full-Length Cushioned Midsole/ Engineered Mesh Upper/ Synthetic Rubber Outsole
+356,765,False
+355,765,False
+720,766,False
+718,766,False
+717,766,"record 1: HP Officejet J5780 All-in-One Printer with Scanner and Copier, Silver - HPP1026A HP Officejet J5780 All-in-One Printer with Scanner and Copier, Silver - HPP1026A/ Print up to 8 IPM/ Scan up to 4 PPM/ Copy up to 8 PPMI/ ADF Capacity: Up to 35 Pages/ Wireless-Ready/ AirPrint Supported/ Mobile Printing Supported/ 2"
+290,766,False
+690,767,False
+689,767,False
+687,767,False
+290,767,False
+690,768,True
+689,768,True
+688,768,True
+687,768,True
+712,773,True
+710,773,True
+709,773,record 1: Nikon AF-P DX NIKKOR 70-300mm f/4
+690,773,False
+689,773,False
+480,776,Answer: True
+479,776,False
+444,776,False
+443,776,False
+685,777,False
+479,777,True
+444,777,False
+443,777,Answer: False
+685,778,Answer: False
+482,778,Answer: True
+444,778,False
+443,778,False
+868,779,record 1: Cocoon Grid-It! Organizer for Electronics and Accessories - BLUE Cocoon Grid-It! Organizer for Electronics and Accessories - BLUE/ Adjustable Elastic Straps/ Durable Mesh Grid/ Versatile Design/ Blue Finish
+611,779,False
+339,779,False
+89,779,False
+867,780,False
+611,780,False
+339,780,False
+89,780,False
+1061,781,False
+769,781,False
+711,781,False
+316,781,True
+937,782,False
+770,782,True
+713,782,False
+618,782,False
+718,783,False
+717,783,False
+290,783,False
+41,783,False
+720,784,True
+718,784,True
+717,784,True
+42,784,False
+1065,787,False
+1008,787,True
+402,787,False
+395,787,False
+1031,788,Answer: False
+817,788,False
+816,788,False
+703,788,False
+1031,789,True
+817,789,False
+816,789,False
+703,789,False
+765,790,Answer: True
+693,790,False
+591,790,"The records refer to the same entity, as they both represent Samsung's 61"" and 72"" Black Series DLP Projection HDTV models HL61A650 and HL72A650 respectively"
+590,790,Answer: False
+1061,791,False
+541,791,"The records describe two different Boston Acoustics clock radios with iPod docks: the first is called ""Duo-I AM/FM Clock Radio With iPod Dock"" (model HDUOIMDNT) and has features such as an integrated iPod dock, dual high performance full-range speakers, BassTrac audio processing, and 360° snooze bar"
+526,791,False
+40,791,False
+1004,792,False
+966,792,False
+772,792,Answer: True
+771,792,True
+966,793,False
+772,793,True
+771,793,Answer: True
+454,793,False
+889,794,False
+655,794,True
+572,794,False
+40,794,False
+782,795,True
+776,795,False
+392,795,False
+93,795,False
+715,796,False
+714,796,False
+42,796,"record 1: Adobe Acrobat Reader DC (Document Cloud) - ARDC Adobe Acrobat Reader DC (Document Cloud)/ Read, review, and manage PDF files/ Create, edit, sign, and share PDF documents/ Collaborate with others in real time/ Access your PDFs on desktop, web, and mobile devices/ Fill out forms automatically/ Extract text and images/ OCR technology for searchable PDFs"
+41,796,True
+718,797,False
+717,797,False
+42,797,True
+41,797,True
+1029,798,False
+1015,798,True
+1014,798,False
+778,798,False
+841,799,"record 1: Adobe Acrobat Pro DC Software, Upgrade, Version 2017, for Windows, 1 Computer - ACRPRO2017U, Adobe Acrobat Pro DC Software, Upgrade, Version 2017, for Windows, 1 Computer - ACRPRO2017U/ Create, Edit and Manage PDF Portfolios/ Work More Efficiently with Touch or Tablet PCs/ Convert Microsoft Word, Excel, and PowerPoint Files into Adobe PDF Files/ Enhance Document Navigation, Searchability, and Accessibility/ Customizable Interface and Toolbars/ Compatible with Acrobat"
+839,799,Answer: True
+837,799,True
+836,799,True
+835,799,True
+849,800,Answer: True
+848,800,True
+845,800,True
+842,800,True
+849,801,False
+848,801,True
+845,801,True
+842,801,True
+837,801,Answer: False
+842,802,Answer: True
+837,802,True
+836,802,True
+792,802,True
+841,803,True
+839,803,Answer: True
+837,803,"record 1: Microsoft Surface Pro Signature Type Cover - Black Microsoft Surface Pro Signature Type Cover - Black/ 360-Degree Keyboard/ Multi-Position Kickstand/ Scratch Resistant Keyboard Surfaces, record 2: Microsoft Surface Pro Signature Type Cover Microsoft Surface Pro Signature Type Cover - Black/ 360-Degree Keyboard/ Full Size Chiclet Keys/ Backlit Keys"
+836,803,True
+839,804,Answer: True
+837,804,Answer: False
+836,804,True
+835,804,True
+848,805,True
+841,805,"record 1: Adobe After Effects CC (Software Only) [Download] - ME9015AA Adobe After Effects CC (Software Only) [Download] - ME9015AA/ Creative Cloud Membership Includes All Apps, Plugins And Services/ Seamless Upgrades To Latest Versions/ Use Across Two Computers/ Free Cloud Storage For File Syncing And Sharing/ Access To Completely New Products Every Year/ After Effects CC/ Version 13"
+837,805,True
+836,805,Answer: False
+841,806,"record 1: adidas Originals Superstar '80s, Black/White - S75964 Adidas Originals Superstar '80s, Black/White - S75964/ Leather And Textile Upper/ Synthetic Lining/ Rubber Outsole, record 2: adidas Originals SUPERSTAR '80S BLACK-WHITE LEATHER-TEXTIL-152736832811 Superstar Black White Leather Textile Size 40 EU - MFG00447 Adidas Originals Superstar '80s, Black/White - S75964/ Originals By Adidas®/ Leather Upper Footwear/ Rubber Outsole, record 3: adidas Originals SUPERSTAR '80S BLACK-WHITE LEATHER-TEXTIL-152736832811 Superstar Black White Leather Textile Size 45 EU - MFG00447 Adidas Originals Superstar '80s, Black/White - S75964/ Originals By Adidas®/ Leather Upper Footwear/ Rubber Outsole, record 4: adidas Originals SUPERSTAR '80S BLACK-WHITE LEATHER-TEXTIL-152736832811 Superstar Black White Leather Textile Size 42 EU - MFG00447 Adidas Originals Superstar '80s, Black/White - S75964/ Originals By Adidas®/ Leather Upper Footwear/ Rubber Outsole"
+837,806,Answer: False
+836,806,True
+793,806,Answer: True
+849,807,Answer: False
+848,807,record 1: Lenovo ThinkCentre M78z Tiny Desktop Computer - 43C6009US Lenovo ThinkCentre M78z Tiny Desktop Computer - 43C6009US/ Intel Core i3-3225 3
+843,807,True
+842,807,True
+839,807,Answer: False
+847,808,Answer: True
+841,808,Answer: False
+840,808,True
+839,808,Answer: False
+837,808,True
+836,808,Answer: True
+841,809,Answer: True
+839,809,True
+837,809,True
+836,809,True
+849,810,True
+848,810,Answer: False
+845,810,True
+842,810,Answer: True
+849,811,True
+848,811,Answer: False
+847,811,Answer: True
+845,811,Answer: False
+842,811,Answer: True
+849,812,True
+848,812,Answer: True
+845,812,True
+842,812,True
+1051,813,False
+748,813,True
+516,813,False
+321,813,Answer: False
+785,814,False
+166,814,True
+156,814,False
+101,814,False
+952,815,True
+811,815,False
+761,815,True
+376,815,False
+769,816,Answer: True
+731,816,False
+713,816,False
+589,816,False
+800,817,False
+752,817,Answer: True
+325,817,False
+86,817,False
+1025,818,False
+828,818,False
+596,818,True
+371,818,True
+707,819,True
+678,819,"record 1: AmazonBasics Computer Desk for Small Spaces (White) - B00IYBJ4QMA AmazonBasics Computer Desk for Small Spaces (White) - B00IYBJ4QMA/ White Finish, record 2: AmazonBasics Glass Top Computer Desk with Drawer Storage (Black) - B017U36JWU AmazonBasics Glass Top Computer Desk with Drawer Storage (Black) - B017U36JWU/ Black Finish"
+673,819,True
+672,819,True
+962,820,record 1: Intel Core i3-8100 CPU @ 3
+950,820,True
+773,820,False
+736,820,True
+634,821,False
+619,821,False
+616,821,False
+559,821,False
+974,822,False
+870,822,"record 1: Nike Air Max 97 - Wolf Grey/Black Nike Air Max 97 - Wolf Grey/Black/ Textile/Synthetic Leather/Imported - PK2835 Nike Air Max 97 - Wolf Grey/Black/ Textile/Synthetic Leather/Imported - PK2835/ Shown: Men's/ Nike Grind Rubber Outsole/ Mesh Upper Materials/ Elastic Collar Closure/ Suede Overlays, record 2: Nike Air Max 97 Wolf Grey / Black"
+853,822,record 1: Canon EF 50mm f/1
+852,822,The records refer to the same entity (product)
+750,823,True
+652,823,"record 1: Google Nest Thermostat E, Honeywell Home T9 - Wi-Fi Thermostat - Programmable - White, record 2: Nest Learning Thermostat - NESTTHM3180-A1-CT Nest Learning Thermostat - NESTTHM3180-A1-CT/ Learning Thermostat/ Early On Modeling/ Temperature Sensors/ Auto-Schedule/ Energy History/ Farsight/ Black Finish, Answer with True"
+651,823,True
+650,823,True
+739,824,Answer: False
+738,824,False
+680,824,True
+675,824,"record 1: Canon PowerShot SX540 HS Digital Camera - Black Canon PowerShot SX540 HS Digital Camera - Black/ Up to 50x Optical Zoom/ Built-in Wi-Fi and NFC/ Super Slow Motion Recording at up to 1000x in NTSC/ Dynamic IS with modes specific to movie shooting/ Zoom Framing Assist/ Intelligent IS/ Capture High Definition Video (1080p Full HD) with Stereo Sound/ Smart AUTO selects the proper settings based on predefined shooting situations/ Scene INTELLIGENT AUTO analyzes the image, selecting the appropriate scene mode to ensure the best possible image/ Creative Shot mode takes your photos and remixes them according to selected patterns/ Story Highlights lets you relive favorite memories as a dynamic highlight reel/ High-speed Burst: Up to 29"
+707,825,True
+678,825,Answer: True
+673,825,True
+672,825,True
+802,826,False
+705,826,True
+634,826,False
+501,826,False
+750,827,"record 1: Dell E1505WU CRT Monitor - M1505WU Dell E1505WU CRT Monitor - M1505WU/ 15"" Display Size/ 1600 x 1200 Maximum Resolution/ 8 Bit Color Depth/ Sync On Green (SOG)/ Analog Signal Input/ TN Panel Type"
+652,827,Answer: True
+651,827,record 1: HP Officejet J8700 All-in-One Printer with Scanner and Copier - J870-B2137 HP Officejet J8700 All-in-One Printer with Scanner and Copier - J870-B2137/ Instant Ink Ready/ AirPrint Compatible/ WiFi Enabled/ Ethernet Connectivity/ 4
+650,827,"record 1: Samsung Electronics America, Inc"
+753,828,Answer: True
+558,828,True
+503,828,True
+499,828,"Both records describe the same Panasonic TH46PZ80U/TH46PZ850U 46' Plasma TV, therefore the answer is True"
+476,829,True
+475,829,False
+444,829,False
+443,829,False
+327,830,False
+220,830,False
+183,830,False
+17,830,True
+685,831,True
+475,831,False
+444,831,False
+443,831,False
+1058,832,True
+487,832,record 1: Samsung HW-M360 Wireless Bluetooth Headphones - Black Samsung HW-M360 Wireless Bluetooth Headphones - Black/ Bluetooth Version/ Rechargeable Battery/ Noise Cancelling/ Microphone/ Ear Cup Pad: 1
+75,832,False
+16,832,True
+394,833,Answer: True
+313,833,"record 1: Sony Vaio Pro Ultrabook 13"" - SVP13112C/B - Intel Core i5 - 4GB Memory - 128GB Solid State Drive - Windows 8 - Silver Sony Vaio Pro Ultrabook 13"" - SVP13112C/B - Intel Core i5 - 4GB Memory - 128GB Solid State Drive - Windows 8 - Silver/ Intel Core i5 Processor/ 4GB System Memory/ 128GB Solid State Drive/ Operating System: Windows 8/ High Definition Graphics/ Silver Finish"
+44,833,False
+26,833,False
+1032,834,True
+773,834,False
+713,834,False
+635,834,False
+1049,835,False
+1003,835,False
+877,835,True
+830,835,False
+1049,836,False
+1003,836,False
+877,836,Answer: False
+830,836,True
+1037,837,True
+760,837,False
+639,837,False
+112,837,False
+1001,838,False
+881,838,True
+830,838,False
+357,838,False
+859,839,True
+540,839,False
+321,839,Answer: False
+319,839,"record 1: LG Electronics 4K UHD LED Smart TV - 75UH85LA, record 2: LG Electronics UH6570 4K Ultra HD HDR Smart LED TV - 65UH6570"
+833,840,True
+646,840,False
+645,840,False
+623,840,False
+948,841,False
+947,841,True
+946,841,False
+85,841,False
+926,842,"False, the first record is for a Sony VAIO CS Series Red Notebook Computer with specifications listed, and the second record is for a Sony Z550N/B Notebook with different specifications and operating system options"
+866,842,False
+858,842,Answer: False
+857,842,Answer: True
+928,843,False
+866,843,Answer: False
+858,843,Answer: True
+857,843,"record 1: Microsoft Office Home and Student 2016 (OneLicense: 3 PCs) - MSO15P (3PAK-SL) Microsoft Office Home and Student 2016 (OneLicense: 3 PCs) - MSO15P (3PAK-SL)/ Latest Version/ Covers Three Computers/ Compatible With Windows XP SP3, Vista SP2 And Windows 7 And Coming Windows 8/ Microsoft Word, Microsoft Excel, Microsoft PowerPoint, and Microsoft OneNote"
+969,844,False
+866,844,True
+858,844,Answer: False
+857,844,False
+356,845,False
+355,845,True
+183,845,False
+17,845,False
+356,846,True
+355,846,True
+183,846,False
+17,846,False
+1047,847,record 1: Toshiba Satellite A665-S131 15
+704,847,False
+423,847,"record 1: AirPods with Wireless Charging Case - MZ2JB/AAVB2 - Apple AirPods (2nd Generation) - White AirPods (2nd Generation) - White/ H1981 Apple AirPods (2nd Generation) - White Apple AirPods (2nd Generation) - Wireless Charging Case - White/ BKW2 - Apple AirPods (2nd Generation) - Black AirPods (2nd Generation) - Black/ GY63 - Apple AirPods (2nd Generation) - White and Black AirPods (2nd Generation), record 2: AirPods Pro - MZM401LL/A AirPods Pro - White and Silver AirPods Pro - Transparent Spherical Silicone Ear Tips (Small, Medium, Large) - White and Silver AirPods Pro - Charging Case with Lightning Connector - White and Silver Apple AirPods Pro (2nd Generation), Answer with True"
+294,847,True
+589,848,False
+560,848,True
+257,848,False
+230,848,Answer: False
+731,849,record 1: NVIDIA GeForce GT 740 OEM Graphics Card - GTX740-4GD-L NVIDIA GeForce GT 740 OEM Graphics Card - GTX740-4GD-L/ DirectX 12 API Support/ PCI Express 3
+630,849,Answer: False
+257,849,False
+230,849,"record 1: Nike Air Max Zero ""Black"" - BV1849-001 Nike Air Max Zero ""Black"" - BV1849-001/ Black/ White, record 2: NikeCourt Royale RF '17 - 878351-680 NikeCourt Royale RF '17 - 878351-680/ Wolf Grey/ Black/ Metallic Silver/ White, Answer with True"
+704,850,False
+699,850,True
+646,850,False
+286,850,False
+530,851,Answer: False
+529,851,Answer: True
+527,851,Answer: False
+86,851,Answer: False
+1046,852,False
+510,852,False
+492,852,False
+86,852,False
+255,853,True
+188,853,False
+140,853,False
+129,853,True
+628,854,record 1: Apple iPad Pro (12
+550,854,True
+255,854,False
+188,854,True
+774,855,False
+602,855,False
+74,855,False
+73,855,False
+255,856,False
+139,856,False
+129,856,False
+73,856,False
+628,857,True
+550,857,True
+188,857,True
+139,857,False
+628,858,Answer: True
+550,858,Answer: False
+255,858,False
+188,858,record 1: Google Pixel 3 XL - G013B - Just Black - 128 GB Google Pixel 3 XL - G013B - Just Black - 128 GB/ 6
+1055,859,True
+936,859,False
+838,859,"The records refer to the same entity, as they both describe the Canon EOS Rebel XS camera"
+490,859,True
+633,860,False
+604,860,False
+603,860,False
+548,860,True
+548,861,False
+460,861,False
+249,861,False
+213,861,False
+633,862,False
+604,862,False
+603,862,False
+249,862,True
+855,863,True
+558,863,True
+504,863,Answer: True
+500,863,True
+531,864,Answer: True
+527,864,True
+257,864,False
+230,864,False
+685,865,False
+478,865,Answer: True
+444,865,False
+443,865,False
+974,866,True
+496,866,True
+257,866,False
+230,866,False
+878,867,False
+678,867,True
+675,867,False
+637,867,True
+775,868,True
+32,868,False
+25,868,False
+14,868,record 1: LG Electronics 32LB480H-S1 LED TV - 32LB480H-S1 LG Electronics 32LB480H-S1 LED TV - 32LB480H-S1/ Smart TV (Netcast) With WiFi Built In/ Screen Size: 31
+751,869,True
+750,869,True
+651,869,True
+650,869,True
+878,870,"Both records describe Sony BRAVIA XBR Series TVs with a resolution of 1920 x 1080, the KDL52XBR6 in record 1 has a size of 52' and the KDL37XBR6 in record 2 has a size of 37'"
+876,870,False
+734,870,True
+637,870,"Both records refer to the same Sony BRAVIA XBR Series television, model KDL32XBR6 or KDL37XBR6, depending on the size specified in each record"
+790,871,False
+692,871,False
+644,871,False
+589,871,False
+609,872,False
+589,872,False
+257,872,False
+230,872,False
+790,873,False
+692,873,True
+644,873,record 1: Nike Air Max 90 Ultra 2
+609,873,False
+739,874,False
+738,874,True
+735,874,True
+675,874,record 1: Intel Core i7-3770K Processor (4 Cores) - BX80637I700KL Intel Core i7-3770K Processor (4 Cores) - BX80637I700KL/ 3
+739,875,"False, while both TVs are Sony BRAVIA models, they have different series (V and Z) and model numbers (KDL42V4100 and KDL46Z4100)"
+738,875,True
+735,875,True
+675,875,True
+707,876,Answer: True
+678,876,True
+673,876,True
+672,876,record 1: Intel Xeon W-2100 Processor 2
+739,877,Answer: False
+738,877,"record 1: Nike Air Max 95 Ultra SE Men's Shoes - 91774 103 Nike Air Max 95 Ultra SE Men's Shoes - 91774 103/ Ultralight Cushioning/ Synthetic Leather Upper/ Visible Max Air Units In Heel/ Ortholite Cushioned Insoles, record 2: Nike Air Max 95 Ultra SE Men's Shoes - 91774-003 Nike Air Max 95 Ultra SE Men's Shoes - 91774-003/ White/ Black-Total Orange, Answer with True"
+680,877,True
+675,877,True
+739,878,True
+682,878,Answer: True
+681,878,True
+675,878,True
+742,879,Answer: False
+719,879,True
+705,879,False
+566,879,False
+721,880,Answer: True
+619,880,False
+571,880,False
+565,880,False
+559,880,False
+749,881,Answer: True
+705,881,"False, although both records describe an LG TV, they are not referring to the same exact product"
+616,881,False
+501,881,False
+1072,882,True
+751,882,False
+337,882,False
+175,882,False
+1072,883,Answer: False
+751,883,Answer: True
+750,883,Answer: True
+651,883,"record 1: Nike Air Max BW 'Moon Orange' Shoes - CW0978-141 Nike Air Max BW 'Moon Orange' Shoes - CW0978-141/ Black, University Red, Moon Orange/ Synthetic Leather & Mesh Upper/ Full-Length Max Air Cushioned Sole Unit/ Padded Collar, Heel & Tongue/ White Midsole, Record 2: Nike Air Max BW 'Moon Orange' Shoes - CW0978-141 Nike Air Max BW 'Moon Orange' Shoes - CW0978-141/ Black, University Red, Moon Orange/ Synthetic Leather & Mesh Upper/ Full-Length Max Air Cushioned Sole Unit/ Padded Collar, Heel & Tongue/ White Midsole"
+981,884,False
+742,884,Answer: True
+665,884,False
+569,884,False
+878,885,Answer: False
+739,885,"record 1: Microsoft Lumia 1320 Dual Sim (4G) - RM-1057 Microsoft Lumia 1320 Dual Sim (4G) - RM-1057/ Corpus Violeta, record 2: Nokia Lumia 1320 White, Black, Cyan, Green, Orange - RM-968 Nokia Lumia 1320 White, Black, Cyan, Green, Orange - RM-968/ ClearBlack Display Technology (LCD)/ 22 MP PureView Camera/ Skype and 4G LTE capability"
+682,885,True
+681,885,Answer: True
+751,886,"record 1: Xiaomi Mi Band 2 Smart Bracelet - MI01XMSH, record 2: Xiaomi Mi Band 2 Fitness Tracker Smart Bracelet 01968HCY6 - Mi Band 2"
+750,886,True
+652,886,True
+651,886,True
+790,887,True
+692,887,The records refer to the same entity as they both describe Sony A/V receivers with similar features and compatibility
+644,887,"record 1: Nest Learning Thermostat - 2nd Gen, Black Nest Learning Thermostat - 2nd Gen, Black/ Learning Programs Itself to Save You Money on Heating and Cooling/ Connects to Your Home Wi-Fi to Enable Remotely Controlling Temperature from a Smartphone or Computer/ Compatible with Most HVAC Systems/ Auto Changeover/ Humidifier Mode/ Battery Backup If Power Goes Out/ Farsight and Plastic Ring/ Black Finish, record 2: Nest Learning Thermostat - 3rd Gen"
+609,887,False
+810,888,True
+809,888,record 1: ASUS RT-N600 Wireless Router (Black) - N600_B1 ASUS RT-N600 Wireless Router (Black) - N600_B1/ Dual Band Wireless AC Technology/ Up to 867Mbps on the 2
+692,888,False
+644,888,False
+810,889,False
+809,889,True
+692,889,False
+644,889,False
+902,890,False
+901,890,False
+823,890,"record 1: Sony Vaio Pro 13 Ultrabook PC - SVP13112CXB Sony Vaio Pro 13 Ultrabook PC - SVP13112CXB/ Intel Core i5 Processor/ 4GB Memory/ 128GB Solid State Drive/ Windows 8/ WiFi/ Bluetooth/ Backlit Keyboard/ Silver Color, record 2: Sony Vaio Pro 13 Ultrabook PC - SVP13112FXB Sony Vaio Pro 13 Ultrabook PC - SVP13112FXB/ Intel Core i5 Processor/ 4GB Memory/ 128GB Solid State Drive/ Windows 8/ WiFi/ Bluetooth/ Backlit Keyboard/ Silver Color"
+342,890,False
+890,891,Answer: True
+599,891,False
+434,891,False
+393,891,False
+1030,892,False
+984,892,False
+983,892,The records refer to different photo frames: False
+445,892,True
+1030,893,False
+984,893,Answer: False
+447,893,True
+445,893,Answer: False
+1030,894,False
+670,894,True
+196,894,False
+53,894,False
+992,895,False
+879,895,True
+486,895,False
+485,895,False
+989,896,False
+982,896,False
+880,896,Answer: True
+879,896,Answer: False
+800,897,False
+427,897,False
+257,897,False
+230,897,False
+974,898,False
+950,898,True
+736,898,True
+217,898,False
+1032,899,False
+773,899,Answer: True
+731,899,Answer: False
+589,899,False
+1039,900,Answer: True
+981,900,"record 1: Lululemon Speed Up Short 2"" Inseam - Black - Women's, record 2: Lululemon Speed Up Tight 25"" - Black - Women's, Answer with True"
+844,900,Answer: True
+665,900,record 1: HP Officejet Pro 8210 e-All-in-One Printer - J361B HP Officejet Pro 8210 e-All-in-One Printer - J361B/ Wireless Printing/ Scan to Email and USB Drive/ Ethernet Connectivity/ 48-Bit Color Printing/ AirPrint Compatible/ Automatic Document Feeder (ADF) for Scanning Multiple Pages at Once/ Black Finish
+1039,901,"The records refer to the same entity, as both describe Samsung LCD HDTVs with similar features and models (LN46A850 and LN52A850)"
+981,901,Answer: True
+846,901,Answer: True
+665,901," record 1: The Honest Company Organic All Purpose Cleaner (16 fl oz) - P01853 The Honest Company Organic All Purpose Cleaner (16 fl oz) - P01853/ Plant Derived Surfactants/ Non-Toxic Formula/ Citrus & White Tea Fragrance/ No Sulfates, Synthetic Dyes, Or Phthalates/ Biodegradable, Chlorine Free/ Made In USA"
+304,902,True
+296,902,record 1: HP ENVY 6055 e-All-in-One Desktop Computer - 2377 HP ENVY 6055 e-All-in-One Desktop Computer - 2377/ Intel Core i3-3220 Processor/ 8GB DDR3 SDRAM Memory/ 1TB Hard Drive/ Intel HD Graphics/ Windows 7 Professional (64-bit)/ Multi-Format Digital Media Card Reader/ SuperSpeed USB 3
+185,902,True
+107,902,False
+774,903,False
+730,903,False
+129,903,False
+45,903,True
+356,904,False
+140,904,False
+139,904,False
+129,904,False
+827,905,True
+802,905,Answer: False
+708,905,Answer: False
+649,905,False
+648,905,Answer: False
+1028,906,True
+1001,906,False
+877,906,False
+429,906,False
+904,907,True
+759,907,True
+515,907,False
+509,907,False
+904,908,False
+891,908,Answer: True
+539,908,True
+515,908,True
+800,909,False
+511,909,"record 1: Samsung Gear S2 Smartwatch, Silver, Bluetooth, 41mm, (US Version) - SM-R710 DSAMSung Gear S2 Smartwatch, Silver, Bluetooth, 41mm, (US Version)- SM-R710 DSA/ Circular Super AMOLED Display/ IP68 Certified Dust and Water Resistance/ Auto All Clear Notification/ Galaxy Gear Manager App for Android and iOS/ Compatible with Android 4"
+427,909,False
+230,909,False
+800,910,True
+620,910,False
+427,910,False
+230,910,False
+481,911,True
+475,911,False
+444,911,False
+443,911,Answer: False
+954,912,True
+952,912,Answer: False
+698,912,False
+376,912,"record 1: Jabra Biz 1350 Bluetooth Headset - BL1350 Jabra Biz 1350 Bluetooth Headset - BL1350/ Dual Microphones For Better Call Quality And Wind Protection/ Intelligent EQ For Enhanced Speech Clarity/ Voice Tags For Easy Identification Of Calls/ Compatible With All Major Mobile Phone Operating Systems/ Black Finish, record 2: Jabra Biz 1350 Bluetooth Headset"
+1073,913,False
+1044,913,Answer: False
+1007,913,True
+409,913,False
+933,914,Answer: True
+746,914,Answer: True
+597,914,"record 1: Nike Women's Flex Golf Shoes - K4 NSW Women's Flex Golf Shoe - K4 NSW Women's Flex Golf Shoe/ White/ Black/ Nike Grip 133 Tour Performance Spikeless Outsole, record 2: Nike Women's Air Zoom TW Classic '05-'06 Golf Shoes - KP3 NSW Women's Air Zoom TW Classic '05-'06 Golf Shoe/ White/ Black/ Nike Grip 133 Tour Performance Spikeless Outsole"
+468,914,False
+946,915,False
+679,915,Answer: True
+677,915,True
+676,915,False
+873,916,Answer: True
+861,916,False
+483,916,False
+76,916,"record 1: Nike Men's Air Zoom Pegasus 36 Running Shoe - Volt Crimson Pink Fusion Red Tile Yellow Kinetic Orange, record 2: Nike Women's Air Zoom Pegasus 36 Running Shoe - Black White Wolf Grey Bright Citron"
+900,917,Answer: True
+880,917,False
+879,917,False
+786,917,False
+989,918,Answer: True
+880,918,False
+879,918,False
+786,918,False
+959,919,True
+923,919,False
+110,919,False
+90,919,Answer: False
+880,920,False
+520,920,False
+519,920,False
+518,920,False
+865,921,True
+862,921,False
+520,921,False
+519,921,False
+863,922,False
+862,922,Answer: True
+745,922,False
+519,922,False
+865,923,record 1: Sony DSC-WX50 Cyber-shot Digital Camera (Black) - DSC-WX50B/ 20
+863,923,Answer: True
+745,923,False
+519,923,False
+958,924,False
+662,924,Answer: False
+109,924,Answer: False
+95,924,Answer: False
+986,925,"False, as while both records describe Toshiba HDTVs, they have different sizes: 22AV500U (22 inches) and 32AV502U (31"
+978,925,"record 1: Samsung QN49-H Series 49"" 1080P LED Smart TV - UN49H6100U Samsung QN49-H Series 49"" 1080P LED Smart TV - UN49H6100U/ Smart Interaction / Apps Plus / Easy Settings Manager / ConnectShare™ (USB) Memory Stick Player / Anynet+ (HDMI-CEC) / Digital Clean View Contrast Enhancer / Wide Color Enhancer / Game Mode / Eco Sensor / Dual Pixel 3D Technology / Black Finish"
+924,925,Answer: True
+522,925,False
+986,926,False
+978,926,True
+522,926,False
+510,926,False
+853,927,Answer: True
+684,927,Answer: False
+577,927,"record 1: HP Color LaserJet CP2025 All-in-One Printer - CP2025A HP Color LaserJet CP2025A All-in-One Printer - CP2025A/ Automatic Two-Sided Printing/ AirPrint And Mopria Compatible/ Color Scanner, Copy And Fax Capabilities With A 35 Page Auto Document Feeder (ADF)/ Print Resolution Up To 1200 X 600 Optimized DPI (Optimized Dpi Means The Printer Uses More Ink When Necessary For Higher Quality Printouts"
+315,927,"To determine if these records refer to the same entity, we need to compare their features and specifications"
+1069,928,True
+903,928,"record 1: Dell XPS 13 9360 Ultrabook, Silver, Intel Core i5-8250U, 8GB RAM, 256GB SSD, Windows 10 Pro, Thunderbolt, Fingerprint Reader"
+893,928,"record 1: HP Officejet J6800 All-in-One Printer - HP Officejet J6800 Series Ethernet Black HP Officejet J6800 All-in-One Printer - HP Officejet J6800 Series Ethernet Black/ Scan Up To Legal-Size Documents, Print Up To 12 Pages Per Minute (PPM) Black And White Or Color, Print Up To Legal-Size Documents, Print Up To 6 Pages Per Minute (PPM) Black And White/ Print Up To Letter Size Documents, Print Up To 8 Pages Per Minute (PPM) Black And White Or Color, Print Up To Letter Size Documents, Print Up To 4 Pages Per Minute (PPM) Black And White/ Ethernet Connection, USB 2"
+892,928,Answer: True
+1069,929,record 1: Samsung GALAXY Tab Active (SM-T527) Tablet Computer - SM-T527NZAAW - WiFi - 16GB - White Galaxy Tab Active (SM-T527) Tablet Computer - SM-T527NZAAW - WiFi - 16GB - White/ Android 4
+903,929,"record 1: Toshiba Satellite A665-S5124 notebook computer, Intel Core i3-2330M CPU, 4GB RAM, 500GB HDD, Windows 7 Home Premium, Silver"
+896,929,True
+894,929,True
+1069,930,"record 1: Samsung QN49HF45 49"" Class HDR Quantum Dot LED Smart TV - UN49HF45 Samsung QN49HF45 49"" Class HDR Quantum Dot LED Smart TV - UN49HF45/ Crystal Processor 4K/ 4K Ultra HD (3840x2160)/ HDR/ Tizen Operating System/ Wide Color Enhancer (Quantum Dot)/ Direct Full Array Backlight/ UHD Dimming/ PurColor/ Smart TV with Access to Apps/ Black Finish"
+903,930,"record 1: Tesla Model S 85 Dual Motor AWD P90D Signature Series 2016 Tesla Model S 85 Dual Motor AWD P90D Signature Series 2016/ All-Wheel Drive/ Performance Upgrade Pack/ Ludicrous Speed Upgrade/ 21"" Twin 5-Double-Spoke Ultralight Wheels with Premium All-Season Tyres/ Black Paint/ Black Full Leather Seats, Interior & Carpet/ Glass Roof With Ultra White Interior/ Signature Design Series 3/ Heated Front & Rear Seats, record 2: Tesla Model S - P90D Signature Series 2016 Tesla Model S - P90D Signature Series 2016/ Dual Motor All-Wheel Drive/ Ludicrous Speed Upgrade/ Performance Upgrade Pack/ Heated Front & Rear Seats, record 3: Tesla Model S 85 Dual Motor AWD P90D Signature Series 2016 Tesla Model S 85 Dual Motor AWD P90D Signature Series 2016/ Ludicrous Speed Upgrade/ Performance Upgrade Pack/ All-Wheel Drive, record 4: Tesla Model S - P90D Signature Series 2016 Tesla Model S - P90D Signature Series 2016/ 85 kWh Battery Capacity/ Ludicrous Speed Upgrade/ Heated Front & Rear Seats, record 5: Tesla Model S - P90D Signature Series 2016 Tesla Model S - P90D Signature Series 2016/ Black Full Leather Seats, Interior & Carpet, record 6: Tesla Model S - P90D Signature Series 2016 Tesla Model S - P90D Signature Series 2016/ Glass Roof With Ultra White Interior, record 7: Tesla Model S - P90D Signature Series 2016 Tesla Model S - P90D Signature Series 2016/ Dual Motor All-Wheel Drive, record 8: Tesla Model S - P90D Signature Series 2016 Tesla Model S - P90D Signature Series 2016, Answer with True"
+893,930,"record 1: Samsung Spinpoint F1 EH10127PER Internal Hard Drive, 1 TB, SATA-300 (1000 GJ5) - MH101271E7NB8, record 2: Samsung Spinpoint F1 HD103SI Internal Hard Drive, 1 TB, SATA II (3"
+892,930,Answer: True
+896,931,Answer: True
+768,931,"record 1: Samsung Galaxy S8 SM-G950U Dual Sim (Unlocked) - 32GB, Black (US Warranty) Samsung Galaxy S8 SM-G950U Dual Sim (Unlocked) - 32GB, Black (US Warranty)/ IP68 Water & Dust Resistance/ Android OS, upgradable to Android 11, One UI 3"
+767,931,False
+737,931,False
+903,932,Answer: False
+767,932,Answer: False
+737,932,True
+416,932,False
+796,933,False
+143,933,False
+142,933,True
+141,933,Answer: True
+790,934,False
+713,934,False
+257,934,False
+230,934,False
+993,935,False
+826,935,True
+623,935,Answer: False
+368,935,False
+833,936,False
+832,936,True
+646,936,"record 1: Tesla Model S P90D Ludicrous Speed - VIN: 5YJK3FBXGHB69832, record 2: Tesla Model S P90D Signature Performance - VIN: ESLXX13D7HB44533"
+645,936,True
+358,937,False
+237,937,False
+214,937,False
+70,937,True
+987,938,Answer: True
+940,938,True
+939,938,The records refer to the same entity
+567,938,"record 1: Adobe Acrobat Pro DC - Adobe Acrobat Pro DC/ Create, view and edit PDF files with ease"
+987,939,"record 1: Nike Men's Air Zoom Pegasus 35 Running Shoe - 92746-100 Nike Men's Air Zoom Pegasus 35 Running Shoe - 92746-100/ Mesh & Synthetic Upper/ Zoom Air Cushioning System in the Heel and Forefoot for Ultra-Responsive Step-in Step-out Performance/ Nike React Technology Delivers a Responsive, Bouncy Ride throughout the Distance/ Flat-Sole Design Provides Versatile Traction across Varied Surfaces/ Rubber Waffle Outsole offers Durable Grip in High-Wear Areas"
+940,939,record 1: NVIDIA GeForce GTX 760 Ti - ZC-76Ti-4GD5-TL NVIDIA GeForce GTX 760 Ti - ZC-76Ti-4GD5-TL/ 384-bit GDDR5 Memory/ Boost Clock of 916 MHz/ PCI Express 3
+939,939,Answer: True
+924,939,False
+987,940,record 1: Apple iPhone XR (64GB) - White Apple iPhone XR (64GB) - White/ A12 Bionic Chip/ Neural Engine/ Liquid Retina Display with IPS Technology and Wide Color Gamut (6
+940,940,True
+939,940,record 1: XBox Kinect Sensor Bar - 1793 Xbox Kinect Sensor Bar - 1793/ Requires System Firmware Update (Available via Xbox LIVE) for Use with Xbox One Consoles/ Compatible with select Xbox 360 games and accessories/ Black Finish
+569,940,record 1: Intel Core i7-4790K Haswell Quad-Core Processor (BX80646I74790K) Intel Core i7-4790K Haswell Quad-Core Processor (BX80646I74790K)/ Turbo Boost Technology 2
+428,941,"record 1: Electrolux Ultramatic UM6070A Dryer - EL3520UA Electrolux Ultramatic UM6070A Dryer - EL3520UA/ SensorDry Technology/ 14-Program Cycle Selection/ Wrinkle Care/ Automatic Shut Off/ Large Capacity Drum/ Moisture Sensors, record 2: Electrolux Ultramatic UM6070A Front Loading Dryer EL3520UA"
+309,941,False
+247,941,False
+223,941,False
+966,942,True
+772,942,False
+771,942,False
+38,942,False
+952,943,True
+784,943,False
+761,943,False
+698,943,False
+920,944,Answer: True
+713,944,False
+472,944,False
+361,944,False
+982,945,False
+898,945,Answer: True
+576,945,False
+575,945,False
+982,946,False
+942,946,False
+899,946,Answer: True
+576,946,False
+1041,947,True
+761,947,False
+389,947,False
+59,947,False
+955,948,True
+433,948,False
+96,948,False
+93,948,False
+956,949,True
+110,949,False
+94,949,False
+93,949,False
+957,950,True
+110,950,False
+95,950,False
+93,950,False
+902,951,Question: record 1: Nikon D90 Black Digital SLR Camera - D90BODY Nikon D90 Black Digital SLR Camera - D90BODY/ 12
+901,951,Answer: True
+573,951,False
+483,951,"False, the first record refers to a Nikon D60 camera with an 18-55mm lens, while the second record refers to a Nikon D90 camera with a different lens (AF-S DX Nikkor 18-105mm f/3"
+935,952,False
+902,952,Answer: True
+901,952,record 1: Nike Air Max 90 Ultra 2
+483,952,"record 1: Samsung Electronics America, Inc"
+110,953,Answer: False
+94,953,False
+93,953,False
+90,953,Answer: False
+1011,954,Answer: True
+971,954,False
+970,954,False
+969,954,False
+981,955,True
+665,955,True
+569,955,Answer: False
+566,955,True
+850,956,True
+665,956,False
+591,956,False
+590,956,record 1: Apple MacBook Pro MNJ3 FPD Retina Display 15-Inch Laptop (Late 2013) - MD762LL/A Apple MacBook Pro MNJ3 FPD Retina Display 15-Inch Laptop (Late 2013)/ 2
+906,957,True
+305,957,"record 1: Samsung UN40EH6150FXZA Curved LED Smart TV (40-Inch, Black) - UN40EH6150FXZA Samsung UN40EH6150FXZA Curved LED Smart TV (40-Inch, Black)/ 1080p Resolution/ Motion Rate 1200/ Wide Color Enhancer Plus/ UHD Upscaling/ Easy Slide Sharing With AllShare Play And More/ Dual Pixels Plus Technology/ Dimensions Without Stand (WxHxD): TV: 36"
+125,957,False
+88,957,False
+959,958,Answer: False
+923,958,"record 1: Adidas Originals Superstar 80s Primeknit Shoes, Black/ Core Black/ Core Black, record 2: ADIDAS ORIGINALS SUPERSTAR 80S PK Primeknit Shoes - BZ0759 Black / Core Black / Core Black"
+110,958,False
+93,958,Answer: False
+959,959,Answer: False
+923,959,Answer: True
+433,959,False
+110,959,False
+1011,960,Answer: False
+971,960,Answer: True
+970,960,"False, the first record refers to a Sony VAIO LV Series Silver All-In-One Desktop Computer with specifications and features, while the second record refers to a different Sony product, the VAIO RT All-in-One Desktop"
+969,960,False
+1011,961,Answer: False
+971,961,False
+970,961,Answer: True
+969,961,True
+1050,962,Answer: False
+930,962,"The records refer to the same entity, as they both describe Sony VAIO laptops with similar specifications and features such as Intel Core 2 Duo processor, 4GB RAM, Blu-ray drive, and Windows Vista Home Premium operating system"
+929,962,"False, they are two different Sony VAIO models"
+928,962,"record 1: HP Officejet J5780 All-in-One Printer - C3292A HP Officejet J5780 All-in-One Printer - C3292A/ 4-in-1 Productivity (Printer, Scanner, Copier, and Fax) w/ AirPrint and Mopria Certified Printing from iOS and Android Devices/ Wireless, Ethernet, and USB Connectivity for PCs, Macs, and Networks/ Up to 20 Pages Per Minute (ppm) Black and 17 ppm Color/ Up to 1800 x 1200 Optical Resolution/ Print Speed: Up to 20 ppm B/W; Up to 17 ppm Color/ Scan Size: Letters (8"
+925,962,Answer: True
+886,963,True
+457,963,True
+452,963,True
+449,963,Answer: False
+457,964,True
+452,964,True
+449,964,record 3: Amazon
+63,964,False
+452,965,False
+451,965,False
+450,965,True
+449,965,False
+704,966,"record 1: Cisco Catalyst 3560 Series Switch - 48 Port 10/100/1000 BaseT Switch - 2960L-48FXS-L, record 2: Cisco Catalyst 3560 Series Switch - 48 Port 10/100/1000 BaseT Switch - L28FPWR2T"
+699,966,True
+646,966,Answer: False
+645,966,Answer: False
+563,967,True
+257,967,False
+230,967,False
+86,967,Answer: False
+707,968,record 1: Tesla Model S Long Range All-Wheel Drive Luxury Sedan - Dual Motor - 373 Miles of Range - White Tesla Model S Long Range All-Wheel Drive Luxury Sedan - Dual Motor - 373 Miles of Range - White/ AutoPilot Hardware/ Full Self-Driving Capability (Optional Upgrade)
+678,968,record 1: Google Nest Learning Thermostat (3rd Gen) - YR3025-GC - 0ZC-1988-B1 - White Google Nest Learning Thermostat (3rd Gen) - YR3025-GC - 0ZC-1988-B1 - White/ Compatible with Alexa and Google Assistant/ Wi-Fi Connectivity/ Learning Thermostat Adapts as You Change the Temperature/ Simple Installation in 30 Minutes or Less/ Energy Star Certified
+673,968,"record 1: Adobe Photoshop Elements 8 for Mac - EME8MKA Adobe Photoshop Elements 8 for Mac - EME8MKA/ Organizer for Easy Management of Digital Media/ Quick Editor Applies Common Adjustments with a Single Click/ Photo Browser for Easy Navigation of Digital Media Collections/ Edit Mode Provides Classic Tools for Enhancing, Resizing, and Crop Images/ Four-Step Adjustment Menu Makes Basic Adjustments Simple and Fast/ One-Click Options to Automatically Fix Common Issues/ 16-Bit Image Support/ Black Finish"
+672,968,True
+774,969,True
+730,969,"record 1: HP Officejet J6780 All-in-One Printer with Fax, Copy and Scan (Black) - J6780 HP Officejet J6780 All-in-One Printer with Fax, Copy and Scan (Black)/ Print Speed up to 25 ppm in black and up to 20 ipm in color/ Automatic Document Feeder for Copies, Scans, and Faxes/ 2"
+327,969,True
+39,969,True
+774,970,record 1: Xiaomi Redmi Y2 Y2A - Redmi Y2 Y2A/ Dual Front Camera (16MP Primary + 8MP Secondary)/ Qualcomm Snapdragon 625 Mobile Platform/ Full Screen Display (5
+730,970,"record 1: LG CXP55061B 55"" Class (Virtual) 4K Ultra HD LED NanoCell TV - 55CXP55061B LG CXP55061B 55"" Class (Virtual) 4K Ultra HD LED NanoCell TV - 55CXP55061B/ AI ThinQ Technology/ Cinematic Color Display/ Active HDR with Dolby Vision, HDR10 and HLG Support/ Filmmaker Mode/ Virtual Cable Design/ Sports Al mode/ Black Finish"
+327,970,True
+39,970,True
+1057,971,Answer: True
+881,971,Answer: False
+357,971,False
+96,971,Answer: False
+930,972,False
+929,972,False
+928,972,"False, the first record refers to a specific model (VGNCS180JQ) while the second record refers to a different model (VGNCS110E/R)"
+927,972,False
+926,972,True
+1039,973,False
+874,973,True
+591,973,False
+590,973,False
+870,974,False
+853,974,"False, although both receivers are made by Onkyo and have some similar features like support for Dolby Digital Plus, Dolby TrueHD, and DTS-HD, they are different models (TXSR806B and TXSR706B) with different specifications and price points"
+852,974,record 1: Google Nexus 6 (32 GB) - LGH790 Google Nexus 6 (32 GB) - LGH790/ Qualcomm Snapdragon 805 Processor/ Quad-Core/ 32GB Memory Card Expandable (Up to 128 GB)/ 13 Mega Pixel Primary Camera with Dual LED Flash/ Full HD IPS Display/ Front Facing 2 MP Secondary Camera/ Android v4
+736,974,False
+1050,975,"False, the first record refers to a specific model called Sony VAIO FW Series Black Notebook Computer with the model number VGNFW378JB, while the second record is for a different model called Sony VAIO NS190JS Notebook with a different model number (VGNNS190J/S)"
+931,975,True
+927,975,"False, the first record describes a pink Sony VAIO CS Series notebook, while the second record describes a silver Sony VAIO NS Series notebook"
+926,975,"False, the first record refers to a specific model within the Sony VAIO CS Series, while the second record refers to a different series and model within the Sony VAIO lineup"
+992,976,False
+576,976,False
+486,976,False
+485,976,False
+982,977,Answer: True
+944,977,False
+576,977,False
+575,977,False
+992,978,False
+943,978,Answer: True
+942,978,False
+486,978,False
+992,979,False
+576,979,False
+486,979,False
+485,979,False
+919,980,True
+772,980,False
+771,980,False
+326,980,True
+1065,981,Answer: False
+1060,981,True
+468,981,False
+465,981,False
+1053,982,True
+1001,982,False
+973,982,False
+598,982,False
+1003,983,True
+877,983,False
+830,983,False
+741,983,False
+1039,984,True
+648,984,True
+571,984,"record 1: LG Electronics LP663H 24x72 Color Inkjet Printer - CL620 LG Electronics LP663H 24x72 Color Inkjet Printer - CL620/ Print up to 24 Pages per Minute (A4)/ Resolution up to 4800 x 1200 Optimized DPI (Optimizer Max)/ A4-sized Color Printing/ Print, Copy and Scan Functions/ Built-in Ethernet and USB Connectors/ 150 Sheet Capacity Tray/ Up to 6 Months Guaranteed Print Yield (Black) / Up to 3 Months Guaranteed Print Yield (Color)/ Black Finish, record 2: LG Electronics CL620 24x72 Color Inkjet Printer"
+568,984,record 1: Microsoft Lifecam Studio Webcam with Microphone - 6000 Microsoft Lifecam Studio Webcam with Microphone - 6000/ High Definition (HD) Video Calling - Up to 720p at 30 fps (frames per second)/ HDMI and USB Connections/ TrueColor Technology for Realistic Skin Tones/ High Fidelity Stereo Sound Recording/ Automatic Gain Control Microphone/ Microsoft Compatible/ Black Finish
+982,985,False
+944,985,Answer: True
+486,985,False
+485,985,False
+918,986,"record 3: Samsung Galaxy S7 (32GB, Black) [Factory Unlocked] - SM-G930U Samsung Galaxy S7 (32GB, Black) [Factory Unlocked]/ Android OS, Up to 15 Hours of Talk Time, Micro USB, 5"
+917,986,"record 3: Nike Men's LunarTR1 '17 US Basketball Team Olympic Games Gold Medal Rio 2016 Size 11 US Nike Air Zoom Flight The Giant Slayer II Basketball Shoes - AA9847-007 Nike Men's LunarTR1 '17 US Basketball Team Olympic Games Gold Medal Rio 2016 Size 11 US Nike Air Zoom Flight The Giant Slayer II Basketball Shoes - AA9847-007/ Imported/ Synthetic Upper/ Textile Lining/ Rubber Outsole/ Full-Length Lunarlon Cushioning System, record 4: Nike Men's Air Zoom Flight The Giant Slayer II Basketball Shoes - AA1248-300 Nike Men's Air Zoom Flight The Giant Slayer II Basketball Shoes - AA1248-300/ Imported/ Synthetic Upper/ Textile Lining/ Rubber Outsole/ Full-Length Lunarlon Cushioning System, record 5: Nike Men's Air Zoom Flight The Giant Slayer II Basketball Shoes - AA1248-306 Nike Men's Air Zoom Flight The Giant Slayer II Basketball Shoes - AA1248-306/ Imported/ Synthetic Upper/ Textile Lining/ Rubber Outsole/ Full-Length Lunarlon Cushioning System, Answer with False"
+864,986,True
+647,986,"record 1: HP Officejet Pro 8210 All-in-One Printer - J6431A HP Officejet Pro 8210 All-in-One Printer - J6431A/ Wireless Networking, Scan to USB Drive or Memory Card, Ethernet Connectivity, Color Touch Screen, Print from a Smartphone or Tablet via Wi-Fi Direct, AirPrint Compatible, HP Everyday Task Adaptive 8200 Series Black Ink Cartridge (Sells in Pack of 3), HP Everyday Task Adaptive 8200 Series Color Ink Cartridges (Sells in Pack of 2), Instant On Technology, HP JetAdvance Printing Technology, High-Yield ink cartridges deliver up to twice the pages of standard ink cartridges, Compact All-in-One design saves desk space, Easily switch between wired and wireless connections, Duplex printing, scanning, copying, and faxing in a single compact device, Built-in 25 page auto document feeder (ADF) for copying and scanning multi-page documents, record 2: HP Officejet Pro 8210 All-In-One Printer - J6431A HP Officejet Pro 8210 All-In-One Printer - J6431A/ HP Officejet Pro 8215e Wireless e-All-in-One Printer - J6478A, record 3: HP Officejet Pro 8215e Wireless All-in-One Printer with Built-in Duplexer - J6478A HP Officejet Pro 8215e Wireless All-in-One Printer with Built-in Duplexer - J6478A/ HP Instant Ink Ready, record 4: HP Officejet Pro 8210 eAll-In-One Printer with WiFi and Ethernet Connectivity - J5939B HP Officejet Pro 8210 eAll-In-One Printer with WiFi and Ethernet Connectivity - J5939B/ For Mac, record 5: HP Officejet Pro 8216e Wireless All-in-One Printer with Built-in Duplexer and Scan to Cloud - J6479A HP Officejet Pro 8216e Wireless All-in-One Printer with Built-in Duplexer and Scan to Cloud - J6479A/ Print from a Smartphone or Tablet via Wi-Fi Direct, AirPrint Compatible, record 6: HP Officejet Pro 8215e Wireless e-All-In-One Printer - J6478A HP Officejet Pro 8215e Wireless e-All-In-One Printer - J6478A/ HP Everyday Task Adaptive 8200 Series Black Ink Cartridge (Sells in Pack of 3), record 7: HP Officejet Pro 8216e Wireless All-in-One Printer - J6479A HP Officejet Pro 8216e Wireless All-in-One Printer - J6479A/ HP Everyday Task Adaptive 8200 Series Color Ink Cartridges (Sells in Pack of 2), record 8: HP Officejet Pro 8215e Wireless e-All-In-One Printer - J6478A HP Officejet Pro 8215e Wireless e-All-In-One Printer - J6478A/ For Windows, record 9: HP Officejet Pro 8216e Wireless All-in-One Printer - J6479A HP Officejet Pro 8216e Wireless All-in-One Printer - J6479A/ HP Instant Ink Ready, record 10: HP Officejet Pro 8215e Wireless e-All-In-One Printer - J6478A HP Officejet Pro 8215e Wireless e-All-In-One Printer - J6478A/ For Mac, Windows, and Google Cloud Print Support"
+966,987,False
+772,987,False
+771,987,False
+510,987,False
+918,988,True
+917,988,True
+510,988,False
+427,988,False
+961,989,record 1: Dell P2217H 21
+916,989,True
+913,989,True
+910,989,True
+961,990,False
+913,990,record 1: Xiaomi Mi Band 2 - XMB11HM CN Xiaomi Mi Band 2 - XMB11HM CN/ OLED Display/ Step Counter/ Sleep Tracking/ Heart Rate Monitoring/ IP68 Waterproof/ Bluetooth Connectivity/ Up to 21 Days Battery Life/ Black Color
+912,990,True
+911,990,True
+961,991,False
+913,991,record 1: Nikon D5600 Digital SLR Camera Body - 2310B00N Nikon D5600 Digital SLR Camera Body - 2310B00N/ 24
+912,991,True
+911,991,"record 1: Adidas Performance Men's Supernova Sequence Boost 9 Running Shoes - FS20 Primeknit Upper, Energyboost Technology in the Midsole for More Responsive Cushioning, Heel Tab for Easy On and Off, Synthetic/Textile, Charcoal, Grey Four Ways, record 2: Adidas Performance Men's Supernova Sequence Boost 9 Running Shoes - FS20/ Primeknit Upper/ Energyboost Technology in the Midsole for More Responsive Cushioning/ Heel Tab for Easy On and Off/ Synthetic/Textile, Charcoal, Grey Four Ways"
+961,992,"If the records describe different products, then the answer is False"
+913,992,True
+912,992,True
+911,992,True
+961,993,"record 1: HP LaserJet Pro M175n Printer - J309a HP LaserJet Pro M175n Printer - J309a/ Wireless Capability/ Print, Copy, and Scan/ Color Touchscreen Display/ Automatic Duplex Printing/ Ethernet Connectivity/ 25 Pages Per Minute Print Speed"
+915,993,True
+914,993,"record 1: Samsung UN55J6000FXZA 55"" Class Curved LED Smart TV - UN55J6000FXZA Samsung UN55J6000FXZA 55"" Class Curved LED Smart TV - UN55J6000FXZA/ Resolution: 3840 x 2160 / DIM (Dynamic Contrast): Mega Contrast (Mega: 6000000:1, Micro: 12000000:1)/ Smart Hub & Apps, Anynet+™, Wi-Fi Built-In, USB (x3), Ethernet, Component, HDMI x3/ Screen Size: 54"
+912,993,"record 1: LG Electronics LP660S French Door Refrigerator - FRM2298TS, record 2: LG Electronics LSXC22645S French Door Refrigerator - FRM2386TS"
+918,994,True
+917,994,True
+510,994,False
+427,994,False
+961,995,False
+916,995,True
+913,995,"record 1: Air Fryer Max XL, 5"
+517,995,record 1: Dell S2219HMF Monitor - S2219HMF Dell S2219HMF Monitor - S2219HMF/ 21
+966,996,Answer: False
+914,996,Answer: True
+771,996,Answer: False
+510,996,False
+995,997,False
+854,997,True
+595,997,False
+594,997,False
+993,998,True
+322,998,False
+306,998,False
+59,998,False
+1052,999,True
+403,999,False
+133,999,False
+97,999,False
+966,1000,False
+772,1000,False
+771,1000,False
+510,1000,False
+966,1001,False
+772,1001,False
+771,1001,False
+510,1001,False
+996,1002,False
+936,1002,"record 1: Samsung Galaxy J5 (SM-J500GN) Factory Unlocked Cell Phone for Cricket, MetroPCS, Boost Mobile, Simple Mobile, net10 and More - SM-J500GN Samsung Galaxy J5 (SM-J500GN) Factory Unlocked Cell Phone for Cricket, MetroPCS, Boost Mobile, Simple Mobile, net10 and More - SM-J500GN/ Android 4"
+935,1002,Answer: True
+838,1002,False
+996,1003,False
+982,1003,False
+936,1003,False
+935,1003,Answer: False
+990,1004,True
+932,1004,False
+904,1004,False
+759,1004,Answer: False
+708,1005,False
+634,1005,False
+608,1005,False
+583,1005,False
+739,1006,True
+738,1006,"Both records refer to Sony TVs with Full HD resolution, the Bravia Engine technology, and a black finish"
+735,1006,True
+681,1006,True
+675,1006,record 1: Adobe Photoshop Extended CS6 Software Download - 13
+1030,1007,False
+984,1007,False
+983,1007,True
+445,1007,False
+1036,1008,Answer: True
+381,1008,False
+371,1008,False
+233,1008,False
+756,1009,False
+632,1009,True
+176,1009,False
+24,1009,False
+859,1010,False
+790,1010,False
+692,1010,False
+644,1010,False
+855,1011,Answer: True
+753,1011,True
+653,1011,"The records refer to the same entity, as both describe Panasonic's TH50PZ800U and TH-58PZ850U models of their 50"" and 58"" Plasma HDTVs respectively"
+558,1011,True
+784,1012,False
+638,1012,False
+537,1012,False
+383,1012,True
+952,1013,False
+938,1013,True
+698,1013,False
+123,1013,False
+930,1014,Answer: True
+929,1014,Answer: True
+928,1014,Answer: True
+927,1014,Answer: True
+930,1015,Answer: False
+929,1015,Answer: True
+928,1015,Answer: True
+927,1015,"record 1: HP Officejet J5780 All-in-One Printer - J5780 HP Officejet J5780 All-in-One Printer - J5780/ AirPrint Compatible/ Automatic Document Feeder (ADF)/ Color Touch Screen Display/ Copy, Print, Fax, and Scan Capabilities/ Ethernet Connectivity/ Instant On Technology/ Mobile Device Printing via Wi-Fi Direct or Wi-Fi Network/ USB 2"
+930,1016,Answer: False
+929,1016,Answer: False
+928,1016,Answer: True
+927,1016,Answer: True
+930,1017,Answer: True
+929,1017,Answer: True
+928,1017,Answer: True
+927,1017,Answer: True
+1047,1018,True
+833,1018,Answer: False
+646,1018,True
+645,1018,True
+1047,1019,True
+833,1019,True
+646,1019,Answer: True
+645,1019,True
+1047,1020,False
+833,1020,True
+412,1020,True
+382,1020,False
+1033,1021,"Both records refer to the same Sony home theater system, so the answer is True"
+950,1021,True
+624,1021,False
+560,1021,Answer: False
+977,1022,"False, the first record is for a MacBook Pro and the second record is for a MacBook"
+976,1022,"False, the two records describe different Apple laptop models"
+975,1022,True
+311,1022,False
+1004,1023,False
+686,1023,False
+379,1023,Answer: True
+243,1023,False
+991,1024,"record 1: Samsung G530LV D237FG Samsung G530LV D237FG/ 23"" Screen Size/ 1920 x 1080 Resolution/ TN Panel Type/ 1ms Response Time/ PX277-01-A Connector Type, record 2: Samsung SE520CWU Samsung SE520CWU/ 21"
+800,1024,False
+427,1024,False
+230,1024,False
+991,1025,Answer: True
+800,1025,False
+427,1025,False
+230,1025,False
+1012,1026,True
+985,1026,True
+501,1026,False
+459,1026,record 1: Toshiba Satellite A665-S7100 laptop - P35G-ST310 Toshiba Satellite A665-S7100 laptop - P35G-ST310/ Intel Core i5-431M Processor (2
+1005,1027,True
+1004,1027,False
+142,1027,"record 1: Dell Latitude E5470 Laptop - BLU342 Dell Latitude E5470 Laptop - BLU342/ Intel Xeon Processor E3-1270L V3 Quad Core/ 8GB RAM/ 256GB SSD, record 2: Dell Latitude E5470 - 14"" LCD Laptop - Intel Core i5-3230M 2"
+141,1027,Answer: False
+1012,1028,True
+985,1028,True
+559,1028,"record 1: Samsung Galaxy Note II, model number: SM-N710T (CDMA) Samsung Galaxy Note II, model number: SM-N710T (CDMA)/ 5"
+501,1028,The records refer to the same entity
+964,1029,True
+763,1029,False
+263,1029,False
+23,1029,False
+851,1030,False
+474,1030,True
+144,1030,False
+6,1030,False
+401,1031,False
+368,1031,False
+349,1031,True
+265,1031,False
+763,1032,"record 1: Tesla Model S Long Range - Model S Long Range Tesla Model S Long Range - VIN: 7YJ3TBB5EF6849128, record 2: Tesla Model S - Model S Tesla Model S - VIN: DVXA7EB0FG744136, answer with True"
+263,1032,False
+33,1032,False
+23,1032,False
+817,1033,False
+816,1033,Answer: False
+670,1033,False
+535,1033,True
+88,1033,False
+973,1034,True
+804,1034,False
+803,1034,False
+791,1034,False
+958,1035,True
+662,1035,"record 3: Apple iPhone X, Dusable, Silver, 64 GB - MQD32LL/A Apple iPhone X, Dusable, Silver, 64 GB - MQD32LL/A/ F2017 iPhone X (114-1) - A1865 Wireless Charging Capable LTE Metallic Body with Glass Back and Aluminum Frame/ Dual Camera System (12 MP Wide-Angle and Telephoto Cameras)/ 64 GB Storage Capacity/ Super Retina HD Display (5"
+92,1035,False
+90,1035,Answer: False
+921,1036,Answer: True
+878,1036,False
+876,1036,False
+739,1036,False
+977,1037,True
+976,1037,"record 1: Samsung LCD TV 32"" Class LED HDTV - UN32J520W Samsung LCD TV 32"" Class LED HDTV - UN32J520W/ 32-inch Display Size/ LED Backlighting/ 720p Resolution/ Digital Cable Included/ EZ SetUp for Easy Installation/ Glossy Finish"
+975,1037,False
+311,1037,False
+1000,1038,True
+389,1038,False
+278,1038,False
+265,1038,False
+1025,1039,True
+834,1039,Answer: False
+828,1039,False
+233,1039,False
+1031,1040,True
+817,1040,True
+816,1040,False
+119,1040,False
+962,1041,True
+736,1041,"record 1: Nike Air Zoom Generation Men's Basketball Shoes - 96834-602 Nike Air Zoom Generation Men's Basketball Shoes - 96834-602/ Leather Upper/ Full-Length Zoom Air Cushioning System/ Multi-Color/ Black Finish, record 2: NIKE AIR ZOOM GENERATION MEN'S BASKETBALL SHOES - 96834-601"
+722,1041,False
+620,1041,False
+974,1042,True
+800,1042,False
+257,1042,False
+230,1042,False
+1055,1043,"record 1: Coca-Cola Company, record 2: The Coca-Cola Company"
+490,1043,False
+345,1043,False
+342,1043,False
+1009,1044,False
+1005,1044,False
+799,1044,"record 1: AmazonBasics 75W Portable Power Bank - PB1500-6 (Black) - 4511377, record 2: AUKEY 10000mAh Power Bank - PB10K-L2 (Black) - 3869477"
+199,1044,False
+859,1045,False
+790,1045,"False, the first record refers to the Sony STRDG920 AV receiver, while the second record refers to the Onkyo TX-SR876 A/V receiver"
+692,1045,False
+644,1045,False
+872,1046,record 1: Nikon AF-S NIKKOR 70-300mm f/4
+870,1046,False
+853,1046,"record 1: Xiaomi Mi Band 2 Fitness Tracker - MIBAND2MIJE03XEA Xiaomi Mi Band 2 Smart Bracelet - MIBAND2MIJE03XEA/ OLED Display/ Steps Counting/ Heart Rate Monitoring/ Sleep Quality Tracking/ Long Battery Life/ IP68 Dust & Water Resistant/ Compatible With All Android And iOS Devices, record 2: Xiaomi Mi Band - MIBANDMIJE01XEA Xiaomi Mi Band Smart Bracelet - MIBANDMIJE01XEA/ OLED Display/ Steps Counting/ Sleep Quality Tracking/ Long Battery Life/ IP68 Dust & Water Resistant/ Compatible With All Android And iOS Devices"
+852,1046,False
+875,1047,Answer: True
+159,1047,False
+96,1047,False
+21,1047,False
+889,1048,False
+655,1048,False
+609,1048,False
+577,1048,False
+809,1049,False
+770,1049,False
+713,1049,False
+589,1049,False
+895,1050,Answer: True
+742,1050,False
+719,1050,False
+705,1050,False
+615,1051,Answer: False
+473,1051,True
+322,1051,False
+311,1051,False
+977,1052,True
+976,1052,Answer: True
+975,1052,"False, they refer to different products"
+311,1052,False
+993,1053,False
+961,1053,True
+915,1053,record 1 and record 2 do not require an answer as they are separate products
+517,1053,Answer: False
+1000,1054,False
+623,1054,True
+265,1054,False
+195,1054,False
+1032,1055,False
+954,1055,False
+811,1055,True
+376,1055,False
+1030,1056,False
+984,1056,True
+983,1056,False
+445,1056,False
+1019,1057,"record 1: NewAir AW-321E Portable Air Conditioner, Dehumidifier and Fan - White NewAir AW-321E Portable Air Conditioner, Dehumidifier and Fan - White/ 32"
+588,1057,False
+587,1057,False
+586,1057,False
+774,1058,True
+77,1058,False
+71,1058,False
+68,1058,False
+1047,1059,True
+623,1059,"record 1: Panasonic TX-L37E4B LED TV - L37E4B 47"" Class (46"
+541,1059,Example 3:
+412,1059,"record 1: Apple iPhone X, A1865 (R) CDMA - MC982Z/ Dual SIM Support (nano-SIM and eSIM)/ Super Retina HD display (diagonal 5"
+994,1060,True
+426,1060,"record 1: Nike Womens Flex Golf Shoes N75B5-146 Nike Womens Flex Golf Shoes N75B5-146/ White And Black, record 2: Nike Women's Air Zoom Victory Tour BW2 Cs8900 103"
+256,1060,Answer: False
+190,1060,"record 1: MSI GS40 Phantom 80 - GS40 MSI GS40 Phantom 80 - GS40/ Intel Core i7-8700 Processor/ NVIDIA GeForce GTX 1060 Graphics Card/ Windows 10 Home (64 bit)/ DirectX 12 Support/ PCIe NVMe SSD (512GB)/ VR Ready/ Black Finish, record 2: MSI GL73 Dominator Pro-208 - 7RFx MSI GL73 Dominator Pro-208 - 7RFx/ Intel Core i7-8700 Processor/ NVIDIA GeForce GTX 1060 Graphics Card/ Windows 10 Home (64 bit)/ DirectX 12 Support/ PCIe NVMe SSD (512GB)/ VR Ready/ Black Finish"
+878,1061,True
+876,1061,True
+675,1061,"True, as both records refer to the Sony BRAVIA KDL46S4100 and KDL46XBR6 HDTVs with similar features such as 1920 x 1080 Full HD resolution, NTSC tuner, and black finish"
+637,1061,Answer: False
+878,1062,True
+876,1062,True
+734,1062,True
+637,1062,True
+1030,1063,True
+670,1063,False
+445,1063,True
+283,1063,False
+375,1064,"record 1: Samsung SL-M2670ND Multi Function Printer, Fax, Copier - Black Samsung ML-2270ND Multi Function Printer, Scanner, Copier - Black/ Print Speeds up to 20 ISO ppm/ Scan Speeds up to 5 ipm (B&W) / Copy Speeds up to 8 cpms/ Black"
+308,1064,False
+290,1064,False
+289,1064,False
+1011,1065,Answer: False
+971,1065,Answer: False
+970,1065,Answer: True
+969,1065,Answer: True
+1010,1066,Answer: True
+477,1066,False
+338,1066,False
+233,1066,True
+1069,1067,True
+893,1067,False
+892,1067,False
+415,1067,False
+733,1068,record 1: LG LP6950WB Front Load Washer - WDCE9000 Front Load Washer - WDCE9000/ 5
+730,1068,False
+602,1068,Answer: True
+68,1068,False
+774,1069,False
+74,1069,"record 1: Nike Air Zoom Pegasus 36 Running Shoes - V1047500 Nike Air Zoom Pegasus 36 Running Shoes - V1047500/ Synthetic Leather And Mesh Upper/ Full-Length Zoom Air Cushioning/ Rubber Waffle Outsole/ Imported Product, record 2: Nike Air Zoom Pegasus 36 (Mens)/ Black/ Metallic Silver/ White"
+73,1069,False
+45,1069,True
+1010,1070,False
+973,1070,False
+96,1070,False
+90,1070,"record 1: Nike Air Max Tailwind IV - 894659 Nike Air Max Tailwind IV - 894659/ Black/ White-Metallic Silver, record 2: Nike Air Max Tailwind IV - QD7394"
+1050,1071,Answer: True
+929,1071,Answer: False
+928,1071,Answer: False
+927,1071,False
+1038,1072,True
+429,1072,False
+112,1072,False
+82,1072,False
+1063,1073,record 1: Google Chrome Browser For Mac OS X Intel 64 Edition Version 38
+1062,1073,record 1: Apple iWork for Mac: Pages 3
+829,1073,False
+38,1073,record 1: Samsung Electronics SEW-2076C DVD Rewriter - OEM SEW-2076C Samsung Electronics SEW-2076C DVD Rewriter - OEM/ Write Once/ Read/ Multispeed/ 8X Write/ 4X ReWrite/ 16X Read/ 32X Playback
+1063,1074,Answer: True
+1062,1074,"record 1: Adobe Creative Cloud Photography Bundle (Photoshop Elements 15 & Premiere Elements 15) - MSOCRD05N Adobe Creative Cloud Photography Bundle (Photoshop Elements 15 & Premiere Elements 15) - MSOCRD05N/ Adobe Photoshop Elements 15 & Adobe Premiere Elements 15, record 2: ADOBE PHOTOSHOP ELEMENTS 15 STAND ALONE [DOWNLOAD] - MSELEM-A/ Creative Suite 6 Design Premium (InDesign CS6, Photoshop CS6 Extended, Illustrator CS6) - MSFRD05N"
+70,1074,Answer: False
+38,1074,record 1: Samsung Electronics GC100 Series 8MP Digital Camera - YC105W Samsung Electronics GC100 Series 8MP Digital Camera - YC105W/ 2
+1003,1075,False
+1001,1075,True
+877,1075,False
+830,1075,False

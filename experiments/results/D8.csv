@@ -1,0 +1,3 @@
+dataset_1,dataset_2,dataset,model,time (sec),precision,recall,f1,good_behavior_response_rate,examples
+walmart,amazon,D8,gemma3n-z-p1,1370.8074855804443,0.19321864871603092,0.9948652118100129,0.3235908141962422,1.0,vector_based_examples_dict_1
+walmart,amazon,D8,gemma3n-z-p2,1305.8873045444489,0.17005464480874316,0.9987163029525032,0.2906238326484871,1.0,vector_based_examples_dict_1
