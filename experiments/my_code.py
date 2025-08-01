@@ -41,6 +41,7 @@ False. if the records are referring to a different entity."""
 
 # dataset = 'D2'
 for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
+    
 # for dataset in ['D2']:
     i = 0
     for examples in examples_dict_list:
@@ -52,7 +53,9 @@ for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
             """ )
 
         examples_dict = examples_dict_list[examples]
+        
         print(examples)
+        i += 1
         # examples = examples_list[i]
         for ll in llms:
             for suffix in ['z', 'ft', 'tf']:
@@ -132,42 +135,40 @@ for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
                     #create model 
 
                     if suffix != 'z': 
-                        true_pair = examples_dict[dataset][0]
-                        false_pair = examples_dict[dataset][1]
-                        
-                        true_1 = dt1[dt1_ids[true_pair[0]]]
-                        true_2 = dt2[dt2_ids[true_pair[1]]]
-
-                        false_1 = dt1[dt1_ids[false_pair[0]]]
-                        false_2 = dt2[dt2_ids[false_pair[1]]]
+                        true_flag = True
+                        true_example = []
+                        false_example = []
+                        for pair in examples_dict[dataset]:
+                            r1 = dt1[dt1_ids[pair[0]]]
+                            r2 = dt2[dt2_ids[pair[1]]]
+                            if true_flag:
+                                true_example.append(f"record 1: {r1}\nrecord 2: {r2}\nAnswer: {true_flag}.")
+                            else: 
+                                false_example.append(f"record 1: {r1}\nrecord 2: {r2}\nAnswer: {true_flag}.")
+                            true_flag = False if true_flag else True
+                      
                         if suffix == 'ft':
-
-                            prompt = f"""{prompt}
-
-                            Example 1: 
-                            record 1: {false_1}
-                            record 2: {false_2}
-                            Answer: False.
-
-                            Example 2: 
-                            record 1: {true_1}
-                            record 2: {true_2}
-                            Answer: True.
-                            """
+                            example_cnt = 1
+                            
+                            for example in false_example:
+                                prompt = f"""{prompt}\nExample {example_cnt}:\n{example}\n"""
+                                example_cnt += 1
+                            
+                            for example in true_example:
+                                prompt = f"""{prompt}\nExample {example_cnt}:\n{example}\n"""
+                                example_cnt += 1
                         else: 
-                            prompt = f"""{prompt}
+                            example_cnt = 1
+                            for example in true_example:
+                                prompt = f"""{prompt}\nExample {example_cnt}:\n{example}\n"""
+                                example_cnt += 1
 
-                            Example 1: 
-                            record 1: {true_1}
-                            record 2: {true_2}
-                            Answer: True.
-
-                            Example 2: 
-                            record 1: {false_1}
-                            record 2: {false_2}
-                            Answer: False.
-                            """
-
+                            for example in false_example:
+                                prompt = f"""{prompt}\nExample {example_cnt}:\n{example}\n"""
+                                example_cnt += 1
+                            
+                            
+                    print(f""" --- {llm} ----\n{prompt}\n """)
                     ollama.create(model=llm, from_=ll, system=prompt)
 
                     for i in tqdm(range(num_iterations), desc="Processing"):
@@ -318,4 +319,3 @@ for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
                             for response in responses:
                                 file.write(response + '\n')
                         print(f"Responses saved to {responses_filename} for union/intersection.")
-                    i += 1

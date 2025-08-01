@@ -1,4 +1,4 @@
-Response Time: 00h:20m:34.83s
+Response Time: 00h:20m:48.94s
 Good Behavior Response Rate: 1.00
 Precision: 0.562
 Recall: 0.980
