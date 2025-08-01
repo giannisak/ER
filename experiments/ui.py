@@ -54,7 +54,7 @@ intersection_sym = "∩"
 
 
 # for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
-for dataset in ['D2', 'D5', 'D6', 'D7']:
+for dataset in ['D8']:
     for ll in llms:
         for prompt in ['p1', 'p2']:
             for examples in examples_dict_list:
