@@ -3,6 +3,7 @@ import numpy as np
 from sklearn.metrics import confusion_matrix, precision_score, recall_score, f1_score
 import time
 import os
+from examples import examples_dict_list
 
 
 # Evaluation function
@@ -47,13 +48,20 @@ llms = [
     "openhermes",  
     "zephyr"
 ]
+
+union_sym = "U"
+intersection_sym = "∩"
+
+
 # for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
-for dataset in ['D2']:
+for dataset in ['D2', 'D5', 'D6', 'D7']:
     for ll in llms:
         for prompt in ['p1', 'p2']:
-            for examples in ['vector_based_examples_dict_1', 'join_examples_dict_1', 'join_examples_dict_2']:
+            for examples in examples_dict_list:
+                results_filename = f'results/{dataset}.csv'
+                
 
-                results_df = pd.read_csv("results.csv")
+                results_df = pd.read_csv(results_filename)
 
         
 
@@ -70,6 +78,18 @@ for dataset in ['D2']:
                                 & (results_df['model'] == model2)
                                 & (results_df['examples'] == examples)].iloc[0]
                 
+                union_exists = results_df[(results_df['dataset'] == dataset) & 
+                        (results_df['model'] == f"{model1} {union_sym} {model2}") & 
+                        (results_df['examples'] == examples)] 
+                intersection_exists = results_df[(results_df['dataset'] == dataset) & 
+                        (results_df['model'] == f"{model1} {intersection_sym} {model2}") & 
+                        (results_df['examples'] == examples)] 
+                
+                    
+                if not union_exists.empty and not intersection_exists.empty:
+                    print(f'{dataset} {model1} {model2} {examples} union and intersection DONE')
+                    continue
+
 
                 candidate_pairs = f'data/candidate_pairs/original/{dataset}.csv'
                 groundtruth = f'data/{dataset}/gtclean.csv'
@@ -114,45 +134,45 @@ for dataset in ['D2']:
 
                 precision, recall, f1 = evaluate(union, 'union')
 
-                union_sym = "U"
-                intersection_sym = "∩"
-                new_results_df = pd.DataFrame(
-                    {
-                        'dataset_1': clean_files[0],
-                        'dataset_2': clean_files[1],
-                        'dataset': dataset,
-                        'model': f"{model1} {union_sym} {model2}",
-                        'time (sec)': time_seconds + row1['time (sec)'] + row2['time (sec)'],
-                        'precision': precision,
-                        'recall': recall,
-                        'f1': f1,
-                        'good_behavior_response_rate': (row1['good_behavior_response_rate'] + row2['good_behavior_response_rate']) / 2,
-                        'examples' : examples
-                    }, index=[0]
-                )
-                if os.path.exists('results.csv'):
-                    new_results_df.to_csv('results.csv', mode='a+', index=False, header=False)
-                else:
-                    new_results_df.to_csv('results.csv', mode='a+', index=False, header=True)
+                if union_exists.empty:
+                    new_results_df = pd.DataFrame(
+                        {
+                            'dataset_1': clean_files[0],
+                            'dataset_2': clean_files[1],
+                            'dataset': dataset,
+                            'model': f"{model1} {union_sym} {model2}",
+                            'time (sec)': time_seconds + row1['time (sec)'] + row2['time (sec)'],
+                            'precision': precision,
+                            'recall': recall,
+                            'f1': f1,
+                            'good_behavior_response_rate': (row1['good_behavior_response_rate'] + row2['good_behavior_response_rate']) / 2,
+                            'examples' : examples
+                        }, index=[0]
+                    )
+                    if os.path.exists(results_filename):
+                        new_results_df.to_csv(results_filename, mode='a+', index=False, header=False)
+                    else:
+                        new_results_df.to_csv(results_filename, mode='a+', index=False, header=True)
                         
 
                 precision, recall, f1 = evaluate(intersection, 'intersection')
-                new_results_df = pd.DataFrame(
-                    {
-                        'dataset_1': clean_files[0],
-                        'dataset_2': clean_files[1],
-                        'dataset': dataset,
-                        'model': f"{model1} {intersection_sym} {model2}",
-                        'time (sec)': time_seconds + row1['time (sec)'] + row2['time (sec)'],
-                        'precision': precision,
-                        'recall': recall,
-                        'f1': f1,
-                        'good_behavior_response_rate': (row1['good_behavior_response_rate'] + row2['good_behavior_response_rate']) / 2,
-                        'examples' : examples
-                    }, index=[0]
-                )
-                if os.path.exists('results.csv'):
-                    new_results_df.to_csv('results.csv', mode='a+', index=False, header=False)
-                else:
-                    new_results_df.to_csv('results.csv', mode='a+', index=False, header=True)
-                        
+                if intersection_exists.empty:
+                    new_results_df = pd.DataFrame(
+                        {
+                            'dataset_1': clean_files[0],
+                            'dataset_2': clean_files[1],
+                            'dataset': dataset,
+                            'model': f"{model1} {intersection_sym} {model2}",
+                            'time (sec)': time_seconds + row1['time (sec)'] + row2['time (sec)'],
+                            'precision': precision,
+                            'recall': recall,
+                            'f1': f1,
+                            'good_behavior_response_rate': (row1['good_behavior_response_rate'] + row2['good_behavior_response_rate']) / 2,
+                            'examples' : examples
+                        }, index=[0]
+                    )
+                    if os.path.exists(results_filename):
+                        new_results_df.to_csv(results_filename, mode='a+', index=False, header=False)
+                    else:
+                        new_results_df.to_csv(results_filename, mode='a+', index=False, header=True)
+                            

@@ -33,10 +33,32 @@ vector_based_examples_dict_2 = {
     "D8":[(215, 6601),(622, 3160)]
 }
 
+vector_based_examples_compination = {
+    "D2" :  vector_based_examples_dict_1["D2"] + vector_based_examples_dict_2["D2"],
+    "D5":  vector_based_examples_dict_1["D5"] + vector_based_examples_dict_2["D5"],
+    "D6":  vector_based_examples_dict_1["D6"] + vector_based_examples_dict_2["D6"],
+    "D7":  vector_based_examples_dict_1["D7"] + vector_based_examples_dict_2["D7"],
+    "D8":  vector_based_examples_dict_1["D8"] + vector_based_examples_dict_2["D8"]
+}
+
+vector_join_combination = {
+    "D2" :  vector_based_examples_dict_1["D2"] + join_examples_dict_1["D2"],
+    "D5":  vector_based_examples_dict_1["D5"] + join_examples_dict_1["D5"],
+    "D6":  vector_based_examples_dict_1["D6"] + join_examples_dict_1["D6"],
+    "D7":  vector_based_examples_dict_1["D7"] + join_examples_dict_1["D7"],
+    "D8":  vector_based_examples_dict_1["D8"] + join_examples_dict_1["D8"]
+}
+
+multiple_examples_join = {
+    "D2":[(875, 1047), (124, 82), (597, 636), (980, 607)],
+}
 
 examples_dict_list = {
     "vector_based_examples_dict_1" : vector_based_examples_dict_1,
     "vector_based_examples_dict_2": vector_based_examples_dict_2,
     "join_examples_dict_1": join_examples_dict_1,
-    "join_examples_dict_2": join_examples_dict_2
+    "join_examples_dict_2": join_examples_dict_2,
+    # 'vector_join_combination' : vector_join_combination,
+    # "multiple_examples_join" : multiple_examples_join
+    # 'vector_based_examples_compination' :  vector_based_examples_compination
 }
