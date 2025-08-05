@@ -7,7 +7,7 @@ from examples import examples_dict_list
 
 
 # Evaluation function
-def evaluate(predictions, label):
+def evaluate(predictions, label, gt_set, cp):
     true_labels = [1 if tuple(pair) in gt_set else 0 for pair in cp]
     predicted_labels = [1 if resp == 'True' else 0 for resp in predictions]
 
@@ -54,11 +54,12 @@ intersection_sym = "∩"
 
 
 # for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
-for dataset in ['D8']:
+def ui_fun(dataset, candidate_pairs_dir):
+# for dataset in ['D8']:
     for ll in llms:
-        for prompt in ['p1', 'p2']:
+        for prompt in ['p2']:
             for examples in examples_dict_list:
-                results_filename = f'results/{dataset}.csv'
+                results_filename = f'results/{candidate_pairs_dir}/{dataset}.csv'
                 
 
                 results_df = pd.read_csv(results_filename)
@@ -91,7 +92,7 @@ for dataset in ['D8']:
                     continue
 
 
-                candidate_pairs = f'data/candidate_pairs/original/{dataset}.csv'
+                candidate_pairs = f'data/candidate_pairs/{candidate_pairs_dir}/{dataset}.csv'
                 groundtruth = f'data/{dataset}/gtclean.csv'
                 cp_df = pd.read_csv(candidate_pairs)
                 cp_columns = list(cp_df.columns)
@@ -106,8 +107,8 @@ for dataset in ['D8']:
                 # Get dataset directory
                 dataset_dir = f'data_clean/{dataset}'
                 
-                responses1_df = pd.read_csv(f'responses/{dataset}/{dataset}_{model1}_{examples}.csv')
-                responses2_df = pd.read_csv(f'responses/{dataset}/{dataset}_{model2}_{examples}.csv')
+                responses1_df = pd.read_csv(f'responses/{candidate_pairs_dir}/{dataset}/{dataset}_{model1}_{examples}.csv')
+                responses2_df = pd.read_csv(f'responses/{candidate_pairs_dir}/{dataset}/{dataset}_{model2}_{examples}.csv')
 
 
                 responses1 = responses1_df['responses'].astype('str').tolist()
@@ -132,7 +133,7 @@ for dataset in ['D8']:
                 # Run evaluation
 
 
-                precision, recall, f1 = evaluate(union, 'union')
+                precision, recall, f1 = evaluate(union, 'union', gt_set, cp)
 
                 if union_exists.empty:
                     new_results_df = pd.DataFrame(
@@ -155,7 +156,7 @@ for dataset in ['D8']:
                         new_results_df.to_csv(results_filename, mode='a+', index=False, header=True)
                         
 
-                precision, recall, f1 = evaluate(intersection, 'intersection')
+                precision, recall, f1 = evaluate(intersection, 'intersection', gt_set, cp)
                 if intersection_exists.empty:
                     new_results_df = pd.DataFrame(
                         {

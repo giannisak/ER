@@ -5,7 +5,8 @@ import numpy as np
 from sklearn.metrics import confusion_matrix, accuracy_score, precision_score, recall_score, f1_score
 import time
 import ollama
-from examples import examples_dict_list
+from examples_blocking import examples_dict_list
+from ui import ui_fun
 
 
 llms = [ 
@@ -43,11 +44,11 @@ False. if the records are referring to a different entity."""
 for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
     
 # for dataset in ['D2']:
-    i = 0
+    cnt = 0
     for examples in examples_dict_list:
         print(f"""
                 -----------
-                {i} / 4
+                {cnt} / 4
             ---------------
             
             """ )
@@ -55,18 +56,18 @@ for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
         examples_dict = examples_dict_list[examples]
         
         print(examples)
-        i += 1
+        cnt += 1
         # examples = examples_list[i]
         for ll in llms:
             for suffix in ['z', 'ft', 'tf']:
-                for prompt_key in ["p1", "p2"]:
+                for prompt_key in ["p2"]:
                     prompt = prompts[prompt_key]
                     # CONFIGURATION: Edit llm and paths for datasets, candidate pairs, groundtruth files
                     llm = f'{ll}-{suffix}-{prompt_key}'
-                    candidate_pairs_dir = "original"
+                    candidate_pairs_dir = "standard_blocking"
         
-                    if os.path.exists(f'results/{dataset}.csv'):
-                        results_df = pd.read_csv(f'results/{dataset}.csv')
+                    if os.path.exists(f'results/{candidate_pairs_dir}/{dataset}.csv'):
+                        results_df = pd.read_csv(f'results/{candidate_pairs_dir}/{dataset}.csv')
                         exists = results_df[(results_df['dataset'] == dataset) & 
                                         (results_df['model'] == llm) & (results_df['examples'] == examples)] if suffix != 'z' \
                                 else results_df[(results_df['dataset'] == dataset) & (results_df['model'] == llm)]
@@ -98,11 +99,15 @@ for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
                     
                     gt_df = pd.read_csv(groundtruth, sep=sep)
 
-                    cp_df = pd.DataFrame({
-                        'D1': cp_df_with_rows[cp_columns[0]].map(dt1_df['id']),
-                        'D2': cp_df_with_rows[cp_columns[1]].map(dt2_df['id'])
-                    })
 
+                    if candidate_pairs_dir == 'original':
+                        cp_df = pd.DataFrame({
+                            'D1': cp_df_with_rows[cp_columns[0]].map(dt1_df['id']),
+                            'D2': cp_df_with_rows[cp_columns[1]].map(dt2_df['id'])
+                        })
+                    else: 
+                        cp_df = cp_df_with_rows
+                        cp_df.columns = ['D1','D2']
 
                     # convert to numpy arrays
                     dt1 = dt1_df.to_numpy()
@@ -198,14 +203,8 @@ for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
 
                     end = time.time()
 
-                    cp_df =  pd.DataFrame({
-                        'D1': cp_df_with_rows[cp_columns[0]].map(dt1_df['id']),
-                        'D2': cp_df_with_rows[cp_columns[1]].map(dt2_df['id']),
-                        'responses' : responses
-                    })
-
-
-                    cp_df.to_csv(f'responses/{dataset}/{dataset}_{llm}_{examples}.csv', index=False)
+                    cp_df['responses'] =  responses
+                    cp_df.to_csv(f'responses/{candidate_pairs_dir}/{dataset}/{dataset}_{llm}_{examples}.csv', index=False)
 
                     # model's response time
                     time_seconds = end - start  
@@ -301,10 +300,10 @@ for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
                     )
                     ollama.delete(model=llm)
                     
-                    if os.path.exists(f'results/{dataset}.csv'):
-                        results_df.to_csv(f'results/{dataset}.csv', mode='a+', index=False, header=False)
+                    if os.path.exists(f'results/{candidate_pairs_dir}/{dataset}.csv'):
+                        results_df.to_csv(f'results/{candidate_pairs_dir}/{dataset}.csv', mode='a+', index=False, header=False)
                     else:
-                        results_df.to_csv(f'results/{dataset}.csv', mode='a+', index=False, header=True)
+                        results_df.to_csv(f'results/{candidate_pairs_dir}/{dataset}.csv', mode='a+', index=False, header=True)
                         
                     print(f"Summary saved to {summary_filename}")
 
@@ -319,3 +318,4 @@ for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
                             for response in responses:
                                 file.write(response + '\n')
                         print(f"Responses saved to {responses_filename} for union/intersection.")
+    ui_fun(dataset, candidate_pairs_dir)

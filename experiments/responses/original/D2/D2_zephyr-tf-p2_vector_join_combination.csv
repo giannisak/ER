@@ -1,0 +1,4305 @@
+D1,D2,responses
+1023,0,Answer: True
+1022,0,Answer: False
+1020,0,False
+134,0,False
+1023,1,False
+1022,1,Answer: True
+1020,1,False
+134,1,False
+953,2,Answer: False
+434,2,Answer: True
+106,2,False
+100,2,False
+785,3,Answer: False
+237,3,Answer: False
+214,3,Answer: True
+97,3,Answer: False
+434,4,False
+288,4,False
+160,4,Answer: True
+106,4,False
+861,5,False
+860,5,False
+851,5,False
+825,5,False
+776,6,Answer: True
+392,6,False
+110,6,False
+94,6,False
+968,7,False
+746,7,False
+377,7,Answer: True
+284,7,False
+1023,8,Answer: False
+1022,8,Answer: False
+1020,8,Answer: True
+134,8,False
+1023,9,False
+1022,9,False
+1020,9,Answer: False
+134,9,Answer: True
+1021,10,Answer: True
+1020,10,False
+953,10,False
+134,10,Answer: False
+1016,11,Answer: False
+461,11,Answer: True
+365,11,Answer: False
+344,11,Answer: False
+638,12,False
+631,12,"False, the two records refer to different entities"
+238,12,False
+218,12,Answer: True
+953,13,Answer: True
+434,13,False
+106,13,False
+100,13,False
+1059,14,Answer: False
+785,14,False
+237,14,Answer: True
+214,14,Answer: False
+965,15,Answer is False
+821,15,Answer: False
+402,15,False
+389,15,False
+448,16,False
+238,16,"False, the two records refer to different entities"
+218,16,Answer: False
+59,16,Answer: True
+1075,17,Answer: True
+1016,17,Answer: False
+461,17,Answer: False
+344,17,"record 1: Brother Compact Laser Printer - CL1420 Brother Compact Laser Printer - CL1420/ Print Speeds Up To 20 Pages Per Minute/ Print Resolution Of 600 X 600 Optimized Dpi (Optimized Mode)/ 150-Sheet Paper Capacity/ USB, Parallel, Ethernet And Wireless Connectivity Options/ Easy Network Connections/ Energy Star Certified/ Print From iPad, iPhone, iPod Touch And Android Devices Via AirPrint/ Print From Smartphones And Tablets Via Wi-Fi Direct/ Compact Desktop Design"
+1014,18,False
+227,18,False
+99,18,Answer: True
+89,18,Answer: False
+1018,19,False
+1017,19,False
+824,19,Answer: True
+407,19,False
+1014,20,Answer: False
+598,20,False
+99,20,Answer: False
+89,20,Answer: True
+151,21,"False, as the two records refer to different products"
+96,21,Answer: False
+32,21,Answer: False
+25,21,Answer: True
+1074,22,Answer: True
+770,22,False
+618,22,False
+560,22,False
+452,23,False
+449,23,False
+165,23,False
+63,23,Answer: False
+407,24,Answer: True
+295,24,False
+288,24,False
+116,24,False
+778,25,False
+407,25,Answer: False
+295,25,record 1: Sennheiser HD 650 Over-Ear Headphones - HD 650 Sennheiser HD 650 Over-Ear Headphones - HD 650/ Premium Audio Performance/ Elegant Design/ High Impedance/ Detachable Cables
+116,25,True
+434,26,Answer: False
+288,26,Answer: False
+106,26,False
+100,26,Answer: True
+1030,27,False
+128,27,Answer: True
+127,27,Answer: True
+5,27,False
+658,28,False
+657,28,False
+128,28,Answer: True
+127,28,Answer: False
+584,29,False
+192,29,False
+138,29,False
+126,29,Answer: False
+217,30,False
+138,30,Answer: False
+128,30,False
+127,30,False
+429,31,Answer: True
+199,31,Answer: False
+142,31,Answer: False
+112,31,"False, the first record refers to a wireless headphone system, while the second record refers to a battery for headsets, which could potentially be used with any Sennheiser headphones, including the RS120 model"
+287,32,False
+252,32,record 1: Toshiba Satellite Pro S650-S7128 15
+165,32,Answer: True
+8,32,Answer: False
+752,33,False
+252,33,False
+40,33,Answer: False
+2,33,Answer: True
+329,34,False
+145,34,Answer: False
+32,34,Answer: False
+11,34,Answer: False
+329,35,False
+145,35,Answer: False
+32,35,Answer: False
+11,35,Answer: True
+417,36,Answer: False
+416,36,Answer: False
+173,36,Answer: False
+34,36,Answer: False
+640,37,Answer: False
+639,37,Answer: False
+638,37,Answer: False
+8,37,Answer: False
+1052,38,False
+237,38,False
+214,38,False
+97,38,Answer: True
+1051,39,False
+756,39,False
+20,39,record 1 and record 2 both refer to speaker mounts that support speakers up to 20 lbs
+19,39,Answer: True
+339,40,False
+289,40,False
+20,40,True
+19,40,True
+164,41,False
+30,41,Answer: True
+29,41,Answer: False
+28,41,False
+399,42,False
+65,42,False
+64,42,False
+24,42,Answer: True
+634,43,False
+30,43,Answer: False
+29,43,Answer: True
+1,43,Answer: False
+256,44,record 1: Panasonic NB-G35 Compact Notebook Computer - CF-G35CFR Panasonic CF-G35CFR NB-G35 Compact Notebook Computer - CF-G35CFR/ 40GB Hard Drive/ Intel Celeron M Processor/ XP Home Edition Operating System/ CD-RW and DVD-ROM Combo Drive/ 1
+25,44,False
+15,44,"record 1: Samsung Electronics LCD Monitor - ML231B Samsung Electronics LCD Monitor - ML231B/ 23"" Diagonal Screen/ DVI/ VGA Inputs/ S-PVA Panel, record 2: Samsung Electronics LED Monitor - LE220WM Samsung Electronics LED Monitor - LE220WM/ 21"
+14,44,"record 1: Oral-B Vitality Rechargeable Toothbrush - CrossAction Oral-B Vitality Rechargeable Toothbrush - CrossAction/ Round Brush Head with CrissCross Bristles for Comprehensive Cleaning, record 2: Oral-B CrossAction Vitality Rechargeable Toothbrush - 6000M Pink"
+686,45,"False, as the first record is for a Sony black camcorder tripod (VCT80AV) and the second record is for a different Sony tripod model (VCTR640)"
+585,45,"False, the two Sony remote control tripods are different products"
+171,45,Answer: True
+118,45,Answer: False
+359,46,Answer: False
+115,46,record 1 and record 2 both refer to a Sanus wall mount for flat panel TVs
+62,46,Answer: False
+60,46,False
+114,47,Answer: False
+28,47,False
+27,47,Answer: True
+19,47,False
+114,48,False
+60,48,False
+28,48,Answer: True
+27,48,Answer: False
+659,49,False
+658,49,False
+657,49,False
+88,49,Answer: True
+400,50,Answer: False
+329,50,Answer: False
+190,50,False
+32,50,Answer: True
+760,51,False
+429,51,False
+112,51,Answer: True
+82,51,Answer: False
+115,52,Answer: True
+87,52,False
+62,52,False
+60,52,False
+572,53,"record 1: Xiaomi Redmi Note 4 (Ceramic White, 64 GB)(2nd Gen) - 3G+4G - MHTUN4CGWYZH Xiaomi Redmi Note 4 (Ceramic White, 64 GB)(2nd Gen) - 3G+4G - MHTUN4CGWYZH/ Qualcomm Snapdragon 653 Processor/ 64GB ROM + 6GB RAM/ 5"
+150,53,False
+50,53,False
+0,53,Answer: True
+731,54,False
+692,54,"False, the second record refers to a different model (STR-DE197) of an AV receiver from Sony"
+609,54,Answer: False
+40,54,Answer: True
+1042,55,False
+170,55,False
+50,55,Answer: False
+21,55,False
+256,56,record 1: Panasonic DECT 6
+25,56,False
+15,56,Answer: False
+14,56,False
+329,57,Answer: True
+32,57,Answer: False
+11,57,Answer: False
+9,57,Answer: False
+86,58,False
+13,58,False
+12,58,Answer: True
+3,58,False
+176,59,False
+115,59,"record 1 and record 2 both refer to a Sanus wall mount for flat panel TVs, specifically the VMPL50B and the VM1B models respectively"
+62,59,Answer: True
+60,59,False
+799,60,False
+796,60,Answer: False
+795,60,False
+794,60,"record 1 and record 2 both refer to Canon NB-2L or NB-2LH batteries, which can be charged using the Canon Battery Charger (0763B001)"
+799,61,False
+794,61,False
+168,61,False
+52,61,Answer: False
+86,62,False
+22,62,Answer: False
+12,62,False
+3,62,False
+154,63,False
+81,63,False
+48,63,Answer: True
+47,63,False
+799,64,"record 1 and record 2 refer to the same entity, as the battery charger (CB-2LV) is compatible with the specific battery model (NB-4L)"
+796,64,Answer: False
+795,64,"record 1: Bose QuietComfort 25 II Headphones - 776383-021 Bose QuietComfort 25 II Headphones - 776383-021/ Black Finish, record 2: Bose QuietComfort 25 Wireless Headphones II - Silver Bose QuietComfort 25 Wireless Headphones II - Silver"
+794,64,Answer: False
+1066,65,Answer: False
+141,65,False
+58,65,Answer: False
+25,65,False
+799,66,Answer: False
+795,66,False
+794,66,False
+199,66,"record 1: Philips 55"" Class LED (LCD) 4K Ultra HD (3840x2160) TV - 65PFL5707/ HDR 10 and HLG Technology/ Android TV with Google Assistant Built-in/ Smart TV with NetTV Apps/ 4K Up scaling/ Easy Dimmable Wall Mount Design/ Clear Motion Rate 960/ Precision Color Processing/ LED Backlight Panel/ USB Media Player (2"
+997,67,False
+988,67,Answer: False
+798,67,Answer: True
+777,67,False
+760,68,Answer: False
+429,68,False
+112,68,Answer: False
+82,68,Answer: True
+760,69,Answer: True
+429,69,False
+112,69,False
+82,69,Answer: False
+818,70,Answer: False
+640,70,Answer: False
+639,70,Answer: False
+8,70,Answer: False
+176,71,False
+115,71,record 1: Samsung 46' Class HL4669W Series 6 LED HDTV - UN46H4072W Samsung 46' Class HL4669W Series 6 LED HDTV - UN46H4072W/ Dual Link Scan (DLS) Technology/ Full LED Backlighting/ Clear Motion Rate (CMR) 1200 for Ultra-Smooth Fast Action/ USB Media Hidden Port and Ready Mode Picture Off Plus/ Eco Sensor - Automatically Adjusts Brightness According to Ambient Light/ Dimensions (WxHxD): TV Without Stand: 43
+87,71,Answer: True
+60,71,False
+115,72,False
+87,72,False
+65,72,Answer: False
+64,72,Answer: True
+62,72,False
+176,73,False
+164,73,Answer: False
+87,73,False
+80,73,False
+115,74,False
+87,74,False
+65,74,Answer: True
+64,74,Answer: False
+62,74,False
+1051,75,False
+756,75,False
+164,75,False
+80,75,Answer: True
+605,76,False
+247,76,False
+72,76,Answer: True
+61,76,Answer: False
+633,77,Answer: False
+247,77,False
+228,77,False
+72,77,Answer: False
+61,77,Answer: True
+952,78,Answer: False
+938,78,False
+698,78,False
+123,78,Answer: True
+48,79,Answer: False
+47,79,Answer: True
+20,79,False
+19,79,False
+241,80,Answer: False
+226,80,Answer: False
+225,80,Answer: False
+153,80,Answer: False
+78,80,Answer: True
+1015,81,False
+778,81,False
+344,81,Answer: False
+194,81,Answer: True
+869,82,Answer is False
+605,82,False
+315,82,False
+124,82,Answer: True
+110,83,Answer: False
+96,83,False
+94,83,Answer: True
+93,83,False
+110,84,Answer: True
+109,84,Answer: True
+96,84,"record 1: Canon Black Ink Cartridge - PG40BK Canon Black Ink Cartridge - PG40BK/ Compatible With The Pixma iP1600 MP170 Printers,"
+93,84,Answer: False
+110,85,False
+95,85,Answer: False
+92,85,Answer: False
+91,85,Answer: False
+110,86,False
+96,86,False
+94,86,False
+93,86,Answer: True
+110,87,Answer: False
+95,87,Answer: True
+94,87,False
+93,87,Answer: False
+955,88,Answer: True
+433,88,Answer: False
+198,88,Answer: False
+96,88,Answer: True
+433,89,Answer: False
+198,89,Answer: True
+110,89,False
+96,89,False
+756,90,Answer: True
+726,90,Answer: False
+425,90,False
+24,90,False
+434,91,False
+288,91,False
+106,91,Answer: True
+100,91,False
+756,92,"False, as the first record describes a specific wall mount model (SF640P) while the second record refers to a universal tilt wall mount (ST660P) that supports screens from 37' to 60'"
+726,92,Answer: True
+24,92,False
+20,92,Answer: False
+998,93,Answer: True
+953,93,"False, the two records refer to different products"
+288,93,False
+100,93,"False, as the two records refer to different models: NetGear ProSafe 24 Port Smart Switch - FS726TP and Netgear ProSafe JGS524F - 24 Port Gigabit Rackmount Switch with 2 Gigabit Slots"
+1059,94,Answer: True
+510,94,False
+143,94,False
+96,94,Answer: False
+1071,95,False
+1044,95,"False, as the two records refer to different products from Logitech"
+1040,95,False
+409,95,Answer: True
+432,96,False
+110,96,False
+94,96,False
+93,96,Answer: True
+392,97,Answer: False
+110,97,Answer: False
+94,97,Answer: True
+93,97,Answer: False
+956,98,False
+955,98,False
+110,98,Answer: False
+109,98,Answer: True
+955,99,"record 1: Logitech M320 Wireless Laser Mouse - 910-003708 Logitech M320 Wireless Laser Mouse - 910-003708/ 1000 DPI High Precision Laser Optics/ USB Unifying Receiver Included For Seamless Connectivity To Multiple Computers/ Up To Six Months Battery Life, record 2: Logitech M325 Wireless Trackball Mouse - Black"
+433,99,Answer: False
+109,99,Answer: False
+96,99,Answer: False
+110,100,Answer: True
+109,100,Answer: False
+94,100,Answer: False
+93,100,"False, the two records refer to different ink cartridges for different Canon printer models"
+366,101,False
+67,101,False
+55,101,Answer: False
+49,101,Answer: True
+1066,102,Answer: True
+1045,102,False
+88,102,False
+58,102,Answer: False
+1052,103,Answer: False
+861,103,False
+403,103,Answer: True
+97,103,False
+997,104,"False, although both lenses have a telephoto zoom range, they are different products"
+988,104,Answer: True
+777,104,False
+172,104,False
+332,105,False
+330,105,Answer: False
+57,105,Answer: True
+56,105,Answer: False
+332,106,False
+330,106,Answer: False
+159,106,Answer: False
+85,106,Answer: False
+56,106,Answer: True
+308,107,Answer: False
+289,107,Answer: False
+77,107,Answer: True
+71,107,Answer: False
+269,108,False
+268,108,Answer: False
+77,108,Answer: False
+71,108,Answer: True
+1015,109,False
+778,109,False
+344,109,Answer: True
+194,109,"record 1: Brother MFC-680CW Multifunction Color Inkjet Printer - MFC-680CW Brother MFC-680CW Multifunction Color Inkjet Printer - MFC-680CW/ Print, Copy, Scan and Fax in One Compact Device/ Large 2"
+785,110,False
+307,110,Answer: False
+306,110,False
+162,110,Answer: True
+873,111,False
+483,111,False
+175,111,False
+76,111,Answer: True
+999,112,"False, the first record describes an adapter for CompactFlash slots, while the second record describes a replacement adapter for Memory Stick Duo cards"
+284,112,"record 1 and record 2 both refer to memory stick usb adaptors from sony, as they are both branded by sony and can be used to transfer data between a memory stick and a pc"
+260,112,Answer: False
+104,112,Answer: True
+963,113,False
+395,113,False
+282,113,Answer: True
+77,113,False
+1017,114,False
+1016,114,Answer: True
+1014,114,Answer: False
+557,114,False
+785,115,False
+264,115,Answer: False
+219,115,False
+162,115,False
+776,116,Answer: False
+670,116,Answer: False
+196,116,Answer: True
+53,116,Answer: False
+332,117,False
+330,117,Answer: False
+307,117,Answer: False
+306,117,Answer: True
+332,118,False
+330,118,Answer: False
+307,118,Answer: True
+306,118,False
+119,119,Answer: False
+65,119,False
+64,119,False
+62,119,False
+999,120,Answer: False
+284,120,Answer: False
+260,120,Answer: False
+104,120,Answer: False
+553,121,Answer: False
+209,121,False
+197,121,"record 1: HP ENVY 17 Notebook PC - nw8450HP ENVY 17 Notebook PC - nw8450/ HP Envy Touchsmart Ultrabook - Intel Core i5-3230M Processor/ Windows 8/ 8GB DDR3 RAM/ NVIDIA GT640M LE Graphics Card with 2GB Dedicated GDDR5 Memory/ 750 GB Hard Drive/ DVD Super Multi Write/ HP TrueVision HD Webcam/ HP SimplePass Technology for Secure, Convenient Login/ Beats Audio for Rich, Premium Sound/ HP Imagepad for Easy Navigation and Multi-Touch Gestures/ HP CoolSense Technology/ Wireless Keyboard and Mouse Included"
+108,121,Answer: True
+414,122,False
+114,122,Answer: True
+20,122,False
+19,122,False
+869,123,"record 1: Logitech Harmony 650 Universal Remote Control - 922-004738 Logitech Harmony 650 Universal Remote Control - 922-004738/ Learning IR Technology/ One Touch Activity Buttons/ LCD Display/ Programmable Macros/ Works With TVs, Cable Boxes, VCRs, DVD Players, Game Consoles, Media Receivers And Satellite Receivers"
+858,123,False
+857,123,False
+227,123,Answer: True
+89,123,False
+922,124,False
+776,124,Answer: False
+196,124,Answer: False
+53,124,Answer: True
+799,125,False
+795,125,Answer: False
+794,125,Answer: True
+199,125,Answer: False
+1017,126,Answer: False
+1016,126,Answer: False
+1014,126,Answer: False
+121,126,Answer: True
+906,127,Answer: False
+323,127,False
+305,127,record 1: Lenovo ThinkCentre M75z Compact Business Desktop PC - 4362U1T Lenovo ThinkCentre M75z Compact Business Desktop PC - 4362U1T/ Intel Core i7-870 Processor/ 4GB DDR3 1333MHz Memory/ 500GB SATA Hard Drive/ Integrated Intel GMA 4500 Graphics/ Windows 7 Professional 64-bit Operating System/ CD/DVD Burner/ USB Keyboard and Mouse/ Black Finish
+125,127,Answer: True
+973,128,False
+804,128,False
+803,128,False
+791,128,Answer: False
+686,129,False
+585,129,False
+171,129,False
+118,129,Answer: True
+791,130,False
+200,130,Answer: False
+181,130,False
+180,130,Answer: True
+791,131,False
+200,131,Answer: True
+181,131,False
+180,131,False
+973,132,False
+574,132,Answer: False
+181,132,Answer: False
+180,132,False
+398,133,False
+219,133,False
+166,133,Answer: False
+101,133,Answer: True
+1024,134,False
+888,134,False
+375,134,False
+155,134,Answer: True
+787,135,False
+280,135,False
+191,135,False
+122,135,Answer: True
+426,136,Answer: False
+191,136,"record 1: HP Officejet J6780 All-in-One Printer - J6780 HP Officejet J6780 All-in-One Printer - J6780/ Print, Copy and Scan in One Compact Device/ Fast First Page Out: Up to 10 ipm Black/ Maximum Resolution: Up to 4800 x 1200 Optimizer Technology/ Wireless Networking/ Ethernet Connectivity/ Automatic Duplexer/ Paper Tray Capacity: Up to 250 Sheets/ USB 2"
+190,136,"False, as record 1 refers to a complete cordless phone system while record 2 is an additional handset for the KX-TGA4500B system"
+14,136,"False, the two records refer to different entities"
+329,137,False
+256,137,Answer: False
+190,137,Answer: True
+32,137,Answer: False
+532,138,"False, as the model numbers are different"
+250,138,Answer: False
+191,138,Answer: False
+146,138,Answer: True
+426,139,Answer: False
+191,139,"False, as record 1 describes a complete cordless handset with features, while record 2 is only an additional handset that requires a base unit (PANKXTG6700B) to function"
+147,139,True
+14,139,False
+391,140,"False, as the model numbers and features differ between the two records"
+254,140,False
+224,140,Answer: True
+149,140,Answer: False
+785,141,Answer: True
+766,141,Answer is False
+264,141,Answer: False
+219,141,Answer: False
+633,142,False
+604,142,False
+603,142,False
+117,142,Answer: True
+351,143,Answer: False
+159,143,False
+135,143,Answer: True
+85,143,Answer: False
+293,144,Answer: False
+11,144,False
+10,144,False
+9,144,Answer: False
+436,145,Answer: False
+421,145,False
+98,145,False
+84,145,Answer: True
+525,146,False
+332,146,Answer: False
+84,146,record 1: Sony BDZ-BPL85 Blu-ray Disc Player - BDZ-BPL85 Sony BDZ-BPL85 Blu-ray Disc Player - BDZ-BPL85/ Full HD 3D Capability/ Built-in Wi-Fi/ Streaming of Media from DLNA Compliant Devices/ USB Playback and Recording via Front USB Port/ PlayStation Now Ready/ Network Media Access Via Ethernet or Built-In Wi-Fi/ Video Upscaling to 4K Resolution with Reon-Xross Processor/ HDMI Output (1
+79,146,Answer: True
+724,147,Answer: True
+638,147,False
+437,147,"False, the two records refer to different entities"
+435,147,Answer: False
+132,147,Answer: False
+724,148,Answer: False
+132,148,Answer: True
+84,148,Answer: False
+1,148,False
+796,149,Answer: True
+795,149,record 1 and record 2 refer to different entities
+142,149,Answer: False
+141,149,False
+629,150,record 1: Toshiba Satellite Pro S500-S5380 Intel Core i7-4770HQ 2
+278,150,Answer: False
+238,150,Answer: False
+4,150,Answer: False
+731,151,Answer: False
+324,151,False
+195,151,record 1 and record 2 refer to different entities
+1,151,Answer: True
+531,152,False
+125,152,Answer: False
+85,152,"False, the second record refers to a different set of devices as it includes a DVD player and PVR (Personal Video Recorder)"
+3,152,False
+322,153,"False, although both record descriptions contain the part number M9321GB, they are not identical and refer to different products"
+317,153,False
+179,153,Answer: False
+88,153,Answer: False
+1054,154,False
+554,154,False
+446,154,Answer: False
+399,154,Answer: False
+176,155,Answer: True
+170,155,Answer: False
+62,155,Answer: False
+60,155,Answer: False
+176,156,Answer: False
+170,156,"record 1: Samsung UN48H6510FXZA Flat LED HDTV, 48"", Black (2017) Samsung UN48H6510FXZA Flat LED HDTV, 48"", Black (2017)/ UHD Processor/ Motion Rate: 1200/ Clear Action Technology/ Dimming Ultimate Black Technology/ Game Mode: Yes/ ConnectShare: Yes/ Wide Color Enhancer Plus/ Answering Machine for TV"
+167,156,Answer: True
+60,156,False
+359,157,"record 1: Logitech Harmony Elite Remote Control - 980-000342 Logitech Harmony Elite Remote Control - 980-000342/ Full Color Touch Screen Display/ Activities And Customizable Macros/ Smartphone App Compatible/ Closed Cabinet Compatibility/ Simple Setup/ Learning Capability For Over 225,00 Devices/ Harmony Hub Included Answer with True"
+176,157,False
+170,157,Answer: True
+60,157,False
+329,158,False
+285,158,False
+131,158,False
+7,158,Answer: True
+973,159,Answer: False
+804,159,False
+803,159,Answer: False
+797,159,Answer: False
+203,160,Answer: False
+182,160,Answer: True
+173,160,Record 1 and Record 2 are not referring to the same entity
+101,160,Answer: False
+415,161,Answer: True
+179,161,Answer: False
+178,161,Answer: False
+99,161,"Answer is False, as the two records describe different products"
+417,162,False
+416,162,False
+358,162,Answer: False
+178,162,False
+417,163,Answer: True
+416,163,Answer: False
+358,163,False
+173,163,"False, as the model numbers are different"
+764,164,Answer: True
+419,164,True
+184,164,Answer: False
+177,164,False
+420,165,Answer: False
+415,165,Answer: False
+178,165,Answer: True
+103,165,Answer: False
+415,166,Answer: False
+179,166,Answer: True
+103,166,record 1: Canon EF 50mm f/1
+59,166,"record 1: Toshiba Satellite A665-S7210 Toshiba Satellite A665-S7210/ Windows Vista Home Premium, 32-bit Intel Core i3-330M Processor (3"
+716,167,False
+290,167,Answer: False
+289,167,Answer: False
+37,167,Answer: True
+778,168,Answer: False
+407,168,Answer: False
+365,168,False
+295,168,Answer: True
+1015,169,Answer: False
+831,169,"record 1: Samsung 55"" Class LED ZA Series Smart TV - UN55H6500W Samsung 55"" Class LED ZA Series Smart TV - UN55H6500W/ Crystal Processor 4K/ One Remote Control/ Smart Hub/ Screen Mirroring/ Wi-Fi Built-in/ Motion Rate 1200/ Dimmable Backlight/ UHD Up scaling/ Clear Motion Rate/ USB Media Hubble Live/ Black Finish, record 2: Samsung UN55H6500 55"" 4K Ultra HD LED Smart TV (2014 Model)"
+295,169,"record 1: TP-Link TL-SG105U Ethernet Switch - 8 Port Unmanaged Network Switch - TL-SG105U TP-Link TL-SG108PE Gigabit Ethernet Switch - 8 Ports, Answer with False"
+194,169,False
+796,170,"False, the two records refer to different entities as Record 1 is for a Canon NB-5L lithium battery, specifically compatible with Canon PowerShot SD700 and Ixus 800 digital cameras, while Record 2 is for a Panasonic CGA-S007A/1B lithium ion digital camera battery, which is also a lithium ion (Li-Ion) battery but specifically for the Panasonic CGA-S007 digital camera"
+168,170,"False, the two records refer to different entities as the first record describes an Olympus lithium ion battery compatible with specific models, while the second record refers to a Panasonic lithium ion battery for a specific digital camera model"
+142,170,Answer: True
+141,170,Answer: False
+372,171,Answer: True
+142,171,False
+141,171,False
+131,171,False
+372,172,False
+142,172,Answer: False
+141,172,False
+131,172,Answer: False
+256,173,"False, the record descriptions refer to different entities"
+250,173,Answer: False
+152,173,Answer: False
+120,173,Answer: False
+293,174,False
+32,174,Answer: False
+11,174,Answer: False
+9,174,Answer: False
+270,175,Answer: False
+269,175,False
+267,175,False
+43,175,Answer: False
+293,176,Answer: False
+32,176,Answer: False
+11,176,Answer: False
+9,176,Answer: True
+969,177,False
+411,177,Answer: False
+373,177,Answer: False
+248,177,Answer: True
+411,178,Answer: False
+373,178,Answer: True
+248,178,"Both records refer to the same product, which is Microsoft Office Home and Student 2007 for Windows Vista"
+14,178,False
+337,179,Answer: False
+281,179,Answer: False
+175,179,False
+174,179,Answer: False
+337,180,Answer: False
+281,180,Answer: False
+201,180,Answer: False
+175,180,Answer: False
+710,181,False
+709,181,"False, the records refer to different entities"
+232,181,Answer: True
+120,181,Answer: False
+386,182,False
+231,182,Answer: False
+207,182,Answer: True
+139,182,False
+1035,183,Answer: True
+710,183,False
+396,183,Answer: False
+245,183,Answer: False
+951,184,Answer: False
+948,184,Answer: False
+946,184,Answer: False
+945,184,Answer: False
+1065,185,False
+1008,185,False
+395,185,Answer: True
+108,185,Answer: False
+332,186,False
+330,186,False
+307,186,Answer: False
+306,186,False
+332,187,False
+330,187,Answer: False
+307,187,Answer: False
+306,187,Answer: False
+525,188,False
+294,188,False
+40,188,False
+5,188,Answer: True
+546,189,Answer: False
+510,189,Answer: False
+508,189,Answer: False
+38,189,Answer: True
+421,190,Answer: False
+98,190,Answer: True
+84,190,Answer: False
+40,190,Answer: False
+44,191,Answer: True
+26,191,"record 1 and record 2 both refer to Sony CD players/recorders, however, they are not exactly the same product"
+12,191,False
+3,191,False
+35,192,"False, the two records refer to different entities as record 1 is for a Kenwood 6-disc CD changer and record 2 is for a Sony CD player/changer that can hold up to 5 discs at once with 32 programmable tracks"
+13,192,False
+12,192,False
+3,192,Answer: True
+572,193,False
+150,193,Answer: False
+21,193,Answer: True
+0,193,False
+26,194,False
+13,194,False
+12,194,"False, the two records refer to different entities as record 1 describes a Sony 300 Disc CD Changer (CDPCX355) while record 2 refers to a Sony CD Player/Changer (CDPCX455)"
+3,194,False
+263,195,False
+256,195,False
+33,195,Answer: True
+23,195,False
+35,196,Answer: True
+13,196,False
+12,196,False
+3,196,False
+536,197,False
+216,197,Answer: False
+215,197,Answer: False
+83,197,Answer: True
+26,198,Answer: True
+13,198,False
+12,198,False
+3,198,False
+1073,199,False
+993,199,Answer: False
+825,199,False
+133,199,Answer: True
+330,200,False
+159,200,False
+130,200,Answer: True
+85,200,Answer: False
+764,201,Answer: False
+419,201,Answer: False
+182,201,Answer: False
+103,201,Answer: False
+353,202,Answer: False
+351,202,Answer: True
+159,202,False
+85,202,Answer: False
+785,203,False
+572,203,False
+258,203,Answer: True
+40,203,False
+158,204,Answer: True
+157,204,Answer: True
+35,204,Answer: False
+31,204,Answer: False
+572,205,False
+150,205,Answer: True
+21,205,Answer: False
+0,205,False
+764,206,Answer: False
+419,206,Answer: False
+184,206,record 1: Toshiba Satellite Pro S500-S5110 15
+102,206,Answer: False
+427,207,False
+257,207,Answer: False
+230,207,Answer: False
+86,207,Answer: True
+75,208,False
+36,208,False
+18,208,Answer: False
+16,208,False
+1035,209,False
+188,209,False
+139,209,False
+46,209,Answer: True
+474,210,False
+224,210,False
+144,210,False
+6,210,Answer: True
+396,211,False
+302,211,False
+246,211,True
+245,211,False
+396,212,False
+245,212,Answer: False
+51,212,False
+39,212,False
+588,213,False
+587,213,False
+586,213,Answer: False
+262,213,Answer: True
+297,214,False
+236,214,"record 1: Dyson AM07 Cyclonic Fan Heater - AM07D5 Dyson AM07 Cyclonic Fan Heater - AM07D5/ Heats, Cooling & Fans/ Oscillates/ Turbine Head Diffuser/ Fast Heat-Up Time/ No-Touch Easy Controls/ Low Energy Consumption/ Remote Control Included/ Magnetic Heel/ White Finish"
+235,214,record 1: Panasonic TC-P58S6B Ultra HD Smart TV - TX-P58S6B Panasonic TC-P58S6B Ultra HD Smart TV - TX-P58S6B/ 4K Ultra HD Resolution/ HDR Display Technology/ Firefox Browser/ Built-in Wi-Fi/ Miracast™ Screen Sharing/ Swipe and Share™ 2
+222,214,False
+710,215,Answer: False
+709,215,False
+236,215,Answer: True
+235,215,Answer: True
+396,216,False
+386,216,False
+207,216,False
+206,216,"record 1: Lenovo ThinkPad X1 Carbon Gen 8 (20M9056) 2-in-1 Windows 10S Laptop - 20M9056 Lenovo ThinkPad X1 Carbon Gen 8 (20M9056) 2-in-1 Windows 10S Laptop - 20M9056/ Intel Core vPro M-Series Processor (8th Gen)/ 14"" FHD Touch Display/ 8 GB RAM/ 256 GB PCIe NVMe Solid State Drive/ Integrated Intel UHD Graphics 610/ Windows 10 Pro in S mode/ Backlit Keyboard/ Fingerprint Reader/ Waves MaxxAudio Premium/ ThinkShutter and ThinkPad Privacy Filter/ Carbon Black and Silver Finish"
+660,217,False
+659,217,False
+658,217,False
+657,217,False
+259,217,Answer: True
+808,218,Answer: True
+414,218,Answer: False
+310,218,False
+165,218,False
+774,219,False
+73,219,False
+68,219,Answer: True
+17,219,False
+1058,220,False
+487,220,False
+290,220,False
+16,220,"Based on the product descriptions provided, we can infer that the two records are referring to the same product as they both have the same model number (TOB165WH) and share similar features such as convection oven, broiler, toaster, LED indicators, and white finish"
+70,221,False
+67,221,False
+55,221,False
+49,221,False
+366,222,False
+234,222,False
+55,222,Answer: False
+49,222,Answer: False
+641,223,False
+428,223,Answer: True
+223,223,False
+136,223,False
+1058,224,False
+605,224,False
+75,224,Answer: True
+16,224,False
+366,225,False
+113,225,False
+49,225,False
+36,225,record 1: Dyson Airblade Handheld Complete Dual Purpose Cordless Handheld Vacuum and Bathroom Accessory Kit - DC59 Anker Dyson Airblade Handheld Complete Dual Purpose Cordless Handheld Vacuum and Bathroom Accessory Kit - DC59/ 2-in-1 Handheld Vacuum and Bathroom Accessory Kit/ Up to 20 Minutes of Runtime/ Cyclonic Action Filters Included/ Wall Mounted Docking Station/ Crevice Tool and Combination Tool Included
+598,226,False
+588,226,Answer: False
+587,226,The answer is: True
+586,226,Answer: True
+598,227,False
+588,227,"Answer: False, although both records refer to the Belkin Cush Top for laptop, they are not exactly the same product as record 1 specifies a green finish while record 2 only mentions ""Green"" without further description or model number"
+587,227,"record 1: HP Officejet J6780 All-in-One Printer - C953A HP Officejet J6780 All-in-One Printer - C953A/ Print, Copy and Scan in One Sleek Device/ Fast First Page Out (10 seconds) and up to 8 Pages Per Minute (ppm)/ Print Double-Sided with Automatic Document Feeder (ADF)/ Built-In Wi-Fi for Wireless Networking/ Mobile Printing via HP ePrint and Google Cloud Print/ Scan in Color or Black and White/ Compact Design Saves Desk Space, record 2: HP Officejet J6780 All-in-One Printer - C953B HP Officejet J6780 All-in-One Printer - C953B (Refurbished)/ Print, Copy and Scan in One Sleek Device/ Fast First Page Out (10 seconds) and up to 8 Pages Per Minute (ppm)/ Print Double-Sided with Automatic Document Feeder (ADF)/ Built-In Wi-Fi for Wireless Networking/ Mobile Printing via HP ePrint and Google Cloud Print/ Scan in Color or Black and White/ Compact Design Saves Desk Space, Answer with True"
+586,227,Answer: False
+598,228,Answer: False
+588,228,record 1: HP Deskjet J5780 All-In-One Printer - B836a HP Deskjet J5780 All-In-One Printer - B836a/ Color Inkjet Printing/ Scan and Copy Functions/ Automatic Document Feeder (ADF)/ Built-In Card Readers/ 2
+587,228,Answer: True
+586,228,Answer: False
+666,229,Answer: False
+433,229,Answer: False
+198,229,Answer: False
+96,229,Answer: True
+234,230,False
+113,230,Answer: True
+36,230,False
+19,230,False
+641,231,Answer: True
+428,231,False
+309,231,False
+136,231,False
+791,232,False
+163,232,Answer: True
+99,232,False
+89,232,Answer: False
+795,233,Answer: False
+794,233,False
+199,233,Answer: True
+69,233,"False, the first record refers to a Canon Optura/Elura accessory kit that includes a battery, carrying case, and mini DV tape, while the second record refers to a Canon battery and charger kit (specifically the Power Accessory Kit with model number 1169B001)"
+381,234,Answer: False
+331,234,False
+307,234,False
+202,234,Answer: False
+137,235,Answer: True
+32,235,False
+25,235,False
+9,235,"False, the two records refer to different entities"
+427,236,Answer: False
+230,236,Answer: False
+159,236,"Answer: False, as although both record descriptions mention the model number and some similar specifications, they are describing different aspects of the product"
+86,236,"False, the first record is for a Sony DVD/SA-CD/CD changer and the second record is for a Denon DVD player"
+612,237,False
+170,237,False
+154,237,Answer: True
+115,237,False
+414,238,False
+381,238,Answer: False
+332,238,False
+307,238,False
+525,239,False
+414,239,"False, the two records refer to different Sirius Satellite Radio products"
+401,239,Answer: True
+202,239,Answer: False
+553,240,Answer: False
+209,240,Answer: False
+197,240,Answer: True
+108,240,Answer: False
+1071,241,False
+1044,241,Answer: True
+1007,241,"record 1: Logitech Harmony One Universal Remote Control - 915001 Harmony One Universal Remote Control - 915001/ Color Touchscreen Display/ Activities and Macros/ Simple Setup/ Learning Capabilities/ Compatible with over 200,00 devices from more than 5000 brands, record 2: Logitech Harmony Remote and USB Receiver - 412700"
+409,241,False
+1048,242,False
+208,242,False
+143,242,Answer: True
+141,242,Answer: False
+997,243,"False, as the two lenses have different brands (Canon and Nikon)"
+777,243,False
+172,243,False
+148,243,Answer: False
+592,244,Answer: False
+226,244,Answer: False
+225,244,Answer: False
+153,244,Answer: True
+973,245,False
+804,245,False
+274,245,False
+169,245,Answer: True
+997,246,Answer: True
+988,246,False
+777,246,False
+172,246,False
+1009,247,False
+1005,247,False
+1004,247,False
+69,247,Answer: False
+1002,248,Answer: False
+671,248,False
+246,248,False
+245,248,False
+388,249,False
+387,249,False
+297,249,False
+271,249,False
+221,249,Answer: True
+385,250,Answer: False
+231,250,Answer: False
+207,250,"False, the records are referring to different pedestals as the model numbers are different"
+139,250,False
+302,251,Example 4303:
+246,251,False
+245,251,False
+222,251,True
+958,252,Answer: False
+662,252,Answer: True
+94,252,Answer: False
+93,252,False
+381,253,Answer: False
+332,253,Answer: False
+307,253,False
+202,253,Answer: True
+725,254,Answer: True
+612,254,False
+81,254,True
+47,254,False
+796,255,"False, as the batteries are not compatible with each other's cameras"
+168,255,Answer: True
+142,255,False
+141,255,"False, the batteries are not compatible with each other's cameras"
+799,256,Answer: False
+795,256,Answer: False
+794,256,Answer: False
+199,256,Answer: False
+997,257,"False, as the two lenses are from different brands (Canon and Nikon) and have slight differences in their specifications, such as the number of elements in the lens construction and filter size"
+988,257,False
+172,257,Answer: True
+111,257,False
+391,258,False
+282,258,False
+254,258,Answer: True
+224,258,False
+448,259,False
+391,259,Answer: True
+254,259,False
+224,259,Answer: False
+1043,260,False
+584,260,False
+193,260,Answer: True
+192,260,False
+795,261,False
+794,261,False
+584,261,Answer: False
+192,261,Answer: True
+783,262,"record 1: Logitech Harmony 650 Universal Remote Control - 965-000785 Logitech Harmony 650 Universal Remote Control - 965-000785/ One-Touch Activity-Based Control/ Full Color Graphic Display/ Advanced Macro Capabilities/ Compatibility With Over 225,00 Home Theater and Audiovisual Devices/ Learning IR Database Keeps Expanding Automatically/ Includes Universal Remote, USB Receiver, and Batteries"
+658,262,Answer: False
+657,262,Answer: False
+260,262,Answer: True
+380,263,False
+205,263,Answer: True
+204,263,False
+88,263,False
+814,264,Answer: False
+760,264,Answer: False
+189,264,Answer: True
+8,264,Answer: False
+256,265,False
+152,265,Answer: False
+120,265,Answer: False
+25,265,False
+996,266,Answer: False
+884,266,Answer: True
+823,266,False
+405,266,Answer: False
+404,266,Answer: False
+639,267,False
+623,267,False
+496,267,Answer: False
+149,267,Answer: False
+432,268,Answer: True
+92,268,Answer: False
+91,268,False
+90,268,False
+431,269,Answer: True
+92,269,False
+91,269,False
+90,269,Answer: False
+1075,270,False
+1017,270,False
+1016,270,Answer: False
+365,270,Answer: True
+205,271,False
+204,271,Answer: True
+193,271,"False, the two records refer to different entities"
+88,271,"False, as the two records refer to different products"
+764,272,Answer: True
+420,272,Answer: False
+203,272,Answer: False
+184,272,Answer: True
+525,273,Answer: False
+458,273,False
+414,273,Answer: False
+354,273,Answer: True
+285,274,Answer: False
+187,274,Answer: False
+11,274,Answer: False
+7,274,False
+474,275,False
+209,275,False
+144,275,Answer: True
+6,275,False
+281,276,False
+201,276,Answer: True
+175,276,Answer: False
+174,276,False
+337,277,False
+281,277,Answer: False
+175,277,Answer: False
+174,277,False
+774,278,False
+355,278,False
+220,278,False
+183,278,True
+760,279,False
+635,279,False
+624,279,False
+195,279,Answer: True
+779,280,"Answer: False, the two records refer to different interface cables for Pioneer products"
+422,280,False
+313,280,Answer: False
+242,280,Answer: True
+381,281,Answer: False
+369,281,False
+219,281,Answer: True
+202,281,Answer: False
+974,282,False
+217,282,Answer: False
+138,282,False
+127,282,False
+1054,283,Answer: False
+726,283,Answer: False
+446,283,False
+425,283,Answer: True
+1064,284,Answer: False
+1026,284,Answer: False
+477,284,False
+397,284,Answer: True
+1025,285,record 1: Acer C720-281T Chromebook 11
+596,285,Answer: True
+371,285,Answer: True
+233,285,Answer: False
+781,286,Answer: True
+780,286,False
+290,286,False
+258,286,False
+1025,287,Answer: False
+596,287,"record 1: Microsoft Office Home and Student 2013 for Windows - MHH18556FP Microsoft Office Home and Student 2013 for Windows - MHH18556FP/ Includes Word, Excel, PowerPoint, OneNote And Access/ Compatible With Windows XP, Vista, 7, 8 And 8"
+477,287,False
+233,287,Answer: True
+890,288,False
+789,288,Answer: True
+626,288,False
+625,288,False
+1070,289,False
+414,289,False
+352,289,Answer: True
+80,289,False
+796,290,False
+208,290,Answer: True
+143,290,Answer: False
+141,290,False
+973,291,False
+417,291,Answer: False
+416,291,Answer: False
+179,291,Answer: False
+741,292,False
+505,292,Answer: False
+491,292,Answer: True
+199,292,False
+1042,293,Answer: False
+359,293,False
+176,293,False
+60,293,False
+1046,294,Answer: True
+549,294,Answer: False
+547,294,Answer: False
+510,294,Answer: False
+328,295,Answer: True
+280,295,Answer: False
+256,295,Answer: False
+190,295,Answer: False
+328,296,Answer: False
+280,296,Answer: False
+256,296,The answers provided in the examples are as follows:
+250,296,Answer: False
+426,297,False
+400,297,Answer: False
+280,297,Answer: False
+256,297,Answer: False
+426,298,False
+400,298,record 1: Apple iPad Pro (12
+328,298,False
+280,298,Answer: False
+420,299,Answer: False
+419,299,Answer: True
+203,299,True
+184,299,Answer: False
+922,300,False
+782,300,False
+776,300,Answer: False
+392,300,False
+817,301,False
+816,301,False
+535,301,False
+323,301,Answer: False
+276,301,Answer: True
+612,302,False
+317,302,Answer: True
+154,302,False
+81,302,False
+1051,303,Answer: True
+430,303,Answer: False
+176,303,Answer: False
+62,303,Answer: False
+1051,304,False
+430,304,False
+359,304,Answer: True
+62,304,False
+973,305,False
+949,305,Answer: False
+804,305,False
+803,305,False
+1051,306,record 1 and record 2 both refer to different products
+430,306,Answer: True
+359,306,False
+62,306,False
+784,307,Answer: False
+775,307,Answer: False
+638,307,False
+537,307,False
+383,307,False
+364,308,False
+244,308,Answer: False
+243,308,Answer: True
+141,308,"False, as the two batteries are not compatible with each other's devices"
+427,309,Answer: False
+257,309,Answer: True
+230,309,Answer: False
+86,309,False
+774,310,False
+602,310,False
+220,310,Answer: True
+74,310,False
+623,311,Answer: False
+408,311,False
+285,311,False
+187,311,Answer: True
+140,312,False
+107,312,Answer: False
+66,312,Answer: True
+51,312,False
+185,313,False
+107,313,Answer: True
+66,313,Answer: False
+51,313,False
+185,314,Answer: True
+107,314,False
+66,314,False
+51,314,False
+712,315,False
+460,315,False
+247,315,"record 1: Bose QuietComfort 20 Wireless Headphones (Series II) - BHH-460 Bose QuietComfort 20 Wireless Headphones (Series II) - BHH-460/ Triple Black/ Bose Active EQ, Acoustic Noise Cancelling and Volume Optimized Soun, Bluetooth and NFC Pairing, Alexa Voice Control, Rechargeable battery provides up to 20 hours of wireless playback, Wireless convenience, including ability to switch between devices, and Near Field Magnetism (NFMI) for easy wired connection, Compatible apps for Bose Connect and Bose SimpleSync, Apple Devices with Lightning connector require Apple's Lightning to Micro-USB Adapter (sold separately), record 2: QuietComfort 35 II Wireless Headphones - Black"
+228,315,Answer: True
+633,316,False
+604,316,False
+603,316,False
+229,316,False
+633,317,False
+604,317,False
+603,317,False
+229,317,Answer: True
+712,318,False
+460,318,"False, although both grills are from the Weber brand, they have different models and features, such as the size of cooking area, number of burners, and additional features like a rotisserie burner and work surface in record 2"
+213,318,Answer: False
+210,318,"record 1: HP Deskjet F4280 All-in-One Printer - 935c HP Deskjet F4280 All-in-One Printer - 935c/ 6700 x 1200 Optical Resolution/ Color Touch Smartscreen/ Print Speed: Up To 15 Pages Per Minute (B/W) or Up To 10 Pages Per Minute (Color)/ Wireless Connectivity (Includes Built-In WiFi, Wireless Direct And WiFi Protected Setup [Wps])/ Ethernet Port/ USB Connectivity/ AirPrint Enabled/ 35 Page Automatic Document Feeder (ADF) For Scanning, Coping and Scan to Email/ Mobile Printing: Print Directly From iOS Devices or Android Devices Using HP's Easyprint App/ Ink Tank Technology: Get High-Capacity, Low-Cost Printing for Up To 2 Years With The Included Xl Cartridges (Assuming National Average Print Task According to Measures Found in HP Internal Lab Testing) - Black Color, record 2: HP Deskjet F4180 All-in-One Printer - 935a HP Deskjet F4180 All-in-One Printer - 935a/ Print Speed: Up To 16 Pages Per Minute (B/W) or Up To 12 Pages Per Minute (Color)/ Wireless Connectivity (Includes Built-In WiFi, Wireless Direct And WiFi Protected Setup [Wps])/ Ethernet Port/ USB Connectivity/ AirPrint Enabled/ Mobile Printing: Print Directly From iOS Devices or Android Devices Using HP's Easyprint App/ Ink Tank Technology: Get High-Capacity, Low-Cost Printing for Up To 2 Years With The Included Xl Cartridges (Assuming National Average Print Task According to Measures Found in HP Internal Lab Testing) - Charcoal Color"
+904,319,False
+759,319,False
+509,319,False
+286,319,Answer: True
+764,320,Answer: False
+418,320,Answer: True
+184,320,Answer: False
+102,320,Answer: False
+604,321,False
+603,321,False
+213,321,Answer: False
+212,321,True
+247,322,Answer: True
+229,322,Answer: False
+228,322,Answer: False
+213,322,Answer: False
+460,323,Answer: False
+247,323,Answer: False
+229,323,Answer: False
+213,323,Answer: True
+244,324,Answer: True
+243,324,Answer: False
+168,324,Answer: False
+141,324,"False, the two records refer to different entities as Record 1 is for a Panasonic battery and Record 2 is for a Sony battery"
+1045,325,Answer: False
+658,325,False
+372,325,False
+338,325,Answer: True
+1068,326,Answer: True
+973,326,False
+611,326,False
+574,326,False
+811,327,False
+638,327,False
+374,327,Answer: False
+8,327,False
+1045,328,Answer: True
+828,328,False
+338,328,Answer: False
+25,328,False
+1025,329,Answer: True
+1010,329,Answer: False
+371,329,False
+233,329,Answer: False
+417,330,False
+416,330,False
+182,330,"False, the two records refer to different entities"
+173,330,Answer: False
+534,331,Answer: False
+532,331,"record 1: Sony BRAVIA 40"" Class LED Rear-Lit Direct Lit TV - KDL40R312B Sony BRAVIA 40"" Class LED Rear-Lit Direct Lit TV - KDL40R312B/ Full HD Resolution (1920 x 1080)/ Direct LED Backlit for Great Viewing Angle and Less Power Consumption/ Two HDMI Inputs, PC Input, Composite Input/ USB Media Player with Playback of JPEG/MP3/AVCHD Files/ Motionflow XR 120Hz Technology/ Digital Noise Reduction/ Vivid Colour Drive II for Brighter Colours/ Clear Resolution Enhancer/ Advanced Contrast Ratio/ Slim Design for a Perfect Fit in Your Living Room/ Black Finish"
+250,331,Answer: True
+146,331,"record 1: SONY PlayStation Portable (PSP) 32GB Memory Stick PRO Duo PSP-2000 - Black PSP-2000 Sony PSP-2000 Model, record 2: Sony Playstation Portable - PSP-1004"
+796,332,False
+261,332,Answer: False
+142,332,False
+141,332,False
+639,333,False
+240,333,Answer: True
+15,333,Answer: False
+14,333,Answer: False
+954,334,Answer: False
+811,334,False
+376,334,Answer: True
+123,334,False
+817,335,Answer: False
+816,335,False
+535,335,False
+323,335,Answer: False
+276,335,Answer: False
+270,336,False
+269,336,Answer: False
+267,336,False
+266,336,Answer: True
+434,337,Answer: False
+288,337,Answer: False
+106,337,Answer: False
+100,337,Answer: False
+1017,338,Answer: False
+1016,338,Answer: False
+557,338,Answer: True
+121,338,Answer: False
+679,339,Answer: False
+677,339,Answer: False
+505,339,Answer: True
+491,339,Answer: False
+308,340,Answer: False
+289,340,Answer: False
+270,340,Answer: True
+266,340,False
+308,341,Answer: False
+289,341,Answer: True
+268,341,False
+266,341,False
+308,342,Answer: True
+289,342,Answer: False
+266,342,False
+43,342,Answer: False
+308,343,Answer: False
+289,343,False
+268,343,Answer: True
+266,343,False
+289,344,False
+269,344,Answer: False
+267,344,Answer: True
+77,344,False
+289,345,False
+269,345,Answer: True
+267,345,Answer: False
+71,345,False
+800,346,False
+722,346,False
+252,346,Answer: True
+230,346,Answer: False
+800,347,Answer: False
+257,347,Answer: False
+230,347,Answer: True
+86,347,Answer: False
+779,348,False
+421,348,Answer: True
+84,348,False
+22,348,False
+140,349,Answer: True
+129,349,False
+66,349,Answer: False
+51,349,False
+245,350,False
+107,350,False
+66,350,False
+51,350,Answer: True
+360,351,False
+172,351,False
+148,351,False
+111,351,Answer: False
+353,352,False
+351,352,False
+186,352,Answer: True
+108,352,False
+796,353,False
+208,353,Answer: False
+143,353,"False, the first record refers to the Nikon ENEL3E battery specifically, while the second record refers to the EN-EL10 battery"
+141,353,"False, the records refer to different entities as record 1 is for Panasonic digital cameras specifically DMCFZ7 and DMCFZ30, while record 2 is for Nikon digital camera EN-EL10"
+360,354,False
+172,354,False
+148,354,Answer: False
+111,354,False
+1036,355,False
+963,355,Answer: True
+282,355,Answer: False
+227,355,Answer: False
+914,356,False
+794,356,False
+186,356,False
+136,356,"record 1: Bosch GCM12SD II Cordless Lithium-Ion Brushless Jigsaw - BareTool, Model# GCM12SDII Bosch GCM12SD II 120 Volt 11 J Amp Cordless Lithium Ion Brushless Jigsaw, model: GCM12SDII/ Superior Performance With the Power of a 115V AC Jigsaw and the Convenience of a Cordless Tool/ 4 Mode Dial: 0-3 Jigsaw Mode, Orbital Sanding Mode, Swivel Bevel Mode, Electronic Speed Control Mode/ Constant Response Circuitry Regulates Speed Under Load to Maximize Run Time and Tool Life/ Soft Grip Handle Provides Comfort During Use, record 2: Bosch GCM12SDII - Power Tools"
+428,357,False
+309,357,False
+223,357,Answer: True
+140,357,False
+120,357,False
+1035,358,"False, the two records refer to different entities"
+1024,358,"record 1: LG Electronics 60"" Class (60"" Diag"
+200,358,False
+129,358,False
+1004,359,False
+873,359,False
+273,359,Answer: True
+76,359,False
+1000,360,Answer: False
+389,360,Answer: False
+278,360,False
+265,360,Answer: True
+484,361,"False, the first record describes a multifunction printer that also has fax capabilities, while the second record is for a standalone fax machine and copier"
+392,361,Answer: False
+363,361,Answer: False
+239,361,Answer: False
+968,362,Answer: True
+967,362,False
+965,362,False
+402,362,Answer: False
+638,363,False
+424,363,False
+401,363,False
+238,363,Answer: True
+851,364,Answer: False
+825,364,False
+615,364,False
+365,364,"False, the two records refer to different entities"
+536,365,False
+216,365,Answer: True
+215,365,Answer: True
+83,365,Answer: False
+993,366,False
+216,366,Answer: True
+215,366,record 1: Samsung EC850E7720W/XG Grey Digital Notebook - EC850E7720W/XG Samsung EC850E7720W/XG Grey Digital Notebook - EC850E7720W/XG/ Intel Celeron Processor M 423 1
+83,366,"record 1 and record 2 both refer to Kenwood products for connecting iPods, but record 1 is a mobile interface that is compatible with most Kenwood receivers, while record 2 is a specific adapter called the ""KCAiP300V"" for connecting an iPod directly to select Kenwood car stereos via USB"
+702,367,False
+701,367,False
+700,367,False
+300,367,Answer: True
+1002,368,record 1: HP Deskjet F4280 All-in-One Printer - B917a HP Deskjet F4280 All-in-One Printer - B917a/ 6700 x 1800 Optimized DPI/ Scan Bed Size: 8
+297,368,False
+296,368,Answer: True
+140,368,False
+1002,369,False
+297,369,False
+296,369,"False, the first record refers to an electric dryer (DLE2516W), while the second record refers to a gas dryer (DLG2526W)"
+271,369,Answer: True
+302,370,Answer: False
+301,370,Answer: False
+272,370,Answer: True
+245,370,"False, the capacities are different (2"
+638,371,False
+599,371,False
+424,371,False
+278,371,Answer: False
+639,372,Answer: False
+638,372,"False, as the first record is for a Bluetooth speaker and the second record is for stereo earphones"
+287,372,Answer: False
+8,372,Answer: False
+969,373,False
+811,373,Answer: False
+638,373,Answer: True
+537,373,False
+1073,374,Answer: True
+1008,374,Answer: False
+992,374,Answer: False
+79,374,Answer is False
+1065,375,record 1: HP Pavilion dv6520us Desktop PC - m317w HP Pavilion dv6520us Desktop PC - m317w/ Intel Core i3 Processor/ Windows 7 Home Premium/ 4GB RAM Memory/ 500GB Hard Drive/ Optical Drive (DVD Writer)/ WiFi Built-in/ Genuine Microsoft Office Home and Student 2010/ Keyboard and Mouse Included
+1008,375,False
+402,375,False
+395,375,False
+458,376,Answer: False
+424,376,Answer: False
+414,376,Answer: True
+202,376,False
+331,377,Answer: False
+330,377,Answer: True
+307,377,False
+306,377,False
+331,378,Answer: True
+330,378,Answer: False
+307,378,False
+306,378,Answer: False
+819,379,False
+760,379,False
+291,379,"record 1 and record 2 both refer to the same product, the Monster iFreePlay Cordless Headphones for iPod Shuffle"
+112,379,False
+851,380,"False, the second record refers to a different model of LaCie external hard drive as it has a smaller storage capacity and a different interface setup (triple interface vs Ethernet connectivity)"
+615,380,"record 1: LaCie Mobile Hard Drive - Rugged USB-C 1TB - SE1RJPZ-R LaCie Mobile Hard Drive - Rugged USB-C 1TB - SE1RJPZ-R/ IP68 rated protection against water, dirt, and shock (drop tested to MIL-STD-810G standards)/ 2m drop test rating/ Shock resistant up to 1 meter/ Water resistant up to 2 meters and for up to 3 hours/ Dust proof (dust never settles on the critical components inside) / USB 3"
+406,380,False
+312,380,Answer: True
+332,381,Answer: True
+331,381,Answer: False
+330,381,False
+307,381,False
+1071,382,Answer: True
+1040,382,False
+965,382,Answer: False
+402,382,Answer: False
+762,383,False
+754,383,False
+336,383,Answer: False
+256,383,record 1: Panasonic Silver Dect 6
+754,384,"record 1: Philips Norelco Multigroomer Series 5100 BeardAdvisor PrecisionPoint - PG237/PG9648 Multiblade for precise detailing, including the contours of your sideburns and below the neckline/ ComfortCut blade system for a close shave and smooth skin/ Stainless steel blades with rounded tips for added comfort/ Precision comb guard to prevent accidental cutting/ Lift & trim technology for lifting and guiding hair for a precise cut/ Dual-sided for precision edging of sideburns, mustache and above the upper lip/ Ergonomic design for easy handling and comfort/ Includes 9 attachments: Precision trimmer, Contour trimmer, Detail shaver, Stubble combs (3), Long hair comb, Cleaning brush and Storage pouch"
+390,384,Answer: True
+280,384,Answer: False
+122,384,False
+290,385,Answer: False
+269,385,False
+267,385,False
+42,385,False
+37,385,Answer: False
+420,386,Answer: False
+419,386,False
+184,386,Answer: False
+102,386,False
+618,387,False
+343,387,False
+320,387,record 1 and record 2 refer to the same entity
+278,387,Answer: False
+1054,388,False
+548,388,False
+380,388,Answer: False
+111,388,Answer is False
+906,389,"record 1 and record 2 both refer to TiVo digital video recorders, but record 1 has a larger storage capacity (up to 150 hours of HD programming) compared to record 2 (up to 20 hours in HD)"
+535,389,False
+305,389,Answer: True
+125,389,False
+973,390,False
+797,390,False
+274,390,Answer: True
+251,390,False
+968,391,Answer: False
+967,391,Answer: False
+965,391,Answer: False
+402,391,Answer: True
+1030,392,Answer: False
+670,392,Answer: False
+660,392,"False, as the first record describes a memory card and the second record describes a digital video recorder that supports various types of media cards and formats for recording different kinds of data"
+659,392,Answer: False
+1040,393,False
+972,393,Answer: True
+967,393,False
+409,393,False
+1043,394,False
+572,394,False
+489,394,Answer: False
+258,394,"False, the two records refer to different entities"
+748,395,False
+517,395,Answer: True
+516,395,False
+368,395,Answer: False
+748,396,Answer: False
+517,396,False
+516,396,Answer: True
+418,396,Answer: False
+941,397,"False, the first record describes a Canon PowerShot camera and the second record does not"
+339,397,Answer: True
+223,397,Answer: False
+18,397,False
+377,398,False
+340,398,Answer: False
+1064,398,False
+1026,398,False
+959,399,Answer: False
+484,399,Answer: False
+363,399,Answer: False
+348,399,Answer: True
+959,400,Answer: False
+484,400,Answer: False
+363,400,Answer: True
+348,400,Answer: False
+799,401,False
+795,401,Answer: False
+794,401,Answer: False
+341,401,Answer: True
+726,402,Answer: False
+554,402,Answer: True
+446,402,Answer: False
+399,402,Answer: False
+726,403,Answer: False
+554,403,Answer: False
+446,403,Answer: True
+399,403,Answer: False
+253,404,Answer: False
+251,404,Answer: False
+241,404,Answer: True
+78,404,False
+253,405,Answer: False
+251,405,Answer: True
+241,405,Answer: False
+78,405,Answer: False
+859,406,False
+810,406,False
+809,406,False
+692,406,False
+859,407,False
+810,407,False
+809,407,False
+644,407,"False, the two records refer to different entities"
+935,408,False
+838,408,False
+345,408,"record 1 and record 2 refer to different entities as record 1 includes the 28-135MM lens, while record 2 is just the camera body (Body Only)"
+342,408,Answer: False
+1055,409,False
+936,409,"False, the serial numbers of the cameras are different (50D28135 and 1901B017)"
+345,409,Answer: True
+342,409,"record 1: iPhone XS Max (64GB) - FU8NGLA/A Apple iPhone XS Max (64GB) - FU8NGLA/A A12 Bionic chip with 64-bit architecture, Neural engine, Embedded M1 motion coprocessor"
+785,410,False
+398,410,Answer: True
+166,410,Answer: False
+101,410,False
+973,411,Answer: False
+804,411,Answer: False
+803,411,Answer: False
+797,411,Answer: False
+298,412,Answer: True
+297,412,False
+296,412,False
+221,412,False
+1002,413,Answer: True
+298,413,"record 1: Toshiba Satellite Laptop - S500-S537T Toshiba Satellite Laptop - S500-S537T/ Intel Pentium Dual Core Processor T4200 (2M Cache, 2"
+297,413,record 1: Lenovo ThinkPad E580 15
+296,413,"False, as record 1 has 5 drying programs while record 2 mentions 9 drying programs"
+388,414,Answer: True
+387,414,True
+297,414,record 1: Sony PlayStation 4 Console - CUH-1215B Sony PlayStation 4 Console - CUH-1215B/ AMD Accelerated Processing Unit (APU) (x86-64) / Radeon Graphics Core / 8GB GDDR5 RAM / Built-in Wi-Fi / Supports Playstation Plus / 1TB Hard Drive Storage / USB 3
+107,414,False
+66,414,False
+301,415,Answer: False
+272,415,False
+222,415,"record 1 and record 2 both refer to LG washing machines, but record 1 has a larger capacity of 4"
+51,415,False
+302,416,record 1: TAG Heuer Men's Aquaracer Quartz Watch WAY151B
+301,416,Answer: True
+255,416,True
+206,416,"record 1: Panasonic Viera TC-L50E7B 50"" 3D LED Smart HDTV - 50LE7B Panasonic Viera TC-L50E7B 50"" 3D LED Smart HDTV - 50LE7B/ Active Shutter 3D Ready/ Built-In Wi-Fi Connectivity/ Smart TV Features/ Vivid Colour Technology/ Cinema Surround Audio/ Integrated Swivel Stand and Slim Wall-Mount Bracket Included/ Dark Grey Finish, record 2: Panasonic TC-L50E7B LED TV (50"" Diagonal) - B6T18F"
+951,417,Answer: True
+948,417,Answer: False
+946,417,"record 1: Lenovo ThinkPad X1 Carbon Gen 9 Windows Ultrabook - 20Q9004UUS ThinkPad X1 Carbon Gen 9 Windows Ultrabook - 20Q9004UUS/ Intel Quad Core i5-8265U Processor/ 8GB RAM/ 256GB SSD Storage/ Windows 10 Pro 64-bit/ Backlit Keyboard/ Fingerprint Reader/ ThinkShutter HD Webcam/ WiFi and Bluetooth Combo/ Thunderbolt 3 Ports (x2)/ USB-C Power Delivery (PD), USB-A, HDMI, Nano SIM Card Slot, Audio Jack/ Docking Station Compatibility - OneLink Plus (Optional)"
+945,417,Answer: False
+861,418,Answer: True
+860,418,record 1: Western Digital WD Green Power 3TB NAS Hard Drive - WD30EZX-00ZAW0 Western Digital WD Green Power 3TB NAS Hard Drive - WD30EZX-00ZAW0/ 7200 RPM SATA III Interface (6 Gb/s) / 3
+851,418,False
+406,418,Answer: False
+919,419,Answer: False
+772,419,Answer: False
+771,419,Answer: False
+326,419,Answer: True
+1057,420,Answer: False
+881,420,Answer: False
+864,420,Answer: False
+357,420,Answer: True
+353,421,Answer: True
+351,421,Answer: False
+130,421,False
+56,421,Answer: False
+624,422,False
+599,422,Answer: False
+545,422,False
+544,422,False
+393,422,Answer: True
+783,423,Answer: True
+658,423,False
+657,423,Answer: False
+260,423,Answer: False
+346,424,Answer: True
+186,424,Answer: False
+159,424,False
+108,424,False
+1026,425,record 1: Dell XPS M1730 Laptop - N4050 Intel Core Duo CPU (2
+477,425,Answer: True
+453,425,False
+233,425,Answer: False
+384,426,Answer: True
+347,426,Answer: False
+151,426,False
+63,426,False
+1017,427,Answer: False
+1015,427,Answer: False
+1014,427,Answer: True
+778,427,False
+826,428,False
+638,428,False
+599,428,Answer: True
+393,428,Answer: False
+442,429,False
+384,429,False
+347,429,Answer: False
+63,429,False
+973,430,False
+804,430,False
+803,430,Answer: False
+791,430,Answer: False
+796,431,"False, as the two batteries are not compatible with each other's cameras"
+364,431,Answer: True
+142,431,"False, as the two batteries mentioned are not from the same brand and model number"
+141,431,Answer: False
+350,432,Answer: True
+251,432,Answer: False
+241,432,Answer: False
+225,432,Answer: False
+592,433,Answer: False
+226,433,Answer: False
+225,433,Answer: True
+153,433,"record 1 and record 2 refer to the same entity, as both describe soft camera cases by Sony with black finishes that can hold multiple digital cameras from different manufacturers and have additional compartments for accessory storage"
+251,434,Answer: False
+226,434,Answer: True
+225,434,Answer: False
+78,434,Answer: True
+1054,435,Answer: True
+756,435,Answer: False
+726,435,Answer: False
+446,435,False
+1013,436,False
+624,436,"Record 1 refers to a complete home theater system, while Record 2 is specifically for a network media player (Sony LFV30)"
+461,436,record 1: Lenovo ThinkPad Yoga 260-13 Convertible Laptop - 80XU40C8U Lenovo ThinkPad Yoga 260-13 Convertible Laptop - 80XU40C8U/ Intel Core M-5Y11 Processor/ Windows 10 Pro/ 13
+315,436,"False, as the two records are describing different products"
+1026,437,Answer: False
+477,437,Answer: False
+453,437,Answer: True
+371,437,False
+1026,438,Answer: True
+834,438,False
+477,438,False
+453,438,"record 1: Western Digital WD20EARX Black 2TB Internal Hard Drive (Self-Encrypting) - WD20EZRX Black Western Digital WD20EARX Black 2TB Internal Hard Drive (Self-Encrypting) - WD20EARX Black, record 2: Western Digital WD20EZRZ-11P8C2 Black NVMe SSD - WDS200G3K0C-N1ES40W"
+1047,439,False
+584,439,Answer: False
+193,439,Answer: False
+192,439,Answer: True
+411,440,Answer: True
+373,440,False
+335,440,False
+248,440,False
+1002,441,Answer: True
+388,441,Answer: True
+387,441,Answer: True
+297,441,Answer: True
+296,441,Answer: False
+388,442,"Based on the provided record descriptions, to determine if they refer to the same entity or not, we need to compare their features and specifications"
+387,442,"record 1: Samsung Electronics UN55H6400F 55"" LED Smart HDTV - UN55H6400F Samsung Electronics UN55H6400F 55"" LED Smart HDTV - UN55H6400F/ 120Hz Refresh Rate/ Clear Motion Rate: 960 (Native : 720, NR x 3 : 320)/ Smart Hub/ Built-In WiFi/ Screen Mirroring/ Anynet+ (HDMI-CEC)/ Micro Dimming Ultimate/ Quad Matt Black Filter/ Dimensions (WxHxD) Without Stand: 146"
+386,442,record 1: BIC Cristal Black Ballpoint Pen - CB6 F 1 BIC Cristal Black Ballpoint Pen - CB6 F 1/ Point: Fine (F)/ Ink Color: Black (B) BIC Cristal Blue Ballpoint Pen - CB5 F 3
+385,442,"record 1: Sony 50"" BRAVIA XR-50V610C 4K Ultra HD LED TV - XBR50X850C Sony 50"" BRAVIA XR-50V610C 4K Ultra HD LED TV - XBR50X850C/ 4K Ultra HD Resolution/ Google Cast Built In/ Motionflow XR 960 Hz Refresh Rate/ Dual Database Processing/ 4K X-Reality PRO Picture Engine/ Side-Viewing Angle/ X-Protection Anti-Moisture, Anti-Dust Design/ Slim Backlight Drive Arrangement/ Android TV With Access To Apps/ Dark Silver Finish"
+388,443,record 1: TAG Heuer Aquaracer Calibre 5 Watches - WB4169 Astrale TAG Heuer Aquaracer Calibre 5 Watches - WB4169 Astrale/ Automatic Movement/ Self-winding Mechanical/ Stainless Steel Bracelet and Case with Scratch Resistant Sapphire Crystal/ Date Display/ Unidirectional Rotating Bezel/ Water Resistance to 300 Meters/ TAG Heuer Calibre 5 Automatic Movement/ Swiss Made/ Black Dial and Blue Accents
+387,443,"record 1: Bosch GCM12SD Dual-Bevel Slide Compound Miter Saw - GCM12SDC Bosch GCM12SD Dual-Bevel Slide Compound Miter Saw - GCM12SDC/ 15 Amp Motor With Constant Response Electronics/ 12"" Blade Diameter/ Horizontal And Vertical Miter Up To 60 Degrees/ Horizontal And Vertical Bevel From Zero To 49 Degrees/ Sliding Arm For Large Crown Molding/ Miter Lock System/ Soft Grip Handle/ Dual-Compound Slide System/ Square Lock Bezel Joints/ Bosch Quality Guarantee/ 3000 No Load RPMs/ 2x12' Crosscut Capacity In A Compact Design/ Accurate Markings And Laser Alignment With Light Shadow Technology"
+386,443,"record 1: Dell XPS 13 9370 Laptop - Silver PC139370-5488SLV-PUS Dell XPS 13 9370 Laptop - Silver PC139370-5488SLV-PUS/ Intel Core i7-8550U Processor/ 16GB of 2666MHz LPDDR3 Memory (Soldered)/ 512GB PCIe NVMe Solid State Drive (PCIe, NVMe, M"
+385,443,record 1: Apple iPhone XR RED 64GB - MPN: A2072R-A RED Apple iPhone XR RED 64GB - MPN: A2072R-A RED/ 6
+420,445,True
+419,445,Answer: True
+184,445,Answer: False
+177,445,Answer: False
+864,446,False
+792,446,False
+647,446,Answer: True
+357,446,False
+253,447,Answer: True
+251,447,Answer: False
+241,447,False
+78,447,Answer: False
+426,448,Answer: True
+280,448,Answer: False
+191,448,Answer: False
+190,448,"record 1: Logitech Harmony One Universal Remote Control - 922-004706 Logitech Harmony One Universal Remote Control - 922-004706/ Allows Control Of Up To Eight Home Theater Components/ One-Touch Activation/ Learning Capabilities/ LCD Display/ Programmable Macros/ Infrared And RF Communication/ Black Finish, record 2: Logitech Harmony One Universal Remote Control - 922-004610"
+400,449,Answer: True
+256,449,Answer: False
+190,449,Answer: False
+32,449,False
+921,450,False
+731,450,False
+543,450,False
+408,450,Answer: True
+1029,451,Answer: True
+739,451,record 1: Panasonic Blu-ray Player with Built-in Wi-Fi - DMP-BWT70 Panasonic Blu-ray Player with Built-in Wi-Fi - DMP-BWT70/ Progressive Scan to Enhance Image Quality/ Advanced Graphics Engine (VYPG) for Superior Color and Clarity/ Built-In Wi-Fi Connectivity (802
+738,451,False
+735,451,"record 1: Dell XPS M1730 Core Duo T7600 Intel Turbo Memory Notebook PC - D620 Dell XPS M1730 Core Duo T7600 Intel Turbo Memory Notebook PC - D620/ 17"" WXGA+ Display/ Windows Vista Home Premium Edition/ 2GB DDR3 SDRAM/ Intel Core Duo Processor T7600 (2"
+424,452,"record 1: Bose QuietComfort 35 II Wireless Headphones - 770846-1100 Bose QuietComfort 35 II Wireless Headphones - 770846-1100/ Volume-Optimized EQ and Triple Black Finish, record 2: Bose QuietComfort 35 II Gamma Gray Wireless Headphones - 770846-1100"
+369,452,Answer: True
+202,452,Answer: False
+161,452,Answer: False
+424,453,False
+381,453,Answer: True
+368,453,Answer: False
+367,453,Answer: False
+414,454,Answer: False
+381,454,Answer: False
+368,454,Answer: False
+367,454,Answer: True
+401,455,Answer: False
+381,455,Answer: False
+368,455,Answer: True
+367,455,Answer: False
+525,456,Answer: False
+401,456,False
+354,456,False
+264,456,False
+888,457,"record 1: Canon PIXMA MG6320 All-In-One Photo, Copy & Fax Machine - MP780 Canon PIXMA MG6320 All-In-One Photo, Copy & Fax Machine - MP780/ Up to 9600 x 2400 Optical Resolution/ Color Copier/ Scanner with Easy-PhotoPrint and Borderless Printing/ Fax Machine with Simultaneous Dual Speed Receiving/ Built-In Card Slots (MS/PRO/SM/xD)/ Black Finish, record 2: Canon PIXMA MG630 All-in-One Photo Printer - MP780 Canon PIXMA MG630 All-in-One Photo Printer - MP780/ Up to 9600 x 2400 Optical Resolution/ Color Copier/ Scanner with Easy-PhotoPrint and Borderless Printing/ Fax Machine with Simultaneous Dual Speed Receiving/ Built-In Card Slots (MS/PRO/SM/xD)/ Black Finish"
+758,457,Answer: True
+381,457,False
+202,457,Answer: False
+973,458,False
+804,458,False
+803,458,"False, the two cases are different and have been assigned different product codes (2349B001 vs"
+797,458,"False, as the second record describes a case for a specific model (Canon PSC-1000) while the first record is more general and compatible with Canon Digital ELPH cameras in general"
+770,459,False
+627,459,False
+626,459,False
+625,459,Answer: True
+627,460,False
+626,460,Answer: True
+625,460,Answer: False
+541,460,False
+627,461,Answer: True
+626,461,False
+625,461,Answer: False
+114,461,False
+977,462,False
+976,462,"False, the two records refer to different Apple products"
+975,462,False
+311,462,Answer: True
+902,463,False
+901,463,False
+823,463,False
+370,463,Answer: True
+859,464,Answer: False
+540,464,False
+321,464,Answer: False
+319,464,Answer: True
+631,465,False
+629,465,"False, the two records refer to different entities as record 1 is a Polk Audio 5"
+361,465,Answer: True
+105,465,Answer: False
+631,466,False
+466,466,"False, as the first record describes a pair of all-weather speakers (NS-AW390BL), while the second record is for a single powered subwoofer (YST-FSW100)"
+361,466,Answer: False
+105,466,Answer: True
+748,467,Answer: False
+321,467,Answer: True
+319,467,"record 1: Samsung LCD TV, Model UN55D650 - UN55D650X Samsung LCD TV, Model UN55D650X/ 1920 x 1080 Resolution/ 3 HDMI and Component Video Inputs (1 Front)/ USB to View Photos/ Media Playback via USB (DivX, Xvid, AVI, MKV, JPEG)/ PC Input (VGA)/ Ethernet Connection for Apps and Services Access (WiFi Built-in)/ 60Hz Refresh Rate/ Digital TV Reception (Clear QAM and Unencrypted ATSC)/ 2 Channel Stereo Speakers with 15W Power Output (Total 30W)"
+164,467,"False, as the two records refer to different products"
+1015,468,Answer: False
+778,468,Answer: True
+344,468,Answer: False
+194,468,False
+968,469,Answer: False
+553,469,Answer: False
+209,469,Answer: False
+197,469,"False, as the second record describes a specific accessory for the first device (Logitech Harmony RF Extender) and does not refer to the same entity as the first record (Logitech Harmony 1000 Silver Touch Screen Remote Control)"
+458,470,Answer: True
+424,470,Answer: False
+414,470,"record 1: Samsung 32-Inch LED Dynamic Color HDTV - UN32EH5057W/ Built-in TV Tuner/ Motion Enhancer Image Processing/ Digital AV Inputs (HDMI, PC in/ Component)/ Dual USB 2"
+202,470,False
+784,471,False
+638,471,False
+537,471,Answer: True
+383,471,Answer: False
+1018,472,Answer: True
+365,472,False
+344,472,Answer: False
+295,472,Answer: False
+1017,473,Answer: False
+1016,473,"record 1: Logitech Harmony 686 Universal Remote Control - H686 Logitech Harmony 686 Universal Remote Control - H686/ Full-Color LCD Display/ Learning Color Touchscreen/ Programmable Messages and Macros/ Compatible with Over 225,00 Home Theater and A/V Devices/ Wireless USB Receiver Included"
+1014,473,Answer: False
+1013,473,Answer: True
+851,474,False
+615,474,Answer: True
+406,474,Answer: False
+312,474,"Record 1 and Record 2 refer to different entities as Record 1 has FireWire 800/FireWire 400 connectivity, while Record 2 only has USB 2"
+851,475,False
+615,475,Answer: False
+406,475,Answer: True
+312,475,Answer: False
+366,476,Answer: True
+113,476,False
+55,476,False
+49,476,False
+1017,477,Answer: True
+1016,477,"False, the two records are for different types of USB adapters"
+1014,477,Answer: False
+1013,477,False
+822,478,Answer: True
+291,478,False
+202,478,False
+112,478,False
+763,479,False
+263,479,Answer: False
+33,479,Answer: False
+23,479,Answer: True
+964,480,Answer: False
+763,480,Answer: False
+263,480,Answer: False
+33,480,False
+440,481,Answer: True
+113,481,Answer: False
+75,481,False
+36,481,False
+1058,482,False
+487,482,Answer: True
+75,482,False
+16,482,Answer: False
+239,483,"False, the two records refer to different entities"
+234,483,Answer: True
+55,483,False
+49,483,False
+999,484,Answer: True
+660,484,False
+659,484,False
+284,484,False
+104,484,False
+1027,485,Answer: True
+997,485,Answer: False
+667,485,Answer: False
+172,485,False
+1042,486,False
+303,486,Answer: True
+277,486,False
+50,486,False
+396,487,record 1: Sony SRS-XB31 Portable Bluetooth Speaker - Black Sony SRS-XB31 Portable Bluetooth Speaker - Black/ PartyChain and PartyBooster Technology/ Waterproof and Dustproof (IP67) Rating/ Wireless Party Chain with Up to 100 Available Speakers/ Live Sound Mode and Extra Bass/ Up To 24 Hours of Battery Life/ NFC and Bluetooth Connectivity/ Built-In Microphone for Conference Calls and Answering Calls from a Smartphone/ Splashproof Flasher Lights Add to the Party Mood
+245,487,"False, the second record refers to a different brand and model"
+206,487,"record 1: HP Officejet J6870 All-in-One Printer with Ethernet, 4-Color Inkjet Printing, Scanning and Copying - K5192A HP Officejet J6870 All-in-One Printer with Ethernet, 4-Color Inkjet Printing, Scanning and Copying - K5192A/ 35 Pages Per Minute (B&W)/ 20 Pages Per Minute (Color)/ 200 Sheet Capacity Tray/ Print, Copy, Scan And Fax/ Ethernet Connectivity/ Wireless Ready With Optional HP Wi-Fi USB Dongle (Not Included)/ AirPrint, Google Cloud Print And Mopria Compatible/ 250 X 600 Optimized DPI/ Black Finish"
+46,487,False
+1029,488,False
+951,488,Answer: False
+946,488,Answer: False
+945,488,Answer: False
+888,489,Answer: True
+822,489,False
+758,489,False
+381,489,False
+553,490,Answer: False
+209,490,Answer: False
+197,490,"record 1: Samsung SyncMaster B270HDM Series Monitor - LB270HDM Samsung SyncMaster B270HDM Series Monitor - LB270HDM/ 27"" Widescreen Full HD LED Backlight Display/ Digital Signage Solution with Embedded Media Player/ Built-In USB Hub for Easy Connectivity/ Slim Design for Space Conservation/ Black Finish"
+108,490,Answer: False
+861,491,"False, as the storage capacity is different (250GB for record 1 and 320GB for record 2)"
+860,491,Answer: True
+851,491,False
+406,491,False
+851,492,False
+654,492,Answer: True
+406,492,False
+312,492,"False, as while both products are from LaCie and have external storage capabilities, they are different models with different interface options (record 1 has a triple interface for PC/Mac/USB 2"
+457,493,False
+452,493,Answer: True
+450,493,False
+449,493,Answer: False
+1056,494,False
+457,494,"False, as the model numbers are different (HF10 and HF100)"
+452,494,False
+449,494,Answer: True
+1010,495,Answer: False
+703,495,Answer: False
+451,495,Answer: False
+450,495,False
+1056,496,"record 1: Bosch GCM12SD II Cordless Slider - BareTool BOSCH GCM12SD II Cordless Slider - BareTool/ 4-Pole, 12-Amp Motor (Brushless)/ 11"" Slide Length/ 360° Handle Rotation/ Soft Grip Handles/ Parallel Guide/ Electronic Cell Protection (ECP)/ Automatic Speed Control/ No Load Speed: 0 - 5800 RPM/ 2"
+457,496,Answer: True
+452,496,False
+449,496,Answer: True
+1004,497,False
+456,497,Answer: True
+455,497,Answer: False
+454,497,Answer: False
+1004,498,False
+456,498,Answer: False
+455,498,Answer: False
+454,498,Answer: False
+1004,499,False
+796,499,False
+456,499,Answer: False
+454,499,"False, as a digital camera and a flash memory camcorder are not necessarily the same entity"
+559,500,Answer: False
+523,500,Answer: True
+501,500,Answer: False
+459,500,Answer: False
+800,501,Answer: False
+427,501,Answer: True
+257,501,False
+230,501,False
+787,502,Answer: False
+754,502,Answer: False
+390,502,Answer: False
+280,502,False
+593,503,Answer: False
+533,503,Answer: True
+532,503,Answer: False
+190,503,Answer: False
+593,504,Answer: True
+532,504,Answer: False
+250,504,False
+190,504,Answer: False
+787,505,Answer: False
+280,505,Answer: False
+256,505,Answer: False
+191,505,"record 1: Panasonic DMP-B15 Bluetooth Portable CD Player - DMP-B15EB Panasonic DMP-B15 Bluetooth Portable CD Player - DMP-B15EB/ Built-In Bluetooth Technology/ Auxiliary Input For MP3 Players Or Computers/ AC Power Supply Or 6 C Batteries/ One Touch Play (OTP) And Pause/ Programmable Recording Function For CD-R/ CD-RW Disks/ USB Direct Printing Of Text Information/ USB Direct Printing Of Album Art/ Digital Output (Coaxial, Optical) And Headphone Jack/ Remote Control Included/ Black Finish"
+1064,506,Answer: True
+477,506,False
+453,506,False
+397,506,Answer: False
+1026,507,"False, as the first record describes a specific type of card (Compact Flash) while the second record describes both an SDHC card and a card reader"
+834,507,Answer: False
+828,507,Answer: True
+453,507,"False, as the first record describes a specific type of memory card (Compact Flash) while the second record describes both a memory card (SDHC) and a card reader"
+1072,508,Answer: False
+583,508,Answer: False
+582,508,Answer: False
+277,508,Answer: True
+633,509,False
+604,509,False
+603,509,False
+249,509,"record 1: Canon EOS-M5 Mirrorless Digital Camera - Body Only (Black) Canon EOS-M5 Mirrorless Digital Camera - Black (Body Only) - 2430C018 Canon EOS-M5 Mirrorless Digital Camera - Black (Body Only) - 2430C018/ DIGIC 7+ Image Processor/ ISO 100-25600 (Expandable to 51200)/ Full HD 60p/ Multi Shot Mode for 4x Cropping and 14 fps Capture Rate/ Built-In Wi-Fi, NFC and Bluetooth Connectivity/ Time-Lapse Movie Recording/ Silent Shooting Mode/ Small Body Size/ EF-M Mount Compatible with All EF-M and EF Lenses (Optional) - Black"
+633,510,False
+604,510,False
+603,510,Answer: False
+175,510,False
+633,511,False
+605,511,Answer: False
+604,511,Answer: True
+603,511,False
+633,512,False
+605,512,record 1: Whirlpool Duet Front Loading Washer - WFW8700FW/ High Efficiency Front-Load Washer/ Capacity of 5
+604,512,"record 1: HP Deskjet F4180 All-in-One Printer - A629A HP Deskjet F4180 All-in-One Printer - A629A/ 4"" Color Touch Screen/ Easy Set Up with Automatic Document Feeder and Wireless Connectivity/ Print, Scan, Copy, Email and Fax/ Compact Design for Home or Small Business/ High-Speed USB Connectivity, record 2: HP Deskjet F4180 - A629A"
+603,512,False
+633,513,Answer: True
+605,513,False
+604,513,False
+603,513,False
+1071,514,Answer: False
+1040,514,Answer: True
+972,514,False
+409,514,False
+836,515,False
+669,515,False
+668,515,False
+621,515,Answer: True
+933,516,False
+746,516,Answer: False
+597,516,Answer: False
+465,516,False
+512,517,Answer: False
+493,517,Answer: False
+492,517,"False, the two records refer to different products from Elgato"
+354,517,Answer: False
+1067,518,Answer: False
+512,518,False
+493,518,Answer: False
+492,518,Answer: False
+904,519,True
+759,519,Answer: True
+515,519,False
+378,519,Answer: False
+1012,520,False
+378,520,Answer: False
+286,520,False
+283,520,Answer: True
+904,521,False
+759,521,False
+515,521,False
+378,521,Answer: True
+888,522,Answer: False
+807,522,Answer: True
+758,522,"record 1: Logitech Harmony Touch Edition Universal Remote Control - 659-0112 Logitech Harmony Touch Edition Universal Remote Control - 659-0112/ One-Touch Activity Buttons/ Full-Color LCD Touchscreen Display/ Included USB Cable/ Programmable Macros/ Sleek Design/ IR and RF Extender Included/ White Finish, record 2: Logitech Harmony Touch Edition Universal Remote Control - 659-0112"
+381,522,Answer: False
+521,523,"False, as the first camera is a Nikon Coolpix S210 Plum with 8"
+520,523,True
+519,523,"record 1 and record 2 refer to the same entity (Nikon CoolPix S550), therefore, the answer is True"
+518,523,"record 1: HP Officejet J5780 All-in-One Printer - 5780A HP Officejet J5780 All-in-One Printer - 5780A/ Wireless Printing, Scanning and Copying/ Color Touchscreen/ Print Resolution up to 4800 x 1200 Optimized Dpi/ Print Speed: Up to 20 Pages per Minute (ppm)/ Scan Size: Letter (8"
+865,524,False
+863,524,Answer: False
+520,524,Answer: False
+519,524,"Answer: The record descriptions refer to the same entity, as both records describe the Nikon CoolPix S550 digital camera with a black finish and similar features such as 10 megapixels, optical zoom lens, electronic VR image stabilization, and graphite black finish"
+521,525,Answer: False
+520,525,Answer: False
+519,525,Answer: False
+518,525,Answer: False
+865,526,False
+520,526,Answer: False
+519,526,Answer: False
+518,526,Answer: False
+764,527,Answer: True
+419,527,Answer: False
+184,527,Answer: False
+177,527,Answer: False
+110,528,False
+94,528,False
+93,528,False
+90,528,False
+992,529,False
+488,529,Answer: True
+486,529,"False, the two records refer to different camera models"
+485,529,False
+992,530,Answer: False
+982,530,False
+486,530,Answer: False
+485,530,Answer: True
+992,531,Answer: True
+575,531,False
+486,531,"False, as the model numbers are different and the finish is also different (blue in record 1 vs"
+485,531,Answer: False
+992,532,Answer: False
+942,532,False
+486,532,Answer: True
+485,532,Answer: False
+669,533,Answer: False
+668,533,Answer: False
+598,533,Answer: True
+163,533,Answer: False
+524,534,"Answer: False, as Record 1 is a DVD recorder and Record 2 is a DVD player/recorder, although they both have the Toshiba DR410 model number and some similar features"
+513,534,"False, as record 1 is a combination of a DVD recorder and VCR, while record 2 is only a DVD player and recorder with upconversion capabilities"
+512,534,False
+511,534,"Both records refer to a Toshiba DVD player with upconversion capabilities, specifically up to 1080p resolution"
+800,535,record 1: HP Pavilion 17x Computer Desktop - m7235f HP Pavilion 17x Computer Desktop - m7235f/ Intel Core i3-4330 Processor/ 8GB DDR3L Memory/ 1TB Hard Drive/ NVIDIA GeForce GT 630 Graphics Card/ Windows 8
+524,535,"record 1: LG Electronics 27"" Class Full HD LED Monitor - 27MK400H-P LG Electronics 27"" Class Full HD LED Monitor - 27MK400H-P/ Sleek and Modern Design/ Full HD Resolution/ LED Backlight Technology/ Dynamic Contrast Ratio of 5 Million:1/ Integrated Speakers/ Super Energy Saving Plus (Eco) Feature/ Easy Pix Maestro II Software/ Black Finish"
+514,535,Answer: False
+513,535,Answer: True
+515,536,False
+514,536,"False, as the first record describes a device that is both a DVD recorder and a VCR combinaton, while the second record only mentions it as a DVD player and recorder with a built-in digital tuner"
+512,536,False
+509,536,False
+904,537,False
+515,537,False
+514,537,Answer: True
+512,537,False
+829,538,Example 4303:
+524,538,False
+513,538,"record 1 and record 2 both refer to the same product, so the answer is: True"
+511,538,Answer: True
+959,539,"False, the two records refer to different Canon PIXMA printers"
+484,539,Answer: False
+363,539,False
+348,539,False
+405,540,Answer: True
+404,540,Answer: False
+226,540,False
+225,540,False
+1012,541,record 1 and record 2 are not directly comparable as they refer to different Sharp AQUOS models with different screen sizes (42' vs
+985,541,"False, the two records refer to different models of Sharp TVs"
+559,541,Answer: False
+501,541,Answer: True
+442,542,record 1: JBL Flip 5 Waterproof Portable Bluetooth Speaker - Black (Renewed) JBL Flip 5 Waterproof Portable Bluetooth Speaker - Black (Renewed)/ Wireless Bluetooth Streaming/ Up to 12 Hours of Playtime/ PartyBoost/ IPX7 Waterproof/ Voice Assistance Enabled/ Compatible with Siri and Google Now/ 20W Output
+441,542,Answer: False
+439,542,Answer: True
+438,542,"Both records refer to the same model, the Sony HDRSR10/HDRSR11 High Definition Hard Disk Drive Handycam Camcorder"
+1073,543,False
+698,543,"False, the two records refer to different entities as record 1 describes a Bluetooth headset while record 2 describes a digital USB PC headset"
+525,543,False
+123,543,False
+558,544,Answer: False
+500,544,Answer: True
+497,544,Answer: True
+495,544,Answer: False
+855,545,Answer: False
+558,545,"Answer: False, as the first record describes a specific model (TH50PZ850U) while the second record only provides the brand and size of the TV (Panasonic Viera TH-42PZ85U)"
+502,545,Answer: True
+498,545,"record 1: Samsung 37"" LCD Flat Panel TV In Black - UN37B450 Samsung 37"" LCD Flat Panel TV In Black - UN37B450/ 16:9 Aspect Ratio/ 1366 x 768 Native Resolution/ PC Inputs/ VGA, DVI and Component Video Inputs/ Digital Noise Reduction/ USB Port for Media Playback/ AVLINK HDAVI Control/ Built-In Speakers/ Wall Mountable/ Black Finish, record 2: Samsung UN32B550AF LED Backlit LCD HDTV (Black) - UN32B550AF"
+855,546,"record 1: Sony Vaio Pro 13"" Touchscreen Laptop in Red - SVP13112CXB Sony Vaio Pro 13"" Touchscreen Laptop in Red - SVP13112CXB/ Windows 8/ Intel Core i5-4200U Processor/ 4GB DDR3L Memory/ 128GB Solid State Drive/ Full HD Multi Touch Display/ USB 3"
+558,546,Answer: True
+504,546,Answer: True
+500,546,Answer: False
+855,547,Answer: False
+558,547,Answer: False
+503,547,Answer: True
+499,547,Answer: False
+855,548,Answer: False
+753,548,Answer: False
+653,548,"Both records refer to the same entity, as they both describe Panasonic TH50PZ800U and TH-42PZ80U, which are different model numbers for the same product - a 50' or 42' Panasonic VIERA plasma flat panel HDTV with similar features"
+558,548,False
+855,549,"False, the two records describe different Panasonic TV models"
+558,549,Answer: False
+504,549,Answer: False
+500,549,Answer: True
+855,550,Answer: False
+558,550,Answer: False
+503,550,Answer: False
+499,550,Answer: True
+502,551,Answer: False
+498,551,Answer: True
+497,551,Answer: False
+495,551,Answer: True
+800,552,Answer: False
+325,552,Answer: False
+257,552,Answer: False
+252,552,"False, although both recordings describe a DVD/VHS combo player, they are not referring to the same product as the first recording specifically mentions SLVD380P and includes features such as multi-brand TV remote control and line input recording, while the second recording refers to RDRVXD655 and includes features such as 14"
+725,553,False
+631,553,"record 1: HP Officejet Pro 8100 All-in-One Printer - J6938A HP Officejet Pro 8100 All-in-One Printer - J6938A/ Color Touchscreen Display/ Print, Copy and Scan/ 4-Tank Ink System/ Print Speeds Up to 20 Pages Per Minute (Black) and Up to 20 Pages Per Minute (Color)/ Copy Speeds Up to 15 Copies Per Minute (Simplex)/ Scan Document Speeds Up to 8 Pages Per Minute (Simplex)/ Memory Card Slots (x2)/ 3 Year Warranty/ Black Finish"
+629,553,False
+81,553,False
+796,554,False
+168,554,Answer: False
+142,554,"record 1: Panasonic Digital Camera Battery - CGAS007A1B Panasonic Digital Camera Battery - CGAS007A1B/ Lithium Ion Type/ For Digital Camera DMCTZ1 And DMCTZ3,"
+141,554,Answer: False
+731,555,Answer: False
+324,555,Answer: True
+230,555,Answer: False
+159,555,Answer: False
+769,556,False
+731,556,False
+711,556,False
+629,556,Answer: True
+1070,557,False
+1051,557,False
+726,557,False
+352,557,False
+999,558,record 1: Memory Stick PRO DUO adaptor for CompactFlash slot
+670,558,Answer: False
+660,558,Answer: False
+659,558,False
+104,558,False
+382,559,Answer: True
+336,559,False
+150,559,False
+5,559,False
+974,560,Answer: False
+540,560,"False, the two records refer to different entities as the first record is for a Samsung Hi Definition Conversion DVD Player (model: DVD1080P8) and the second record is for a Denon Blu-ray Disc Player (model: DVD-2500BTCI)"
+257,560,Answer: False
+230,560,Answer: False
+1027,561,"False, as the second record refers to a different product altogether"
+475,561,False
+444,561,Answer: True
+443,561,record 1 and record 2 refer to the same entity (Sony Silver Cyber-Shot 7
+897,562,Answer: False
+685,562,"False, as the first record describes a Sony Black 13"
+444,562,False
+443,562,False
+1012,563,"True, as both records refer to Sharp AQUOS LCD TVs with a resolution of 1920 x 1080 and the brand name Sharp"
+559,563,record 1 and record 2 refer to different entities
+501,563,"record 1: Samsung Galaxy Tab A7"" WiFi + LTE Android Tablet - SM-T575NZBAXSG Samsung Galaxy Tab A7"" WiFi + LTE Android Tablet - SM-T575NZBAXSG/ 7"" WXGA Display with TFT Technology/ 32GB Storage Capacity/ 2GB RAM Memory/ 8MP Rear Camera and 5MP Front Camera/ Wi-Fi Connectivity/ Up to 13 Hours of Continuous Use/ Android OS Operating System/ LTE Enabled for Mobile Broadband Internet Access/ White Finish"
+459,563,Answer: True
+468,564,Answer: False
+465,564,record 1 and record 2 refer to different entities
+463,564,Answer: True
+442,564,Answer: False
+469,565,Answer: False
+468,565,record 1 and record 2 refer to different entities
+465,565,Answer: True
+438,565,"record 1 and record 2 both refer to Sony camcorders, but they are not the same model"
+469,566,"record 1 and record 2 both refer to Sony camcorders, but record 1 is specifically a high definition DVD handheld camcorder (HDRUX10), while record 2 is the DCR-SR85 digital camcorder"
+468,566,Answer: True
+465,566,Answer: False
+438,566,"record 1 and record 2 both refer to Sony camcorders, but they are not the same model"
+469,567,Answer: False
+442,567,"record 1: Philips Hue White and Color Ambiance LED Starter Kit - 455063 Phillips Hue White and Color Ambiance LED Starter Kit - 455063/ Up to 80 color options and all shades of white light/ Wireless connection via ZigBee or by using the Philips Hue Bridge (sold separately)/ Includes four Philips Hue White and Color Ambiance LED bulbs, a power supply and a bridge/ Control your lights with the Philips Hue app on your smartphone or tablet, Apple HomeKit, Amazon Alexa, Google Assistant, Microsoft Cortana, or voice control with Amazon Echo or Google Nest devices (sold separately)/ Expand your Philips Hue system with up to 50 Philips Hue bulbs/ Step by step installation/ Works with Apple HomeKit for seamless integration with other Apple HomeKit enabled products/ 10 year warranty, record 2: Phillips Hue Starter Kit - White and Color Ambiance LED Smart Bulb Set - 455063"
+439,567,Answer: False
+438,567,Answer: False
+442,568,Answer: False
+441,568,"Answer: Both records refer to the same entity, therefore the answer is True"
+439,568,Answer: False
+438,568,Answer: False
+469,569,Answer: False
+449,569,Answer: False
+442,569,Answer: True
+438,569,"Record 1 and Record 2 both refer to the same product, the Sony HDRSR10/HDR-HC9 High Definition Handycam Camcorder, so the answer is: True"
+882,570,Answer: False
+573,570,Answer: True
+345,570,False
+342,570,False
+1004,571,Answer: True
+796,571,Answer: False
+795,571,False
+141,571,"False, the two records refer to different entities as record 1 is for Panasonic digital cameras and record 2 is for a Canon camcorder battery"
+854,572,Answer: False
+595,572,Answer: False
+594,572,Answer: False
+142,572,Answer: False
+611,573,Answer: False
+574,573,Answer: True
+225,573,Answer: False
+78,573,Answer: False
+882,574,False
+667,574,False
+622,574,Answer: True
+573,574,Answer: False
+882,575,Answer: True
+667,575,"Answer: Same entity, as both records refer to the Sony DSLR-A350 camera with a 18-70mm zoom lens"
+573,575,Answer: False
+443,575,False
+882,576,"record 1 and record 2 are referring to the same entity, as they both describe the Sony Alpha Digital SLR camera model DSLRA350, although one includes just the camera body (no lens) while the other comes with an 18-70mm zoom lens"
+667,576,Answer: True
+622,576,False
+573,576,False
+1012,577,"record 1 and record 2 both refer to Sharp TVs, but record 1 is the LC42D85U model specifically, whereas record 2 provides more general information about a Sharp TV model (LC-37D64U)"
+559,577,Answer: True
+523,577,Answer: False
+501,577,Answer: False
+802,578,Answer: False
+723,578,Answer: False
+616,578,False
+566,578,False
+801,579,False
+723,579,False
+619,579,False
+616,579,False
+571,579,Answer: False
+566,579,False
+565,579,False
+515,579,Answer: True
+801,580,False
+723,580,False
+619,580,False
+616,580,False
+571,580,False
+566,580,False
+565,580,False
+515,580,Answer: True
+546,581,Answer: True
+510,581,Answer: False
+508,581,Answer: False
+38,581,Answer: False
+1046,582,False
+549,582,Answer: True
+547,582,Answer: False
+86,582,False
+1046,583,Answer: False
+549,583,Answer: False
+547,583,Answer: True
+86,583,False
+800,584,Answer: False
+620,584,"False, the two records refer to different entities"
+257,584,Answer: False
+230,584,Answer: False
+800,585,False
+620,585,"False, the first record is for a Samsung Black DVD/VHS Combo Recorder and the second record is for a Panasonic DMR-EZ28K DVD Player/Recorder"
+257,585,Answer: False
+230,585,Answer: False
+800,586,"False, as the two records describe different products"
+620,586,"False, the two records refer to different entities"
+257,586,Answer: False
+230,586,Answer: False
+800,587,False
+620,587,"False, as the two record descriptions refer to different brands (Samsung and Panasonic) and have differences in their features"
+257,587,Answer: False
+230,587,False
+986,588,Answer: False
+978,588,False
+522,588,Answer: True
+509,588,Answer: False
+986,589,Answer: True
+978,589,Answer: False
+891,589,record 1: Panasonic Viera TH-P42GT50 Plasma TV - TH-P42GT50B Panasonic Viera TH-P42GT50 Plasma TV - TH-P42GT50B/ 768x1080 Full High Definition Resolution/ Wide Color Viewing Technology/ 3D Y/C Signal Inputs/ Built-In DVI Interface/ 2 HDMI Cable Terminals/ V
+539,589,Answer: False
+467,590,Answer: False
+466,590,Answer: True
+464,590,Answer: True
+278,590,Answer: False
+467,591,record 1 and record 2 both refer to Yamaha speaker systems designed for outdoor use in varying weather conditions
+466,591,Answer: True
+464,591,Answer: True
+278,591,False
+467,592,Answer: True
+466,592,Answer: False
+464,592,record 1: Audi B8 2
+278,592,False
+880,593,False
+788,593,Answer: False
+786,593,Answer: False
+443,593,False
+980,594,Answer: False
+854,594,Answer: False
+595,594,Answer: False
+594,594,Answer: False
+995,595,Answer: False
+980,595,Answer: False
+854,595,Answer: False
+594,595,Answer: False
+869,596,Answer: True
+227,596,False
+14,596,Answer: False
+8,596,False
+901,597,False
+520,597,Answer: False
+483,597,Answer: True
+172,597,False
+673,598,"False, although both televisions have a screen size of 26 inches and a resolution of 1366 x 768p, they are different models from different brands (Sony vs Panasonic)"
+523,598,"False, the two records refer to different entities as record 1 is for a Sharp Aquos 37' LCD HDTV and record 2 is for a Panasonic VIERA TC-26LX85 26' LCD TV"
+506,598,Answer: True
+497,598,False
+855,599,False
+755,599,"Answer: False, as the second record only provides a shorter description of the same product (TC-32LZ800) listed in the first record"
+753,599,False
+558,599,False
+498,599,False
+855,600,Answer: False
+559,600,False
+558,600,Answer: False
+507,600,Answer: True
+1000,601,False
+389,601,Answer: True
+278,601,False
+265,601,Answer: False
+766,602,Answer: True
+756,602,Answer: False
+554,602,Answer: False
+446,602,Answer: False
+611,603,Answer: False
+592,603,Answer: True
+574,603,Answer: True
+78,603,Answer: False
+611,604,Answer: True
+592,604,Answer: False
+574,604,Answer: True
+78,604,Answer: False
+686,605,Answer: False
+585,605,Answer: True
+171,605,Answer: False
+118,605,Answer: False
+686,606,Answer: True
+585,606,"False, the two records refer to different Sony tripods with different model numbers and extensions"
+171,606,Answer: False
+118,606,Answer: False
+995,607,Answer: False
+980,607,False
+854,607,Answer: False
+595,607,Answer: False
+362,608,Answer: True
+216,608,Answer: False
+202,608,False
+79,608,Answer: False
+660,609,Answer: False
+659,609,Answer: False
+658,609,Answer: False
+657,609,Answer: False
+892,610,False
+768,610,Answer: False
+767,610,Answer: True
+737,610,Answer: False
+1067,611,Answer: True
+77,611,False
+71,611,False
+43,611,False
+903,612,Answer: False
+896,612,Answer: False
+768,612,Answer: False
+737,612,Answer: True
+896,613,Answer: False
+768,613,Answer: True
+767,613,Answer: False
+737,613,"record 1: Lenovo IdeaPad U310 Ultrabook - Black Lenovo IdeaPad U310 Ultrabook - Black, Intel Core i5-3217U Processor (3M Cache, 1"
+593,614,Answer: False
+532,614,Answer: True
+250,614,Answer: False
+190,614,Answer: False
+941,615,Answer: False
+879,615,False
+788,615,False
+786,615,Answer: True
+999,616,False
+405,616,Answer: False
+404,616,Answer: True
+104,616,record 1 and record 2 are referring to different entities
+685,617,False
+475,617,False
+444,617,"False, the two records refer to different Sony digital cameras"
+443,617,Answer: False
+485,618,False
+475,618,False
+444,618,Answer: False
+443,618,Answer: True
+1027,619,False
+475,619,Answer: True
+444,619,False
+443,619,False
+656,620,Answer: True
+532,620,Answer: False
+400,620,Answer: False
+190,620,Answer: False
+532,621,Answer: False
+400,621,Answer: False
+250,621,Answer: False
+190,621,Answer: False
+762,622,"record 1: Brother MFC-J570DW All-In-One Printer - MFC-J570DW Brother MFC-J570DW All-In-One Printer - MFC-J570DW/ Print, Scan, Copy, Fax/ Print Resolution 4800 x 1200 Optimized DPI/ Up To 20 Pages Per Minute (B/W)/ Up To 10 Pages Per Minute (Color)/ Scanner Resolution up to 1200 x 1200 Optimal DPI (Color)/ USB Direct Print, Scan & Copy/ One-Touch Eco! Button/ Simplex / Duplex Capable/ 25 Page ADF (Automatic Document Feeder)/ Paper Tray: Up To 251 Sheets/ Maximum Paper Size: Letter/ Legal/ A4/ B5/ Paper Weight: Max"
+747,622,"record 1: Bosch GCM12SD II 120 Volt 12 Amp SDS Plus Corded Hammer Drill - HD12V-09 (Baretool) Bosch GCM12SD II 120 Volt 12 Amp SDS Plus Corded Hammer Drill - HD12V-09, record 2: Bosch RHS181 1-1/4"" Hex Impact Driver (Baretool) - HDH181"
+400,622,"record 1: Audi R8 Spyder V10 Quattro - BF5DZA6AUAAU Audi R8 Spyder V10 Quattro - BF5DZA6AUAAU/ 10-Cylinder Engine/ All Wheel Drive/ Automatic Transmission/ Gray Metallic Exterior/ Black Leather Interior, record 2: Audi R8 Spyder V10 Quattro - BF5DZA6AUAAU Audi R8 Spyder V10 Quattro - BF5DZA6AUAAU/ 10-Cylinder Engine/ All Wheel Drive/ Automatic Transmission, Answer with True"
+250,622,record 1: Panasonic LUMIX DMC-G7 Mirrorless Camera - DMCCG7MK Panasonic LUMIX DMC-G7 Mirrorless Camera - DMCCG7MK/ 4K Video Recording/ Post Focus Photography/ High Resolution Mode/ 16 Megapixel Micro Four Thirds Sensor/ Live View Finder/ Tiltable Touchscreen Display/ Built-In Wi-Fi Connectivity/ Microphone and Headphone Jacks/ Interval Shot Function/ Flash Hot Shoe/ Compact Size and Lightweight Body
+747,623,Answer: False
+400,623,False
+280,623,Answer: False
+256,623,False
+664,624,Answer: False
+614,624,Answer: True
+190,624,Answer: False
+32,624,False
+664,625,Answer: False
+613,625,Answer: True
+190,625,Answer: False
+32,625,False
+747,626,Answer: True
+328,626,Answer: False
+280,626,Answer: False
+256,626,Answer: False
+747,627,Answer: False
+534,627,Answer: True
+400,627,Answer: False
+256,627,Answer: False
+664,628,Answer: True
+256,628,Answer: False
+190,628,False
+32,628,Answer: False
+762,629,Answer: False
+664,629,Answer: False
+532,629,Answer: False
+400,629,Answer: False
+677,630,False
+536,630,Answer: True
+246,630,False
+245,630,False
+157,631,False
+35,631,Answer: False
+31,631,Answer: True
+12,631,False
+989,632,False
+936,632,"False, the first record refers to a Canon camera and the second record refers to an Olympus camera"
+879,632,Answer: False
+538,632,Answer: True
+861,633,False
+860,633,False
+410,633,Answer: False
+311,633,False
+1039,634,"False, as although both TVs are made by Samsung and have similar features such as Full HD resolution, auto motion plus, and digital tuner capabilities, they have different model numbers (LN46A850 and LN46A650) indicating that they refer to different entities"
+844,634,Answer: False
+665,634,False
+568,634,Answer: True
+616,635,Answer: False
+571,635,True
+567,635,False
+566,635,Answer: False
+565,635,Answer: True
+933,636,False
+746,636,False
+597,636,Answer: False
+468,636,Answer: False
+981,637,"False, as the model numbers are different (LN52A850 and LN52A650)"
+846,637,False
+665,637,False
+569,637,Answer: True
+713,638,Answer: False
+589,638,Answer: False
+257,638,Answer: False
+230,638,False
+708,639,Answer: False
+583,639,Answer: True
+582,639,False
+581,639,Answer: False
+800,640,False
+722,640,"False, the two records refer to different Samsung DVD/VHS players"
+620,640,Answer: False
+427,640,Answer: False
+992,641,"False, as the two records refer to different models of Canon digital cameras"
+575,641,Answer: True
+486,641,False
+485,641,False
+992,642,False
+576,642,Answer: True
+486,642,False
+485,642,"False, the two records refer to different camera models"
+997,643,False
+988,643,False
+798,643,False
+777,643,Answer: True
+713,644,False
+711,644,Answer: False
+635,644,False
+589,644,Answer: True
+616,645,Answer: False
+571,645,Answer: False
+566,645,Answer: True
+565,645,Answer: False
+616,646,Answer: False
+571,646,Answer: True
+568,646,False
+566,646,Answer: False
+565,646,Answer: False
+725,647,Answer: True
+612,647,False
+337,647,False
+81,647,Answer: False
+708,648,Answer: False
+583,648,Answer: False
+582,648,Answer: True
+581,648,Answer: False
+1055,649,Answer: False
+838,649,Answer: False
+490,649,Answer: False
+483,649,Answer: False
+1055,650,Answer: False
+838,650,Answer: False
+490,650,Answer: True
+483,650,Answer: False
+634,651,Answer: True
+619,651,"False, the two records refer to different models of Samsung TVs"
+580,651,Answer: False
+578,651,False
+546,652,Answer: False
+510,652,Answer: True
+508,652,Answer: False
+38,652,False
+546,653,Answer: False
+510,653,"record 1: Whirlpool WFW8500XZ Front Loading Washer in White - WFW8500XZ Whirlpool WFW8500XZ Front Loading Washer in White - WFW8500XZ/ 27 Cubic Feet Capacity/ SteamPac Technology (Sanitizes Odors and Removes Wrinkles)/ Smart Care System/ All Steel Basket/ AccuLoad System/ Dual Action Agitator/ White Finish, record 2: Whirlpool WFW8500XZ Front Loading Washer - WFW8500XZ"
+508,653,Answer: True
+38,653,False
+981,654,"False, as the sizes of the TVs are different (record 1 is a 52' TV and record 2 is a 40' TV)"
+665,654,False
+649,654,Answer: False
+567,654,Answer: True
+634,655,False
+619,655,Answer: True
+616,655,False
+566,655,Answer: False
+708,656,Answer: False
+583,656,"False, the records refer to different Samsung plasma TV models with different model numbers (PN50A450 and PN50A550)"
+582,656,Answer: False
+581,656,Answer: True
+660,657,Answer: True
+659,657,Answer: False
+658,657,Answer: False
+657,657,Answer: False
+660,658,False
+659,658,False
+658,658,False
+657,658,Answer: True
+660,659,False
+659,659,Answer: True
+658,659,Answer: False
+657,659,Answer: False
+660,660,False
+659,660,False
+658,660,Answer: True
+657,660,Answer: False
+859,661,False
+790,661,False
+692,661,"False, as the two record descriptions refer to different brands and models"
+644,661,False
+469,662,Answer: True
+451,662,Answer: False
+442,662,False
+438,662,Answer: False
+802,663,False
+634,663,False
+616,663,Answer: False
+580,663,Answer: True
+848,664,Answer: False
+837,664,Answer: False
+669,664,Answer: True
+668,664,True
+842,665,Answer: False
+792,665,Answer: False
+669,665,Answer: False
+668,665,Answer: True
+968,666,False
+967,666,Answer: True
+965,666,False
+402,666,False
+741,667,Answer: True
+677,667,Answer: False
+505,667,False
+491,667,False
+802,668,False
+634,668,False
+579,668,Answer: True
+578,668,Answer: False
+1012,669,"False, the two records refer to different entities as record 1 describes a Sharp LCD HDTV with specific features and model number (LC42D85U), while record 2 is for a Coby Electronics LCD TV with a smaller screen size (10"
+990,669,"Example 4303: Coby Black 15' Widescreen Flat Panel LCD HDTV - TFTV1514, record 2: Coby Electronics TF-TV1022 10"
+932,669,Answer: True
+501,669,"False, the two records refer to different entities"
+968,670,Answer: False
+967,670,False
+965,670,Answer: True
+402,670,Answer: False
+753,671,Answer: False
+708,671,Answer: False
+653,671,Answer: True
+558,671,Answer: False
+859,672,False
+790,672,"False, as the receivers have different brand names (Sony vs Yamaha)"
+692,672,"False, as while both receivers support similar audio formats, they are different products from different brands"
+644,672,"False, as although both receivers support similar audio formats, they are different products from different brands"
+741,673,False
+679,673,"record 1: Dell Latitude E6410 Laptop - E6410 Dell Latitude E6410 Laptop - E6410/ Intel Core i5-2430M Processor (3M Cache, 2"
+677,673,"record 1: Bose QuietComfort 25 II Wireless Headphones - 768455-1310 Bose QuietComfort 25 II Wireless Headphones - 768455-1310/ Bluetooth and NFC Pairing/ Triple Black Finish, record 2: Bose QuietComfort 25 II Wireless Headphones - 768455-1110 Answer with True"
+676,673,Answer: True
+802,674,Answer: False
+801,674,False
+610,674,Answer: False
+607,674,Answer: True
+759,675,False
+723,675,Answer: True
+559,675,Answer: False
+501,675,Answer: False
+960,676,Answer: True
+359,676,Answer: False
+119,676,Answer: False
+60,676,Answer: False
+883,677,False
+430,677,False
+154,677,False
+119,677,False
+693,678,Answer: False
+617,678,Answer: False
+591,678,Answer: False
+590,678,"Answer: False, as the model numbers are different although the product descriptions seem similar"
+693,679,Answer: False
+617,679,Answer: False
+591,679,Answer: True
+590,679,Answer: False
+802,680,False
+801,680,Answer: False
+634,680,False
+578,680,Answer: True
+802,681,False
+801,681,Answer: True
+616,681,False
+578,681,"False, as the model numbers are different (LN19A450 vs"
+802,682,False
+610,682,Answer: True
+607,682,Answer: False
+578,682,Answer: False
+802,683,Answer: True
+801,683,Answer: False
+610,683,Answer: False
+607,683,Answer: False
+619,684,False
+617,684,False
+616,684,Answer: True
+566,684,False
+708,685,Answer: False
+634,685,False
+608,685,Answer: True
+583,685,Answer: False
+773,686,False
+713,686,Answer: False
+711,686,Answer: False
+589,686,Answer: False
+337,687,Answer: False
+201,687,Answer: False
+175,687,"False, the two records are referring to different products as record 1 is for a wood veneer finish TV stand (SWP48) from the Avalon Series, while record 2 is for an ABS60 TV stand in black with a wood finish"
+174,687,Answer: False
+819,688,Answer: False
+640,688,False
+639,688,False
+636,688,False
+812,689,Answer: False
+640,689,False
+639,689,False
+636,689,False
+818,690,Answer: False
+814,690,Answer: True
+639,690,Answer: False
+274,690,False
+813,691,Answer: False
+640,691,False
+639,691,Answer: False
+636,691,False
+818,692,Answer: False
+815,692,Answer: False
+640,692,Answer: False
+639,692,Answer: False
+636,692,Answer: True
+818,693,False
+640,693,Answer: True
+639,693,Answer: False
+636,693,Answer: False
+815,694,Answer: True
+640,694,Answer: False
+639,694,Answer: False
+636,694,Answer: False
+818,695,Answer: False
+814,695,Answer: False
+640,695,False
+639,695,Answer: True
+529,696,Answer: False
+528,696,Answer: False
+527,696,Answer: True
+86,696,False
+572,697,Answer: True
+555,697,False
+150,697,False
+0,697,Answer: False
+809,698,False
+609,698,False
+589,698,False
+462,698,Answer: True
+967,699,False
+965,699,False
+409,699,False
+318,699,Answer: False
+770,700,False
+158,700,False
+157,700,Answer: True
+3,700,False
+1039,701,False
+844,701,Answer: False
+665,701,Answer: False
+648,701,Answer: True
+1049,702,Answer: False
+820,702,Answer: False
+807,702,False
+5,702,Answer: False
+713,703,False
+589,703,False
+257,703,Answer: False
+230,703,Answer: False
+635,704,False
+545,704,Answer: False
+544,704,Answer: True
+543,704,Answer: False
+1049,705,False
+820,705,Answer: True
+760,705,Answer: False
+291,705,False
+802,706,Answer: False
+665,706,False
+616,706,"False, the two records describe different Samsung HDTV models"
+580,706,"False, the two records refer to different Samsung TV models"
+679,707,Answer: False
+677,707,Answer: True
+676,707,False
+358,707,False
+790,708,False
+692,708,False
+644,708,False
+609,708,Answer: True
+790,709,"False, the first record refers to model STRDG920 and the second record refers to model STRDG720"
+692,709,Answer: False
+644,709,Answer: True
+609,709,False
+427,710,"False, the two records refer to different entities"
+257,710,Answer: False
+230,710,Answer: False
+86,710,Answer: False
+1006,711,Answer: False
+256,711,Answer: False
+190,711,Answer: False
+32,711,Answer: False
+722,712,False
+540,712,Answer: False
+427,712,False
+230,712,False
+781,713,Answer: False
+780,713,Answer: True
+408,713,Answer: False
+40,713,False
+862,714,False
+745,714,Answer: True
+520,714,"False, the two records refer to different Nikon digital cameras"
+519,714,False
+981,715,Answer: False
+665,715,Example 4303:
+649,715,Answer: True
+567,715,Answer: False
+612,716,Answer: True
+154,716,False
+48,716,False
+47,716,False
+859,717,False
+790,717,False
+692,717,False
+644,717,False
+981,718,Answer: False
+846,718,"False, the two records refer to different Samsung HDTVs"
+665,718,Answer: True
+569,718,Answer: False
+685,719,"False, the two records are referring to different Sony digital cameras"
+475,719,False
+444,719,False
+443,719,"False, the first record describes a Sony Silver Cyber-Shot digital camera with a 7"
+703,720,Answer: True
+620,720,False
+452,720,False
+88,720,False
+1032,721,False
+713,721,Answer: False
+635,721,Answer: True
+589,721,Answer: False
+1043,722,Answer: True
+646,722,False
+645,722,False
+199,722,False
+773,723,False
+722,723,Answer: True
+620,723,record 1: Canon PowerShot A330 Digital Camera - 2054C01 Canon PowerShot A330 Digital Camera - 2054C01/ 16 Megapixels/ SD Card Slot/ Macro Mode/ Smooth Autofocus In Video Shooting/ DIGIC 3 C
+540,723,Answer: False
+1061,724,False
+541,724,"record 1: Canon PIXMA MP530 Borderless Photo All-In-One Printer With CD Writer - CP400BK Canon PIXMA MP530 Borderless Photo All-In-One Printer With CD Writer - CP400BK/ Up to 2100 x 1100 Optimized DPI Resolution/ Direct Printing from Digital Cameras, Memory Cards and USB Drives/ BorderFree Technology for 5x6"", 4x6"" and 3"
+526,724,Answer: False
+195,724,False
+394,725,Answer: False
+313,725,Answer: True
+44,725,Answer: False
+26,725,False
+875,726,False
+435,726,Answer: False
+158,726,False
+44,726,False
+875,727,False
+436,727,False
+158,727,False
+44,727,False
+731,728,False
+472,728,Answer: True
+467,728,"False, the record descriptions refer to different entities"
+466,728,"False, the records refer to different entities"
+1054,729,Answer: False
+756,729,Answer: False
+725,729,Answer: False
+570,729,Answer: True
+765,730,Answer: False
+693,730,Answer: True
+649,730,Answer: False
+648,730,False
+590,730,Answer: False
+948,731,Answer: True
+947,731,Answer: False
+946,731,record 1: Samsung Spinpoint F1 EH101LJ35 160GB SATA II Hard Drive - MH101MB/ 160 GB Capacity/ SATA-II Interface (3 Gb/s)/ 8 MB Buffer Memory/ Slim 9
+85,731,False
+708,732,Answer: True
+583,732,False
+582,732,Answer: False
+581,732,Answer: False
+744,733,Answer: True
+743,733,Answer: True
+558,733,Answer: False
+504,733,Answer: False
+500,733,"False, the records refer to different entities"
+779,734,Answer: False
+436,734,False
+413,734,False
+242,734,False
+779,735,Answer: False
+422,735,Answer: True
+413,735,False
+242,735,False
+875,736,False
+436,736,Answer: True
+158,736,Answer: False
+44,736,False
+437,737,record 1 and record 2 are referring to different entities
+435,737,Answer: False
+423,737,Answer: False
+79,737,Answer: False
+855,738,Answer: False
+744,738,Answer: True
+743,738,"Answer: False, as although both records describe Pioneer plasma TVs, they refer to different model numbers (PDP5020FD and PDP-6020FD)"
+558,738,Answer: False
+427,739,Answer: False
+257,739,Answer: False
+230,739,Answer: False
+86,739,Answer: False
+655,740,False
+448,740,record 1: Acer C7 Chromebook - CB5-311-T9B0 Acer C7 Chromebook - CB5-311-T9B0/ Intel Celeron Dual Core Processor R1830M/ Chrome OS Operating System/ 2GB DDR3 Memory/ 320 GB SSD Storage Capacity/ USB 2
+313,740,False
+40,740,False
+437,741,Answer: False
+158,741,False
+44,741,False
+26,741,False
+329,742,False
+147,742,False
+32,742,Answer: False
+9,742,False
+329,743,"False, the first record describes a 2-line integrated corded phone system while the second record describes a single-line corded telephone with a keypad and LCD display"
+147,743,False
+32,743,Answer: False
+9,743,Answer: False
+1033,744,False
+974,744,False
+713,744,Answer: False
+589,744,False
+545,745,Answer: True
+544,745,Answer: False
+543,745,Answer: False
+542,745,"False, the two records refer to different Panasonic home theater systems, although they do share some similarities such as a Kelton subwoofer and compatibility with iPods"
+713,746,"False, the two records refer to different entities"
+589,746,"False, the two records refer to different home theater systems"
+560,746,Answer: True
+230,746,Answer: False
+713,747,Answer: False
+589,747,Answer: False
+257,747,Answer: False
+230,747,Answer: False
+530,748,Answer: False
+528,748,Answer: True
+527,748,Answer: True
+86,748,Answer: False
+530,749,Answer: True
+529,749,Answer: False
+527,749,Answer: False
+86,749,Answer: False
+561,750,Answer: True
+257,750,Answer: False
+230,750,Answer: False
+86,750,Answer: False
+688,751,False
+687,751,False
+487,751,"False, the two records are not referring to the same entity as Record 1 describes a specific model (TOB195) of a stainless steel convection toaster oven by Cuisinart, while Record 2 only mentions the total capacity of an LG branded appliance"
+107,751,False
+688,752,False
+687,752,False
+487,752,False
+107,752,False
+688,753,False
+687,753,False
+487,753,False
+107,753,False
+740,757,record 1: Nikon D3400 Digital SLR Camera - D3400 Nikon D3400 Digital SLR Camera - D3400/ APS-C DX Format CMOS Image Sensor and Expeed Image Processing Engine/ ISO 100-12800 (Expandable to 25600)/ NIKKOR AF-P DX 18-55mm f/3
+697,757,False
+301,757,False
+272,757,False
+740,758,Answer: True
+702,758,Answer: True
+696,758,"record 1: Sharp Aquos LED 58"" Class (57"
+691,758,Answer: False
+700,759,False
+694,759,"record 1: HP Officejet J6780 All-in-One Printer - J6780 HP Officejet J6780 All-in-One Printer - J6780/ Wireless Networking and EasyTask 5 Software/ Automatic Duplex Printing/ Print, Copy and Scan in One Compact Design/ Up to 20 Pages Per Minute Black Printing/ Up to 15 Pages Per Minute Color Printing/ AirPrint Compatible/ Mobile Printing with HP ePrint4/ USB Connectivity and Duplexer/ Black Finish"
+674,759,False
+235,759,False
+740,760,Answer: True
+697,760,Answer: False
+300,760,False
+107,760,False
+733,761,Answer: True
+732,761,Answer: True
+730,761,Answer: False
+729,761,False
+733,762,Answer: False
+732,762,Answer: True
+730,762,Answer: False
+356,762,False
+355,762,False
+327,763,False
+68,763,False
+39,763,"False, as the second record only provides the brand name and model number for a dishwasher, while the first record provides additional features and specifications"
+17,763,False
+729,764,Answer: False
+728,764,Answer: False
+356,764,False
+355,764,False
+729,765,record 1: Vizio SB3620 2
+728,765,Answer: False
+356,765,False
+355,765,False
+720,766,False
+718,766,False
+717,766,False
+290,766,False
+690,767,False
+689,767,False
+687,767,False
+290,767,False
+690,768,Answer: False
+689,768,Answer: True
+688,768,Answer: False
+687,768,Answer: True
+712,773,"record 1: Toshiba 46"" Class LED TV - 46LF710U Toshiba 46"" Class LED TV - 46LF710U/ Smart TV/ Wi-Fi Enabled/ DLNA Certified/ Vivid Color Processing/ Dual Play Functionality/ USB Media Player/ Full HD 1080p Resolution/ Direct Channel Changing/ Wall Mountable"
+710,773,"record 1: Toshiba 32"" Class LED 720p HDTV - 32LF621U Toshiba 32"" Class LED 720p HDTV - 32LF621U/ Direct-lit LED Backlight/ Full HD Resolution/ Dual Core Celeron Processor/ PC Mode with USB Media Player and Ethernet Connectivity/ Built-in Wi-Fi Enabled for Streaming Content/ ClearRes XPand Technology/ Easy-Slide Stand Design/ Slim 0"
+709,773,Answer: True
+690,773,False
+689,773,False
+480,776,Answer: True
+479,776,Answer: False
+444,776,False
+443,776,"False, the first record refers to a Sony Silver Cyber-Shot 7"
+685,777,"False, the two records refer to different Sony digital cameras"
+479,777,Answer: True
+444,777,"False, the two records refer to different Sony digital cameras"
+443,777,"False, the two records refer to different camera models as record 1 is for Sony Silver Cyber-Shot DSCW120 and record 2 is for Sony Cyber-shot DSC-W150"
+685,778,False
+482,778,Answer: True
+444,778,False
+443,778,"False, the two records refer to different camera models as the first record is for Sony Silver Cyber-Shot 7"
+868,779,Answer: False
+611,779,False
+339,779,False
+89,779,False
+867,780,Answer: False
+611,780,False
+339,780,False
+89,780,False
+1061,781,"record 1: Bose QuietComfort 25 Acoustic Noise Cancelling Headphones - 0697400  Bose QuietComfort 25 Acoustic Noise Cancelling Headphones - 0697400/ Proprietary Acoustic Noise Cancelling Technology/ Lightweight Stainless Steel Headbands And Alcantara-covered Earcups/ Auxiliary Input For Use With MP3 Players/ NFC (Near Field Communication) Pairing With Select Bluetooth Devices/ Rechargeable Battery Provides Approximately 20 Hours Of Use From A Single Charge, record 2: Bose QuietComfort 25 II Acoustic Noise Cancelling Headphones - 769740-11"
+769,781,False
+711,781,False
+316,781,Answer: True
+937,782,False
+770,782,Answer: True
+713,782,False
+618,782,False
+718,783,False
+717,783,False
+290,783,False
+41,783,"False, as the capacities are different (2"
+720,784,Answer: True
+718,784,Answer: True
+717,784,Answer: True
+42,784,False
+1065,787,Answer: False
+1008,787,Answer: False
+402,787,False
+395,787,Answer: False
+1031,788,Answer: False
+817,788,Answer: False
+816,788,Answer: False
+703,788,Answer: False
+1031,789,"record 1: Philips Norelco Multigroomer 5100 - QG5720/49 Philips Norelco Multigroomer 5100 - QG5720/49/ Multi-Flex Heads for Different Lengths of Hair/ Trimmer and Styler Attachments/ Wet & Dry Use/ Includes 8 Precision Combs for Perfect Lengths/ Ergonomic Grip Design for Maximum Comfort, record 2: Philips Norelco Multigroomer Series 3100 - MG5720/49 Philips Norelco Multigroomer Series 3100 - MG5720/49"
+817,789,Answer: False
+816,789,Answer: False
+703,789,Answer: False
+765,790,Answer: True
+693,790,Answer: False
+591,790,Answer: False
+590,790,"record 1: Apple iPod Touch (16 GB) - MD790LL/A Apple iPod Touch (16 GB) - MD790LL/A/ Lightning Connector/ A8 Chip/ 12MP iSight Camera/ 4-inch Retina Display/ Silver Finish, record 2: Apple iPod Touch (16GB) - MD829LL/B Apple iPod Touch (16GB) - MD829LL/B/ Lightning Connector/ A8 Chip/ 8MP iSight Camera/ 4-inch Retina Display/ Space Gray Finish"
+1061,791,False
+541,791,record 1 and record 2 refer to the same product
+526,791,False
+40,791,False
+1004,792,Answer: False
+966,792,Answer: False
+772,792,Answer: True
+771,792,Answer: False
+966,793,False
+772,793,Answer: False
+771,793,Answer: False
+454,793,Answer: False
+889,794,False
+655,794,Answer: True
+572,794,False
+40,794,False
+782,795,Answer: True
+776,795,"False, the first record is for a Canon ink and paper set (model KP-36IP), while the second record is for a Canon printer (model CP760)"
+392,795,"False, the first record is for a camera and printer bundle (Canon Easy Photo Pack), while the second record is just for a specific model of Canon's dye sublimation photo printer (SELPHY CP760)"
+93,795,False
+715,796,False
+714,796,False
+42,796,False
+41,796,Answer: False
+718,797,False
+717,797,False
+42,797,Answer: True
+41,797,Answer: True
+1029,798,False
+1015,798,Answer: True
+1014,798,False
+778,798,Answer: False
+841,799,Answer: False
+839,799,Answer: False
+837,799,Answer: False
+836,799,Answer: False
+835,799,Answer: True
+849,800,Answer: False
+848,800,Answer: False
+845,800,Answer: False
+842,800,Answer: True
+849,801,Answer: False
+848,801,Answer: True
+845,801,False
+842,801,"record 1 and record 2 refer to the same product, therefore the answer is:"
+837,801,Answer: False
+842,802,Answer: False
+837,802,Answer: False
+836,802,Answer: False
+792,802,Answer: True
+841,803,Answer: True
+839,803,Answer: False
+837,803,Answer: False
+836,803,Answer: False
+839,804,Answer: True
+837,804,Answer: False
+836,804,Answer: False
+835,804,Answer: False
+848,805,Answer: False
+841,805,False
+837,805,Answer: True
+836,805,Answer: False
+841,806,Answer: False
+837,806,Answer: False
+836,806,Answer: True
+793,806,Answer: True
+849,807,Answer: False
+848,807,Answer: False
+843,807,Answer: True
+842,807,Answer: False
+839,807,Answer: False
+847,808,Answer: False
+841,808,Answer: False
+840,808,Answer: True
+839,808,Answer: False
+837,808,Answer: False
+836,808,Answer: False
+841,809,False
+839,809,Answer: False
+837,809,False
+836,809,Answer: True
+849,810,Answer: False
+848,810,Answer: False
+845,810,Answer: True
+842,810,Answer: False
+849,811,Answer: False
+848,811,Answer: False
+847,811,Answer: True
+845,811,Answer: False
+842,811,Answer: False
+849,812,Answer: True
+848,812,Answer: False
+845,812,Answer: False
+842,812,Answer: False
+1051,813,False
+748,813,Answer: True
+516,813,False
+321,813,False
+785,814,False
+166,814,Answer: True
+156,814,False
+101,814,False
+952,815,Answer: False
+811,815,False
+761,815,Answer: True
+376,815,Answer: False
+769,816,Answer: True
+731,816,"False, the two records refer to different Sony home theater systems"
+713,816,False
+589,816,False
+800,817,False
+752,817,Answer: False
+325,817,"record 1: Bose QuietComfort 25 Acoustic Noise Cancelling Headphones - Model 70142-B2 Bose QuietComfort 25 Acoustic Noise Cancelling Headphones - Model 70142-B2/ Triple Black Finish, record 2: Bose Quiet Comfort 25 Acoustic Noise Cancelling Headphones (Black) - Model 70859-B2"
+86,817,Answer: False
+1025,818,Answer: False
+828,818,False
+596,818,Answer: True
+371,818,Answer: False
+707,819,"record 1 and record 2 both refer to Sony BRAVIA M-Series LCD TVs, but they have different screen sizes (32' vs"
+678,819,"True, both records are referring to Sony BRAVIA LCD TVs, specifically models KDL32L4000 and KDL26M4000 from the L-Series and M-Series lines, respectively"
+673,819,Answer: True
+672,819,Answer: False
+962,820,"record 1: Apple MacBook Pro (13-inch, 8GB RAM, 256GB SSD) - A1341 Apple MacBook Pro (13-inch, 8GB RAM, 256GB SSD) - A1341/ Intel Core i5 Processor/ 8GB DDR3 Memory/ 256GB PCIe-Based Flash Storage/ Retina Display/ Backlit Keyboard/ Force Touch Trackpad/ Built-In Battery/ macOS Catalina/ Space Gray Finish, record 2: Apple MacBook Pro (13-inch, 8GB RAM, 256GB SSD) - MQD32"
+950,820,True
+773,820,False
+736,820,Answer: True
+634,821,False
+619,821,False
+616,821,False
+559,821,False
+974,822,False
+870,822,record 1: Samsung Spinpoint F1 HD502LJ 500GB Internal Hard Drive - MH502JA Samsung Spinpoint F1 HD502LJ 500GB Internal Hard Drive - MH502JA/ SATA II Interface (3Gb/s)/ 7200 RPM/ 32MB Buffer Memory/ Hot Plug Capable/ Slim 9
+853,822,"record 1: Samsung Galaxy Note 9 SM-N950U Smartphone (Unlocked), Galaxy Note, Silver - SM-N950U Galaxy Note, Silver Answer with True"
+852,822,record 1: Samsung BD-P3600 Blu-ray Disc Player - BDP3600S Samsung BD-P3600 Blu-ray Disc Player - BDP3600S/ 3D Ready (Active Shutter Glasses Included)/ Wireless LAN Built In/ DLNA Certified Media Server/ USB Multi Format Reader & Writer/ Digital Out (Coaxial)/ 1080p Upscaling/ HDMI v1
+750,823,"record 1: Mitsubishi 47"" WD-47827 1080p DLP Rear Projection HDTV - WD47827 Mitsubishi 47"" WD-47827 1080p DLP Rear Projection HDTV - WD47827/ Digital Noise Reduction (DNRD)/ 2:35 Aspect Ratio/ DeepField Imager/ 6-Color Processor/ Mitsubishi Cinema Room Calibration/ Color Management System/ NetCommand/ 16W Speakers/ Black Finish, record 2: Mitsubishi WD47807 47' Projection TV - WD47807 47' - DLP - 16:9 - 1920 x 1080 - Dolby"
+652,823,Answer: False
+651,823,Answer: True
+650,823,Answer: False
+739,824,Answer: False
+738,824,"record 1 and record 2 both refer to Sony TVs, but they are different models"
+680,824,Answer: False
+675,824,Answer: True
+707,825,Answer: True
+678,825,Answer: True
+673,825,"True, as both records describe Sony BRAVIA TV models with similar features such as LCD displays, HDTV capability, and the BRAVIA Engine technology"
+672,825,Answer: False
+802,826,False
+705,826,Answer: True
+634,826,False
+501,826,False
+750,827,Answer: False
+652,827,Answer: True
+651,827,Answer: True
+650,827,Answer: False
+753,828,Answer: True
+558,828,"Answer: False, the two records refer to different Panasonic TV models"
+503,828,Answer: True
+499,828,Answer: False
+476,829,Answer: True
+475,829,False
+444,829,False
+443,829,"False, the first record describes a Sony Silver Cyber-Shot 7"
+327,830,False
+220,830,False
+183,830,False
+17,830,Answer: True
+685,831,Answer: True
+475,831,False
+444,831,False
+443,831,False
+1058,832,Answer: False
+487,832,Answer: False
+75,832,False
+16,832,Answer: False
+394,833,Answer: True
+313,833,Answer: False
+44,833,False
+26,833,False
+1032,834,Answer: True
+773,834,False
+713,834,Answer: False
+635,834,record 1: Dell Latitude E6510 Laptop - N4030 Dell Latitude E6510 Laptop - N4030/ Intel Core i7-870 Processor/ 15
+1049,835,False
+1003,835,False
+877,835,Answer: True
+830,835,False
+1049,836,"False, the two records refer to different products"
+1003,836,False
+877,836,False
+830,836,Answer: True
+1037,837,Answer: True
+760,837,"False, the two records are referring to different entities"
+639,837,False
+112,837,"False, the first record describes a wireless headphone and the second record describes wired earbuds"
+1001,838,False
+881,838,Answer: True
+830,838,Answer: False
+357,838,False
+859,839,Answer: True
+540,839,False
+321,839,Answer: False
+319,839,Answer: False
+833,840,Answer: True
+646,840,Answer: False
+645,840,False
+623,840,False
+948,841,False
+947,841,Answer: False
+946,841,False
+85,841,Answer: False
+926,842,"False, the first record describes a Sony VAIO CS Series Red Notebook Computer with specifications and operating system, while the second record describes a Sony VAIO Z550N/B notebook with different specifications and operating systems"
+866,842,"False, as the model numbers and specifications are different, indicating different products"
+858,842,Answer: False
+857,842,Answer: True
+928,843,"False, the two records refer to different products"
+866,843,Answer: False
+858,843,Answer: True
+857,843,Answer: False
+969,844,"False, the two records describe different products"
+866,844,Answer: True
+858,844,Answer: False
+857,844,"False, although both computers are from Sony's VAIO Z Series and have similar specifications, they are not the same model as evidenced by their different model numbers (VGNZ550NB and VGNZ591U/B) and slightly different configurations (one has Windows Vista Business with SP1 and XP downgrade while the other has Windows Vista Ultimate)"
+356,845,False
+355,845,Answer: True
+183,845,False
+17,845,Answer: False
+356,846,Answer: True
+355,846,Answer: True
+183,846,False
+17,846,False
+1047,847,"record 1: Samsung BD-P3600 Blu-ray Disc Player - BDP-3600 Samsung BD-P3600 Blu-ray Disc Player - BDP-3600/ Full HD 1080p, Plays DVDs and CDs, UpScales Standard Definition Content to 1080p via HDMI, Built-In WiFi Connectivity, Streams Via Apps Like Netflix And YouTube, Plays JPEG And Divx Files From USB Drives, Compatible With Samsung's BD Living Plus System, Black Finish"
+704,847,False
+423,847,record 1: Roku LT Streaming Device - 3820R Roku LT Streaming Device - 3820R/ High Definition Streaming/ Access Thousands of Channels/ Wireless Connectivity/ Easy Set-Up and Simple Navigation/ Quicklaunch Feature/ Motion Control Compatibility/ HDMI Cable Included/ Black Finish
+294,847,Answer: True
+589,848,"False, the features and specifications of both record descriptions differ"
+560,848,Answer: False
+257,848,False
+230,848,Answer: False
+731,849,False
+630,849,Answer: False
+257,849,Answer: False
+230,849,False
+704,850,Answer: False
+699,850,Answer: True
+646,850,Answer: False
+286,850,False
+530,851,Answer: False
+529,851,Answer: True
+527,851,Answer: False
+86,851,False
+1046,852,Answer: False
+510,852,False
+492,852,Answer: False
+86,852,Answer: False
+255,853,False
+188,853,False
+140,853,False
+129,853,Answer: True
+628,854,Answer: False
+550,854,Answer: True
+255,854,False
+188,854,Answer: True
+774,855,False
+602,855,False
+74,855,False
+73,855,False
+255,856,False
+139,856,False
+129,856,False
+73,856,False
+628,857,Answer: False
+550,857,Answer: True
+188,857,"record 1: Samsung BD-UP500 Blu-ray Disc Player - BD-UP500ES Samsung BD-UP500 Blu-ray Disc Player - BD-UP500ES/ UpScaling to 1080p via HDMI/ Playback of JPEG and DivX via USB/ Compressed Audio Formats: MP3, WMA, AAC, OGG, FLAC/ Easy Slider for Photo Playback/ BD Live Profile 2"
+139,857,False
+628,858,Answer: True
+550,858,False
+255,858,Answer: False
+188,858,False
+1055,859,"False, the first record refers to the Canon EOS Rebel XSi model in silver, while the second record refers to a different model, the Canon EOS Rebel XS, also known as the EOS 1000D, in black"
+936,859,Answer: False
+838,859,Answer: False
+490,859,Answer: False
+633,860,False
+604,860,False
+603,860,False
+548,860,Answer: True
+548,861,False
+460,861,False
+249,861,"False, as the models are different"
+213,861,False
+633,862,False
+604,862,False
+603,862,False
+249,862,Answer: True
+855,863,Answer: False
+558,863,Answer: True
+504,863,Answer: True
+500,863,"Answer: False, as the model numbers are different (PZ80U and PZ850U)"
+531,864,Answer: True
+527,864,"Answer: False, as the part numbers are different (DVPFX820 vs DVPFX820/W) and there is a difference in the finish color (black vs white)"
+257,864,Answer: False
+230,864,Answer: False
+685,865,False
+478,865,Answer: False
+444,865,"False, the two records refer to different Sony digital cameras"
+443,865,Answer: False
+974,866,Answer: False
+496,866,Answer: True
+257,866,Answer: False
+230,866,False
+878,867,"False, as the two records describe different sizes of Sony BRAVIA TVs"
+678,867,"True, as both records refer to the Sony BRAVIA KDL32L4000 and KDL32XBR6, which are both 32' LCD TVs from Sony's BRAVIA lineup with similar specifications"
+675,867,record 1: Dell Dimension B175 Intel Pentium 4 3
+637,867,Answer: True
+775,868,Answer: True
+32,868,False
+25,868,False
+14,868,Answer: False
+751,869,True
+750,869,Answer: False
+651,869,Answer: True
+650,869,Answer: True
+878,870,Answer: False
+876,870,Answer: False
+734,870,Answer: True
+637,870,Answer: True
+790,871,Answer: False
+692,871,"False, as the two records describe different products"
+644,871,False
+589,871,Answer: False
+609,872,False
+589,872,False
+257,872,Answer: False
+230,872,Answer: False
+790,873,"False, while both record descriptions have similar features and specifications, they refer to different products - the Sony STRDG920 in record 1 and the Sony STR-DG820 in record 2"
+692,873,Answer: True
+644,873,"False, despite having some similar features, these two records refer to different Sony A/V receivers"
+609,873,Answer: False
+739,874,Answer: False
+738,874,"True, both records refer to Sony BRAVIA Z Series televisions with similar features such as Full HD resolution, BRAVIA Engine technology, and Advanced Contrast Enhancer (ACE)"
+735,874,Answer: True
+675,874,Answer: False
+739,875,Answer: False
+738,875,Answer: True
+735,875,Answer: False
+675,875,Answer: False
+707,876,Answer: True
+678,876,True
+673,876,Answer: False
+672,876,"Answer: False, as while both TVs are part of the Sony BRAVIA M-Series, they have different screen sizes (19"" and 32"")"
+739,877,record 1: Canon EOS-1Ds Mark II Digital SLR Camera Body - 1450C006 Canon EOS-1Ds Mark II Digital SLR Camera Body - 1450C006/ 16
+738,877,Answer: False
+680,877,Answer: True
+675,877,Answer: False
+739,878,Answer: False
+682,878,Answer: False
+681,878,Answer: True
+675,878,Answer: False
+742,879,Answer: False
+719,879,Answer: True
+705,879,Answer: False
+566,879,"False, as the two records refer to different brands (Samsung and LG) although they both describe a 52-inch LCD HDTV with full 1080p resolution, widescreen aspect ratio, digital tuner, and multiple HDMI slots"
+721,880,Answer: True
+619,880,False
+571,880,False
+565,880,False
+559,880,False
+749,881,Answer: True
+705,881,Answer: False
+616,881,False
+501,881,"False, the two records are referring to different TVs"
+1072,882,Answer: True
+751,882,Answer: False
+337,882,False
+175,882,False
+1072,883,False
+751,883,Answer: True
+750,883,Answer: False
+651,883,Answer: False
+981,884,False
+742,884,Answer: True
+665,884,False
+569,884,False
+878,885,Answer: False
+739,885,record 1: Bose QuietComfort 35 II Wireless Bluetooth Headphones (Black) - Bose QuietComfort 35 II Bose QuietComfort 35 II Wireless Bluetooth Headphones (Black)/ Noise-Cancelling/ Balanced Audio Performance/ 20 Hours Wireless Playing/ NFC Pairing/ Voice Prompts/ Battery: Rechargeable Lithium-Ion (3
+682,885,Answer: True
+681,885,Answer: False
+751,886,Answer: False
+750,886,Answer: True
+652,886,Answer: False
+651,886,Answer: False
+790,887,Answer: True
+692,887,Answer: False
+644,887,Answer: False
+609,887,Answer: False
+810,888,Answer: True
+809,888,False
+692,888,False
+644,888,False
+810,889,False
+809,889,Answer: False
+692,889,False
+644,889,False
+902,890,False
+901,890,False
+823,890,Answer: True
+342,890,Answer: False
+890,891,Answer: True
+599,891,False
+434,891,False
+393,891,Answer: False
+1030,892,False
+984,892,"Both frames are from Sony and have similar features such as LCD displays, memory card slots, and USB connectivity"
+983,892,Example 4303:
+445,892,Answer: True
+1030,893,False
+984,893,record 1: Toshiba Satellite A665 Ultrabook - PS65D-S7230 Toshiba Satellite A665 Ultrabook - PS65D-S7230/ Intel Core i7-3517U Processor/ 4GB DDR3 Memory/ 1TB Hard Drive/ Windows 8 Operating System/ SuperMulti DVD Burner/ HD TruBrite Full HD Display/ Harman Kardon Stereo Speakers/ High Definition Webcam/ Mini Display Port/ USB 2
+447,893,Answer: True
+445,893,False
+1030,894,Answer: False
+670,894,Answer: True
+196,894,False
+53,894,False
+992,895,False
+879,895,Answer: True
+486,895,Answer: False
+485,895,False
+989,896,False
+982,896,False
+880,896,Answer: True
+879,896,Answer: False
+800,897,False
+427,897,Answer: False
+257,897,Answer: False
+230,897,Answer: False
+974,898,Answer: False
+950,898,Answer: True
+736,898,Answer: False
+217,898,Answer: False
+1032,899,Answer: False
+773,899,Answer: True
+731,899,False
+589,899,False
+1039,900,Answer: True
+981,900,Answer: False
+844,900,"record 1: Apple iPad (WiFi, 32GB) - MC562LL/A Apple iPad (WiFi, 32GB) - MC562LL/A/ 9"
+665,900,Answer: False
+1039,901,Answer: False
+981,901,Answer: True
+846,901,Answer: False
+665,901,Answer: False
+304,902,Answer: True
+296,902,record 1: Nike Free 3
+185,902,record 1: Canon EOS-M3 Mirrorless Digital Camera Kit (Black) with EF-M 15-45mm f/3
+107,902,Answer: False
+774,903,Answer: False
+730,903,False
+129,903,False
+45,903,Answer: False
+356,904,Answer: False
+140,904,False
+139,904,Answer: False
+129,904,False
+827,905,Answer: True
+802,905,Answer: False
+708,905,"record 1 and record 2 refer to different entities, as the model numbers are different (PN50A650 vs"
+649,905,Answer: False
+648,905,Answer: False
+1028,906,Answer: True
+1001,906,Answer: False
+877,906,Answer: False
+429,906,False
+904,907,Answer: True
+759,907,Answer: False
+515,907,False
+509,907,False
+904,908,"False, as while both products are Toshiba branded, they have different model numbers and screen sizes (15"" vs 22""), making them likely to be different products"
+891,908,Answer: True
+539,908,Answer: False
+515,908,Answer: False
+800,909,False
+511,909,False
+427,909,Answer: False
+230,909,False
+800,910,Answer: True
+620,910,"False, the first record refers to a Samsung DVD/VHS combo recorder specifically for recording DVD and VHS tapes, while the second record refers to a Toshiba device that can play multiple formats but does not explicitly mention recording capabilities"
+427,910,Answer: False
+230,910,Answer: False
+481,911,Answer: True
+475,911,False
+444,911,False
+443,911,"False, the two records are referring to different Sony digital cameras"
+954,912,Answer: True
+952,912,Answer: False
+698,912,False
+376,912,False
+1073,913,False
+1044,913,Answer: False
+1007,913,Answer: True
+409,913,False
+933,914,Answer: False
+746,914,Answer: False
+597,914,False
+468,914,False
+946,915,False
+679,915,True
+677,915,record 1: Nike Men's Air Max 97 Ultra 17 Running Shoes - Vivid Red/Black-Vivid Sail Nike Men's Air Max 97 Ultra 17 Running Shoes - VR1002-600
+676,915,Answer: False
+873,916,Answer: True
+861,916,False
+483,916,False
+76,916,Answer: False
+900,917,Answer: True
+880,917,False
+879,917,False
+786,917,False
+989,918,Answer: True
+880,918,False
+879,918,False
+786,918,False
+959,919,Answer: True
+923,919,"record 1: Bose SoundTouch 16 Wireless Music System - A16 SoundTouch 16 Wireless Music System - A16/ Access Point for Wireless Network Connectivity/ Bluetooth Audio Streaming/ Dock for iPod and iPhone/ Auxiliary Input/ USB Port/ Cd Player with Programmable Clock Display and Digital Readout/ Remote Control/ Rca Outputs (left and Right)/ Bass and Treble Control/ 16 Presets/ Radio Data System (Rds) Tuner with Presets, Record with Playback Controls, and Clock Display"
+110,919,Answer: False
+90,919,False
+880,920,False
+520,920,Answer: False
+519,920,Answer: False
+518,920,False
+865,921,Answer: True
+862,921,False
+520,921,False
+519,921,False
+863,922,False
+862,922,Answer: False
+745,922,False
+519,922,False
+865,923,False
+863,923,Answer: True
+745,923,Answer: False
+519,923,Answer: False
+958,924,Answer: False
+662,924,Answer: False
+109,924,Answer: False
+95,924,Answer: False
+986,925,Answer: False
+978,925,Answer: False
+924,925,Answer: True
+522,925,Answer: False
+986,926,Answer: False
+978,926,Answer: True
+522,926,Answer: False
+510,926,False
+853,927,Answer: True
+684,927,Answer: False
+577,927,Answer: False
+315,927,Answer: False
+1069,928,Answer: False
+903,928,Answer: False
+893,928,Answer: True
+892,928,Answer: False
+1069,929,Answer: False
+903,929,Answer: False
+896,929,False
+894,929,Answer: True
+1069,930,Answer: False
+903,930,Answer: False
+893,930,Answer: False
+892,930,Answer: True
+896,931,Answer: True
+768,931,"record 1: HP Officejet J6820 All-in-One Printer - J6825b HP Officejet J6820 All-in-One Printer - J6825b/ Wireless Printing with Wi-Fi Protected Setup (WPS) and HP Smart Tasking Technology/ Ethernet Network Connectivity, 10/100 Base-T/ USB 2"
+767,931,False
+737,931,False
+903,932,Answer: False
+767,932,False
+737,932,Answer: False
+416,932,False
+796,933,False
+143,933,Answer: False
+142,933,Answer: True
+141,933,Answer: True
+790,934,False
+713,934,False
+257,934,Answer: False
+230,934,Answer: False
+993,935,Answer: False
+826,935,Answer: True
+623,935,Answer: False
+368,935,False
+833,936,Answer: False
+832,936,Answer: True
+646,936,Answer: False
+645,936,record 1: Samsung BD-UP500 BL 3D Full HD Smart Blu-ray Player - BD-UP5005 Samsung BD-UP5005 BL 3D Full HD Smart Blu-ray Player - BD-UP5005/ Built-In WiFi / DLNA Networking / MHL Compatibility / Smart Hub / Internet Apps / USB Multimedia Playback and Recording / Auto Depth Calibration / Wireless LAN (IEEE 802
+358,937,"False, as the two records refer to different products"
+237,937,False
+214,937,"False, the records refer to different entities"
+70,937,Answer: True
+987,938,Answer: True
+940,938,Answer: False
+939,938,Answer: False
+567,938,Answer: False
+987,939,Answer: False
+940,939,record 1 and record 2 refer to the same entity (Toshiba 52' Regza Black Flat Panel LCD HDTV or Toshiba 42' Widescreen 1080p LCD HDTV w/ Cinespeed - Piano Black)
+939,939,Answer: True
+924,939,Answer: False
+987,940,Answer: False
+940,940,Answer: True
+939,940,Answer: False
+569,940,Answer: False
+428,941,False
+309,941,Answer: False
+247,941,False
+223,941,False
+966,942,Answer: True
+772,942,False
+771,942,False
+38,942,False
+952,943,"record 1: Sony BDP-BX300 Blu-ray Disc Player - BDPEB3 B Sony BDP-BX300 Blu-ray Disc Player - BDPEB3/ Deep Color Technology/ HDMI Output/ USB Media Playback/ Built-In WiFi Connectivity For Streaming Of Internet Video Content/ Network Sharing And Media Playback With Any DLNA Certified Compliant Media Server/ Brushed Black Finish, record 2: Sony BDP-BX300 Blu-ray Disc Player - BDPEB3S"
+784,943,False
+761,943,Answer: False
+698,943,False
+920,944,Answer: False
+713,944,False
+472,944,False
+361,944,False
+982,945,Answer: False
+898,945,Answer: True
+576,945,Answer: False
+575,945,Answer: False
+982,946,False
+942,946,Answer: False
+899,946,Answer: True
+576,946,False
+1041,947,Answer: True
+761,947,False
+389,947,Answer is False
+59,947,Answer: False
+955,948,Answer: True
+433,948,Answer: False
+96,948,Answer: False
+93,948,False
+956,949,Answer: True
+110,949,Answer: False
+94,949,False
+93,949,False
+957,950,Answer: True
+110,950,False
+95,950,Answer: False
+93,950,False
+902,951,record 1: Nikon AF-P DX NIKKOR 70-300mm f/4
+901,951,Answer: True
+573,951,False
+483,951,False
+935,952,False
+902,952,"Answer: False, as record 1 describes the camera body only, while record 2 includes a kit with the camera and additional features"
+901,952,"False, as record 1 includes the Nikkor 18-105mm lens while record 2 does not"
+483,952,False
+110,953,False
+94,953,False
+93,953,False
+90,953,False
+1011,954,Answer: True
+971,954,Answer: False
+970,954,Answer: False
+969,954,Answer: False
+981,955,Answer: False
+665,955,Answer: False
+569,955,"record 1: Lenovo IdeaPad Y480 14"" Laptop - 80EG IdeaPad Y480 14"" Lenovo IdeaPad Y480 14"" Laptop - 80EG/ Intel Core i3-2370M Processor (3M Cache, 2"
+566,955,True
+850,956,Answer: True
+665,956,"False, the two records refer to different Samsung TV models"
+591,956,"False, the two records refer to different types of TVs"
+590,956,"False, the first record is for a Samsung DLP HDTV and the second record is for a Samsung LCD TV"
+906,957,Answer: True
+305,957,Answer: False
+125,957,Answer: False
+88,957,False
+959,958,Answer: False
+923,958,Answer: False
+110,958,False
+93,958,False
+959,959,False
+923,959,Answer: True
+433,959,False
+110,959,False
+1011,960,"False, as the two computers have different specifications and operating systems"
+971,960,Answer: True
+970,960,Answer: False
+969,960,Answer: False
+1011,961,Answer: False
+971,961,False
+970,961,Answer: True
+969,961,Answer: True
+1050,962,False
+930,962,Answer: False
+929,962,"False, the two records refer to different Sony VAIO models"
+928,962,Answer: False
+925,962,Answer: False
+886,963,Answer: False
+457,963,False
+452,963,False
+449,963,Answer: False
+457,964,"record 1 and record 2 both refer to the same brand and model, therefore:"
+452,964,False
+449,964,Answer: False
+63,964,False
+452,965,False
+451,965,False
+450,965,Answer: False
+449,965,False
+704,966,Answer: True
+699,966,Record 1 and Record 2 refer to the same entity
+646,966,Answer: False
+645,966,Answer: False
+563,967,Answer: False
+257,967,Answer: False
+230,967,"False, the two records refer to different Sony DVD players"
+86,967,Answer: False
+707,968,record 1 and record 2 refer to different entities as they have different screen sizes (32' vs
+678,968,"True, both records refer to Sony BRAVIA televisions with similar specifications and branding"
+673,968,Answer: False
+672,968,Answer: True
+774,969,False
+730,969,False
+327,969,Answer: False
+39,969,Answer: True
+774,970,Answer: False
+730,970,Answer: False
+327,970,Answer: True
+39,970,False
+1057,971,Answer: False
+881,971,False
+357,971,False
+96,971,False
+930,972,"False, the two records refer to different models: Sony VAIO CS Series White Notebook Computer - VGNCS180JW and Sony VAIO CS110E/R Notebook - VGNCS110E/R"
+929,972,Answer: False
+928,972,False
+927,972,"False, the first record refers to a specific model (VGNCS180JP) while the second record refers to a different model (VGNCS110E/R)"
+926,972,Answer: False
+1039,973,record 1: Samsung ECJ55K5410/AA Gear Fit2 Pro Smartwatch - Silver (US Version) Samsung ECJ55K5410/AA Gear Fit2 Pro Smartwatch - Silver (US Version)/ Built-In GPS/ Automatic Activity Tracking/ Swimproof Design/ Advanced Sleep Analysis/ 230mAh Battery/ Heart Rate Monitor/ Wireless Connectivity/ NFC Technology/ Bluetooth Headphones Compatible
+874,973,Answer: True
+591,973,False
+590,973,"False, the first record is for a DLP TV and the second record is for an LCD TV"
+870,974,"record 1: Panasonic Viera Cast TC-L42D50 TV - L42D50, record 2: Panasonic TC-P42S60 Viera Plasma HDTV - P42S60"
+853,974,record 1: HP Envy x360 Convertible Laptop - 15z 15
+852,974,True
+736,974,False
+1050,975,"False, the two records refer to different Sony VAIO models"
+931,975,Answer: False
+927,975,False
+926,975,"False, the first record describes a Sony VAIO CS Series Red Notebook Computer with a 2"
+992,976,False
+576,976,False
+486,976,False
+485,976,False
+982,977,Answer: True
+944,977,Answer: False
+576,977,Answer: False
+575,977,Answer: False
+992,978,False
+943,978,Answer: True
+942,978,False
+486,978,False
+992,979,False
+576,979,Answer: False
+486,979,Answer: False
+485,979,False
+919,980,Answer: True
+772,980,Answer: False
+771,980,False
+326,980,Answer: False
+1065,981,"False, as the products are different categories (webcam vs smartphone)"
+1060,981,Answer: True
+468,981,Answer: False
+465,981,False
+1053,982,Answer: True
+1001,982,False
+973,982,Answer: False
+598,982,False
+1003,983,Answer: True
+877,983,False
+830,983,False
+741,983,Answer: False
+1039,984,Answer: False
+648,984,record 1: HP Deskjet F4280 All-in-One Printer - J76a HP Deskjet F4280 All-in-One Printer - J76a/ 8 Level Color Ink Cartridge System/ Up To 35 Pages Per Minute Print Speed/ 250 Sheet Capacity/ Scan Document Size: 8
+571,984,"record 1: Apple iPad Wi-Fi + Cellular - MC374LL/A Apple iPad Wi-Fi + Cellular - MC374LL/A/ A5 Dual-Core Processor/ 9-Inch Multi-Touch Display/ Front and Rear Facing Cameras with FaceTime/ Built-in 2G, EDGE, EVDO, CDMA, and UMTS/ Wi-Fi (802"
+568,984,record 1: Toshiba 2GB Flash Drive - MK2SLC2G Toshiba 2GB Flash Drive - MK2SLC2G/ USB 2
+982,985,Answer: False
+944,985,Answer: True
+486,985,False
+485,985,False
+918,986,Answer: False
+917,986,Answer: False
+864,986,Answer: True
+647,986,Answer: False
+966,987,False
+772,987,False
+771,987,False
+510,987,"False, the two records refer to different entities"
+918,988,Answer: False
+917,988,Answer: True
+510,988,"False, the two records refer to different entities"
+427,988,Answer: False
+961,989,False
+916,989,Answer: False
+913,989,Answer: False
+910,989,Answer: True
+961,990,False
+913,990,Answer: False
+912,990,Answer: False
+911,990,Answer: True
+961,991,False
+913,991,Answer: False
+912,991,Answer: True
+911,991,Answer: False
+961,992,False
+913,992,Answer: True
+912,992,Answer: False
+911,992,Answer: False
+961,993,False
+915,993,Answer: True
+914,993,Answer: False
+912,993,Answer: False
+918,994,Answer: True
+917,994,Answer: True
+510,994,False
+427,994,Answer: False
+961,995,Answer: False
+916,995,Answer: True
+913,995,Answer: False
+517,995,False
+966,996,Answer: False
+914,996,Answer: True
+771,996,True
+510,996,Answer: False
+995,997,Answer: False
+854,997,Answer: False
+595,997,Answer: False
+594,997,Answer: False
+993,998,Answer: False
+322,998,False
+306,998,Answer: False
+59,998,False
+1052,999,Answer: True
+403,999,Answer: False
+133,999,False
+97,999,"False, as the two records refer to different types of cables"
+966,1000,False
+772,1000,False
+771,1000,"False, the two records refer to different entities"
+510,1000,"False, the two records refer to different entities as the first record is for a Toshiba portable DVD player and the second record is for an Apple iPod touch 8GB flash media player"
+966,1001,False
+772,1001,"False, the Samsung S2 and Apple iPod touch are not referring to the same entity"
+771,1001,False
+510,1001,False
+996,1002,False
+936,1002,Answer: False
+935,1002,Answer: False
+838,1002,False
+996,1003,False
+982,1003,Answer: False
+936,1003,Answer: False
+935,1003,Answer: False
+990,1004,Answer: True
+932,1004,Answer: False
+904,1004,"False, the two records refer to different entities"
+759,1004,False
+708,1005,False
+634,1005,False
+608,1005,False
+583,1005,False
+739,1006,Answer: True
+738,1006,Answer: False
+735,1006,Answer: False
+681,1006,Answer: False
+675,1006,Answer: False
+1030,1007,False
+984,1007,record 1: Lenovo IdeaPad Y560-3694HUO 15
+983,1007,Answer: True
+445,1007,Answer: False
+1036,1008,Answer: True
+381,1008,False
+371,1008,False
+233,1008,Answer: False
+756,1009,False
+632,1009,Answer: True
+176,1009,False
+24,1009,Answer: False
+859,1010,False
+790,1010,False
+692,1010,False
+644,1010,False
+855,1011,Answer: True
+753,1011,Answer: False
+653,1011,Answer: False
+558,1011,"Answer: False, as the record numbers are different and indicate separate products"
+784,1012,False
+638,1012,False
+537,1012,record 1: Acer Aspire 15
+383,1012,Answer: True
+952,1013,Answer: False
+938,1013,Answer: True
+698,1013,False
+123,1013,False
+930,1014,Answer: True
+929,1014,Answer: False
+928,1014,Answer: False
+927,1014,"Answer: False, as while both records refer to the same model (Sony VAIO CS Series), they are different configurations based on color and installed memory"
+930,1015,Answer: False
+929,1015,Answer: False
+928,1015,Answer: True
+927,1015,Answer: False
+930,1016,Answer: False
+929,1016,Answer: False
+928,1016,Answer: False
+927,1016,Answer: False
+930,1017,Answer: False
+929,1017,"Answer: False, as the model numbers are different (VGNCS180JR vs VGNCS180J/R)"
+928,1017,"Answer: False, the serial numbers are different (VGNCS180JQ and VGNCS180J/R)"
+927,1017,"Answer: False, although the records describe similar products, they refer to different models with different finishes (pink and red)"
+1047,1018,Answer: False
+833,1018,Answer: False
+646,1018,Answer: False
+645,1018,Answer: True
+1047,1019,Answer: False
+833,1019,Answer: False
+646,1019,False
+645,1019,True
+1047,1020,False
+833,1020,"record 1: Samsung EC3200W Digital Air Conditioner with Wi-Fi & SmartThings Compatibility - T3400CW Samsung EC3200W Digital Air Conditioner with Wi-Fi & SmartThings Compatibility - T3400CW/ 32,00 Btu (1 Ton) Cooling Capacity/ Dehumidifier Functionality/ SmartThings Compatible/ Wireless Connectivity/ Digital Display and Remote Control/ White Finish"
+412,1020,"record 1: HP LaserJet Pro M252nw Printer - HP56A HP LaserJet Pro M252nw Printer - HP56A/ Print Speeds up to 20 ppm Black and up to 17 ipm Color/ Print Resolution up to 1200 x 1200 optimized for HP LaserJet Printers (B) and up to 600 x 600 optimized for HP Color LaserJets (C)/ Printing Systems Manager software for network administration/ Easy installation with automated driver download from the printer over a network or directly from the printer's control panel using HP's ePrint Center/ AirPrint support for printing direct from Apple iOS devices, such as iPad, iPhone and iPod touch (C),/ PCL and PostScript Compatible/ Energy Star Certified, 25 page automatic document feeder with one-touch dual-sided printing, copying, and scanning, Black Finish"
+382,1020,False
+1033,1021,Answer: True
+950,1021,record 1: LG LHB572H Fridge - LHB572H LG LHB572H Fridge - LHB572H/ 24 cu
+624,1021,"record 1: Canon Powershot SX400 IS Digital Camera - 20MP Point-and-Shoot Camera with 40x Optical Zoom and Image Stabilization - Black (Discontinued by Manufacturer) Canon Powershot SX400 IS Digital Camera - 20MP Point-and-Shoot Camera with 40x Optical Zoom and Image Stabilization - Black (Discontinued by Manufacturer), record 2: Canon Powershot SX410 IS 18 Megapixel Digital Camera with 45x Optical Zoom, Dual Optical Image Stabilization and Built-In Wi-Fi - Silver"
+560,1021,True
+977,1022,False
+976,1022,"False, the two records refer to different Apple laptop models"
+975,1022,"Both records refer to the same Apple MacBook model, MB467LLA"
+311,1022,"False, as these records describe different Apple products"
+1004,1023,Answer: False
+686,1023,False
+379,1023,Answer: False
+243,1023,Answer: False
+991,1024,"record 1: HP Officejet Pro 8100 All-in-One Printer - J5780B HP Officejet Pro 8100 All-in-One Printer - J5780B/ Built-In AirPrint Support/ Automatic Duplex Printing, Copying And Scanning (ADF)/ Color TouchSmart Display/ Ethernet Connectivity/ Black Finish"
+800,1024,Answer: False
+427,1024,Answer: False
+230,1024,False
+991,1025,Answer: True
+800,1025,Answer: False
+427,1025,Answer: False
+230,1025,False
+1012,1026,Answer: False
+985,1026,Answer: True
+501,1026,record 1 and record 2 refer to different entities as they are not the same model number
+459,1026,"record 1 and record 2 refer to the same entity, thus answer is: True"
+1005,1027,Answer: False
+1004,1027,Answer: False
+142,1027,Answer: False
+141,1027,record 1: HP Officejet Pro L7680 All-in-One Printer - HP Officejet Pro L7680 All-in-One Printer - C9180A Panasonic TX-P55U48 3D Plasma Smart TV
+1012,1028,Answer: True
+985,1028,"Based on the product descriptions provided, both records refer to Sharp AQUOS TVs with Full HD resolution (1920x1080), Advanced Super View technology, Fine Motion Enhanced at 120Hz, and a built-in tuner for ATSC, QAM, and NTSC signals"
+559,1028,Answer: False
+501,1028,Answer: False
+964,1029,Answer: True
+763,1029,False
+263,1029,"record 1: Bose QuietComfort 35 II Wireless Headphones - 768490-11 Bose QuietComfort 35 II Wireless Headphones - 768490-11/ Volume-Optimized EQ And Triple Black Finish, record 2: Bose Quiet Comfort 35 II Gaming Headset"
+23,1029,False
+851,1030,False
+474,1030,Answer: False
+144,1030,False
+6,1030,Answer: False
+401,1031,False
+368,1031,False
+349,1031,Answer: False
+265,1031,False
+763,1032,Answer: False
+263,1032,False
+33,1032,False
+23,1032,False
+817,1033,False
+816,1033,False
+670,1033,False
+535,1033,Answer: True
+88,1033,False
+973,1034,Answer: True
+804,1034,False
+803,1034,"False, as the cases are designed for different Canon camera models"
+791,1034,False
+958,1035,Answer: True
+662,1035,Answer: False
+92,1035,False
+90,1035,Answer: False
+921,1036,Answer: True
+878,1036,False
+876,1036,False
+739,1036,False
+977,1037,Answer: True
+976,1037,Answer: False
+975,1037,"False, as although both computers are made by Apple, they are different models (MacBook and MacBook Pro) with different specifications (processor speed, display size, memory capacity, storage capacity, optical drive type)"
+311,1037,"False, the two records refer to different Apple products"
+1000,1038,Answer: True
+389,1038,False
+278,1038,False
+265,1038,False
+1025,1039,Answer: True
+834,1039,Answer: False
+828,1039,False
+233,1039,False
+1031,1040,Answer: True
+817,1040,"record 1: Brother HL-5480DW Compact Laserjet Printer - MFC-5480DW Brother HL-5480DW Compact Laserjet Printer - MFC-5480DW/ Automatic Duplex Printing (ADP)/ 2-Sided Printing, Copying and Scanning/ AirPrint Compatible/ PC Free Setup/ 250-Sheet Paper Capacity/ USB Direct Printing/ Fast First Page Out/ Built-in Ethernet Connectivity/ High Yield Toner Cartridge (B3150) - Up To 1200 Pages/ Black Finish, record 2: Brother MFC-5480DW All-In-One Laser Printer/Scanner/Copier - F7F5191"
+816,1040,False
+119,1040,False
+962,1041,Answer: True
+736,1041,Answer: False
+722,1041,False
+620,1041,False
+974,1042,Answer: True
+800,1042,Answer: False
+257,1042,Answer: False
+230,1042,False
+1055,1043,False
+490,1043,"False, as the two cameras have different model numbers and different megapixel counts (12"
+345,1043,False
+342,1043,Answer: False
+1009,1044,False
+1005,1044,False
+799,1044,False
+199,1044,False
+859,1045,False
+790,1045,False
+692,1045,False
+644,1045,False
+872,1046,"record 1: Canon EOS Rebel T4i / EOS 650D Digital Camera - Black EF-S 18-55mm IS STM Lens - 1200D EOS Rebel T4i / EOS 650D Digital Camera - Black EF-S 18-55mm IS STM Lens - 1200D/ APS-C CMOS Sensor/ DIGIC 4+/ Full HD Video Recording with Manual Exposure Control and Movie Servo AF Support/ Scene Intelligent Auto Mode/ Creative Filters/ EOS Full HD System/ Built-In Wireless Connectivity and NFC Pairing Capability/ 3"" Clear View LCD (approx"
+870,1046,"record 1: Bose QuietComfort 35 II Wireless Headphones - Silver (US Version) Bose QuietComfort 35 II Wireless Headphones - Silver (US Version)/ Bluetooth and NFC pairing/ Volume-optimized EQ/ Duo Mode to pair two devices simultaneously/ Alexa-enabled/ Messaging, Siri, and Google Assistant access via Bose Connect app/ Noise rejecting dual-microphone system for clear calls even in noisy environments/ Up to 20 hours wireless playtime with rechargeable battery/ Included carrying case"
+853,1046,False
+852,1046,False
+875,1047,Answer: True
+159,1047,False
+96,1047,Answer: False
+21,1047,False
+889,1048,Answer: True
+655,1048,False
+609,1048,False
+577,1048,False
+809,1049,False
+770,1049,False
+713,1049,Answer: False
+589,1049,Answer: False
+895,1050,Answer: True
+742,1050,Answer: False
+719,1050,Answer: False
+705,1050,Answer: False
+615,1051,False
+473,1051,Answer: False
+322,1051,"False, as they refer to different Apple products"
+311,1051,"False, as the two records are describing different products"
+977,1052,Answer: False
+976,1052,Answer: True
+975,1052,False
+311,1052,"False, as they describe different Apple products"
+993,1053,False
+961,1053,Answer: True
+915,1053,Answer: False
+517,1053,False
+1000,1054,False
+623,1054,Answer: False
+265,1054,Answer: False
+195,1054,False
+1032,1055,Answer: False
+954,1055,False
+811,1055,Answer: True
+376,1055,False
+1030,1056,False
+984,1056,Answer: True
+983,1056,Answer: False
+445,1056,False
+1019,1057,Answer: False
+588,1057,False
+587,1057,False
+586,1057,False
+774,1058,Answer: True
+77,1058,False
+71,1058,False
+68,1058,False
+1047,1059,Answer: True
+623,1059,False
+541,1059,record 1: Samsung BD-P4600 Blu-ray Disc Player with Built-in WiFi - BDP-P4600S Samsung BD-P4600 Blu-ray Disc Player with Built-in WiFi - BDP-P4600S/ 3D Blu-ray Playback (Required 120Hz 3D Glasses and 3D TV)/ Wireless LAN Connectivity/ Upconverts Standard Definition Content to 720p/ USB Multimedia Sharing/ DivX HD Support/ Dolby Digital Plus/ Dolby TrueHD/ BD-Live Functionality/ Profile 2
+412,1059,"False, the two records refer to different products"
+994,1060,Answer: True
+426,1060,Answer: False
+256,1060,Answer: False
+190,1060,"False, as record 1 refers to a 5"
+878,1061,Answer: True
+876,1061,Answer: True
+675,1061,Answer: False
+637,1061,Answer: False
+878,1062,Answer: True
+876,1062,Answer: True
+734,1062,Answer: False
+637,1062,Answer: False
+1030,1063,Answer: True
+670,1063,False
+445,1063,Answer: False
+283,1063,False
+375,1064,Answer: False
+308,1064,False
+290,1064,False
+289,1064,False
+1011,1065,"False, the two records describe different Sony VAIO desktop computers"
+971,1065,False
+970,1065,Answer: False
+969,1065,Answer: True
+1010,1066,Answer: False
+477,1066,False
+338,1066,Answer: False
+233,1066,record 1: Dell XPS 8930 Desktop Computer - XPS-8930-7421 Dell XPS 8930 Desktop Computer - XPS-8930-7421/ Intel Core i7-6700 Quad Core Processor/ NVIDIA GeForce GT 730 Graphics Card (2GB GDDR5)/ 16GB Dual Channel DDR4 Memory/ 2TB SATA Hard Drive/ SuperMulti DVD Writer/ Black Finish
+1069,1067,Answer: False
+893,1067,Answer: False
+892,1067,False
+415,1067,False
+733,1068,False
+730,1068,False
+602,1068,Answer: False
+68,1068,False
+774,1069,False
+74,1069,False
+73,1069,False
+45,1069,False
+1010,1070,Answer: False
+973,1070,Answer: False
+96,1070,Answer: False
+90,1070,False
+1050,1071,Answer: True
+929,1071,"False, the first record describes a red notebook computer, while the second record describes a black notebook computer with different processor and operating system versions"
+928,1071,"False, the first record is for a Sony VAIO CS Series Black Notebook Computer (model VGNCS180JQ) and the second record is for a Sony VAIO FW378J/B notebook (model VGNFW378J/B)"
+927,1071,"False, the two records refer to different Sony VAIO models"
+1038,1072,Answer: False
+429,1072,False
+112,1072,False
+82,1072,Answer: False
+1063,1073,Answer: False
+1062,1073,Answer: False
+829,1073,False
+38,1073,False
+1063,1074,Answer: True
+1062,1074,Answer: False
+70,1074,False
+38,1074,False
+1003,1075,False
+1001,1075,Answer: True
+877,1075,False
+830,1075,False
