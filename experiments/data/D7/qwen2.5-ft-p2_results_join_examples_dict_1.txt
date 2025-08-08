@@ -1,5 +1,5 @@
-Response Time: 00h:09m:12.17s
+Response Time: 00h:27m:18.33s
 Good Behavior Response Rate: 1.00
-Precision: 0.459
-Recall: 0.985
-F1 Score: 0.626
+Precision: 0.428
+Recall: 0.983
+F1 Score: 0.597

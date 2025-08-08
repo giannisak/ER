@@ -3,32 +3,38 @@
         "block_purging" : false,
         "block_filtering" : 30,
         "comparison_cleaning" : "BLAST",
-        "weighting_scheme" : "DICE"
+        "weighting_scheme" : "SNJ"
     },
     "D3": {
         "block_purging" : false,
-        "block_filtering" : 28,
-        "comparison_cleaning" : "CardinalityEdgePruning",
-        "weighting_scheme" : "SN-CBS"
+        "block_filtering" : 21,
+        "comparison_cleaning" : "ReciprocalCardinalityNodePruning",
+        "weighting_scheme" : "SNC"
     },
     "D5": {
         "block_purging" : true,
         "block_filtering" : 39,
-        "comparison_cleaning" : "ReciprocalCardinalityNodePruning"
+        "comparison_cleaning" : "ReciprocalCardinalityNodePruning",
+        "weighting_scheme" : "CBS",
+        "smoothing_factor": 1.0
     },
     "D6": {
         "block_purging" : false,
-        "block_filtering" : 39,
-        "comparison_cleaning" : "ReciprocalCardinalityNodePruning"
+        "block_filtering" : 38,
+        "comparison_cleaning" : "ReciprocalCardinalityNodePruning",
+        "weighting_scheme" : "CBS"
     },
     "D7": {
         "block_purging" : false,
-        "block_filtering" : 34,
-        "comparison_cleaning" : "ReciprocalCardinalityNodePruning"
+        "block_filtering" : 13,
+        "comparison_cleaning" : "ReciprocalCardinalityNodePruning",
+        "weighting_scheme" : "CBS"
     },
     "D8": {
         "block_purging" : true,
-        "block_filtering" : 34,
-        "comparison_cleaning" : "ReciprocalCardinalityNodePruning"
+        "smoothing_factor": 1.0,
+        "block_filtering" : 19,
+        "comparison_cleaning" : "ReciprocalCardinalityNodePruning",
+        "weighting_scheme" : "SNC"
     }
 }
