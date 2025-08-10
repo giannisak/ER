@@ -133,6 +133,26 @@ def ui_fun(dataset, candidate_pairs_dir):
                 # Run evaluation
 
 
+                responses1_df['responses'] = union
+                responses2_df['responses'] = intersection
+                
+                responses1_df.to_csv(f'responses/{candidate_pairs_dir}/{dataset}/{dataset}_{model1}_union_{model2}_{examples}.csv')
+                responses2_df.to_csv(f'responses/{candidate_pairs_dir}/{dataset}/{dataset}_{model1}_intersection_{model2}_{examples}.csv')
+
+                
+                if isinstance(responses1_df.iloc[0]['responses'], str):    
+                    filtered_cp_df = responses1_df[responses1_df['responses'] == 'True']
+                else: 
+                    filtered_cp_df = responses1_df[responses1_df['responses'] == True]
+
+
+                d1_list = filtered_cp_df['D1'].to_list()
+                d2_list = filtered_cp_df['D2'].to_list()
+                d1_set = set(d1_list)
+                d2_set = set(d2_list)
+                
+
+
                 precision, recall, f1 = evaluate(union, 'union', gt_set, cp)
 
                 if union_exists.empty:
@@ -147,7 +167,11 @@ def ui_fun(dataset, candidate_pairs_dir):
                             'recall': recall,
                             'f1': f1,
                             'good_behavior_response_rate': (row1['good_behavior_response_rate'] + row2['good_behavior_response_rate']) / 2,
-                            'examples' : examples
+                            'examples' : examples, 
+                            'total_matches': len(d1_list),
+                            "D1_conflicts" : (len(d1_list) - len(d1_set))/len(d1_list),
+                            "D2_conflicts" : (len(d2_list) - len(d2_set))/len(d1_list),
+                            
                         }, index=[0]
                     )
                     if os.path.exists(results_filename):
@@ -156,6 +180,18 @@ def ui_fun(dataset, candidate_pairs_dir):
                         new_results_df.to_csv(results_filename, mode='a+', index=False, header=True)
                         
 
+ 
+                if isinstance(responses2_df.iloc[0]['responses'], str):    
+                    filtered_cp_df = responses2_df[responses2_df['responses'] == 'True']
+                else: 
+                    filtered_cp_df = responses2_df[responses2_df['responses'] == True]
+
+
+                d1_list = filtered_cp_df['D1'].to_list()
+                d2_list = filtered_cp_df['D2'].to_list()
+                d1_set = set(d1_list)
+                d2_set = set(d2_list)
+                
                 precision, recall, f1 = evaluate(intersection, 'intersection', gt_set, cp)
                 if intersection_exists.empty:
                     new_results_df = pd.DataFrame(
@@ -169,7 +205,10 @@ def ui_fun(dataset, candidate_pairs_dir):
                             'recall': recall,
                             'f1': f1,
                             'good_behavior_response_rate': (row1['good_behavior_response_rate'] + row2['good_behavior_response_rate']) / 2,
-                            'examples' : examples
+                            'examples' : examples,
+                            'total_matches': len(d1_list),
+                            "D1_conflicts" : (len(d1_list) - len(d1_set))/len(d1_list),
+                            "D2_conflicts" : (len(d2_list) - len(d2_set))/len(d1_list),
                         }, index=[0]
                     )
                     if os.path.exists(results_filename):

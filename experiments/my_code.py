@@ -216,6 +216,20 @@ for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
                     good_responses = sum(response == 'True' or response == 'False' for response in responses)
                     good_behavior_rate = good_responses / len(responses)
                     print("Good Behavior Response Rate:", good_behavior_rate)
+                
+                
+                    if isinstance(cp_df.iloc[0]['responses'], str):    
+                        filtered_cp_df = cp_df[cp_df['responses'] == 'True']
+                    else: 
+                        filtered_cp_df = cp_df[cp_df['responses'] == True]
+
+
+                    d1_list = filtered_cp_df['D1'].to_list()
+                    d2_list = filtered_cp_df['D2'].to_list()
+                    d1_set = set(d1_list)
+                    d2_set = set(d2_list)
+                    
+                
 
                 # #model's conflict rate
                 # record = cp[0][1]
@@ -295,7 +309,10 @@ for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
                             'recall': recall,
                             'f1': f1,
                             'good_behavior_response_rate': good_behavior_rate,
-                            "examples" : examples
+                            "examples" : examples,
+                            'total_matches': len(d1_list),
+                            "D1_conflicts" : (len(d1_list) - len(d1_set))/len(d1_list),
+                            "D2_conflicts" : (len(d2_list) - len(d2_set))/len(d1_list),
                         }, index=[0]
                     )
                     ollama.delete(model=llm)
