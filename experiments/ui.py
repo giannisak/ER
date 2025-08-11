@@ -94,12 +94,30 @@ def ui_fun(dataset, candidate_pairs_dir):
 
                 candidate_pairs = f'data/candidate_pairs/{candidate_pairs_dir}/{dataset}.csv'
                 groundtruth = f'data/{dataset}/gtclean.csv'
-                cp_df = pd.read_csv(candidate_pairs)
-                cp_columns = list(cp_df.columns)
+                cp_df_with_rows = pd.read_csv(candidate_pairs)
+                cp_columns = list(cp_df_with_rows.columns)
                 clean_files = [cl.replace("clean", "").replace(".csv", "") for cl in cp_columns]
+
+
+                if candidate_pairs_dir == 'original':
+                    sep = "|" if dataset != 'D3' else "#"
+                    dataset_1 = f'data/{dataset}/{clean_files[0]}clean.csv'
+                    dataset_2 = f'data/{dataset}/{clean_files[1]}clean.csv'
+                    dt1_df = pd.read_csv(dataset_1, sep=sep)
+                    dt2_df = pd.read_csv(dataset_2, sep=sep)
+                    cp_df = pd.DataFrame({
+                        'D1': cp_df_with_rows[cp_columns[0]].map(dt1_df['id']),
+                        'D2': cp_df_with_rows[cp_columns[1]].map(dt2_df['id'])
+                    })
+                else: 
+                    cp_df = cp_df_with_rows
+                    cp_df.columns = ['D1','D2']
+
 
                 # Load data
                 cp = pd.read_csv(candidate_pairs).to_numpy()
+                
+                
                 # cp = cp[:100]  # Testing mode – only first 100 pairs
                 gt = pd.read_csv(groundtruth, sep='|').to_numpy()
                 gt_set = set(tuple(row) for row in gt)

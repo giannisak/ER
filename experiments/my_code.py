@@ -5,7 +5,6 @@ import numpy as np
 from sklearn.metrics import confusion_matrix, accuracy_score, precision_score, recall_score, f1_score
 import time
 import ollama
-from examples_blocking import examples_dict_list
 from ui import ui_fun
 
 
@@ -40,10 +39,12 @@ False. if the records are referring to a different entity."""
 }
 
 
-# dataset = 'D2'
-for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
-    
-# for dataset in ['D2']:
+def my_main(dataset, candidate_pairs_dir):
+    if candidate_pairs_dir != 'original': 
+        from examples_blocking import examples_dict_list
+    else:
+        from examples import examples_dict_list
+        
     cnt = 0
     for examples in examples_dict_list:
         print(f"""
@@ -64,7 +65,7 @@ for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
                     prompt = prompts[prompt_key]
                     # CONFIGURATION: Edit llm and paths for datasets, candidate pairs, groundtruth files
                     llm = f'{ll}-{suffix}-{prompt_key}'
-                    candidate_pairs_dir = "standard_blocking"
+                    # candidate_pairs_dir = "standard_blocking"
         
                     if os.path.exists(f'results/{candidate_pairs_dir}/{dataset}.csv'):
                         results_df = pd.read_csv(f'results/{candidate_pairs_dir}/{dataset}.csv')
@@ -335,4 +336,59 @@ for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
                             for response in responses:
                                 file.write(response + '\n')
                         print(f"Responses saved to {responses_filename} for union/intersection.")
+    if 'total_matches' not in list(results_df.columns):
+        total_matches = []
+        d1_conf = []
+        d2_conf = []
+         
+        for _, row in results_df.iterrows():
+            llm = row['model']
+            examples = row['examples']
+            responses_path = f'responses/{candidate_pairs_dir}/{dataset}/{dataset}_{llm}_{examples}.csv'
+            
+            if '-z' in llm and not os.path.exists(responses_path):
+                responses_path = f'responses/{candidate_pairs_dir}/{dataset}/{dataset}_{llm}.csv'
+                
+            responses_df = pd.read_csv(responses_path)
+
+            if isinstance(responses_df.iloc[0]['responses'], str):    
+                filtered_cp_df = responses_df[responses_df['responses'] == 'True']
+            else: 
+                filtered_cp_df = responses_df[responses_df['responses'] == True]
+                
+            d1_list = filtered_cp_df['D1'].to_list()
+            d2_list = filtered_cp_df['D2'].to_list()
+            d1_set = set(d1_list)
+            d2_set = set(d2_list)
+            
+            total_matches.append(len(d1_list))
+            d1_conf.append((len(d1_list) - len(d1_set))/len(d1_list))
+            d2_conf.append((len(d2_list) - len(d2_set))/len(d2_list))
+        
+        results_df['total_matches'] = total_matches
+        results_df["D1_conflicts"] = d1_conf
+        results_df['D2_conflicts'] = d2_conf
+        results_df.to_csv(f'results/{candidate_pairs_dir}/{dataset}.csv', mode='w+', index=False, header=True)
+
+
+            
+            
+
+        
+        
+        
     ui_fun(dataset, candidate_pairs_dir)
+    
+    
+for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
+    candidate_pairs_dir = "original"
+    my_main(dataset, candidate_pairs_dir)
+
+    
+    
+for candidate_pairs_dir in ["original", "standard_blocking"]:
+    dataset = 'D3' 
+    my_main(dataset, candidate_pairs_dir)
+    
+    
+    
