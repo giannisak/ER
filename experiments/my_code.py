@@ -381,14 +381,16 @@ def my_main(dataset, candidate_pairs_dir):
     
     
 for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
-    candidate_pairs_dir = "original"
-    my_main(dataset, candidate_pairs_dir)
+    for candidate_pairs_dir in ["original", "standard_blocking"]:
+    
+    # candidate_pairs_dir = "original"
+        ui_fun(dataset, candidate_pairs_dir)
 
     
     
-for candidate_pairs_dir in ["original", "standard_blocking"]:
-    dataset = 'D3' 
-    my_main(dataset, candidate_pairs_dir)
+# for candidate_pairs_dir in ["original", "standard_blocking"]:
+    # dataset = 'D3' 
+    # (dataset, candidate_pairs_dir)
     
     
     

@@ -132,6 +132,9 @@ def ui_fun(dataset, candidate_pairs_dir):
                 responses1 = responses1_df['responses'].astype('str').tolist()
                 responses2 = responses2_df['responses'].astype('str').tolist()
                 
+                responses1 = ['True' if 'true' in x.lower() else 'False' for x in responses1]
+                responses2 = ['True' if 'true' in x.lower() else 'False' for x in responses2]
+                
                 # Load model responses
                 # with open(f"{dataset_dir}/{model1}_responses_{examples}.txt", 'r') as f1:
                 #     responses1 = [line.strip() for line in f1.readlines()]

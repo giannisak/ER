@@ -49,6 +49,9 @@ if  __name__ == '__main__':
                     for weight in ['weight','s-weight']:
                         tmp_df = responses_df[['D1','D2', 'responses', weight]]
                         tmp_df['responses'] = tmp_df['responses'].astype(str)
+                        tmp_df['responses'].apply(lambda x: 'True' if 'true' in x.lower() else  'False')
+                        
+                        
 
                         tmp_df = tmp_df[tmp_df['responses'] == 'True']
                         
