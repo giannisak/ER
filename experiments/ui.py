@@ -8,7 +8,10 @@ from examples import examples_dict_list
 
 # Evaluation function
 def evaluate(predictions, label, gt_set, cp):
+    
     true_labels = [1 if tuple(pair) in gt_set else 0 for pair in cp]
+   
+        
     predicted_labels = [1 if resp == 'True' else 0 for resp in predictions]
 
     conf_matrix = confusion_matrix(true_labels, predicted_labels)
@@ -52,19 +55,22 @@ llms = [
 union_sym = "U"
 intersection_sym = "∩"
 
+weights_dict =  {'original' : {'weight' : 'TopKJoin' ,  's-weight' : 'distilroberta'},
+                    'standard_blocking' : {'weight' : 'MetaBlocking-Method' ,  's-weight' : 'distilroberta'},
+                }   
+                
 
 # for dataset in ['D2', 'D5', 'D6', 'D7', 'D8' ]:
 def ui_fun(dataset, candidate_pairs_dir):
 # for dataset in ['D8']:
     for ll in llms:
         for prompt in ['p2']:
+            # for examples in  ['vector_based_examples_dict_1']:
             for examples in examples_dict_list:
                 results_filename = f'results/{candidate_pairs_dir}/{dataset}.csv'
                 
 
-                results_df = pd.read_csv(results_filename)
-
-        
+                results_df = pd.read_csv(results_filename, sep= ',')
 
                 # CONFIGURATION: Edit the two model names and dataset files
                 model1 = f'{ll}-ft-{prompt}'
@@ -79,17 +85,17 @@ def ui_fun(dataset, candidate_pairs_dir):
                                 & (results_df['model'] == model2)
                                 & (results_df['examples'] == examples)].iloc[0]
                 
-                union_exists = results_df[(results_df['dataset'] == dataset) & 
-                        (results_df['model'] == f"{model1} {union_sym} {model2}") & 
-                        (results_df['examples'] == examples)] 
-                intersection_exists = results_df[(results_df['dataset'] == dataset) & 
-                        (results_df['model'] == f"{model1} {intersection_sym} {model2}") & 
-                        (results_df['examples'] == examples)] 
+                # union_exists = results_df[(results_df['dataset'] == dataset) & 
+                #         (results_df['model'] == f"{model1} {union_sym} {model2}") & 
+                #         (results_df['examples'] == examples)] 
+                # intersection_exists = results_df[(results_df['dataset'] == dataset) & 
+                #         (results_df['model'] == f"{model1} {intersection_sym} {model2}") & 
+                #         (results_df['examples'] == examples)] 
                 
                     
-                if not union_exists.empty and not intersection_exists.empty:
-                    print(f'{dataset} {model1} {model2} {examples} union and intersection DONE')
-                    continue
+                # if not union_exists.empty and not intersection_exists.empty:
+                #     print(f'{dataset} {model1} {model2} {examples} union and intersection DONE')
+                #     continue
 
 
                 candidate_pairs = f'data/candidate_pairs/{candidate_pairs_dir}/{dataset}.csv'
@@ -125,16 +131,27 @@ def ui_fun(dataset, candidate_pairs_dir):
                 # Get dataset directory
                 dataset_dir = f'data_clean/{dataset}'
                 
-                responses1_df = pd.read_csv(f'responses/{candidate_pairs_dir}/{dataset}/{dataset}_{model1}_{examples}.csv')
-                responses2_df = pd.read_csv(f'responses/{candidate_pairs_dir}/{dataset}/{dataset}_{model2}_{examples}.csv')
-
-
-                responses1 = responses1_df['responses'].astype('str').tolist()
-                responses2 = responses2_df['responses'].astype('str').tolist()
+                wd = weights_dict[candidate_pairs_dir]
                 
-                responses1 = ['True' if 'true' in x.lower() else 'False' for x in responses1]
-                responses2 = ['True' if 'true' in x.lower() else 'False' for x in responses2]
+                for w in wd:
+
+                    
+                    responses1_df = pd.read_csv(f'responses/clustering/{candidate_pairs_dir}/{dataset}/{dataset}_{model1}_{examples}_{w}.csv')
+                    responses2_df = pd.read_csv(f'responses/clustering/{candidate_pairs_dir}/{dataset}/{dataset}_{model2}_{examples}_{w}.csv')
+
+                    responses1 = responses1_df['responses'].astype('str').tolist()
+                    responses2 = responses2_df['responses'].astype('str').tolist()
+                            
+                            
+                    responses1 = ['True' if 'true' in x.lower() else 'False' for x in responses1]
+                    responses2 = ['True' if 'true' in x.lower() else 'False' for x in responses2]
                 
+                    print(f'{candidate_pairs_dir}/{dataset}/{dataset}_{model1}_{examples}_{w}.csv')
+                    print(f'{candidate_pairs_dir}/{dataset}/{dataset}_{model2}_{examples}_{w}.csv')
+                
+                    print(len(responses1))
+                    print(len(responses2))
+                    
                 # Load model responses
                 # with open(f"{dataset_dir}/{model1}_responses_{examples}.txt", 'r') as f1:
                 #     responses1 = [line.strip() for line in f1.readlines()]
@@ -142,41 +159,41 @@ def ui_fun(dataset, candidate_pairs_dir):
                 # with open(f"{dataset_dir}/{model2}_responses_{examples}.txt", 'r') as f2:
                 #     responses2 = [line.strip() for line in f2.readlines()]
 
-                start = time.time()
+                    start = time.time()
 
-                # Compute union and intersection of responses
-                union = ['True' if r1 == 'True' or r2 == 'True' else 'False' for r1, r2 in zip(responses1, responses2)]
-                intersection = ['True' if r1 == 'True' and r2 == 'True' else 'False' for r1, r2 in zip(responses1, responses2)]
+                    # Compute union and intersection of responses
+                    union = ['True' if r1 == 'True' or r2 == 'True' else 'False' for r1, r2 in zip(responses1, responses2)]
+                    intersection = ['True' if r1 == 'True' and r2 == 'True' else 'False' for r1, r2 in zip(responses1, responses2)]
 
-                end = time.time()
-                time_seconds = end - start  
+                    end = time.time()
+                    time_seconds = end - start  
 
-                # Run evaluation
-
-
-                responses1_df['responses'] = union
-                responses2_df['responses'] = intersection
-                
-                responses1_df.to_csv(f'responses/{candidate_pairs_dir}/{dataset}/{dataset}_{model1}_union_{model2}_{examples}.csv')
-                responses2_df.to_csv(f'responses/{candidate_pairs_dir}/{dataset}/{dataset}_{model1}_intersection_{model2}_{examples}.csv')
-
-                
-                if isinstance(responses1_df.iloc[0]['responses'], str):    
-                    filtered_cp_df = responses1_df[responses1_df['responses'] == 'True']
-                else: 
-                    filtered_cp_df = responses1_df[responses1_df['responses'] == True]
+                    # Run evaluation
 
 
-                d1_list = filtered_cp_df['D1'].to_list()
-                d2_list = filtered_cp_df['D2'].to_list()
-                d1_set = set(d1_list)
-                d2_set = set(d2_list)
-                
+                    responses1_df['responses'] = union
+                    responses2_df['responses'] = intersection
+                    
+                    responses1_df.to_csv(f'responses/{candidate_pairs_dir}/{dataset}/{dataset}_{model1}_union_{model2}_{examples}_{w}.csv')
+                    responses2_df.to_csv(f'responses/{candidate_pairs_dir}/{dataset}/{dataset}_{model1}_intersection_{model2}_{examples}_{w}.csv')
+
+                    
+                    if isinstance(responses1_df.iloc[0]['responses'], str):    
+                        filtered_cp_df = responses1_df[responses1_df['responses'] == 'True']
+                    else: 
+                        filtered_cp_df = responses1_df[responses1_df['responses'] == True]
 
 
-                precision, recall, f1 = evaluate(union, 'union', gt_set, cp)
+                    d1_list = filtered_cp_df['D1'].to_list()
+                    d2_list = filtered_cp_df['D2'].to_list()
+                    d1_set = set(d1_list)
+                    d2_set = set(d2_list)
+                    
 
-                if union_exists.empty:
+
+                    precision, recall, f1 = evaluate(union, 'union', gt_set, cp)
+
+                    # if union_exists.empty:
                     new_results_df = pd.DataFrame(
                         {
                             'dataset_1': clean_files[0],
@@ -188,33 +205,33 @@ def ui_fun(dataset, candidate_pairs_dir):
                             'recall': recall,
                             'f1': f1,
                             'good_behavior_response_rate': (row1['good_behavior_response_rate'] + row2['good_behavior_response_rate']) / 2,
-                            'examples' : examples, 
-                            'total_matches': len(d1_list),
-                            "D1_conflicts" : (len(d1_list) - len(d1_set))/len(d1_list),
-                            "D2_conflicts" : (len(d2_list) - len(d2_set))/len(d1_list),
+                            "examples" : examples,
+                            'total_matches': len(filtered_cp_df),
+                            "weights_extracted_from" : wd[w]
                             
                         }, index=[0]
                     )
-                    if os.path.exists(results_filename):
-                        new_results_df.to_csv(results_filename, mode='a+', index=False, header=False)
+                    results_filename_ui = f'results/{candidate_pairs_dir}/{dataset}_ui.csv'
+                    
+                    if os.path.exists(results_filename_ui):
+                        new_results_df.to_csv(results_filename_ui, mode='a+', index=False, header=False)
                     else:
-                        new_results_df.to_csv(results_filename, mode='a+', index=False, header=True)
-                        
+                        new_results_df.to_csv(results_filename_ui, mode='a+', index=False, header=True)
+                            
 
- 
-                if isinstance(responses2_df.iloc[0]['responses'], str):    
-                    filtered_cp_df = responses2_df[responses2_df['responses'] == 'True']
-                else: 
-                    filtered_cp_df = responses2_df[responses2_df['responses'] == True]
+    
+                    if isinstance(responses2_df.iloc[0]['responses'], str):    
+                        filtered_cp_df = responses2_df[responses2_df['responses'] == 'True']
+                    else: 
+                        filtered_cp_df = responses2_df[responses2_df['responses'] == True]
 
 
-                d1_list = filtered_cp_df['D1'].to_list()
-                d2_list = filtered_cp_df['D2'].to_list()
-                d1_set = set(d1_list)
-                d2_set = set(d2_list)
-                
-                precision, recall, f1 = evaluate(intersection, 'intersection', gt_set, cp)
-                if intersection_exists.empty:
+                    d1_list = filtered_cp_df['D1'].to_list()
+                    d2_list = filtered_cp_df['D2'].to_list()
+                    d1_set = set(d1_list)
+                    d2_set = set(d2_list)
+                    
+                    precision, recall, f1 = evaluate(intersection, 'intersection', gt_set, cp)
                     new_results_df = pd.DataFrame(
                         {
                             'dataset_1': clean_files[0],
@@ -226,14 +243,21 @@ def ui_fun(dataset, candidate_pairs_dir):
                             'recall': recall,
                             'f1': f1,
                             'good_behavior_response_rate': (row1['good_behavior_response_rate'] + row2['good_behavior_response_rate']) / 2,
-                            'examples' : examples,
-                            'total_matches': len(d1_list),
-                            "D1_conflicts" : (len(d1_list) - len(d1_set))/len(d1_list),
-                            "D2_conflicts" : (len(d2_list) - len(d2_set))/len(d1_list),
+                            "examples" : examples,
+                            'total_matches': len(filtered_cp_df),
+                            "weights_extracted_from" : wd[w]
+
                         }, index=[0]
                     )
-                    if os.path.exists(results_filename):
-                        new_results_df.to_csv(results_filename, mode='a+', index=False, header=False)
+                    print(new_results_df['recall'])
+                    if os.path.exists(results_filename_ui):
+                        new_results_df.to_csv(results_filename_ui, mode='a+', index=False, header=False)
                     else:
-                        new_results_df.to_csv(results_filename, mode='a+', index=False, header=True)
-                            
+                        new_results_df.to_csv(results_filename_ui, mode='a+', index=False, header=True)
+
+for dataset in ['D2', 'D5', 'D6', 'D7','D8']:
+    for cp in ['original', 'standard_blocking' ]:
+        
+        ui_fun(dataset, cp)
+        
+        print(f'{dataset} {cp} DONE')

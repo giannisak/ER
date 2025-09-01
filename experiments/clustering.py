@@ -6,6 +6,7 @@ from networkx import Graph
 
 if  __name__ == '__main__': 
     datasets = ["D2", "D5", "D6", "D7", "D8"]
+    # datasets = ["D2" , "D7"]
     
     for dataset in datasets:
         cp = pd.read_csv(f'data/candidate_pairs/original/{dataset}.csv')
@@ -31,12 +32,15 @@ if  __name__ == '__main__':
         }
                 
         for candidate_pairs in ['original', 'standard_blocking']: 
+        # for candidate_pairs in ['standard_blocking']:
+            
             results_df = pd.read_csv(f'results/{candidate_pairs}/{dataset}.csv')
             for _, row in results_df.iterrows():
 
                     llm : str = row['model']
                     original_llm_name = llm
                     if  "U" in llm or "∩" in llm: 
+                        continue
                         llm = llm.replace(" U ", "_union_") if "U" in llm else llm.replace(" ∩ ", "_intersection_") 
 
                     examples = row['examples']
@@ -46,23 +50,42 @@ if  __name__ == '__main__':
                         responses_path = f'responses/{candidate_pairs}/{dataset}/{dataset}_{llm}.csv'
                             
                     responses_df = pd.read_csv(responses_path)
+                    print(len(responses_df))
                     for weight in ['weight','s-weight']:
                         tmp_df = responses_df[['D1','D2', 'responses', weight]]
+                        print(len(tmp_df))
+                        
                         tmp_df['responses'] = tmp_df['responses'].astype(str)
                         tmp_df['responses'].apply(lambda x: 'True' if 'true' in x.lower() else  'False')
                         
                         
 
-                        tmp_df = tmp_df[tmp_df['responses'] == 'True']
+                        clust_df = tmp_df[tmp_df['responses'] == 'True']
                         
-                        tmp_df.drop(columns=['responses'], inplace=True)
+                        clust_df = clust_df.drop(columns=['responses'])
 
-                        edges_with_weights = [(data._ids_mapping_1[str(int(id1))], data._ids_mapping_2[str(int(id2))], w) for _, (id1, id2, w) in tmp_df.iterrows()]
+                        edges_with_weights = [(data._ids_mapping_1[str(int(id1))], data._ids_mapping_2[str(int(id2))], w) for _, (id1, id2, w) in clust_df.iterrows()]
                         g = Graph()
                         g.add_weighted_edges_from(edges_with_weights)
                         clustering = UniqueMappingClustering()
                         clusters = clustering.process(g, data, similarity_threshold=0.0)
-                        pairs_df = clustering.export_to_df(clusters)
+                        pairs_df : pd.DataFrame = clustering.export_to_df(clusters).astype(int)
+                        
+                        # print(pairs_df)
+                        valid_pairs = set(tuple(row) for _,row in pairs_df.iterrows())
+                        # print(valid_pairs)
+                        tmp_df['responses'] = "False"
+                       
+
+                        mask = (tmp_df['responses'] == 'False') & (tmp_df[['D1', 'D2']].apply(tuple, axis=1).isin(valid_pairs))
+                        tmp_df.loc[mask, 'responses'] = 'True'
+
+                        cl_reponses_path = f'responses/clustering/{candidate_pairs}/{dataset}/{dataset}_{llm}_{examples}_{weight}.csv'
+
+                        if '-z' in llm and not os.path.exists(responses_path):
+                            cl_reponses_path = f'responses/clustering/{candidate_pairs}/{dataset}/{dataset}_{llm}_{weight}.csv'
+  
+                        tmp_df.to_csv(cl_reponses_path, mode='w+', index=False)
                         
                         ev = clustering.evaluate(clusters)
                         clustering_df = pd.DataFrame(
@@ -83,5 +106,5 @@ if  __name__ == '__main__':
                         )
                         clustering_path = f'results/{candidate_pairs}/{dataset}_clustering.csv'
                         HEADER = True if not os.path.exists(clustering_path) else False
-                        clustering_df.to_csv(clustering_path, index=False, header=HEADER, mode='a+')
+                        # clustering_df.to_csv(clustering_path, index=False, header=HEADER, mode='a+')
                         
