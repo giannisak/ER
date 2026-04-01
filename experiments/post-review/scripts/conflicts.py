@@ -7,8 +7,8 @@ intersection_sym = " ∩ "
 
 if __name__ == "__main__":
 
-    BLOCKING_TYPE = "original"
-    DIR = "D8"
+    BLOCKING_TYPE = "standard_blocking"
+    DIR = "D7"
     PATH = f"results/{BLOCKING_TYPE}/{DIR}.csv"
 
     df = pd.read_csv(PATH)
