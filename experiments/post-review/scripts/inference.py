@@ -19,12 +19,12 @@ from examples import examples_dict_list as original_examples
 
 if __name__ == "__main__":
 
-    BLOCKING_TYPE = "original"
+    BLOCKING_TYPE = "standard_blocking"
     DIR = "D5"
 
     llms = [
-        # "gemma3n",
-        # "qwen2.5",
+        "gemma3n",
+        "qwen2.5",
         "llama3.1",
         "orca2",
         "openhermes",
@@ -55,15 +55,11 @@ if __name__ == "__main__":
 
     for examples, examples_dict in tqdm(examples_dict_list.items(),
                 desc="Examples", position=0, leave=True):
-        if examples == "vector_based_examples_dict_1":
-            continue
 
         for ll in llms:
-            for suffix in ['ft', 'tf']:
-                if ll == 'llama3.1' and suffix == 'ft':
+            for suffix in ['z', 'ft', 'tf']:
+                if suffix == 'z' and examples != "vector_based_examples_dict_1":
                     continue
-            # for suffix in ['ft', 'z', 'tf']:
-            #     for prompt_key in ["p1","p2"]:
                 for prompt_key in ["p2"]:
                     PROMPT = prompts[prompt_key]
                     # CONFIGURATION: Edit
