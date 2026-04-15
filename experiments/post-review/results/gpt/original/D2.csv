@@ -8,3 +8,11 @@ abt,buy,D2,gpt-5.4-tf-p2,77.14,94.66,91.25,92.92,0.05,join_examples_dict_2,936,1
 abt,buy,D2,gpt-5.4-z-p2,77.48,96.37,90.32,93.25,0.11,vector_based_examples_dict_1,910,7.25
 abt,buy,D2,gpt-5.4-ft-p2,79.81,97.88,85.58,91.32,0.09,vector_based_examples_dict_1,849,4.12
 abt,buy,D2,gpt-5.4-tf-p2,70.20,97.75,85.07,90.97,0.06,vector_based_examples_dict_1,845,4.73
+abt,buy,D2,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,150.01,97.08,88.98,92.85,0.07,vector_based_examples_dict_1,890,5.96
+abt,buy,D2,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,150.01,98.63,81.67,89.35,0.07,vector_based_examples_dict_1,804,2.74
+abt,buy,D2,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,142.39,96.16,92.89,94.50,0.10,vector_based_examples_dict_2,938,7.78
+abt,buy,D2,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,142.39,98.01,86.20,91.73,0.10,vector_based_examples_dict_2,854,3.75
+abt,buy,D2,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,252.10,95.17,93.41,94.28,0.09,join_examples_dict_1,953,10.18
+abt,buy,D2,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,252.10,98.38,87.44,92.58,0.09,join_examples_dict_1,863,3.36
+abt,buy,D2,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,147.54,94.36,93.00,93.67,0.11,join_examples_dict_2,957,11.60
+abt,buy,D2,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,147.54,96.95,88.26,92.40,0.11,join_examples_dict_2,884,5.77

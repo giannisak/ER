@@ -8,3 +8,11 @@ imdb,tvdb,D6,gpt-5.4-ft-p2,194.66,51.15,61.34,55.78,0.12,join_examples_dict_1,10
 imdb,tvdb,D6,gpt-5.4-tf-p2,87.97,51.96,64.10,57.40,0.11,join_examples_dict_1,1120,33.84
 imdb,tvdb,D6,gpt-5.4-ft-p2,89.72,48.81,49.89,49.35,0.21,join_examples_dict_2,928,36.10
 imdb,tvdb,D6,gpt-5.4-tf-p2,86.66,50.25,54.74,52.40,0.13,join_examples_dict_2,989,35.19
+imdb,tvdb,D6,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,177.94,59.86,56.50,58.13,0.12,vector_based_examples_dict_1,857,25.55
+imdb,tvdb,D6,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,177.94,63.98,22.69,33.50,0.12,vector_based_examples_dict_1,322,14.60
+imdb,tvdb,D6,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,263.38,51.87,53.52,52.68,0.18,vector_based_examples_dict_2,937,33.94
+imdb,tvdb,D6,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,263.38,48.42,30.40,37.35,0.18,vector_based_examples_dict_2,570,32.11
+imdb,tvdb,D6,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,282.63,52.92,70.81,60.57,0.11,join_examples_dict_1,1215,34.16
+imdb,tvdb,D6,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,282.63,49.90,54.63,52.16,0.11,join_examples_dict_1,994,35.01
+imdb,tvdb,D6,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,176.38,51.44,61.01,55.82,0.17,join_examples_dict_2,1077,34.54
+imdb,tvdb,D6,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,176.38,47.14,43.61,45.31,0.17,join_examples_dict_2,840,37.38
