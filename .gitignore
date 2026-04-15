@@ -2,3 +2,7 @@
 /experiments/.dm
 /.vscode
 /experiments/.ipynb_checkpoints
+/experiments/.env
+/experiments/*.log
+/.idea
+/experiments/post-review/scripts/__pycache__
