@@ -1,0 +1,10 @@
+dataset_1,dataset_2,dataset,model,time (sec),precision,recall,f1,good_behavior_response_rate,examples,total_matches,conflicts
+walmart,amazon,D8,gpt-5.4-z-p2,122.74,64.26,75.48,69.42,0.12,vector_based_examples_dict_1,915,24.48
+walmart,amazon,D8,gpt-5.4-ft-p2,125.03,69.10,74.07,71.50,0.10,vector_based_examples_dict_1,835,19.28
+walmart,amazon,D8,gpt-5.4-tf-p2,125.78,67.12,82.28,73.93,0.24,vector_based_examples_dict_1,955,22.93
+walmart,amazon,D8,gpt-5.4-ft-p2,128.96,68.08,82.67,74.67,0.24,vector_based_examples_dict_2,946,22.09
+walmart,amazon,D8,gpt-5.4-tf-p2,124.38,67.29,82.67,74.19,0.24,vector_based_examples_dict_2,957,21.73
+walmart,amazon,D8,gpt-5.4-ft-p2,130.85,67.66,81.64,74.00,0.20,join_examples_dict_1,940,23.51
+walmart,amazon,D8,gpt-5.4-tf-p2,141.63,67.72,85.62,75.62,0.27,join_examples_dict_1,985,23.15
+walmart,amazon,D8,gpt-5.4-ft-p2,145.58,69.92,82.67,75.76,0.20,join_examples_dict_2,921,20.20
+walmart,amazon,D8,gpt-5.4-tf-p2,156.27,69.63,60.33,64.65,0.35,join_examples_dict_2,675,17.78
