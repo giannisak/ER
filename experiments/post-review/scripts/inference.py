@@ -90,7 +90,7 @@ if __name__ == "__main__":
                     print(f""" --- {LLM} ----\n{PROMPT}\n """)
 
                     for pair in tqdm(cp,
-                            desc="Processing", position=1, leave=False):
+                            desc=f"Processing {examples}", position=1, leave=False):
 
                         dt1_id = pair[0]
                         dt2_id = pair[1]
@@ -131,7 +131,7 @@ if __name__ == "__main__":
                                 index=False)
 
 
-                    precision, recall, f1 = _evaluate(gt_set, cp, responses)
+                    precision, recall, f1 = _evaluate(gt_set, cp, cp_df['responses'].tolist())
                     filtered_cp_df = cp_df[cp_df['responses'] == True]
 
                     u0, counts0 = np.unique(filtered_cp_df['D1'], return_counts=True)
