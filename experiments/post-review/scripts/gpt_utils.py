@@ -2,6 +2,8 @@ import pandas as pd
 import numpy as np
 from sklearn.metrics import f1_score, precision_score, recall_score
 
+UNION_SYM = "U"
+INTERSECTION_SYM = "∩"
 
 def _load_dataset(blocking_type, dir):
     candidate_pairs = f'data/candidate_pairs/{blocking_type}/{dir}.csv'
@@ -197,4 +199,25 @@ def _evaluate(gt_set, cp, responses):
 #     # dataset = 'D3'
 #     # (dataset, candidate_pairs_dir)
 
+
+def _get_responses_df(results, blocking_type, dataset):
+    results_df = pd.read_csv(results)
+    for _, row in results_df.iterrows():
+        llm = row['model']
+        examples = row['examples']
+        if UNION_SYM in llm or INTERSECTION_SYM in llm:
+            llm = llm.replace(f" {UNION_SYM} ", "_union_") if UNION_SYM in llm\
+                else llm.replace(f" {INTERSECTION_SYM} ", "_intersection_")
+
+        responses_path = f'post-review/responses/{blocking_type}/{dataset}/{dataset}_{llm}_{examples}.csv'
+        responses_df = pd.read_csv(responses_path)
+        yield responses_df, responses_path, row
+
+def _load_weights(blocking_type, dataset, weight_type):
+    llm = 'gemma3n-ft-p2'
+    examples = 'vector_based_examples_dict_2'
+    responses = f'responses/{blocking_type}/{dataset}/{dataset}_{llm}_{examples}.csv'
+
+    responses_df = pd.read_csv(responses)
+    return responses_df[weight_type].tolist()
 
