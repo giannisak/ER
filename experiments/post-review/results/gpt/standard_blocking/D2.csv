@@ -1,0 +1,10 @@
+dataset_1,dataset_2,dataset,model,time (sec),precision,recall,f1,good_behavior_response_rate,examples,total_matches,conflicts
+abt,buy,D2,gpt-5.4-z-p2,52.13,95.95,92.52,94.20,1.00,vector_based_examples_dict_1,889,7.31
+abt,buy,D2,gpt-5.4-ft-p2,52.56,96.50,89.70,92.97,0.98,vector_based_examples_dict_1,857,6.42
+abt,buy,D2,gpt-5.4-tf-p2,48.38,96.10,88.18,91.97,0.93,vector_based_examples_dict_1,846,6.86
+abt,buy,D2,gpt-5.4-ft-p2,42.07,94.96,91.87,93.38,0.94,vector_based_examples_dict_2,892,9.08
+abt,buy,D2,gpt-5.4-tf-p2,38.63,95.18,92.19,93.66,0.99,vector_based_examples_dict_2,893,9.52
+abt,buy,D2,gpt-5.4-ft-p2,49.94,96.58,91.87,94.16,0.98,join_examples_dict_1,877,6.73
+abt,buy,D2,gpt-5.4-tf-p2,50.82,95.60,94.36,94.98,0.98,join_examples_dict_1,910,8.46
+abt,buy,D2,gpt-5.4-ft-p2,47.01,96.67,91.32,93.92,0.99,join_examples_dict_2,871,5.97
+abt,buy,D2,gpt-5.4-tf-p2,39.93,94.95,93.82,94.38,0.98,join_examples_dict_2,911,9.77

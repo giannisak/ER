@@ -29,14 +29,13 @@ def main_(dir_):
     RESPONSES = f"post-review/responses/{BLOCKING_TYPE}/{DIR}"
 
     prompts = {
-
-        "p2": """You are given two record descriptions and your task is to identify
-        if the records refer to the same entity or not.
-
-        You must answer with just one word:
-        True. if the records are referring to the same entity,
-        False. if the records are referring to a different entity."""
-
+        "p2":(
+            "You are given two record descriptions and your task is to identify "
+            "if the records refer to the same entity or not. "
+            "You must answer with just one word: "
+            "True. if the records are referring to the same entity, "
+            "False. if the records are referring to a different entity."
+        )
     }
 
     if BLOCKING_TYPE == "original":
@@ -82,7 +81,6 @@ def main_(dir_):
                         r1 = dt_1[dt1_ids[pair[0]]]
                         r2 = dt_2[dt2_ids[pair[1]]]
                         query = f"record 1: {r1}, record 2: {r2}. Answer with True. or False."
-
                         all_messages.append([
                             {'role': 'system', 'content': PROMPT},
                             {'role': 'user', 'content': query},

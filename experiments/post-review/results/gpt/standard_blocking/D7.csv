@@ -1,0 +1,10 @@
+dataset_1,dataset_2,dataset,model,time (sec),precision,recall,f1,good_behavior_response_rate,examples,total_matches,conflicts
+tmdb,tvdb,D7,gpt-5.4-z-p2,100.35,52.01,87.50,65.24,0.96,vector_based_examples_dict_1,1642,15.83
+tmdb,tvdb,D7,gpt-5.4-ft-p2,113.64,53.50,57.99,55.65,0.95,vector_based_examples_dict_1,1058,9.64
+tmdb,tvdb,D7,gpt-5.4-tf-p2,205.65,53.24,52.25,52.74,0.94,vector_based_examples_dict_1,958,9.39
+tmdb,tvdb,D7,gpt-5.4-ft-p2,103.95,54.54,81.86,65.46,0.99,vector_based_examples_dict_2,1465,10.72
+tmdb,tvdb,D7,gpt-5.4-tf-p2,100.96,54.65,85.45,66.67,0.98,vector_based_examples_dict_2,1526,13.50
+tmdb,tvdb,D7,gpt-5.4-ft-p2,107.68,49.11,50.82,49.95,0.91,join_examples_dict_1,1010,14.46
+tmdb,tvdb,D7,gpt-5.4-tf-p2,109.32,53.19,72.54,61.38,0.91,join_examples_dict_1,1331,10.14
+tmdb,tvdb,D7,gpt-5.4-ft-p2,110.79,49.53,86.99,63.12,0.94,join_examples_dict_2,1714,21.53
+tmdb,tvdb,D7,gpt-5.4-tf-p2,224.51,47.91,92.73,63.18,0.94,join_examples_dict_2,1889,23.93
