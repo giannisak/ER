@@ -4,19 +4,19 @@ import numpy as np
 from sklearn.metrics import f1_score, precision_score, recall_score
 
 
-def _load_dataset(blocking_type, dir):
-    candidate_pairs = f'data/candidate_pairs/{blocking_type}/{dir}.csv'
+def _load_dataset(blocking_type, dir_):
+    candidate_pairs = f'data/candidate_pairs/{blocking_type}/{dir_}.csv'
     cp_df_with_rows = pd.read_csv(candidate_pairs)
     cp_columns = list(cp_df_with_rows.columns)
     clean_files = [cl.replace("clean", "").replace(".csv", "") for cl in cp_columns]
 
     # data_dir = "giannis"
-    dataset_1 = f'data/{dir}/{clean_files[0]}clean.csv'
-    dataset_2 = f'data/{dir}/{clean_files[1]}clean.csv'
-    groundtruth = f'data/{dir}/gtclean.csv'
+    dataset_1 = f'data/{dir_}/{clean_files[0]}clean.csv'
+    dataset_2 = f'data/{dir_}/{clean_files[1]}clean.csv'
+    groundtruth = f'data/{dir_}/gtclean.csv'
 
 
-    sep = '|' if dir!='D3' else '#'
+    sep = '|' if dir_!='D3' else '#'
 
     # read the files (Edit sep if needed)
     dt1_df = pd.read_csv(dataset_1, sep=sep)
@@ -50,12 +50,12 @@ def _load_dataset(blocking_type, dir):
 
 
 def _create_model(llm, ll, prompt, suffix,
-            examples_dict, dir, dt1_df, dt2_df, dt1_ids, dt2_ids):
+            examples_dict, dir_, dt1_df, dt2_df, dt1_ids, dt2_ids):
     if suffix != 'z':
         true_flag = True
         true_example = []
         false_example = []
-        for pair in examples_dict[dir]:
+        for pair in examples_dict[dir_]:
             r1  = f"Title: {dt1_df.at[dt1_ids[pair[0]], 'title']}, \
             Associated Name: {dt1_df.at[dt1_ids[pair[0]], 'name']}"
 
