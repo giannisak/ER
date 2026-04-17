@@ -10,7 +10,7 @@ from gpt_utils import _load_dataset, _get_responses_df
 if  __name__ == '__main__':
 
 
-    BLOCKING_TYPE = 'original'
+    BLOCKING_TYPE = 'standard_blocking'
     DIR = 'D8'
     POST_REVIEW_EXP = "gpt"
     dt1_df, dt2_df, cp_df, gt_df, clean_files = _load_dataset(BLOCKING_TYPE, DIR)
