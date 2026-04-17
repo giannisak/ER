@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import re
 from sklearn.metrics import f1_score, precision_score, recall_score
 
 UNION_SYM = "U"
@@ -99,10 +100,12 @@ def _convert_to_numpy(dt1_df, dt2_df, cp_df, gt_df):
     dt1 = dt1[:, 1:]
     dt2 = dt2[:, 1:]
 
+    # Apply regex to collapse whitespace after joining, and ensure empty strings are skipped
+    dt1 = np.array(
+        [re.sub(r'\s+', ' ', ' '.join([x for x in row if isinstance(x, str) and x.strip()])).strip() for row in dt1])
+    dt2 = np.array(
+        [re.sub(r'\s+', ' ', ' '.join([x for x in row if isinstance(x, str) and x.strip()])).strip() for row in dt2])
 
-    # concatenate the strings in each column to a single string, omitting empty elements
-    dt1 = np.array([' '.join([x for x in row if isinstance(x, str)]) for row in dt1])
-    dt2 = np.array([' '.join([x for x in row if isinstance(x, str)]) for row in dt2])
     return dt1, dt2, cp, gt_set
 
 
