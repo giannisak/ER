@@ -201,7 +201,9 @@ def _get_good_behavior_response_rate(responses):
 
 def _evaluate(gt_set, cp, responses):
 
-    true_labels = [1 if tuple(pair) in gt_set else 0 for pair in cp]
+
+    true_labels = [1 if (tuple(pair) in gt_set or
+                         tuple(reversed(pair)) in gt_set) else 0 for pair in cp]
     predicted_labels = [1 if resp else 0 for resp in responses]
 
     precision = precision_score(true_labels, predicted_labels) * 100

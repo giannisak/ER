@@ -47,10 +47,13 @@ if __name__ == '__main__':
                         examples != "vector_based_examples_dict_1":
                     continue
                 for prompt_key in ["p2"]:
+
                     PROMPT = prompts[prompt_key]
                     LLM = f'{ll}-{suffix}-{prompt_key}'
                     print(f' ----------- {DIR} {LLM} -------------')
-
+                    responses_filename = f'post-review/responses/{BLOCKING_TYPE}/{DIR}/{DIR}_{LLM}_{examples}.csv'
+                    if os.path.exists(responses_filename):
+                        continue
                     dt1_df, cp_df, gt_df = _load_dataset_cora(BLOCKING_TYPE, DIR)
                     dt_1, cp, gt_set = _convert_to_numpy_cora(dt1_df, cp_df, gt_df)
 
@@ -95,8 +98,7 @@ if __name__ == '__main__':
                     cp_df['responses'] = cp_df['responses'].apply(lambda x:
                                                                   'True' in str(x))
 
-                    cp_df.to_csv(f'post-review/responses/{BLOCKING_TYPE}/{DIR}/{DIR}_{LLM}_{examples}.csv',
-                                 index=False)
+                    cp_df.to_csv(responses_filename, index=False)
 
                     precision, recall, f1 = _evaluate(gt_set, cp, cp_df['responses'].tolist())
                     filtered_cp_df = cp_df[cp_df['responses'] == True]
