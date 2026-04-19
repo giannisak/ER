@@ -8,7 +8,7 @@ from examples import examples_dict_list as original_examples
 
 if  __name__ == '__main__':
 
-    BLOCKING_TYPE = ""
+    BLOCKING_TYPE = "standard_blocking"
     DIR = "D8"
     LLMs = [
         "gpt-5.4",

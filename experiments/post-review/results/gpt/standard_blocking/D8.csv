@@ -8,3 +8,11 @@ walmart,amazon,D8,gpt-5.4-ft-p2,115.57,67.23,84.61,74.93,0.81,join_examples_dict
 walmart,amazon,D8,gpt-5.4-tf-p2,166.95,66.67,84.61,74.57,0.96,join_examples_dict_1,948,25.42
 walmart,amazon,D8,gpt-5.4-ft-p2,121.00,71.48,79.52,75.29,0.98,join_examples_dict_2,831,19.13
 walmart,amazon,D8,gpt-5.4-tf-p2,119.29,69.30,74.03,71.59,0.97,join_examples_dict_2,798,20.55
+walmart,amazon,D8,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,242.53,68.12,83.80,75.15,0.97,vector_based_examples_dict_1,919,22.20
+walmart,amazon,D8,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,242.53,71.93,68.27,70.05,0.97,vector_based_examples_dict_1,709,16.36
+walmart,amazon,D8,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,237.35,67.90,90.90,77.73,0.98,vector_based_examples_dict_2,1000,24.10
+walmart,amazon,D8,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,237.35,72.45,82.73,77.25,0.98,vector_based_examples_dict_2,853,18.64
+walmart,amazon,D8,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,282.52,65.56,89.96,75.85,0.89,join_examples_dict_1,1025,27.71
+walmart,amazon,D8,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,282.52,68.60,79.25,73.54,0.89,join_examples_dict_1,863,22.94
+walmart,amazon,D8,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,240.29,69.01,85.54,76.39,0.97,join_examples_dict_2,926,23.33
+walmart,amazon,D8,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,240.29,72.26,68.01,70.07,0.97,join_examples_dict_2,703,16.07

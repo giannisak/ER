@@ -1,0 +1,35 @@
+dataset_1,dataset_2,dataset,model,time (sec),precision,recall,f1,good_behavior_response_rate,examples,total_matches,weights_extracted_from
+tmdb,tvdb,D7,gpt-5.4-z-p2,100.41,54.69,80.00,64.97,0.96,vector_based_examples_dict_1,1514,MetaBlocking-Method
+tmdb,tvdb,D7,gpt-5.4-z-p2,100.59,58.18,81.45,67.87,0.96,vector_based_examples_dict_1,1449,distilroberta
+tmdb,tvdb,D7,gpt-5.4-ft-p2,113.67,55.45,54.11,54.77,0.95,vector_based_examples_dict_1,1010,MetaBlocking-Method
+tmdb,tvdb,D7,gpt-5.4-ft-p2,113.67,57.30,53.82,55.51,0.95,vector_based_examples_dict_1,972,distilroberta
+tmdb,tvdb,D7,gpt-5.4-tf-p2,205.68,54.69,48.41,51.36,0.94,vector_based_examples_dict_1,916,MetaBlocking-Method
+tmdb,tvdb,D7,gpt-5.4-tf-p2,205.68,56.93,48.41,52.32,0.94,vector_based_examples_dict_1,880,distilroberta
+tmdb,tvdb,D7,gpt-5.4-ft-p2,104.00,56.47,75.85,64.74,0.99,vector_based_examples_dict_2,1390,MetaBlocking-Method
+tmdb,tvdb,D7,gpt-5.4-ft-p2,104.00,58.94,76.43,66.55,0.99,vector_based_examples_dict_2,1342,distilroberta
+tmdb,tvdb,D7,gpt-5.4-tf-p2,101.01,56.34,77.68,65.31,0.98,vector_based_examples_dict_2,1427,MetaBlocking-Method
+tmdb,tvdb,D7,gpt-5.4-tf-p2,101.01,59.69,79.42,68.16,0.98,vector_based_examples_dict_2,1377,distilroberta
+tmdb,tvdb,D7,gpt-5.4-ft-p2,107.71,51.12,46.28,48.58,0.91,join_examples_dict_1,937,MetaBlocking-Method
+tmdb,tvdb,D7,gpt-5.4-ft-p2,107.71,55.61,46.96,50.92,0.91,join_examples_dict_1,874,distilroberta
+tmdb,tvdb,D7,gpt-5.4-tf-p2,109.36,54.87,66.96,60.31,0.91,join_examples_dict_1,1263,MetaBlocking-Method
+tmdb,tvdb,D7,gpt-5.4-tf-p2,109.36,57.93,67.44,62.32,0.91,join_examples_dict_1,1205,distilroberta
+tmdb,tvdb,D7,gpt-5.4-ft-p2,110.84,53.59,78.65,63.74,0.94,join_examples_dict_2,1519,MetaBlocking-Method
+tmdb,tvdb,D7,gpt-5.4-ft-p2,110.85,56.90,80.87,66.80,0.94,join_examples_dict_2,1471,distilroberta
+tmdb,tvdb,D7,gpt-5.4-tf-p2,224.57,52.03,83.09,63.99,0.94,join_examples_dict_2,1653,MetaBlocking-Method
+tmdb,tvdb,D7,gpt-5.4-tf-p2,224.57,55.99,86.18,67.88,0.94,join_examples_dict_2,1593,distilroberta
+tmdb,tvdb,D7,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,319.34,55.71,70.72,62.32,0.94,vector_based_examples_dict_1,1314,MetaBlocking-Method
+tmdb,tvdb,D7,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,319.33,58.52,71.30,64.29,0.94,vector_based_examples_dict_1,1261,distilroberta
+tmdb,tvdb,D7,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,319.31,54.33,31.50,39.88,0.94,vector_based_examples_dict_1,600,MetaBlocking-Method
+tmdb,tvdb,D7,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,319.31,55.36,30.92,39.68,0.94,vector_based_examples_dict_1,578,distilroberta
+tmdb,tvdb,D7,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,205.14,55.23,81.64,65.89,0.98,vector_based_examples_dict_2,1530,MetaBlocking-Method
+tmdb,tvdb,D7,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,204.96,59.14,83.77,69.33,0.98,vector_based_examples_dict_2,1466,distilroberta
+tmdb,tvdb,D7,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,204.95,58.00,71.79,64.16,0.98,vector_based_examples_dict_2,1281,MetaBlocking-Method
+tmdb,tvdb,D7,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,204.95,59.68,72.08,65.30,0.98,vector_based_examples_dict_2,1250,distilroberta
+tmdb,tvdb,D7,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,217.12,53.23,70.92,60.81,0.91,join_examples_dict_1,1379,MetaBlocking-Method
+tmdb,tvdb,D7,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,217.06,56.68,71.69,63.31,0.91,join_examples_dict_1,1309,distilroberta
+tmdb,tvdb,D7,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,217.03,53.81,42.32,47.38,0.91,join_examples_dict_1,814,MetaBlocking-Method
+tmdb,tvdb,D7,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,217.03,58.01,42.71,49.19,0.91,join_examples_dict_1,762,distilroberta
+tmdb,tvdb,D7,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,335.36,51.96,84.64,64.39,0.94,join_examples_dict_2,1686,MetaBlocking-Method
+tmdb,tvdb,D7,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,335.36,55.99,87.63,68.32,0.94,join_examples_dict_2,1620,distilroberta
+tmdb,tvdb,D7,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,335.35,53.74,77.10,63.33,0.94,join_examples_dict_2,1485,MetaBlocking-Method
+tmdb,tvdb,D7,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,335.35,56.96,79.42,66.34,0.94,join_examples_dict_2,1443,distilroberta
