@@ -2,3 +2,7 @@
 /experiments/.dm
 /.vscode
 /experiments/.ipynb_checkpoints
+/experiments/post-review/scripts/__pycache__
+*.out
+*.log
+/experiments/post-review/openkey.txt
