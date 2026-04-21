@@ -1,0 +1,18 @@
+dataset_1,dataset_2,dataset,model,time (sec),precision,recall,f1,good_behavior_response_rate,examples,total_matches,conflicts
+tmdb,tvdb,D7,gpt-5.4-z-p2,100.35,52.01,87.50,65.24,0.96,vector_based_examples_dict_1,1642,15.83
+tmdb,tvdb,D7,gpt-5.4-ft-p2,113.64,53.50,57.99,55.65,0.95,vector_based_examples_dict_1,1058,9.64
+tmdb,tvdb,D7,gpt-5.4-tf-p2,205.65,53.24,52.25,52.74,0.94,vector_based_examples_dict_1,958,9.39
+tmdb,tvdb,D7,gpt-5.4-ft-p2,103.95,54.54,81.86,65.46,0.99,vector_based_examples_dict_2,1465,10.72
+tmdb,tvdb,D7,gpt-5.4-tf-p2,100.96,54.65,85.45,66.67,0.98,vector_based_examples_dict_2,1526,13.50
+tmdb,tvdb,D7,gpt-5.4-ft-p2,107.68,49.11,50.82,49.95,0.91,join_examples_dict_1,1010,14.46
+tmdb,tvdb,D7,gpt-5.4-tf-p2,109.32,53.19,72.54,61.38,0.91,join_examples_dict_1,1331,10.14
+tmdb,tvdb,D7,gpt-5.4-ft-p2,110.79,49.53,86.99,63.12,0.94,join_examples_dict_2,1714,21.53
+tmdb,tvdb,D7,gpt-5.4-tf-p2,224.51,47.91,92.73,63.18,0.94,join_examples_dict_2,1889,23.93
+tmdb,tvdb,D7,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,319.29,53.54,76.74,63.07,0.94,vector_based_examples_dict_1,1399,12.72
+tmdb,tvdb,D7,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,319.29,53.00,33.50,41.05,0.94,vector_based_examples_dict_1,617,6.16
+tmdb,tvdb,D7,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,204.91,52.79,90.16,66.59,0.98,vector_based_examples_dict_2,1667,16.50
+tmdb,tvdb,D7,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,204.91,56.87,77.15,65.48,0.98,vector_based_examples_dict_2,1324,6.65
+tmdb,tvdb,D7,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,217.00,50.77,77.66,61.40,0.91,join_examples_dict_1,1493,15.07
+tmdb,tvdb,D7,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,217.00,52.59,45.70,48.90,0.91,join_examples_dict_1,848,8.37
+tmdb,tvdb,D7,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,335.30,47.46,94.57,63.20,0.94,join_examples_dict_2,1945,25.50
+tmdb,tvdb,D7,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,335.30,50.12,85.14,63.10,0.94,join_examples_dict_2,1658,19.66

@@ -6,3 +6,6 @@
 *.out
 *.log
 /experiments/post-review/openkey.txt
+/experiments/.env
+/experiments/*.log
+/.idea

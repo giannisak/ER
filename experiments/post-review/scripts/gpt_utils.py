@@ -1,7 +1,86 @@
 import pandas as pd
 import numpy as np
+import re
 from sklearn.metrics import f1_score, precision_score, recall_score
+import ollama
 
+UNION_SYM = "U"
+INTERSECTION_SYM = "∩"
+
+def _create_model_cora(llm, ll, prompt, suffix,
+                       examples_dict, dir_, dt_1, dt1_ids):
+    true_example = []
+    false_example = []
+
+    if suffix != 'z':
+        true_flag = True
+        for pair in examples_dict[dir_]:
+            r1 = dt_1[dt1_ids[pair[0]]]
+            r2 = dt_1[dt1_ids[pair[1]]]
+
+            if true_flag:
+                true_example.append(f"record 1: {r1}\nrecord 2: {r2}\nAnswer: {true_flag}.")
+            else:
+                false_example.append(f"record 1: {r1}\nrecord 2: {r2}\nAnswer: {true_flag}.")
+            true_flag = False if true_flag else True
+
+    if suffix == 'ft':
+        example_cnt = 1
+
+        for example in false_example:
+            prompt = f"""{prompt}\nExample {example_cnt}:\n{example}\n"""
+            example_cnt += 1
+
+        for example in true_example:
+            prompt = f"""{prompt}\nExample {example_cnt}:\n{example}\n"""
+            example_cnt += 1
+    else:
+        example_cnt = 1
+        for example in true_example:
+            prompt = f"""{prompt}\nExample {example_cnt}:\n{example}\n"""
+            example_cnt += 1
+
+        for example in false_example:
+            prompt = f"""{prompt}\nExample {example_cnt}:\n{example}\n"""
+            example_cnt += 1
+
+    ollama.create(model=llm, from_=ll, system=prompt)
+    return prompt
+
+
+def _load_dataset_cora(blocking_type, dir):
+    candidate_pairs = f'data/candidate_pairs/{blocking_type}/{dir}.csv'
+    cp_df_with_rows = pd.read_csv(candidate_pairs)
+
+    cora_dataset = f'data/{dir}/{dir}.csv'
+    ground_truth = f'data/{dir}/{dir}_gt.csv'
+    sep = '|'
+
+    cora_df = pd.read_csv(cora_dataset, sep=sep)
+    gt_df = pd.read_csv(ground_truth, sep=sep)
+    cp_df = cp_df_with_rows
+    cp_df.columns = ['D1','D2']
+
+
+    dt1_df = cora_df.fillna("").astype(str)
+
+    return dt1_df, cp_df, gt_df
+
+
+def _convert_to_numpy_cora(dt1_df, cp_df, gt_df):
+    dt1 = dt1_df.to_numpy()
+    cp = cp_df.to_numpy()
+    gt = gt_df.to_numpy()
+
+    # Convert groundtruth to a set of tuples for O(1) lookup
+    gt_set = set(tuple(row) for row in gt)
+
+    # cut the indexes
+    dt1 = dt1[:, 1:]
+
+    # concatenate the strings in each column to a single string, omitting empty elements
+    dt1 = np.array([' '.join([x for x in row if isinstance(x, str)]) for row in dt1])
+    return dt1, cp, gt_set
 
 def _load_dataset(blocking_type, dir):
     candidate_pairs = f'data/candidate_pairs/{blocking_type}/{dir}.csv'
@@ -97,10 +176,12 @@ def _convert_to_numpy(dt1_df, dt2_df, cp_df, gt_df):
     dt1 = dt1[:, 1:]
     dt2 = dt2[:, 1:]
 
+    # Apply regex to collapse whitespace after joining, and ensure empty strings are skipped
+    dt1 = np.array(
+        [re.sub(r'\s+', ' ', ' '.join([x for x in row if isinstance(x, str) and x.strip()])).strip() for row in dt1])
+    dt2 = np.array(
+        [re.sub(r'\s+', ' ', ' '.join([x for x in row if isinstance(x, str) and x.strip()])).strip() for row in dt2])
 
-    # concatenate the strings in each column to a single string, omitting empty elements
-    dt1 = np.array([' '.join([x for x in row if isinstance(x, str)]) for row in dt1])
-    dt2 = np.array([' '.join([x for x in row if isinstance(x, str)]) for row in dt2])
     return dt1, dt2, cp, gt_set
 
 
@@ -120,7 +201,9 @@ def _get_good_behavior_response_rate(responses):
 
 def _evaluate(gt_set, cp, responses):
 
-    true_labels = [1 if tuple(pair) in gt_set else 0 for pair in cp]
+
+    true_labels = [1 if (tuple(pair) in gt_set or
+                         tuple(reversed(pair)) in gt_set) else 0 for pair in cp]
     predicted_labels = [1 if resp else 0 for resp in responses]
 
     precision = precision_score(true_labels, predicted_labels) * 100
@@ -197,4 +280,25 @@ def _evaluate(gt_set, cp, responses):
 #     # dataset = 'D3'
 #     # (dataset, candidate_pairs_dir)
 
+
+def _get_responses_df(results, blocking_type, dataset):
+    results_df = pd.read_csv(results)
+    for _, row in results_df.iterrows():
+        llm = row['model']
+        examples = row['examples']
+        if UNION_SYM in llm or INTERSECTION_SYM in llm:
+            llm = llm.replace(f" {UNION_SYM} ", "_union_") if UNION_SYM in llm\
+                else llm.replace(f" {INTERSECTION_SYM} ", "_intersection_")
+
+        responses_path = f'post-review/responses/{blocking_type}/{dataset}/{dataset}_{llm}_{examples}.csv'
+        responses_df = pd.read_csv(responses_path)
+        yield responses_df, responses_path, row
+
+def _load_weights(blocking_type, dataset, weight_type):
+    llm = 'gemma3n-ft-p2'
+    examples = 'vector_based_examples_dict_2'
+    responses = f'responses/{blocking_type}/{dataset}/{dataset}_{llm}_{examples}.csv'
+
+    responses_df = pd.read_csv(responses)
+    return responses_df[weight_type].tolist()
 

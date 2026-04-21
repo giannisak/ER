@@ -1,0 +1,35 @@
+dataset_1,dataset_2,dataset,model,time (sec),precision,recall,f1,good_behavior_response_rate,examples,total_matches,weights_extracted_from
+imdb,tmdb,D5,gpt-5.4-z-p2,97.16,85.63,76.13,80.60,0.04,vector_based_examples_dict_1,1747,TopKJoin
+imdb,tmdb,D5,gpt-5.4-z-p2,97.16,85.45,75.32,80.06,0.04,vector_based_examples_dict_1,1732,distilroberta
+imdb,tmdb,D5,gpt-5.4-ft-p2,99.59,86.39,62.65,72.63,0.03,vector_based_examples_dict_1,1425,TopKJoin
+imdb,tmdb,D5,gpt-5.4-ft-p2,99.59,85.72,59.90,70.52,0.03,vector_based_examples_dict_1,1373,distilroberta
+imdb,tmdb,D5,gpt-5.4-tf-p2,99.56,86.40,78.88,82.47,0.05,vector_based_examples_dict_1,1794,TopKJoin
+imdb,tmdb,D5,gpt-5.4-tf-p2,99.56,85.57,76.03,80.52,0.05,vector_based_examples_dict_1,1746,distilroberta
+imdb,tmdb,D5,gpt-5.4-ft-p2,103.49,86.99,82.34,84.60,0.08,vector_based_examples_dict_2,1860,TopKJoin
+imdb,tmdb,D5,gpt-5.4-ft-p2,103.49,86.50,80.56,83.43,0.08,vector_based_examples_dict_2,1830,distilroberta
+imdb,tmdb,D5,gpt-5.4-tf-p2,98.53,85.85,75.62,80.41,0.15,vector_based_examples_dict_2,1731,TopKJoin
+imdb,tmdb,D5,gpt-5.4-tf-p2,98.53,85.14,74.66,79.56,0.15,vector_based_examples_dict_2,1723,distilroberta
+imdb,tmdb,D5,gpt-5.4-ft-p2,97.10,83.32,58.73,68.90,0.03,join_examples_dict_1,1385,TopKJoin
+imdb,tmdb,D5,gpt-5.4-ft-p2,96.93,82.99,59.08,69.02,0.03,join_examples_dict_1,1399,distilroberta
+imdb,tmdb,D5,gpt-5.4-tf-p2,96.10,82.42,51.04,63.04,0.02,join_examples_dict_1,1217,TopKJoin
+imdb,tmdb,D5,gpt-5.4-tf-p2,96.10,81.92,51.65,63.36,0.02,join_examples_dict_1,1239,distilroberta
+imdb,tmdb,D5,gpt-5.4-ft-p2,177.41,84.60,65.39,73.77,0.10,join_examples_dict_2,1519,TopKJoin
+imdb,tmdb,D5,gpt-5.4-ft-p2,177.41,84.20,65.65,73.78,0.10,join_examples_dict_2,1532,distilroberta
+imdb,tmdb,D5,gpt-5.4-tf-p2,106.88,84.53,67.28,74.92,0.06,join_examples_dict_2,1564,TopKJoin
+imdb,tmdb,D5,gpt-5.4-tf-p2,106.88,84.08,67.48,74.87,0.06,join_examples_dict_2,1577,distilroberta
+imdb,tmdb,D5,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,199.32,86.04,83.46,84.73,0.04,vector_based_examples_dict_1,1906,TopKJoin
+imdb,tmdb,D5,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,199.18,85.18,80.46,82.75,0.04,vector_based_examples_dict_1,1856,distilroberta
+imdb,tmdb,D5,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,199.09,86.90,58.07,69.62,0.04,vector_based_examples_dict_1,1313,TopKJoin
+imdb,tmdb,D5,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,199.10,86.30,55.47,67.53,0.04,vector_based_examples_dict_1,1263,distilroberta
+imdb,tmdb,D5,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,201.97,86.50,87.07,86.79,0.11,vector_based_examples_dict_2,1978,TopKJoin
+imdb,tmdb,D5,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,202.00,85.86,84.99,85.42,0.11,vector_based_examples_dict_2,1945,distilroberta
+imdb,tmdb,D5,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,201.95,86.36,70.89,77.86,0.11,vector_based_examples_dict_2,1613,TopKJoin
+imdb,tmdb,D5,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,201.96,85.82,70.23,77.25,0.11,vector_based_examples_dict_2,1608,distilroberta
+imdb,tmdb,D5,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,192.99,83.41,62.44,71.42,0.03,join_examples_dict_1,1471,TopKJoin
+imdb,tmdb,D5,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,192.99,83.00,62.60,71.37,0.03,join_examples_dict_1,1482,distilroberta
+imdb,tmdb,D5,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,192.98,82.37,47.33,60.12,0.03,join_examples_dict_1,1129,TopKJoin
+imdb,tmdb,D5,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,192.98,82.05,48.14,60.68,0.03,join_examples_dict_1,1153,distilroberta
+imdb,tmdb,D5,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,284.25,85.19,75.52,80.06,0.08,join_examples_dict_2,1742,TopKJoin
+imdb,tmdb,D5,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,284.25,84.60,75.22,79.63,0.08,join_examples_dict_2,1747,distilroberta
+imdb,tmdb,D5,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,284.24,83.81,57.15,67.96,0.08,join_examples_dict_2,1340,TopKJoin
+imdb,tmdb,D5,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,284.41,83.61,57.91,68.43,0.08,join_examples_dict_2,1361,distilroberta

@@ -1,0 +1,35 @@
+dataset_1,dataset_2,dataset,model,time (sec),precision,recall,f1,good_behavior_response_rate,examples,total_matches,weights_extracted_from
+abt,buy,D2,gpt-5.4-z-p2,52.16,98.25,79.04,87.60,1.00,vector_based_examples_dict_1,856,MetaBlocking-Method
+abt,buy,D2,gpt-5.4-z-p2,52.16,99.06,79.51,88.22,1.00,vector_based_examples_dict_1,854,distilroberta
+abt,buy,D2,gpt-5.4-ft-p2,52.59,98.55,76.88,86.38,0.98,vector_based_examples_dict_1,830,MetaBlocking-Method
+abt,buy,D2,gpt-5.4-ft-p2,52.88,99.27,77.16,86.83,0.98,vector_based_examples_dict_1,827,distilroberta
+abt,buy,D2,gpt-5.4-tf-p2,48.41,98.28,75.38,85.32,0.93,vector_based_examples_dict_1,816,MetaBlocking-Method
+abt,buy,D2,gpt-5.4-tf-p2,48.41,99.14,75.75,85.88,0.93,vector_based_examples_dict_1,813,distilroberta
+abt,buy,D2,gpt-5.4-ft-p2,42.10,98.00,78.20,86.98,0.94,vector_based_examples_dict_2,849,MetaBlocking-Method
+abt,buy,D2,gpt-5.4-ft-p2,42.10,98.82,78.57,87.54,0.94,vector_based_examples_dict_2,846,distilroberta
+abt,buy,D2,gpt-5.4-tf-p2,38.66,98.35,78.57,87.36,0.99,vector_based_examples_dict_2,850,MetaBlocking-Method
+abt,buy,D2,gpt-5.4-tf-p2,38.66,99.18,79.14,88.03,0.99,vector_based_examples_dict_2,849,distilroberta
+abt,buy,D2,gpt-5.4-ft-p2,49.97,98.70,78.57,87.49,0.98,join_examples_dict_1,847,MetaBlocking-Method
+abt,buy,D2,gpt-5.4-ft-p2,49.97,99.41,78.95,88.00,0.98,join_examples_dict_1,845,distilroberta
+abt,buy,D2,gpt-5.4-tf-p2,50.85,98.27,80.26,88.36,0.98,join_examples_dict_1,869,MetaBlocking-Method
+abt,buy,D2,gpt-5.4-tf-p2,50.85,99.19,80.92,89.13,0.98,join_examples_dict_1,868,distilroberta
+abt,buy,D2,gpt-5.4-ft-p2,47.04,98.46,78.10,87.11,0.99,join_examples_dict_2,844,MetaBlocking-Method
+abt,buy,D2,gpt-5.4-ft-p2,47.04,99.17,78.48,87.62,0.99,join_examples_dict_2,842,distilroberta
+abt,buy,D2,gpt-5.4-tf-p2,39.96,97.81,79.61,87.77,0.98,join_examples_dict_2,866,MetaBlocking-Method
+abt,buy,D2,gpt-5.4-tf-p2,39.96,98.84,80.26,88.59,0.98,join_examples_dict_2,864,distilroberta
+abt,buy,D2,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,100.97,98.12,78.57,87.27,0.96,vector_based_examples_dict_1,852,MetaBlocking-Method
+abt,buy,D2,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,100.97,99.06,79.04,87.92,0.96,vector_based_examples_dict_1,849,distilroberta
+abt,buy,D2,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,100.97,98.74,73.68,84.39,0.96,vector_based_examples_dict_1,794,MetaBlocking-Method
+abt,buy,D2,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,100.97,99.37,73.87,84.74,0.96,vector_based_examples_dict_1,791,distilroberta
+abt,buy,D2,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,80.73,97.59,79.89,87.86,0.96,vector_based_examples_dict_2,871,MetaBlocking-Method
+abt,buy,D2,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,80.73,98.62,80.64,88.73,0.96,vector_based_examples_dict_2,870,distilroberta
+abt,buy,D2,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,80.73,98.79,76.79,86.41,0.96,vector_based_examples_dict_2,827,MetaBlocking-Method
+abt,buy,D2,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,80.73,99.39,76.97,86.76,0.96,vector_based_examples_dict_2,824,distilroberta
+abt,buy,D2,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,100.79,98.18,81.11,88.83,0.98,join_examples_dict_1,879,MetaBlocking-Method
+abt,buy,D2,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,100.79,99.20,81.86,89.70,0.98,join_examples_dict_1,878,distilroberta
+abt,buy,D2,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,100.79,98.81,77.73,87.01,0.98,join_examples_dict_1,837,MetaBlocking-Method
+abt,buy,D2,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,100.79,99.40,78.01,87.41,0.98,join_examples_dict_1,835,distilroberta
+abt,buy,D2,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,86.97,97.49,80.17,87.98,0.98,join_examples_dict_2,875,MetaBlocking-Method
+abt,buy,D2,gpt-5.4-ft-p2 U gpt-5.4-tf-p2,86.97,98.63,81.02,88.96,0.98,join_examples_dict_2,874,distilroberta
+abt,buy,D2,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,86.97,98.92,77.54,86.93,0.98,join_examples_dict_2,834,MetaBlocking-Method
+abt,buy,D2,gpt-5.4-ft-p2 ∩ gpt-5.4-tf-p2,86.97,99.40,77.63,87.18,0.98,join_examples_dict_2,831,distilroberta
