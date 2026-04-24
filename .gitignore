@@ -6,3 +6,4 @@
 /experiments/*.log
 /.idea
 /experiments/post-review/scripts/__pycache__
+/experiments/.embs
