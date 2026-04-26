@@ -1,0 +1,11 @@
+dataset_1,dataset_2,dataset_name,type,model,time (sec),precision,recall,f1,total_matches
+abt,buy,D2,original,zeroer,81,0.00,0.00,0.00,0
+abt,buy,D2,standard_blocking,zeroer,18,41.30,98.05,58.12,2189
+imdb,tmdb,D5,original,zeroer,2,13.80,6.50,8.84,891
+imdb,tmdb,D5_standard_blocking,standard_blocking,zeroer,1,15.79,6.76,9.47,779
+imdb,tvdb,D6_original,original,zeroer,1,31.35,52.75,39.33,1528
+imdb,tvdb,D6_standard_blocking,standard_blocking,zeroer,1,21.81,53.46,30.98,2196
+tmdb,tvdb,D7_original,original,zeroer,362,37.66,74.15,49.95,1973
+tmdb,tvdb,D7_standard_blocking,standard_blocking,zeroer,1390,24.77,75.31,37.28,2967
+walmart,amazon,D8_original,original,zeroer,60,14.54,90.37,25.05,4841
+walmart,amazon,D8_standard_blocking,standard_blocking,zeroer,53,22.19,93.71,35.89,3154
