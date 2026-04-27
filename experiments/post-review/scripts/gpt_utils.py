@@ -79,7 +79,8 @@ def _convert_to_numpy_cora(dt1_df, cp_df, gt_df):
     dt1 = dt1[:, 1:]
 
     # concatenate the strings in each column to a single string, omitting empty elements
-    dt1 = np.array([' '.join([x for x in row if isinstance(x, str)]) for row in dt1])
+    dt1 = np.array(
+        [re.sub(r'\s+', ' ', ' '.join([x for x in row if isinstance(x, str) and x.strip()])).strip() for row in dt1])
     return dt1, cp, gt_set
 
 def _load_dataset(blocking_type, dir):

@@ -44,3 +44,12 @@ cora,cora,zephyr-tf-p2,3179.64,97.52,62.67,76.30,0.14,join_examples_dict_1,9942,
 cora,cora,gemma3n-ft-p2,9019.47,84.31,94.23,89.00,1.00,join_examples_dict_2,17291,99.96
 cora,cora,gemma3n-tf-p2,9014.46,83.68,95.03,88.99,1.00,join_examples_dict_2,17569,99.96
 cora,cora,qwen2.5-ft-p2,2984.55,89.56,87.54,88.54,1.00,join_examples_dict_2,15121,99.95
+cora,cora,qwen2.5-tf-p2,4739.78,91.30,84.36,87.70,1.00,join_examples_dict_2,14294,99.95
+cora,cora,llama3.1-ft-p2,5222.22,82.26,86.15,84.16,0.99,join_examples_dict_2,16202,99.94
+cora,cora,llama3.1-tf-p2,5202.01,81.06,97.45,88.50,1.00,join_examples_dict_2,18598,99.96
+cora,cora,orca2-ft-p2,3430.26,86.95,82.04,84.42,1.00,join_examples_dict_2,14597,99.96
+cora,cora,orca2-tf-p2,3430.72,85.92,84.99,85.45,1.00,join_examples_dict_2,15302,99.95
+cora,cora,openhermes-ft-p2,3516.81,86.42,89.76,88.06,1.00,join_examples_dict_2,16068,99.95
+cora,cora,openhermes-tf-p2,3509.69,87.18,88.51,87.84,1.00,join_examples_dict_2,15706,99.96
+cora,cora,zephyr-ft-p2,5983.15,95.61,61.24,74.66,0.04,join_examples_dict_2,9909,99.83
+cora,cora,zephyr-tf-p2,5036.66,92.08,74.97,82.65,0.13,join_examples_dict_2,12595,99.93
