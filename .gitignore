@@ -10,3 +10,6 @@
 /experiments/*.log
 /.idea
 /experiments/.embs
+/experiments/data/10K
+/experiments/data/50K
+
