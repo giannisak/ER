@@ -134,6 +134,7 @@ if __name__ == '__main__':
                     header = not os.path.exists(f'post-review/results/{POST_REVIEW_EXP}/{BLOCKING_TYPE}/{DIR}.csv')
                     results_df.to_csv(f'post-review/results/{POST_REVIEW_EXP}/{BLOCKING_TYPE}/{DIR}.csv', mode='a+',
                                       index=False, header=header, float_format='%.2f')
+        break
 
 
 
