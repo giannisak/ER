@@ -8,21 +8,29 @@ if __name__ == "__main__":
 
     data_list = []
     # datasets_list  = ['D2','D3','D5','D6','D7','D8'] 
-    datasets_list  = ['10K', '50K']
+    datasets_list  = ['10K']
 
     for dataset in datasets_list:
 
-        candidate_pairs = f'data/candidate_pairs/original/{dataset}.csv'
-        cp_df_with_rows = pd.read_csv(candidate_pairs)
-        cp_columns = list(cp_df_with_rows.columns)
-        clean_files = [cl.replace("clean", "").replace(".csv", "") for cl in cp_columns]
-                    
-
-
+        candidate_pairs = f'data/candidate_pairs/standard_blocking/{dataset}.csv'
+        cp_df_with_rows = pd.read_csv(candidate_pairs, header=None)
+        cp_df_with_rows.columns = ['id1', 'id2']
+        # cp_columns = list(cp_df_with_rows.columns)
+        # clean_files = [cl.replace("clean", "").replace(".csv", "") for cl in cp_columns]
+        
         d1 = pd.read_csv(f"data/{dataset}/{dataset}full.csv", sep='|')
+        # gt = pd.read_csv(f"data/{dataset}/{dataset}_gt.csv", sep='|')
+        # 
+        # d1 = pd.read_csv(f"data/{dataset}/{dataset}full.csv", sep='|')
         
         d1.drop(columns=['Embedded Ag.Value', 'Clean Ag.Value', 'Embedded Clean Ag.Value'], inplace=True)
+        
+        
+        
         d1.to_csv(f"data/{dataset}/{dataset}.csv", sep='|', index=False)
+        
+        
+        
         # d2 = pd.read_csv(f"data/{dataset}/{clean_files[1]}clean.csv", sep='#')
         gt = pd.read_csv(f"data/{dataset}/{dataset}duplicates.csv", sep='|')
         
@@ -36,7 +44,13 @@ if __name__ == "__main__":
 
 
         cp_df = cp_df_with_rows
+
+
         cp_df.columns = ['D1','D2']
+
+        valid_ids = pd.concat([cp_df['D1'], cp_df['D2']]).unique()
+        d1 = d1[d1['Id'].isin(valid_ids)]
+        
         common = pd.merge(gt, cp_df)
 
 
@@ -72,7 +86,7 @@ if __name__ == "__main__":
         data = i[0]
         bl, g = emb.build_blocks(data=data, num_of_clusters=1, top_k=1,similarity_distance = 'cosine',with_entity_matching=True)
         g_list.append(g)     
-    # for l in range(len(datasets_list)):
+        # for l in range(len(datasets_list)):
 
     data = data_list[0][0]
     cp = data_list[0][1]
@@ -80,18 +94,20 @@ if __name__ == "__main__":
         
     dataset = datasets_list[0]
 
-    for g in g_list:
+    for i, g in enumerate(g_list):
+        print(f"Graph {i} (0: join), (1: embeddings):")
         
     
-        # print(data)
-            
-        #  Get edges sorted by weight in ascending order
+            # print(data)
+                
+            #  Get edges sorted by weight in ascending order
         edges_by_weight = sorted(g.edges(data=True), key=lambda x: x[2]['weight'])
 
-        # # Extract just the (u,v) pairs
+            # # Extract just the (u,v) pairs
         uv_pairs = [(u, v) for u, v, _ in edges_by_weight]
-        # i = 0
+            # i = 0
         
+        print(f"TF")
         for index1, index2 in uv_pairs:
             if index1 < len(data.dataset_1):
                 id1 = int(data._gt_to_ids_reversed_1[index1])
@@ -122,7 +138,7 @@ if __name__ == "__main__":
 
 
 
-
+        print(f"FT")
         for index1, index2 in reversed(uv_pairs):
             if index1 < len(data.dataset_1):
                 id1 = int(data._gt_to_ids_reversed_1[index1])
