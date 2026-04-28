@@ -14,16 +14,16 @@ from gpt_utils import (
 )
 if __name__ == '__main__':
     BLOCKING_TYPE = "original"
-    DIR = "cora"
+    DIR = "10K"
 
-    POST_REVIEW_EXP = "cora"
+    POST_REVIEW_EXP = "scalability"
     llms = [
-        "gemma3n",
+        # "gemma3n",
         "qwen2.5",
-        "llama3.1",
-        "orca2",
-        "openhermes",
-        "zephyr"
+        # "llama3.1",
+        # "orca2",
+        # "openhermes",
+        # "zephyr"
     ]
 
     RESULTS = f'post-review/results/{POST_REVIEW_EXP}/{BLOCKING_TYPE}/{DIR}.csv'
@@ -61,7 +61,7 @@ if __name__ == '__main__':
                     responses = []
                     num_iterations = len(cp)
 
-                    dt1_ids = {int(dt1_df.at[i, 'Entity Id']): i for i in range(len(dt1_df))}
+                    dt1_ids = {int(dt1_df.at[i, 'Id']): i for i in range(len(dt1_df))}
                     PROMPT = _create_model_cora(LLM, ll, PROMPT,
                                            suffix,
                                            examples_dict, DIR, dt_1, dt1_ids)
