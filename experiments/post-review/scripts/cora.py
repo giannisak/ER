@@ -13,7 +13,7 @@ from gpt_utils import (
     _evaluate
 )
 if __name__ == '__main__':
-    BLOCKING_TYPE = "original"
+    BLOCKING_TYPE = "standard_blocking"
     DIR = "10K"
 
     POST_REVIEW_EXP = "scalability"
