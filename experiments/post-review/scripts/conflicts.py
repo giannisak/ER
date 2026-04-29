@@ -15,9 +15,12 @@ if __name__ == "__main__":
     df.drop(columns=['D1_conflicts','D2_conflicts'], inplace=True)
 
     conflicts = []
+    
+    
 
     for _, row in df.iterrows():
         llm = row['model']
+        
         examples = row['examples']
 
         if union_sym in llm:
