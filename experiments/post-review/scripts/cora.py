@@ -14,7 +14,7 @@ from gpt_utils import (
 )
 if __name__ == '__main__':
     BLOCKING_TYPE = "standard_blocking"
-    DIR = "10K"
+    DIR = "50K"
 
     POST_REVIEW_EXP = "scalability"
     llms = [
