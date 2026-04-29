@@ -1,0 +1,103 @@
+dataset_1,dataset,model,time (sec),precision,recall,f1,good_behavior_response_rate,examples,total_matches,weights_extracted_from
+cora,cora,gemma3n-z-p2,5791.03,2.25,99.88,4.40,1.00,vector_based_examples_dict_1,762481,s-weight
+cora,cora,gemma3n-ft-p2,9535.79,2.25,99.88,4.40,1.00,vector_based_examples_dict_1,762481,s-weight
+cora,cora,gemma3n-tf-p2,9535.49,2.25,99.88,4.40,1.00,vector_based_examples_dict_1,762481,s-weight
+cora,cora,qwen2.5-z-p2,2953.65,2.25,99.88,4.40,1.00,vector_based_examples_dict_1,762481,s-weight
+cora,cora,qwen2.5-ft-p2,2992.19,2.25,99.88,4.40,1.00,vector_based_examples_dict_1,762481,s-weight
+cora,cora,qwen2.5-tf-p2,2990.79,2.25,99.88,4.40,1.00,vector_based_examples_dict_1,762481,s-weight
+cora,cora,llama3.1-z-p2,3221.51,2.25,99.88,4.40,1.00,vector_based_examples_dict_1,762481,s-weight
+cora,cora,llama3.1-ft-p2,3244.58,2.25,99.88,4.40,0.99,vector_based_examples_dict_1,762481,s-weight
+cora,cora,llama3.1-tf-p2,3252.04,2.25,99.88,4.40,0.99,vector_based_examples_dict_1,762481,s-weight
+cora,cora,orca2-z-p2,1782.20,2.25,99.88,4.40,1.00,vector_based_examples_dict_1,762481,s-weight
+cora,cora,orca2-ft-p2,1842.99,2.25,99.88,4.40,1.00,vector_based_examples_dict_1,762481,s-weight
+cora,cora,orca2-tf-p2,1860.74,2.25,99.88,4.40,1.00,vector_based_examples_dict_1,762481,s-weight
+cora,cora,openhermes-z-p2,1843.70,2.25,99.88,4.40,1.00,vector_based_examples_dict_1,762481,s-weight
+cora,cora,openhermes-ft-p2,1882.10,2.25,99.88,4.40,1.00,vector_based_examples_dict_1,762481,s-weight
+cora,cora,openhermes-tf-p2,1885.57,2.25,99.88,4.40,1.00,vector_based_examples_dict_1,762481,s-weight
+cora,cora,zephyr-z-p2,2202.34,2.25,99.88,4.40,0.89,vector_based_examples_dict_1,762481,s-weight
+cora,cora,zephyr-ft-p2,3192.63,2.25,99.88,4.40,0.07,vector_based_examples_dict_1,762481,s-weight
+cora,cora,zephyr-tf-p2,2683.79,2.25,99.88,4.40,0.26,vector_based_examples_dict_1,762481,s-weight
+cora,cora,gemma3n-ft-p2,6516.98,2.25,99.88,4.40,1.00,vector_based_examples_dict_2,762481,s-weight
+cora,cora,gemma3n-tf-p2,6518.79,2.25,99.88,4.40,1.00,vector_based_examples_dict_2,762481,s-weight
+cora,cora,qwen2.5-ft-p2,2967.67,2.25,99.88,4.40,1.00,vector_based_examples_dict_2,762481,s-weight
+cora,cora,qwen2.5-tf-p2,2964.73,2.25,99.88,4.40,1.00,vector_based_examples_dict_2,762481,s-weight
+cora,cora,llama3.1-ft-p2,3237.86,2.25,99.88,4.40,0.94,vector_based_examples_dict_2,762481,s-weight
+cora,cora,llama3.1-tf-p2,3240.04,2.25,99.88,4.40,0.99,vector_based_examples_dict_2,762481,s-weight
+cora,cora,orca2-ft-p2,1864.07,2.25,99.88,4.40,0.97,vector_based_examples_dict_2,762481,s-weight
+cora,cora,orca2-tf-p2,1845.07,2.25,99.88,4.40,1.00,vector_based_examples_dict_2,762481,s-weight
+cora,cora,openhermes-ft-p2,1893.15,2.25,99.88,4.40,1.00,vector_based_examples_dict_2,762481,s-weight
+cora,cora,openhermes-tf-p2,1884.25,2.25,99.88,4.40,1.00,vector_based_examples_dict_2,762481,s-weight
+cora,cora,zephyr-ft-p2,2887.56,2.25,99.88,4.40,0.11,vector_based_examples_dict_2,762481,s-weight
+cora,cora,zephyr-tf-p2,2715.33,2.25,99.88,4.40,0.22,vector_based_examples_dict_2,762481,s-weight
+cora,cora,gemma3n-ft-p2,6439.44,2.25,99.88,4.40,1.00,join_examples_dict_1,762481,s-weight
+cora,cora,gemma3n-tf-p2,6436.87,2.25,99.88,4.40,1.00,join_examples_dict_1,762481,s-weight
+cora,cora,qwen2.5-ft-p2,2963.61,2.25,99.88,4.40,1.00,join_examples_dict_1,762481,s-weight
+cora,cora,qwen2.5-tf-p2,2961.59,2.25,99.88,4.40,1.00,join_examples_dict_1,762481,s-weight
+cora,cora,llama3.1-ft-p2,3244.46,2.25,99.88,4.40,0.97,join_examples_dict_1,762481,s-weight
+cora,cora,llama3.1-tf-p2,3240.58,2.25,99.88,4.40,1.00,join_examples_dict_1,762481,s-weight
+cora,cora,orca2-ft-p2,1831.95,2.25,99.88,4.40,0.99,join_examples_dict_1,762481,s-weight
+cora,cora,orca2-tf-p2,1827.18,2.25,99.88,4.40,1.00,join_examples_dict_1,762481,s-weight
+cora,cora,openhermes-ft-p2,1885.96,2.25,99.88,4.40,1.00,join_examples_dict_1,762481,s-weight
+cora,cora,openhermes-tf-p2,1878.59,2.25,99.88,4.40,1.00,join_examples_dict_1,762481,s-weight
+cora,cora,zephyr-ft-p2,2837.47,2.25,99.88,4.40,0.06,join_examples_dict_1,762481,s-weight
+cora,cora,zephyr-tf-p2,3179.69,2.25,99.88,4.40,0.14,join_examples_dict_1,762481,s-weight
+cora,cora,gemma3n-ft-p2,9019.52,2.25,99.88,4.40,1.00,join_examples_dict_2,762481,s-weight
+cora,cora,gemma3n-tf-p2,9014.51,2.25,99.88,4.40,1.00,join_examples_dict_2,762481,s-weight
+cora,cora,qwen2.5-ft-p2,2984.60,2.25,99.88,4.40,1.00,join_examples_dict_2,762481,s-weight
+cora,cora,qwen2.5-tf-p2,4739.83,2.25,99.88,4.40,1.00,join_examples_dict_2,762481,s-weight
+cora,cora,llama3.1-ft-p2,5222.27,2.25,99.88,4.40,0.99,join_examples_dict_2,762481,s-weight
+cora,cora,llama3.1-tf-p2,5202.07,2.25,99.88,4.40,1.00,join_examples_dict_2,762481,s-weight
+cora,cora,orca2-ft-p2,3430.31,2.25,99.88,4.40,1.00,join_examples_dict_2,762481,s-weight
+cora,cora,orca2-tf-p2,3430.78,2.25,99.88,4.40,1.00,join_examples_dict_2,762481,s-weight
+cora,cora,openhermes-ft-p2,3517.22,2.25,99.88,4.40,1.00,join_examples_dict_2,762481,s-weight
+cora,cora,openhermes-tf-p2,3509.74,2.25,99.88,4.40,1.00,join_examples_dict_2,762481,s-weight
+cora,cora,zephyr-ft-p2,5983.20,2.25,99.88,4.40,0.04,join_examples_dict_2,762481,s-weight
+cora,cora,zephyr-tf-p2,5036.71,2.25,99.88,4.40,0.13,join_examples_dict_2,762481,s-weight
+cora,cora,gemma3n-ft-p2 U gemma3n-tf-p2,19071.23,2.25,99.88,4.40,1.00,vector_based_examples_dict_1,762481,s-weight
+cora,cora,gemma3n-ft-p2 ∩ gemma3n-tf-p2,19071.24,2.25,99.88,4.40,1.00,vector_based_examples_dict_1,762481,s-weight
+cora,cora,gemma3n-ft-p2 U gemma3n-tf-p2,13035.72,2.25,99.88,4.40,1.00,vector_based_examples_dict_2,762481,s-weight
+cora,cora,gemma3n-ft-p2 ∩ gemma3n-tf-p2,13035.73,2.25,99.88,4.40,1.00,vector_based_examples_dict_2,762481,s-weight
+cora,cora,gemma3n-ft-p2 U gemma3n-tf-p2,12876.26,2.25,99.88,4.40,1.00,join_examples_dict_1,762481,s-weight
+cora,cora,gemma3n-ft-p2 ∩ gemma3n-tf-p2,12876.26,2.25,99.88,4.40,1.00,join_examples_dict_1,762481,s-weight
+cora,cora,gemma3n-ft-p2 U gemma3n-tf-p2,18033.98,2.25,99.88,4.40,1.00,join_examples_dict_2,762481,s-weight
+cora,cora,gemma3n-ft-p2 ∩ gemma3n-tf-p2,18033.98,2.25,99.88,4.40,1.00,join_examples_dict_2,762481,s-weight
+cora,cora,qwen2.5-ft-p2 U qwen2.5-tf-p2,5982.93,2.25,99.88,4.40,1.00,vector_based_examples_dict_1,762481,s-weight
+cora,cora,qwen2.5-ft-p2 ∩ qwen2.5-tf-p2,5982.93,2.25,99.88,4.40,1.00,vector_based_examples_dict_1,762481,s-weight
+cora,cora,qwen2.5-ft-p2 U qwen2.5-tf-p2,5932.35,2.25,99.88,4.40,1.00,vector_based_examples_dict_2,762481,s-weight
+cora,cora,qwen2.5-ft-p2 ∩ qwen2.5-tf-p2,5932.35,2.25,99.88,4.40,1.00,vector_based_examples_dict_2,762481,s-weight
+cora,cora,qwen2.5-ft-p2 U qwen2.5-tf-p2,5925.15,2.25,99.88,4.40,1.00,join_examples_dict_1,762481,s-weight
+cora,cora,qwen2.5-ft-p2 ∩ qwen2.5-tf-p2,5925.15,2.25,99.88,4.40,1.00,join_examples_dict_1,762481,s-weight
+cora,cora,qwen2.5-ft-p2 U qwen2.5-tf-p2,7724.38,2.25,99.88,4.40,1.00,join_examples_dict_2,762481,s-weight
+cora,cora,qwen2.5-ft-p2 ∩ qwen2.5-tf-p2,7724.38,2.25,99.88,4.40,1.00,join_examples_dict_2,762481,s-weight
+cora,cora,llama3.1-ft-p2 U llama3.1-tf-p2,6496.57,2.25,99.88,4.40,0.99,vector_based_examples_dict_1,762481,s-weight
+cora,cora,llama3.1-ft-p2 ∩ llama3.1-tf-p2,6496.57,2.25,99.88,4.40,0.99,vector_based_examples_dict_1,762481,s-weight
+cora,cora,llama3.1-ft-p2 U llama3.1-tf-p2,6477.85,2.25,99.88,4.40,0.96,vector_based_examples_dict_2,762481,s-weight
+cora,cora,llama3.1-ft-p2 ∩ llama3.1-tf-p2,6477.85,2.25,99.88,4.40,0.96,vector_based_examples_dict_2,762481,s-weight
+cora,cora,llama3.1-ft-p2 U llama3.1-tf-p2,6484.99,2.25,99.88,4.40,0.98,join_examples_dict_1,762481,s-weight
+cora,cora,llama3.1-ft-p2 ∩ llama3.1-tf-p2,6484.98,2.25,99.88,4.40,0.98,join_examples_dict_1,762481,s-weight
+cora,cora,llama3.1-ft-p2 U llama3.1-tf-p2,10424.28,2.25,99.88,4.40,0.99,join_examples_dict_2,762481,s-weight
+cora,cora,llama3.1-ft-p2 ∩ llama3.1-tf-p2,10424.28,2.25,99.88,4.40,0.99,join_examples_dict_2,762481,s-weight
+cora,cora,orca2-ft-p2 U orca2-tf-p2,3703.67,2.25,99.88,4.40,1.00,vector_based_examples_dict_1,762481,s-weight
+cora,cora,orca2-ft-p2 ∩ orca2-tf-p2,3703.67,2.25,99.88,4.40,1.00,vector_based_examples_dict_1,762481,s-weight
+cora,cora,orca2-ft-p2 U orca2-tf-p2,3709.10,2.25,99.88,4.40,0.98,vector_based_examples_dict_2,762481,s-weight
+cora,cora,orca2-ft-p2 ∩ orca2-tf-p2,3709.08,2.25,99.88,4.40,0.98,vector_based_examples_dict_2,762481,s-weight
+cora,cora,orca2-ft-p2 U orca2-tf-p2,3659.53,2.25,99.88,4.40,0.99,join_examples_dict_1,762481,s-weight
+cora,cora,orca2-ft-p2 ∩ orca2-tf-p2,3659.08,2.25,99.88,4.40,0.99,join_examples_dict_1,762481,s-weight
+cora,cora,orca2-ft-p2 U orca2-tf-p2,6861.03,2.25,99.88,4.40,1.00,join_examples_dict_2,762481,s-weight
+cora,cora,orca2-ft-p2 ∩ orca2-tf-p2,6861.03,2.25,99.88,4.40,1.00,join_examples_dict_2,762481,s-weight
+cora,cora,openhermes-ft-p2 U openhermes-tf-p2,3767.60,2.25,99.88,4.40,1.00,vector_based_examples_dict_1,762481,s-weight
+cora,cora,openhermes-ft-p2 ∩ openhermes-tf-p2,3767.61,2.25,99.88,4.40,1.00,vector_based_examples_dict_1,762481,s-weight
+cora,cora,openhermes-ft-p2 U openhermes-tf-p2,3777.36,2.25,99.88,4.40,1.00,vector_based_examples_dict_2,762481,s-weight
+cora,cora,openhermes-ft-p2 ∩ openhermes-tf-p2,3777.35,2.25,99.88,4.40,1.00,vector_based_examples_dict_2,762481,s-weight
+cora,cora,openhermes-ft-p2 U openhermes-tf-p2,3764.50,2.25,99.88,4.40,1.00,join_examples_dict_1,762481,s-weight
+cora,cora,openhermes-ft-p2 ∩ openhermes-tf-p2,3764.50,2.25,99.88,4.40,1.00,join_examples_dict_1,762481,s-weight
+cora,cora,openhermes-ft-p2 U openhermes-tf-p2,7026.55,2.25,99.88,4.40,1.00,join_examples_dict_2,762481,s-weight
+cora,cora,openhermes-ft-p2 ∩ openhermes-tf-p2,7026.55,2.25,99.88,4.40,1.00,join_examples_dict_2,762481,s-weight
+cora,cora,zephyr-ft-p2 U zephyr-tf-p2,5876.35,2.25,99.88,4.40,0.17,vector_based_examples_dict_1,762481,s-weight
+cora,cora,zephyr-ft-p2 ∩ zephyr-tf-p2,5876.36,2.25,99.88,4.40,0.17,vector_based_examples_dict_1,762481,s-weight
+cora,cora,zephyr-ft-p2 U zephyr-tf-p2,5602.84,2.25,99.88,4.40,0.17,vector_based_examples_dict_2,762481,s-weight
+cora,cora,zephyr-ft-p2 ∩ zephyr-tf-p2,5602.84,2.25,99.88,4.40,0.17,vector_based_examples_dict_2,762481,s-weight
+cora,cora,zephyr-ft-p2 U zephyr-tf-p2,6017.11,2.25,99.88,4.40,0.10,join_examples_dict_1,762481,s-weight
+cora,cora,zephyr-ft-p2 ∩ zephyr-tf-p2,6017.11,2.25,99.88,4.40,0.10,join_examples_dict_1,762481,s-weight
+cora,cora,zephyr-ft-p2 U zephyr-tf-p2,11019.86,2.25,99.88,4.40,0.09,join_examples_dict_2,762481,s-weight
+cora,cora,zephyr-ft-p2 ∩ zephyr-tf-p2,11019.86,2.25,99.88,4.40,0.09,join_examples_dict_2,762481,s-weight
