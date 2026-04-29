@@ -53,7 +53,7 @@ def _load_dataset_cora(blocking_type, dir):
     cp_df_with_rows = pd.read_csv(candidate_pairs)
 
     cora_dataset = f'data/{dir}/{dir}.csv'
-    ground_truth = f'data/{dir}/{dir}duplicates.csv'
+    ground_truth = f'data/{dir}/{dir}_gt.csv'
     sep = '|'
 
     cora_df = pd.read_csv(cora_dataset, sep=sep)
