@@ -1,0 +1,4 @@
+dataset_1,dataset,model,time (sec),precision,recall,f1,good_behavior_response_rate,examples,total_matches,conflicts
+10K,10K,qwen2.5-z-p2,3143.11,98.49,70.84,82.41,1.00,vector_based_examples_dict_1,5837,90.92
+10K,10K,qwen2.5-ft-p2,3194.16,99.20,60.81,75.40,1.00,vector_based_examples_dict_1,4975,87.90
+10K,10K,qwen2.5-tf-p2,3195.09,98.39,79.81,88.13,1.00,vector_based_examples_dict_1,6583,92.83
