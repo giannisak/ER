@@ -80,7 +80,7 @@ def main(blocking_type, dir_):
             dt2_id = pair[1]
 
             r1 = dt_1[dt1_ids[pair[0]]]
-            r2 = dt_1[dt1_ids[pair[1]]]
+            r2 = dt_2[dt2_ids[pair[1]]]
             query = f"record 1: {r1}, record 2: {r2}. Answer with True. or False."
 
             resp = ollama.chat(
@@ -113,7 +113,7 @@ if  __name__ == '__main__':
     for blocking_type in ['original', 'standard_blocking']:
         for dir_ in ['D2', 'D5', 'D6', 'D7', 'D8']:
             print(f"Processing {blocking_type} - {dir_}")
-            if blocking_type == 'original' and dir_ == 'D2':
+            if blocking_type == 'original' and dir_ in ['D2', 'D5', 'D6', 'D7']:
                 continue
             main(blocking_type, dir_)
             print(f"Done {blocking_type} - {dir_}")
