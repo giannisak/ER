@@ -9,8 +9,6 @@ vector_based_examples_dict_1 = {
     "cora":[(1022, 1028), (306, 1256)],
     "10K":[(90, 346), (5533, 4376)],
     "50K":[(12762, 34341), (36529, 37212)],
-    
-    
 }
 
 #least_matching silmilar and most similar non-matching
