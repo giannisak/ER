@@ -64,9 +64,6 @@ def main(blocking_type, dir_):
             examples_dict, dir_, dt_1, dt_2, dt1_ids, dt2_ids)
         ollama.create(model=llm, from_=ll, system=prompt)
 
-        sleep(2)
-        
-        
         responses_df : pd.DataFrame = pd.read_csv(responses_path)
         
         mem = psutil.virtual_memory()
@@ -106,15 +103,14 @@ def main(blocking_type, dir_):
 
         ram.append(ram_gb)
         vram.append(vram_used_by_model_gb)
-        
+    df['RAM-USAGE'] = ram
+    df['VRAM-USAGE'] = vram
     df.to_csv(RESULTS, index=False, float_format='%.2f')    
 
 if  __name__ == '__main__':
     for blocking_type in ['original', 'standard_blocking']:
         for dir_ in ['D2', 'D5', 'D6', 'D7', 'D8']:
             print(f"Processing {blocking_type} - {dir_}")
-            if blocking_type == 'original' and dir_ in ['D2', 'D5', 'D6', 'D7']:
-                continue
             main(blocking_type, dir_)
             print(f"Done {blocking_type} - {dir_}")
             
