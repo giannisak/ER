@@ -1,0 +1,103 @@
+dataset_1,dataset_2,dataset,model,time (sec),precision,recall,f1,good_behavior_response_rate,examples,total_matches,conflicts
+imdb,tmdb,D5,gemma3n-z-p2,1792.52,66.20,64.82,65.50,1.00,vector_based_examples_dict_1,1781,27.79
+imdb,tmdb,D5,gemma3n-ft-p2,2223.42,62.43,97.64,76.16,1.00,vector_based_examples_dict_1,2845,45.73
+imdb,tmdb,D5,gemma3n-tf-p2,2229.76,64.11,95.44,76.70,1.00,vector_based_examples_dict_1,2708,42.17
+imdb,tmdb,D5,qwen2.5-z-p2,1034.11,73.38,52.28,61.06,1.00,vector_based_examples_dict_1,1296,15.05
+imdb,tmdb,D5,qwen2.5-ft-p2,1047.39,75.58,69.60,72.47,1.00,vector_based_examples_dict_1,1675,15.64
+imdb,tmdb,D5,qwen2.5-tf-p2,1047.90,73.68,68.94,71.23,1.00,vector_based_examples_dict_1,1702,19.68
+imdb,tmdb,D5,llama3.1-z-p2,1145.65,57.22,77.57,65.86,1.00,vector_based_examples_dict_1,2466,46.80
+imdb,tmdb,D5,llama3.1-ft-p2,1153.87,43.63,94.34,59.67,0.99,vector_based_examples_dict_1,3933,69.67
+imdb,tmdb,D5,llama3.1-tf-p2,1154.94,39.54,99.84,56.64,1.00,vector_based_examples_dict_1,4593,76.22
+imdb,tmdb,D5,orca2-z-p2,684.09,70.18,47.22,56.46,1.00,vector_based_examples_dict_1,1224,17.81
+imdb,tmdb,D5,orca2-ft-p2,702.23,55.80,34.14,42.36,1.00,vector_based_examples_dict_1,1113,42.32
+imdb,tmdb,D5,orca2-tf-p2,702.77,57.82,53.88,55.78,1.00,vector_based_examples_dict_1,1695,40.83
+imdb,tmdb,D5,openhermes-z-p2,700.08,67.77,58.27,62.67,1.00,vector_based_examples_dict_1,1564,25.51
+imdb,tmdb,D5,openhermes-ft-p2,714.96,62.23,68.55,65.24,1.00,vector_based_examples_dict_1,2004,34.53
+imdb,tmdb,D5,openhermes-tf-p2,714.94,58.85,84.11,69.25,1.00,vector_based_examples_dict_1,2600,44.73
+imdb,tmdb,D5,zephyr-z-p2,814.30,73.00,50.08,59.41,0.98,vector_based_examples_dict_1,1248,14.66
+imdb,tmdb,D5,zephyr-ft-p2,1349.95,69.48,56.18,62.13,0.29,vector_based_examples_dict_1,1471,19.85
+imdb,tmdb,D5,zephyr-tf-p2,1136.65,74.66,51.18,60.73,0.47,vector_based_examples_dict_1,1247,10.75
+imdb,tmdb,D5,gemma3n-ft-p2,2105.51,66.78,84.66,74.67,1.00,vector_based_examples_dict_2,2306,33.69
+imdb,tmdb,D5,gemma3n-tf-p2,2079.83,69.85,82.52,75.66,1.00,vector_based_examples_dict_2,2149,28.43
+imdb,tmdb,D5,qwen2.5-ft-p2,1039.21,71.64,51.24,59.74,1.00,vector_based_examples_dict_2,1301,16.60
+imdb,tmdb,D5,qwen2.5-tf-p2,1041.02,70.77,56.29,62.71,1.00,vector_based_examples_dict_2,1447,19.97
+imdb,tmdb,D5,llama3.1-ft-p2,1151.00,54.78,78.50,64.53,1.00,vector_based_examples_dict_2,2607,50.44
+imdb,tmdb,D5,llama3.1-tf-p2,1147.14,43.83,99.18,60.79,1.00,vector_based_examples_dict_2,4116,70.72
+imdb,tmdb,D5,orca2-ft-p2,699.09,66.32,42.55,51.84,1.00,vector_based_examples_dict_2,1167,25.54
+imdb,tmdb,D5,orca2-tf-p2,696.83,57.34,22.54,32.36,1.00,vector_based_examples_dict_2,715,36.64
+imdb,tmdb,D5,openhermes-ft-p2,712.02,75.21,48.54,59.00,1.00,vector_based_examples_dict_2,1174,8.86
+imdb,tmdb,D5,openhermes-tf-p2,709.43,73.66,50.74,60.09,1.00,vector_based_examples_dict_2,1253,7.98
+imdb,tmdb,D5,zephyr-ft-p2,1115.46,79.07,39.47,52.66,0.55,vector_based_examples_dict_2,908,3.19
+imdb,tmdb,D5,zephyr-tf-p2,1007.13,71.41,49.97,58.80,0.79,vector_based_examples_dict_2,1273,15.24
+imdb,tmdb,D5,gemma3n-ft-p2,2069.62,70.43,80.92,75.31,1.00,join_examples_dict_1,2090,26.70
+imdb,tmdb,D5,gemma3n-tf-p2,2042.50,73.35,64.60,68.69,1.00,join_examples_dict_1,1602,16.29
+imdb,tmdb,D5,qwen2.5-ft-p2,1036.25,74.52,50.80,60.41,1.00,join_examples_dict_1,1240,10.73
+imdb,tmdb,D5,qwen2.5-tf-p2,1037.43,72.13,49.81,58.93,1.00,join_examples_dict_1,1256,14.41
+imdb,tmdb,D5,llama3.1-ft-p2,1149.87,50.51,65.59,57.07,0.96,join_examples_dict_1,2362,48.86
+imdb,tmdb,D5,llama3.1-tf-p2,1150.14,43.34,85.93,57.62,0.99,join_examples_dict_1,3606,67.05
+imdb,tmdb,D5,orca2-ft-p2,690.24,61.00,23.47,33.90,0.99,join_examples_dict_1,700,31.14
+imdb,tmdb,D5,orca2-tf-p2,700.09,61.27,29.14,39.49,0.98,join_examples_dict_1,865,26.13
+imdb,tmdb,D5,openhermes-ft-p2,704.17,73.03,47.33,57.44,1.00,join_examples_dict_1,1179,12.98
+imdb,tmdb,D5,openhermes-tf-p2,703.22,77.13,45.24,57.03,1.00,join_examples_dict_1,1067,5.62
+imdb,tmdb,D5,zephyr-ft-p2,1265.47,78.71,38.21,51.44,0.52,join_examples_dict_1,883,4.08
+imdb,tmdb,D5,zephyr-tf-p2,1189.09,71.16,45.30,55.36,0.68,join_examples_dict_1,1158,15.20
+imdb,tmdb,D5,gemma3n-ft-p2,2090.62,72.62,79.16,75.75,1.00,join_examples_dict_2,1983,20.73
+imdb,tmdb,D5,gemma3n-tf-p2,2063.17,66.57,65.04,65.80,1.00,join_examples_dict_2,1777,26.28
+imdb,tmdb,D5,qwen2.5-ft-p2,1040.00,73.50,51.07,60.27,1.00,join_examples_dict_2,1264,13.45
+imdb,tmdb,D5,qwen2.5-tf-p2,1041.85,70.82,52.83,60.52,1.00,join_examples_dict_2,1357,16.29
+imdb,tmdb,D5,llama3.1-ft-p2,1149.93,56.59,75.04,64.52,0.99,join_examples_dict_2,2412,44.61
+imdb,tmdb,D5,llama3.1-tf-p2,1148.35,44.17,96.37,60.57,1.00,join_examples_dict_2,3969,69.56
+imdb,tmdb,D5,orca2-ft-p2,695.52,67.54,50.91,58.06,1.00,join_examples_dict_2,1371,21.23
+imdb,tmdb,D5,orca2-tf-p2,694.72,62.97,59.54,61.20,1.00,join_examples_dict_2,1720,32.44
+imdb,tmdb,D5,openhermes-ft-p2,708.56,74.26,54.10,62.60,1.00,join_examples_dict_2,1325,12.83
+imdb,tmdb,D5,openhermes-tf-p2,707.26,76.30,50.80,60.99,1.00,join_examples_dict_2,1211,8.75
+imdb,tmdb,D5,zephyr-ft-p2,1305.56,76.73,48.05,59.09,0.37,join_examples_dict_2,1139,7.02
+imdb,tmdb,D5,zephyr-tf-p2,1062.09,65.48,48.49,55.72,0.65,join_examples_dict_2,1347,25.54
+imdb,tmdb,D5,gemma3n-ft-p2 U gemma3n-tf-p2,4453.18,61.29,97.75,75.34,1.00,vector_based_examples_dict_1,2901,47.12
+imdb,tmdb,D5,gemma3n-ft-p2 ∩ gemma3n-tf-p2,4453.18,65.38,95.33,77.57,1.00,vector_based_examples_dict_1,2652,40.57
+imdb,tmdb,D5,gemma3n-ft-p2 U gemma3n-tf-p2,4185.34,65.96,85.98,74.65,1.00,vector_based_examples_dict_2,2371,35.09
+imdb,tmdb,D5,gemma3n-ft-p2 ∩ gemma3n-tf-p2,4185.34,70.87,81.20,75.69,1.00,vector_based_examples_dict_2,2084,26.87
+imdb,tmdb,D5,gemma3n-ft-p2 U gemma3n-tf-p2,4112.12,70.27,81.09,75.29,1.00,join_examples_dict_1,2099,26.77
+imdb,tmdb,D5,gemma3n-ft-p2 ∩ gemma3n-tf-p2,4112.12,73.57,64.43,68.70,1.00,join_examples_dict_1,1593,16.07
+imdb,tmdb,D5,gemma3n-ft-p2 U gemma3n-tf-p2,4153.79,67.41,79.38,72.91,1.00,join_examples_dict_2,2142,28.52
+imdb,tmdb,D5,gemma3n-ft-p2 ∩ gemma3n-tf-p2,4153.79,72.87,64.82,68.61,1.00,join_examples_dict_2,1618,16.75
+imdb,tmdb,D5,qwen2.5-ft-p2 U qwen2.5-tf-p2,2095.29,74.12,74.16,74.14,1.00,vector_based_examples_dict_1,1820,20.16
+imdb,tmdb,D5,qwen2.5-ft-p2 ∩ qwen2.5-tf-p2,2095.29,75.21,64.38,69.37,1.00,vector_based_examples_dict_1,1557,15.03
+imdb,tmdb,D5,qwen2.5-ft-p2 U qwen2.5-tf-p2,2080.23,70.02,56.62,62.61,1.00,vector_based_examples_dict_2,1471,21.48
+imdb,tmdb,D5,qwen2.5-ft-p2 ∩ qwen2.5-tf-p2,2080.23,72.51,50.91,59.82,1.00,vector_based_examples_dict_2,1277,14.72
+imdb,tmdb,D5,qwen2.5-ft-p2 U qwen2.5-tf-p2,2073.68,71.80,51.51,59.99,1.00,join_examples_dict_1,1305,15.48
+imdb,tmdb,D5,qwen2.5-ft-p2 ∩ qwen2.5-tf-p2,2073.68,74.98,49.09,59.34,1.00,join_examples_dict_1,1191,9.40
+imdb,tmdb,D5,qwen2.5-ft-p2 U qwen2.5-tf-p2,2081.85,70.18,53.05,60.43,1.00,join_examples_dict_2,1375,18.18
+imdb,tmdb,D5,qwen2.5-ft-p2 ∩ qwen2.5-tf-p2,2081.85,74.24,50.85,60.36,1.00,join_examples_dict_2,1246,11.48
+imdb,tmdb,D5,llama3.1-ft-p2 U llama3.1-tf-p2,2308.81,38.41,99.95,55.49,0.99,vector_based_examples_dict_1,4733,77.54
+imdb,tmdb,D5,llama3.1-ft-p2 ∩ llama3.1-tf-p2,2308.81,45.19,94.23,61.08,0.99,vector_based_examples_dict_1,3793,68.07
+imdb,tmdb,D5,llama3.1-ft-p2 U llama3.1-tf-p2,2298.14,43.01,99.34,60.03,1.00,vector_based_examples_dict_2,4201,71.65
+imdb,tmdb,D5,llama3.1-ft-p2 ∩ llama3.1-tf-p2,2298.14,56.50,78.34,65.65,1.00,vector_based_examples_dict_2,2522,48.57
+imdb,tmdb,D5,llama3.1-ft-p2 U llama3.1-tf-p2,2300.01,42.36,93.07,58.22,0.97,join_examples_dict_1,3997,70.50
+imdb,tmdb,D5,llama3.1-ft-p2 ∩ llama3.1-tf-p2,2300.01,53.93,58.44,56.09,0.97,join_examples_dict_1,1971,40.74
+imdb,tmdb,D5,llama3.1-ft-p2 U llama3.1-tf-p2,2298.28,43.53,98.24,60.33,0.99,join_examples_dict_2,4105,70.77
+imdb,tmdb,D5,llama3.1-ft-p2 ∩ llama3.1-tf-p2,2298.28,58.48,73.17,65.01,0.99,join_examples_dict_2,2276,41.21
+imdb,tmdb,D5,orca2-ft-p2 U orca2-tf-p2,1405.00,56.39,59.21,57.76,1.00,vector_based_examples_dict_1,1910,44.87
+imdb,tmdb,D5,orca2-ft-p2 ∩ orca2-tf-p2,1405.00,58.35,28.81,38.57,1.00,vector_based_examples_dict_1,898,38.75
+imdb,tmdb,D5,orca2-ft-p2 U orca2-tf-p2,1395.92,63.77,47.99,54.77,1.00,vector_based_examples_dict_2,1369,31.26
+imdb,tmdb,D5,orca2-ft-p2 ∩ orca2-tf-p2,1395.92,60.62,17.10,26.67,1.00,vector_based_examples_dict_2,513,27.10
+imdb,tmdb,D5,orca2-ft-p2 U orca2-tf-p2,1390.33,59.89,37.11,45.82,0.98,join_examples_dict_1,1127,34.52
+imdb,tmdb,D5,orca2-ft-p2 ∩ orca2-tf-p2,1390.33,64.38,15.50,24.99,0.98,join_examples_dict_1,438,18.72
+imdb,tmdb,D5,orca2-ft-p2 U orca2-tf-p2,1390.24,61.04,62.45,61.74,1.00,join_examples_dict_2,1861,36.06
+imdb,tmdb,D5,orca2-ft-p2 ∩ orca2-tf-p2,1390.24,70.98,47.99,57.26,1.00,join_examples_dict_2,1230,17.07
+imdb,tmdb,D5,openhermes-ft-p2 U openhermes-tf-p2,1429.90,55.74,88.95,68.53,1.00,vector_based_examples_dict_1,2903,51.50
+imdb,tmdb,D5,openhermes-ft-p2 ∩ openhermes-tf-p2,1429.90,68.14,63.72,65.85,1.00,vector_based_examples_dict_1,1701,24.34
+imdb,tmdb,D5,openhermes-ft-p2 U openhermes-tf-p2,1421.45,71.37,56.46,63.04,1.00,vector_based_examples_dict_2,1439,14.32
+imdb,tmdb,D5,openhermes-ft-p2 ∩ openhermes-tf-p2,1421.45,78.85,42.83,55.50,1.00,vector_based_examples_dict_2,988,2.63
+imdb,tmdb,D5,openhermes-ft-p2 U openhermes-tf-p2,1407.39,72.16,53.88,61.69,1.00,join_examples_dict_1,1358,15.24
+imdb,tmdb,D5,openhermes-ft-p2 ∩ openhermes-tf-p2,1407.39,79.28,38.70,52.01,1.00,join_examples_dict_1,888,3.38
+imdb,tmdb,D5,openhermes-ft-p2 U openhermes-tf-p2,1415.82,72.61,58.00,64.49,1.00,join_examples_dict_2,1453,16.10
+imdb,tmdb,D5,openhermes-ft-p2 ∩ openhermes-tf-p2,1415.82,78.76,46.89,58.79,1.00,join_examples_dict_2,1083,4.34
+imdb,tmdb,D5,zephyr-ft-p2 U zephyr-tf-p2,2486.60,67.94,58.60,62.93,0.38,vector_based_examples_dict_1,1569,22.94
+imdb,tmdb,D5,zephyr-ft-p2 ∩ zephyr-tf-p2,2486.60,77.20,48.76,59.77,0.38,vector_based_examples_dict_1,1149,7.66
+imdb,tmdb,D5,zephyr-ft-p2 U zephyr-tf-p2,2122.59,70.54,50.41,58.80,0.67,vector_based_examples_dict_2,1300,15.85
+imdb,tmdb,D5,zephyr-ft-p2 ∩ zephyr-tf-p2,2122.59,80.59,39.03,52.59,0.67,vector_based_examples_dict_2,881,2.61
+imdb,tmdb,D5,zephyr-ft-p2 U zephyr-tf-p2,2454.56,70.48,46.45,56.00,0.60,join_examples_dict_1,1199,15.85
+imdb,tmdb,D5,zephyr-ft-p2 ∩ zephyr-tf-p2,2454.56,80.05,37.05,50.66,0.60,join_examples_dict_1,842,3.44
+imdb,tmdb,D5,zephyr-ft-p2 U zephyr-tf-p2,2367.65,64.55,49.15,55.81,0.51,join_examples_dict_2,1385,26.28
+imdb,tmdb,D5,zephyr-ft-p2 ∩ zephyr-tf-p2,2367.65,78.29,47.39,59.04,0.51,join_examples_dict_2,1101,5.45

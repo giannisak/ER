@@ -1,0 +1,205 @@
+dataset_1,dataset_2,dataset,model,time (sec),precision,recall,f1,good_behavior_response_rate,examples,total_matches,weights_extracted_from
+imdb,tmdb,D5,gemma3n-z-p2,1792.54,73.90,57.51,64.68,1.00,vector_based_examples_dict_1,1529,MetaBlocking-Method
+imdb,tmdb,D5,gemma3n-z-p2,1792.54,80.88,58.78,68.08,1.00,vector_based_examples_dict_1,1428,distilroberta
+imdb,tmdb,D5,gemma3n-ft-p2,2223.44,75.72,83.00,79.19,1.00,vector_based_examples_dict_1,2154,MetaBlocking-Method
+imdb,tmdb,D5,gemma3n-ft-p2,2223.44,83.56,85.85,84.69,1.00,vector_based_examples_dict_1,2019,distilroberta
+imdb,tmdb,D5,gemma3n-tf-p2,2229.83,76.69,82.39,79.44,1.00,vector_based_examples_dict_1,2111,MetaBlocking-Method
+imdb,tmdb,D5,gemma3n-tf-p2,2229.78,83.65,84.07,83.86,1.00,vector_based_examples_dict_1,1975,distilroberta
+imdb,tmdb,D5,qwen2.5-z-p2,1034.12,78.32,47.43,59.08,1.00,vector_based_examples_dict_1,1190,MetaBlocking-Method
+imdb,tmdb,D5,qwen2.5-z-p2,1034.12,81.95,47.12,59.84,1.00,vector_based_examples_dict_1,1130,distilroberta
+imdb,tmdb,D5,qwen2.5-ft-p2,1047.41,80.62,63.31,70.92,1.00,vector_based_examples_dict_1,1543,MetaBlocking-Method
+imdb,tmdb,D5,qwen2.5-ft-p2,1047.41,83.20,62.75,71.54,1.00,vector_based_examples_dict_1,1482,distilroberta
+imdb,tmdb,D5,qwen2.5-tf-p2,1047.92,79.91,62.34,70.04,1.00,vector_based_examples_dict_1,1533,MetaBlocking-Method
+imdb,tmdb,D5,qwen2.5-tf-p2,1047.97,82.95,61.88,70.88,1.00,vector_based_examples_dict_1,1466,distilroberta
+imdb,tmdb,D5,llama3.1-z-p2,1145.67,69.00,65.80,67.36,1.00,vector_based_examples_dict_1,1874,MetaBlocking-Method
+imdb,tmdb,D5,llama3.1-z-p2,1145.67,80.30,68.85,74.14,1.00,vector_based_examples_dict_1,1685,distilroberta
+imdb,tmdb,D5,llama3.1-ft-p2,1153.90,60.54,74.25,66.70,0.99,vector_based_examples_dict_1,2410,MetaBlocking-Method
+imdb,tmdb,D5,llama3.1-ft-p2,1153.89,77.16,82.34,79.67,0.99,vector_based_examples_dict_1,2097,distilroberta
+imdb,tmdb,D5,llama3.1-tf-p2,1155.03,58.00,75.98,65.79,1.00,vector_based_examples_dict_1,2574,MetaBlocking-Method
+imdb,tmdb,D5,llama3.1-tf-p2,1154.96,75.69,86.97,80.94,1.00,vector_based_examples_dict_1,2258,distilroberta
+imdb,tmdb,D5,orca2-z-p2,684.10,75.54,42.90,54.72,1.00,vector_based_examples_dict_1,1116,MetaBlocking-Method
+imdb,tmdb,D5,orca2-z-p2,684.10,78.79,42.90,55.55,1.00,vector_based_examples_dict_1,1070,distilroberta
+imdb,tmdb,D5,orca2-ft-p2,702.24,66.97,29.52,40.97,1.00,vector_based_examples_dict_1,866,MetaBlocking-Method
+imdb,tmdb,D5,orca2-ft-p2,702.24,79.59,29.97,43.55,1.00,vector_based_examples_dict_1,740,distilroberta
+imdb,tmdb,D5,orca2-tf-p2,702.78,69.36,47.12,56.12,1.00,vector_based_examples_dict_1,1335,MetaBlocking-Method
+imdb,tmdb,D5,orca2-tf-p2,702.78,80.26,47.58,59.74,1.00,vector_based_examples_dict_1,1165,distilroberta
+imdb,tmdb,D5,openhermes-z-p2,700.15,74.58,51.65,61.03,1.00,vector_based_examples_dict_1,1361,MetaBlocking-Method
+imdb,tmdb,D5,openhermes-z-p2,700.09,80.48,51.60,62.88,1.00,vector_based_examples_dict_1,1260,distilroberta
+imdb,tmdb,D5,openhermes-ft-p2,714.98,71.32,59.85,65.08,1.00,vector_based_examples_dict_1,1649,MetaBlocking-Method
+imdb,tmdb,D5,openhermes-ft-p2,714.98,80.05,61.48,69.55,1.00,vector_based_examples_dict_1,1509,distilroberta
+imdb,tmdb,D5,openhermes-tf-p2,714.96,70.95,72.21,71.58,1.00,vector_based_examples_dict_1,2000,MetaBlocking-Method
+imdb,tmdb,D5,openhermes-tf-p2,714.96,80.30,74.66,77.37,1.00,vector_based_examples_dict_1,1827,distilroberta
+imdb,tmdb,D5,zephyr-z-p2,814.31,77.36,45.55,57.34,0.98,vector_based_examples_dict_1,1157,MetaBlocking-Method
+imdb,tmdb,D5,zephyr-z-p2,814.31,80.14,45.80,58.29,0.98,vector_based_examples_dict_1,1123,distilroberta
+imdb,tmdb,D5,zephyr-ft-p2,1349.96,75.62,51.15,61.02,0.29,vector_based_examples_dict_1,1329,MetaBlocking-Method
+imdb,tmdb,D5,zephyr-ft-p2,1349.96,79.54,51.45,62.48,0.29,vector_based_examples_dict_1,1271,distilroberta
+imdb,tmdb,D5,zephyr-tf-p2,1136.66,78.14,46.92,58.63,0.47,vector_based_examples_dict_1,1180,MetaBlocking-Method
+imdb,tmdb,D5,zephyr-tf-p2,1136.66,80.98,47.02,59.50,0.47,vector_based_examples_dict_1,1141,distilroberta
+imdb,tmdb,D5,gemma3n-ft-p2,2105.53,77.24,74.45,75.82,1.00,vector_based_examples_dict_2,1894,MetaBlocking-Method
+imdb,tmdb,D5,gemma3n-ft-p2,2105.53,83.96,76.18,79.88,1.00,vector_based_examples_dict_2,1783,distilroberta
+imdb,tmdb,D5,gemma3n-tf-p2,2079.90,78.40,73.13,75.67,1.00,vector_based_examples_dict_2,1833,MetaBlocking-Method
+imdb,tmdb,D5,gemma3n-tf-p2,2079.85,83.72,74.35,78.76,1.00,vector_based_examples_dict_2,1745,distilroberta
+imdb,tmdb,D5,qwen2.5-ft-p2,1039.22,77.17,46.62,58.12,1.00,vector_based_examples_dict_2,1187,MetaBlocking-Method
+imdb,tmdb,D5,qwen2.5-ft-p2,1039.22,81.37,46.67,59.31,1.00,vector_based_examples_dict_2,1127,distilroberta
+imdb,tmdb,D5,qwen2.5-tf-p2,1041.03,77.68,51.35,61.83,1.00,vector_based_examples_dict_2,1299,MetaBlocking-Method
+imdb,tmdb,D5,qwen2.5-tf-p2,1041.03,82.00,50.99,62.88,1.00,vector_based_examples_dict_2,1222,distilroberta
+imdb,tmdb,D5,llama3.1-ft-p2,1151.02,66.96,65.09,66.01,1.00,vector_based_examples_dict_2,1910,MetaBlocking-Method
+imdb,tmdb,D5,llama3.1-ft-p2,1151.02,80.20,69.26,74.33,1.00,vector_based_examples_dict_2,1697,distilroberta
+imdb,tmdb,D5,llama3.1-tf-p2,1147.17,61.95,77.30,68.78,1.00,vector_based_examples_dict_2,2452,MetaBlocking-Method
+imdb,tmdb,D5,llama3.1-tf-p2,1147.16,77.45,86.51,81.73,1.00,vector_based_examples_dict_2,2195,distilroberta
+imdb,tmdb,D5,orca2-ft-p2,699.10,73.89,38.17,50.34,1.00,vector_based_examples_dict_2,1015,MetaBlocking-Method
+imdb,tmdb,D5,orca2-ft-p2,699.10,80.67,38.22,51.86,1.00,vector_based_examples_dict_2,931,distilroberta
+imdb,tmdb,D5,orca2-tf-p2,696.84,66.67,19.64,30.35,1.00,vector_based_examples_dict_2,579,MetaBlocking-Method
+imdb,tmdb,D5,orca2-tf-p2,696.84,77.64,19.44,31.09,1.00,vector_based_examples_dict_2,492,distilroberta
+imdb,tmdb,D5,openhermes-ft-p2,712.03,78.09,44.63,56.80,1.00,vector_based_examples_dict_2,1123,MetaBlocking-Method
+imdb,tmdb,D5,openhermes-ft-p2,712.08,80.93,44.27,57.24,1.00,vector_based_examples_dict_2,1075,distilroberta
+imdb,tmdb,D5,openhermes-tf-p2,709.44,76.31,46.72,57.95,1.00,vector_based_examples_dict_2,1203,MetaBlocking-Method
+imdb,tmdb,D5,openhermes-tf-p2,709.44,79.30,46.41,58.56,1.00,vector_based_examples_dict_2,1150,distilroberta
+imdb,tmdb,D5,zephyr-ft-p2,1115.47,80.18,36.44,50.10,0.55,vector_based_examples_dict_2,893,MetaBlocking-Method
+imdb,tmdb,D5,zephyr-ft-p2,1115.47,81.94,36.49,50.49,0.55,vector_based_examples_dict_2,875,distilroberta
+imdb,tmdb,D5,zephyr-tf-p2,1007.14,75.70,45.34,56.72,0.79,vector_based_examples_dict_2,1177,MetaBlocking-Method
+imdb,tmdb,D5,zephyr-tf-p2,1007.14,79.68,45.90,58.25,0.79,vector_based_examples_dict_2,1132,distilroberta
+imdb,tmdb,D5,gemma3n-ft-p2,2069.64,78.35,72.01,75.05,1.00,join_examples_dict_1,1806,MetaBlocking-Method
+imdb,tmdb,D5,gemma3n-ft-p2,2069.64,83.69,72.88,77.91,1.00,join_examples_dict_1,1711,distilroberta
+imdb,tmdb,D5,gemma3n-tf-p2,2042.51,78.50,58.52,67.06,1.00,join_examples_dict_1,1465,MetaBlocking-Method
+imdb,tmdb,D5,gemma3n-tf-p2,2042.51,83.09,58.78,68.85,1.00,join_examples_dict_1,1390,distilroberta
+imdb,tmdb,D5,qwen2.5-ft-p2,1036.26,78.03,46.46,58.25,1.00,join_examples_dict_1,1170,MetaBlocking-Method
+imdb,tmdb,D5,qwen2.5-ft-p2,1036.26,81.09,46.26,58.91,1.00,join_examples_dict_1,1121,distilroberta
+imdb,tmdb,D5,qwen2.5-tf-p2,1037.44,76.96,45.55,57.23,1.00,join_examples_dict_1,1163,MetaBlocking-Method
+imdb,tmdb,D5,qwen2.5-tf-p2,1037.44,80.29,45.60,58.16,1.00,join_examples_dict_1,1116,distilroberta
+imdb,tmdb,D5,llama3.1-ft-p2,1149.89,61.07,55.01,57.88,0.96,join_examples_dict_1,1770,MetaBlocking-Method
+imdb,tmdb,D5,llama3.1-ft-p2,1149.94,75.52,57.76,65.46,0.96,join_examples_dict_1,1503,distilroberta
+imdb,tmdb,D5,llama3.1-tf-p2,1150.17,57.84,67.02,62.09,0.99,join_examples_dict_1,2277,MetaBlocking-Method
+imdb,tmdb,D5,llama3.1-tf-p2,1150.16,75.24,75.78,75.51,0.99,join_examples_dict_1,1979,distilroberta
+imdb,tmdb,D5,orca2-ft-p2,690.25,69.35,20.61,31.78,0.99,join_examples_dict_1,584,MetaBlocking-Method
+imdb,tmdb,D5,orca2-ft-p2,690.25,79.53,20.76,32.93,0.99,join_examples_dict_1,513,distilroberta
+imdb,tmdb,D5,orca2-tf-p2,700.10,68.35,26.16,37.84,0.98,join_examples_dict_1,752,MetaBlocking-Method
+imdb,tmdb,D5,orca2-tf-p2,700.10,78.08,26.11,39.13,0.98,join_examples_dict_1,657,distilroberta
+imdb,tmdb,D5,openhermes-ft-p2,704.18,76.90,43.21,55.33,1.00,join_examples_dict_1,1104,MetaBlocking-Method
+imdb,tmdb,D5,openhermes-ft-p2,704.18,81.05,43.31,56.45,1.00,join_examples_dict_1,1050,distilroberta
+imdb,tmdb,D5,openhermes-tf-p2,703.23,78.69,41.53,54.36,1.00,join_examples_dict_1,1037,MetaBlocking-Method
+imdb,tmdb,D5,openhermes-tf-p2,703.23,81.01,41.48,54.86,1.00,join_examples_dict_1,1006,distilroberta
+imdb,tmdb,D5,zephyr-ft-p2,1265.48,80.00,35.22,48.90,0.52,join_examples_dict_1,865,MetaBlocking-Method
+imdb,tmdb,D5,zephyr-ft-p2,1265.48,81.51,35.22,49.18,0.52,join_examples_dict_1,849,distilroberta
+imdb,tmdb,D5,zephyr-tf-p2,1189.10,75.44,41.12,53.23,0.68,join_examples_dict_1,1071,MetaBlocking-Method
+imdb,tmdb,D5,zephyr-tf-p2,1189.10,79.38,41.53,54.53,0.68,join_examples_dict_1,1028,distilroberta
+imdb,tmdb,D5,gemma3n-ft-p2,2090.64,79.21,71.55,75.19,1.00,join_examples_dict_2,1775,MetaBlocking-Method
+imdb,tmdb,D5,gemma3n-ft-p2,2090.64,83.70,71.60,77.18,1.00,join_examples_dict_2,1681,distilroberta
+imdb,tmdb,D5,gemma3n-tf-p2,2063.19,74.74,58.42,65.58,1.00,join_examples_dict_2,1536,MetaBlocking-Method
+imdb,tmdb,D5,gemma3n-tf-p2,2063.19,79.47,59.29,67.91,1.00,join_examples_dict_2,1466,distilroberta
+imdb,tmdb,D5,qwen2.5-ft-p2,1040.01,78.08,46.77,58.50,1.00,join_examples_dict_2,1177,MetaBlocking-Method
+imdb,tmdb,D5,qwen2.5-ft-p2,1040.01,80.83,46.56,59.09,1.00,join_examples_dict_2,1132,distilroberta
+imdb,tmdb,D5,qwen2.5-tf-p2,1041.86,76.11,48.14,58.98,1.00,join_examples_dict_2,1243,MetaBlocking-Method
+imdb,tmdb,D5,qwen2.5-tf-p2,1041.86,80.34,47.63,59.81,1.00,join_examples_dict_2,1165,distilroberta
+imdb,tmdb,D5,llama3.1-ft-p2,1149.95,67.85,64.12,65.93,0.99,join_examples_dict_2,1857,MetaBlocking-Method
+imdb,tmdb,D5,llama3.1-ft-p2,1149.95,78.94,66.21,72.02,0.99,join_examples_dict_2,1648,distilroberta
+imdb,tmdb,D5,llama3.1-tf-p2,1148.38,60.93,74.91,67.20,1.00,join_examples_dict_2,2416,MetaBlocking-Method
+imdb,tmdb,D5,llama3.1-tf-p2,1148.37,76.78,84.12,80.28,1.00,join_examples_dict_2,2153,distilroberta
+imdb,tmdb,D5,orca2-ft-p2,695.53,73.75,45.90,56.59,1.00,join_examples_dict_2,1223,MetaBlocking-Method
+imdb,tmdb,D5,orca2-ft-p2,695.53,79.56,45.95,58.26,1.00,join_examples_dict_2,1135,distilroberta
+imdb,tmdb,D5,orca2-tf-p2,694.74,72.11,52.37,60.67,1.00,join_examples_dict_2,1427,MetaBlocking-Method
+imdb,tmdb,D5,orca2-tf-p2,694.73,79.60,53.23,63.80,1.00,join_examples_dict_2,1314,distilroberta
+imdb,tmdb,D5,openhermes-ft-p2,708.62,78.08,49.31,60.45,1.00,join_examples_dict_2,1241,MetaBlocking-Method
+imdb,tmdb,D5,openhermes-ft-p2,708.57,80.78,49.41,61.32,1.00,join_examples_dict_2,1202,distilroberta
+imdb,tmdb,D5,openhermes-tf-p2,707.27,78.82,46.41,58.42,1.00,join_examples_dict_2,1157,MetaBlocking-Method
+imdb,tmdb,D5,openhermes-tf-p2,707.27,80.80,46.46,59.00,1.00,join_examples_dict_2,1130,distilroberta
+imdb,tmdb,D5,zephyr-ft-p2,1305.57,78.73,44.07,56.51,0.37,join_examples_dict_2,1100,MetaBlocking-Method
+imdb,tmdb,D5,zephyr-ft-p2,1305.57,81.16,44.27,57.29,0.37,join_examples_dict_2,1072,distilroberta
+imdb,tmdb,D5,zephyr-tf-p2,1062.10,72.85,43.56,54.52,0.65,join_examples_dict_2,1175,MetaBlocking-Method
+imdb,tmdb,D5,zephyr-tf-p2,1062.10,77.12,44.43,56.38,0.65,join_examples_dict_2,1132,distilroberta
+imdb,tmdb,D5,gemma3n-ft-p2 U gemma3n-tf-p2,4453.26,75.00,82.75,78.68,1.00,vector_based_examples_dict_1,2168,MetaBlocking-Method
+imdb,tmdb,D5,gemma3n-ft-p2 U gemma3n-tf-p2,4453.20,83.28,85.90,84.57,1.00,vector_based_examples_dict_1,2027,distilroberta
+imdb,tmdb,D5,gemma3n-ft-p2 ∩ gemma3n-tf-p2,4453.20,77.49,82.70,80.01,1.00,vector_based_examples_dict_1,2097,MetaBlocking-Method
+imdb,tmdb,D5,gemma3n-ft-p2 ∩ gemma3n-tf-p2,4453.20,83.98,84.02,84.00,1.00,vector_based_examples_dict_1,1966,distilroberta
+imdb,tmdb,D5,gemma3n-ft-p2 U gemma3n-tf-p2,4185.36,76.68,75.32,75.99,1.00,vector_based_examples_dict_2,1930,MetaBlocking-Method
+imdb,tmdb,D5,gemma3n-ft-p2 U gemma3n-tf-p2,4185.41,83.75,77.10,80.29,1.00,vector_based_examples_dict_2,1809,distilroberta
+imdb,tmdb,D5,gemma3n-ft-p2 ∩ gemma3n-tf-p2,4185.36,79.05,72.21,75.48,1.00,vector_based_examples_dict_2,1795,MetaBlocking-Method
+imdb,tmdb,D5,gemma3n-ft-p2 ∩ gemma3n-tf-p2,4185.36,83.98,73.38,78.33,1.00,vector_based_examples_dict_2,1717,distilroberta
+imdb,tmdb,D5,gemma3n-ft-p2 U gemma3n-tf-p2,4112.14,78.27,72.21,75.12,1.00,join_examples_dict_1,1813,MetaBlocking-Method
+imdb,tmdb,D5,gemma3n-ft-p2 U gemma3n-tf-p2,4112.14,83.67,73.03,77.99,1.00,join_examples_dict_1,1715,distilroberta
+imdb,tmdb,D5,gemma3n-ft-p2 ∩ gemma3n-tf-p2,4112.13,78.62,58.37,67.00,1.00,join_examples_dict_1,1459,MetaBlocking-Method
+imdb,tmdb,D5,gemma3n-ft-p2 ∩ gemma3n-tf-p2,4112.13,83.12,58.63,68.76,1.00,join_examples_dict_1,1386,distilroberta
+imdb,tmdb,D5,gemma3n-ft-p2 U gemma3n-tf-p2,4153.86,76.19,70.99,73.50,1.00,join_examples_dict_2,1831,MetaBlocking-Method
+imdb,tmdb,D5,gemma3n-ft-p2 U gemma3n-tf-p2,4153.81,81.20,71.65,76.13,1.00,join_examples_dict_2,1734,distilroberta
+imdb,tmdb,D5,gemma3n-ft-p2 ∩ gemma3n-tf-p2,4153.81,78.35,58.93,67.27,1.00,join_examples_dict_2,1478,MetaBlocking-Method
+imdb,tmdb,D5,gemma3n-ft-p2 ∩ gemma3n-tf-p2,4153.80,82.44,59.24,68.94,1.00,join_examples_dict_2,1412,distilroberta
+imdb,tmdb,D5,qwen2.5-ft-p2 U qwen2.5-tf-p2,2095.31,80.40,66.82,72.98,1.00,vector_based_examples_dict_1,1633,MetaBlocking-Method
+imdb,tmdb,D5,qwen2.5-ft-p2 U qwen2.5-tf-p2,2095.31,83.66,66.72,74.24,1.00,vector_based_examples_dict_1,1567,distilroberta
+imdb,tmdb,D5,qwen2.5-ft-p2 ∩ qwen2.5-tf-p2,2095.35,80.18,58.68,67.76,1.00,vector_based_examples_dict_1,1438,MetaBlocking-Method
+imdb,tmdb,D5,qwen2.5-ft-p2 ∩ qwen2.5-tf-p2,2095.30,82.46,57.91,68.04,1.00,vector_based_examples_dict_1,1380,distilroberta
+imdb,tmdb,D5,qwen2.5-ft-p2 U qwen2.5-tf-p2,2080.24,77.37,51.50,61.84,1.00,vector_based_examples_dict_2,1308,MetaBlocking-Method
+imdb,tmdb,D5,qwen2.5-ft-p2 U qwen2.5-tf-p2,2080.24,82.06,51.20,63.05,1.00,vector_based_examples_dict_2,1226,distilroberta
+imdb,tmdb,D5,qwen2.5-ft-p2 ∩ qwen2.5-tf-p2,2080.24,77.50,46.46,58.10,1.00,vector_based_examples_dict_2,1178,MetaBlocking-Method
+imdb,tmdb,D5,qwen2.5-ft-p2 ∩ qwen2.5-tf-p2,2080.24,81.30,46.46,59.13,1.00,vector_based_examples_dict_2,1123,distilroberta
+imdb,tmdb,D5,qwen2.5-ft-p2 U qwen2.5-tf-p2,2073.69,76.96,47.07,58.41,1.00,join_examples_dict_1,1202,MetaBlocking-Method
+imdb,tmdb,D5,qwen2.5-ft-p2 U qwen2.5-tf-p2,2073.69,80.52,46.92,59.29,1.00,join_examples_dict_1,1145,distilroberta
+imdb,tmdb,D5,qwen2.5-ft-p2 ∩ qwen2.5-tf-p2,2073.69,78.07,44.94,57.04,1.00,join_examples_dict_1,1131,MetaBlocking-Method
+imdb,tmdb,D5,qwen2.5-ft-p2 ∩ qwen2.5-tf-p2,2073.69,80.86,44.94,57.77,1.00,join_examples_dict_1,1092,distilroberta
+imdb,tmdb,D5,qwen2.5-ft-p2 U qwen2.5-tf-p2,2081.86,76.10,48.30,59.09,1.00,join_examples_dict_2,1247,MetaBlocking-Method
+imdb,tmdb,D5,qwen2.5-ft-p2 U qwen2.5-tf-p2,2081.86,80.41,47.84,59.99,1.00,join_examples_dict_2,1169,distilroberta
+imdb,tmdb,D5,qwen2.5-ft-p2 ∩ qwen2.5-tf-p2,2081.86,78.16,46.62,58.40,1.00,join_examples_dict_2,1172,MetaBlocking-Method
+imdb,tmdb,D5,qwen2.5-ft-p2 ∩ qwen2.5-tf-p2,2081.86,80.76,46.36,58.91,1.00,join_examples_dict_2,1128,distilroberta
+imdb,tmdb,D5,llama3.1-ft-p2 U llama3.1-tf-p2,2308.84,57.18,75.62,65.12,0.99,vector_based_examples_dict_1,2599,MetaBlocking-Method
+imdb,tmdb,D5,llama3.1-ft-p2 U llama3.1-tf-p2,2308.89,75.07,87.02,80.60,0.99,vector_based_examples_dict_1,2278,distilroberta
+imdb,tmdb,D5,llama3.1-ft-p2 ∩ llama3.1-tf-p2,2308.84,61.90,74.66,67.68,0.99,vector_based_examples_dict_1,2370,MetaBlocking-Method
+imdb,tmdb,D5,llama3.1-ft-p2 ∩ llama3.1-tf-p2,2308.83,78.19,82.29,80.19,0.99,vector_based_examples_dict_1,2068,distilroberta
+imdb,tmdb,D5,llama3.1-ft-p2 U llama3.1-tf-p2,2298.17,60.88,76.74,67.90,1.00,vector_based_examples_dict_2,2477,MetaBlocking-Method
+imdb,tmdb,D5,llama3.1-ft-p2 U llama3.1-tf-p2,2298.22,77.12,86.62,81.59,1.00,vector_based_examples_dict_2,2207,distilroberta
+imdb,tmdb,D5,llama3.1-ft-p2 ∩ llama3.1-tf-p2,2298.16,69.09,65.75,67.38,1.00,vector_based_examples_dict_2,1870,MetaBlocking-Method
+imdb,tmdb,D5,llama3.1-ft-p2 ∩ llama3.1-tf-p2,2298.16,81.04,69.16,74.63,1.00,vector_based_examples_dict_2,1677,distilroberta
+imdb,tmdb,D5,llama3.1-ft-p2 U llama3.1-tf-p2,2300.04,58.36,71.91,64.43,0.97,join_examples_dict_1,2421,MetaBlocking-Method
+imdb,tmdb,D5,llama3.1-ft-p2 U llama3.1-tf-p2,2300.03,75.55,81.63,78.47,0.97,join_examples_dict_1,2123,distilroberta
+imdb,tmdb,D5,llama3.1-ft-p2 ∩ llama3.1-tf-p2,2300.08,62.88,49.82,55.59,0.97,join_examples_dict_1,1557,MetaBlocking-Method
+imdb,tmdb,D5,llama3.1-ft-p2 ∩ llama3.1-tf-p2,2300.02,76.37,51.81,61.73,0.97,join_examples_dict_1,1333,distilroberta
+imdb,tmdb,D5,llama3.1-ft-p2 U llama3.1-tf-p2,2298.31,60.99,76.23,67.77,0.99,join_examples_dict_2,2456,MetaBlocking-Method
+imdb,tmdb,D5,llama3.1-ft-p2 U llama3.1-tf-p2,2298.30,76.70,85.75,80.97,0.99,join_examples_dict_2,2197,distilroberta
+imdb,tmdb,D5,llama3.1-ft-p2 ∩ llama3.1-tf-p2,2298.30,68.67,62.80,65.60,0.99,join_examples_dict_2,1797,MetaBlocking-Method
+imdb,tmdb,D5,llama3.1-ft-p2 ∩ llama3.1-tf-p2,2298.30,79.45,64.53,71.22,0.99,join_examples_dict_2,1596,distilroberta
+imdb,tmdb,D5,orca2-ft-p2 U orca2-tf-p2,1405.02,68.83,51.35,58.82,1.00,vector_based_examples_dict_1,1466,MetaBlocking-Method
+imdb,tmdb,D5,orca2-ft-p2 U orca2-tf-p2,1405.01,80.22,52.21,63.26,1.00,vector_based_examples_dict_1,1279,distilroberta
+imdb,tmdb,D5,orca2-ft-p2 ∩ orca2-tf-p2,1405.01,69.46,25.34,37.14,1.00,vector_based_examples_dict_1,717,MetaBlocking-Method
+imdb,tmdb,D5,orca2-ft-p2 ∩ orca2-tf-p2,1405.01,79.71,25.39,38.52,1.00,vector_based_examples_dict_1,626,distilroberta
+imdb,tmdb,D5,orca2-ft-p2 U orca2-tf-p2,1395.93,72.47,42.34,53.45,1.00,vector_based_examples_dict_2,1148,MetaBlocking-Method
+imdb,tmdb,D5,orca2-ft-p2 U orca2-tf-p2,1395.93,81.12,42.85,56.08,1.00,vector_based_examples_dict_2,1038,distilroberta
+imdb,tmdb,D5,orca2-ft-p2 ∩ orca2-tf-p2,1395.92,68.62,15.47,25.25,1.00,vector_based_examples_dict_2,443,MetaBlocking-Method
+imdb,tmdb,D5,orca2-ft-p2 ∩ orca2-tf-p2,1395.92,76.24,14.86,24.87,1.00,vector_based_examples_dict_2,383,distilroberta
+imdb,tmdb,D5,orca2-ft-p2 U orca2-tf-p2,1390.34,69.22,32.62,44.34,0.98,join_examples_dict_1,926,MetaBlocking-Method
+imdb,tmdb,D5,orca2-ft-p2 U orca2-tf-p2,1390.34,79.19,32.93,46.51,0.98,join_examples_dict_1,817,distilroberta
+imdb,tmdb,D5,orca2-ft-p2 ∩ orca2-tf-p2,1390.33,69.52,14.05,23.37,0.98,join_examples_dict_1,397,MetaBlocking-Method
+imdb,tmdb,D5,orca2-ft-p2 ∩ orca2-tf-p2,1390.33,79.77,13.84,23.59,0.98,join_examples_dict_1,341,distilroberta
+imdb,tmdb,D5,orca2-ft-p2 U orca2-tf-p2,1390.26,70.62,54.30,61.39,1.00,join_examples_dict_2,1511,MetaBlocking-Method
+imdb,tmdb,D5,orca2-ft-p2 U orca2-tf-p2,1390.25,78.83,55.52,65.15,1.00,join_examples_dict_2,1384,distilroberta
+imdb,tmdb,D5,orca2-ft-p2 ∩ orca2-tf-p2,1390.25,76.56,43.72,55.65,1.00,join_examples_dict_2,1122,MetaBlocking-Method
+imdb,tmdb,D5,orca2-ft-p2 ∩ orca2-tf-p2,1390.25,80.79,43.66,56.69,1.00,join_examples_dict_2,1062,distilroberta
+imdb,tmdb,D5,openhermes-ft-p2 U openhermes-tf-p2,1429.92,69.91,75.32,72.51,1.00,vector_based_examples_dict_1,2117,MetaBlocking-Method
+imdb,tmdb,D5,openhermes-ft-p2 U openhermes-tf-p2,1429.92,80.02,78.88,79.45,1.00,vector_based_examples_dict_1,1937,distilroberta
+imdb,tmdb,D5,openhermes-ft-p2 ∩ openhermes-tf-p2,1429.92,74.98,56.90,64.70,1.00,vector_based_examples_dict_1,1491,MetaBlocking-Method
+imdb,tmdb,D5,openhermes-ft-p2 ∩ openhermes-tf-p2,1429.96,80.98,57.20,67.04,1.00,vector_based_examples_dict_1,1388,distilroberta
+imdb,tmdb,D5,openhermes-ft-p2 U openhermes-tf-p2,1421.46,75.56,51.30,61.11,1.00,vector_based_examples_dict_2,1334,MetaBlocking-Method
+imdb,tmdb,D5,openhermes-ft-p2 U openhermes-tf-p2,1421.46,79.64,51.15,62.29,1.00,vector_based_examples_dict_2,1262,distilroberta
+imdb,tmdb,D5,openhermes-ft-p2 ∩ openhermes-tf-p2,1421.46,79.90,39.64,52.99,1.00,vector_based_examples_dict_2,975,MetaBlocking-Method
+imdb,tmdb,D5,openhermes-ft-p2 ∩ openhermes-tf-p2,1421.46,80.98,39.44,53.05,1.00,vector_based_examples_dict_2,957,distilroberta
+imdb,tmdb,D5,openhermes-ft-p2 U openhermes-tf-p2,1407.40,76.95,49.11,59.96,1.00,join_examples_dict_1,1254,MetaBlocking-Method
+imdb,tmdb,D5,openhermes-ft-p2 U openhermes-tf-p2,1407.40,81.09,49.11,61.17,1.00,join_examples_dict_1,1190,distilroberta
+imdb,tmdb,D5,openhermes-ft-p2 ∩ openhermes-tf-p2,1407.40,80.30,35.67,49.40,1.00,join_examples_dict_1,873,MetaBlocking-Method
+imdb,tmdb,D5,openhermes-ft-p2 ∩ openhermes-tf-p2,1407.40,81.49,35.62,49.58,1.00,join_examples_dict_1,859,distilroberta
+imdb,tmdb,D5,openhermes-ft-p2 U openhermes-tf-p2,1415.88,77.44,52.57,62.63,1.00,join_examples_dict_2,1334,MetaBlocking-Method
+imdb,tmdb,D5,openhermes-ft-p2 U openhermes-tf-p2,1415.83,80.84,52.82,63.90,1.00,join_examples_dict_2,1284,distilroberta
+imdb,tmdb,D5,openhermes-ft-p2 ∩ openhermes-tf-p2,1415.83,80.08,43.16,56.08,1.00,join_examples_dict_2,1059,MetaBlocking-Method
+imdb,tmdb,D5,openhermes-ft-p2 ∩ openhermes-tf-p2,1415.83,80.80,43.05,56.18,1.00,join_examples_dict_2,1047,distilroberta
+imdb,tmdb,D5,zephyr-ft-p2 U zephyr-tf-p2,2486.61,74.93,53.08,62.14,0.38,vector_based_examples_dict_1,1392,MetaBlocking-Method
+imdb,tmdb,D5,zephyr-ft-p2 U zephyr-tf-p2,2486.61,79.71,53.59,64.09,0.38,vector_based_examples_dict_1,1321,distilroberta
+imdb,tmdb,D5,zephyr-ft-p2 ∩ zephyr-tf-p2,2486.61,79.84,44.94,57.51,0.38,vector_based_examples_dict_1,1106,MetaBlocking-Method
+imdb,tmdb,D5,zephyr-ft-p2 ∩ zephyr-tf-p2,2486.61,81.07,44.89,57.78,0.38,vector_based_examples_dict_1,1088,distilroberta
+imdb,tmdb,D5,zephyr-ft-p2 U zephyr-tf-p2,2122.60,74.96,45.70,56.78,0.67,vector_based_examples_dict_2,1198,MetaBlocking-Method
+imdb,tmdb,D5,zephyr-ft-p2 U zephyr-tf-p2,2122.65,79.55,46.31,58.54,0.67,vector_based_examples_dict_2,1144,distilroberta
+imdb,tmdb,D5,zephyr-ft-p2 ∩ zephyr-tf-p2,2122.60,81.59,36.08,50.04,0.67,vector_based_examples_dict_2,869,MetaBlocking-Method
+imdb,tmdb,D5,zephyr-ft-p2 ∩ zephyr-tf-p2,2122.60,82.16,36.08,50.14,0.67,vector_based_examples_dict_2,863,distilroberta
+imdb,tmdb,D5,zephyr-ft-p2 U zephyr-tf-p2,2454.57,75.00,42.14,53.96,0.60,join_examples_dict_1,1104,MetaBlocking-Method
+imdb,tmdb,D5,zephyr-ft-p2 U zephyr-tf-p2,2454.57,79.34,42.60,55.43,0.60,join_examples_dict_1,1055,distilroberta
+imdb,tmdb,D5,zephyr-ft-p2 ∩ zephyr-tf-p2,2454.57,81.14,34.15,48.07,0.60,join_examples_dict_1,827,MetaBlocking-Method
+imdb,tmdb,D5,zephyr-ft-p2 ∩ zephyr-tf-p2,2454.57,81.73,34.15,48.17,0.60,join_examples_dict_1,821,distilroberta
+imdb,tmdb,D5,zephyr-ft-p2 U zephyr-tf-p2,2367.66,72.09,44.17,54.78,0.51,join_examples_dict_2,1204,MetaBlocking-Method
+imdb,tmdb,D5,zephyr-ft-p2 U zephyr-tf-p2,2367.66,77.09,45.04,56.86,0.51,join_examples_dict_2,1148,distilroberta
+imdb,tmdb,D5,zephyr-ft-p2 ∩ zephyr-tf-p2,2367.66,79.74,43.46,56.26,0.51,join_examples_dict_2,1071,MetaBlocking-Method
+imdb,tmdb,D5,zephyr-ft-p2 ∩ zephyr-tf-p2,2367.66,81.25,43.66,56.80,0.51,join_examples_dict_2,1056,distilroberta
