@@ -26,14 +26,15 @@ def _load_dataset(blocking_type, dir_):
 
     dt1_df.rename(columns={dt1_df.columns[1]: 'title', dt1_df.columns[2]: 'name'}, inplace=True)
     dt2_df.rename(columns={dt2_df.columns[1]: 'title', dt2_df.columns[2]: 'name'}, inplace=True)
+    dt1_df.fillna('', inplace=True)
+    dt2_df.fillna('', inplace=True)
 
+    # dt1_df['title'] = dt1_df['title'].fillna('')
+    # dt1_df['name'] = dt1_df['name'].fillna('')
 
-    dt1_df['title'] = dt1_df['title'].fillna('')
-    dt1_df['name'] = dt1_df['name'].fillna('')
-
-    dt2_df['title'] = dt2_df['title'].fillna('')
-    dt2_df['name'] = dt2_df['name'].fillna('')
-
+    # dt2_df['title'] = dt2_df['title'].fillna('')
+    # dt2_df['name'] = dt2_df['name'].fillna('')
+    #
 
     print(dt1_df[['title','name']].head(10))
 
@@ -56,11 +57,19 @@ def _create_model(llm, ll, prompt, suffix,
         true_example = []
         false_example = []
         for pair in examples_dict[dir_]:
-            r1  = f"Title: {dt1_df.at[dt1_ids[pair[0]], 'title']}, \
-            Associated Name: {dt1_df.at[dt1_ids[pair[0]], 'name']}"
 
-            r2 = f"Title: {dt2_df.at[dt2_ids[pair[1]], 'title']}, \
-            Associated Name: {dt2_df.at[dt2_ids[pair[1]], 'name']}"
+            r1_row = dt1_df.iloc[dt1_ids[pair[0]]].drop('title')
+            r2_row = dt2_df.iloc[dt2_ids[pair[1]]].drop('title')
+
+
+            r1 = " ".join(r1_row.astype(str).values)
+            r2 = " ".join(r2_row.astype(str).values)
+            #
+            # r1  = f"Title: {dt1_df.at[dt1_ids[pair[0]], 'title']}, \
+            # Associated Name: {dt1_df.at[dt1_ids[pair[0]], 'name']}"
+            #
+            # r2 = f"Title: {dt2_df.at[dt2_ids[pair[1]], 'title']}, \
+            # Associated Name: {dt2_df.at[dt2_ids[pair[1]], 'name']}"
 
             if true_flag:
                 true_example.append(f"record 1: {r1}\nrecord 2: {r2}\nAnswer: {true_flag}.")

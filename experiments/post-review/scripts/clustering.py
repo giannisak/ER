@@ -10,9 +10,9 @@ from gpt_utils import _load_dataset, _get_responses_df
 if  __name__ == '__main__':
 
 
-    BLOCKING_TYPE = 'standard_blocking'
-    DIR = 'D8'
-    POST_REVIEW_EXP = "gpt"
+    BLOCKING_TYPE = 'original'
+    DIR = 'D5'
+    POST_REVIEW_EXP = "movies"
     dt1_df, dt2_df, cp_df, gt_df, clean_files = _load_dataset(BLOCKING_TYPE, DIR)
     wef = {
         'original':{
@@ -35,7 +35,7 @@ if  __name__ == '__main__':
         
     RESULTS = f'post-review/results/{POST_REVIEW_EXP}/{BLOCKING_TYPE}/{DIR}.csv'
     for responses_df, responses_path, row in tqdm(_get_responses_df(RESULTS, BLOCKING_TYPE, DIR),
-                                                  total=17, desc='Responses Remaining'):
+                                                  total=102, desc='Responses Remaining'):
         for weight in ['weight','s-weight']:
             tmp_df = responses_df[['D1','D2', 'responses', weight]].copy()
             clust_df = tmp_df[tmp_df['responses']]

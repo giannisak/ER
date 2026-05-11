@@ -9,12 +9,17 @@ from examples import examples_dict_list as original_examples
 if  __name__ == '__main__':
 
     BLOCKING_TYPE = "standard_blocking"
-    DIR = "D8"
+    DIR = "D5"
     LLMs = [
-        "gpt-5.4",
+        "gemma3n",
+        "qwen2.5",
+        "llama3.1",
+        "orca2",
+        "openhermes",
+        "zephyr"
     ]
 
-    RESULTS = f'post-review/results/gpt/{BLOCKING_TYPE}'
+    RESULTS = f'post-review/results/movies/{BLOCKING_TYPE}'
     PROMPT = 'p2'
 
     UNION_SYM = "U"

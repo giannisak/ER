@@ -19,7 +19,7 @@ from examples import examples_dict_list as original_examples
 
 if __name__ == "__main__":
 
-    BLOCKING_TYPE = "standard_blocking"
+    BLOCKING_TYPE = "original"
     DIR = "D5"
 
     llms = [
@@ -96,13 +96,18 @@ if __name__ == "__main__":
                         dt2_id = pair[1]
 
 
-                        r1 = f"Title: {dt1_df.at[dt1_ids[dt1_id], 'title']}, \
-                        Associated Name: {dt1_df.at[dt1_ids[dt1_id], 'name']}"
-                        r2 = f"Title: {dt2_df.at[dt2_ids[dt2_id], 'title']}, \
-                        Associated Name: {dt2_df.at[dt2_ids[dt2_id], 'name']}"
+                        r1_row = dt1_df.iloc[dt1_ids[dt1_id]].drop('title')
+                        r2_row = dt2_df.iloc[dt2_ids[dt2_id]].drop('title')
+
+                        r1 = " ".join(r1_row.astype(str).values)
+                        r2 = " ".join(r2_row.astype(str).values)
+                        #
+                        # r1 = f"Title: {dt1_df.at[dt1_ids[dt1_id], 'title']}, \
+                        # Associated Name: {dt1_df.at[dt1_ids[dt1_id], 'name']}"
+                        # r2 = f"Title: {dt2_df.at[dt2_ids[dt2_id], 'title']}, \
+                        # Associated Name: {dt2_df.at[dt2_ids[dt2_id], 'name']}"
 
                         query = f"record 1: {r1}, record 2: {r2}. Answer with True. or False."
-
                         resp = ollama.chat(
                             model = LLM,
                             messages = [{'role': 'user', 'content': query}],

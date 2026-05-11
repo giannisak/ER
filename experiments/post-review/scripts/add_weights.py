@@ -4,9 +4,9 @@ from gpt_utils import (_load_dataset,
 
 
 if __name__ == '__main__':
-    BLOCKING_TYPE = 'standard_blocking'
-    DIR = 'D8'
-    POST_REVIEW_EXP = "gpt"
+    BLOCKING_TYPE = 'original'
+    DIR = 'D5'
+    POST_REVIEW_EXP = "movies"
     dt1_df, dt2_df, cp_df, gt_df, clean_files = _load_dataset(BLOCKING_TYPE, DIR)
 
 
